@@ -1,4 +1,18 @@
 name	artists	album	cover	href	added_at
+舞花〜my flower〜	竹渕 慶	KEI's 8	https://i.scdn.co/image/ab67616d0000b273a90968f4d93ba47bc6d2e1ab	https://api.spotify.com/v1/tracks/7siAcPgOvG4RrWvVVZj0Jc	2022-11-04T14:54:56Z
+Planetarium	Greyl	Eisei Ep	https://i.scdn.co/image/ab67616d0000b273404888ef77368f4a6fc12d04	https://api.spotify.com/v1/tracks/7w4S8aDpxE5xaiEZIwB9DB	2022-11-04T14:54:35Z
+高気圧ガール - Cover	Junk Fujiyama	高気圧ガール (Cover)	https://i.scdn.co/image/ab67616d0000b2737b70996089b6cd5f5fa71cb4	https://api.spotify.com/v1/tracks/4Sn8siHSqoJ9BbYnidONP8	2022-11-04T14:53:09Z
+あの空の向こうがわへ	Junk Fujiyama	あの空の向こうがわへ	https://i.scdn.co/image/ab67616d0000b273d30aaa2efa9879c5cc93cb3d	https://api.spotify.com/v1/tracks/1LMuJryebLMtKK0bPYKdED	2022-11-04T14:52:44Z
+星屑のパイプライン	Junk Fujiyama	風街ドライヴ ~THE BEST OF JUNK FUJIYAMA~	https://i.scdn.co/image/ab67616d0000b273def82157df62b9e7391a76e7	https://api.spotify.com/v1/tracks/7qD26yAYdutde8QSgXXfZP	2022-11-04T14:52:18Z
+そばに	LAYRUS LOOP	そばに	https://i.scdn.co/image/ab67616d0000b273ddf99d3f931707f1750f740d	https://api.spotify.com/v1/tracks/6pRKpwacBjs2VzykezYiPV	2022-11-04T14:51:30Z
+夢で逢わせて	amanojac	夢で逢わせて	https://i.scdn.co/image/ab67616d0000b273e0f4870c50c4edc5f53e638d	https://api.spotify.com/v1/tracks/1MuYQw9xYG9VxtjDqHjEI0	2022-11-04T14:50:42Z
+Look Back in Anger	TsuShiMaMiRe	Look Back in Anger	https://i.scdn.co/image/ab67616d0000b273e145bf641b430a1946dc34d7	https://api.spotify.com/v1/tracks/7wMDLzxtaAcshebbQsacFn	2022-11-04T14:50:16Z
+東京宣言	Tele	東京宣言	https://i.scdn.co/image/ab67616d0000b2734f1558d0e574b8481215c550	https://api.spotify.com/v1/tracks/4UJ6oEkjMSHNXaN3HHnQis	2022-11-04T14:47:44Z
+My Vision	YUKI	Bump & Grind	https://i.scdn.co/image/ab67616d0000b273d7718efb29cc1f00a6ce18d2	https://api.spotify.com/v1/tracks/7y7RZol3cLs85hO9GtCo9P	2022-11-04T14:47:16Z
+初恋	Sakurako Ohara	初恋	https://i.scdn.co/image/ab67616d0000b273676265ba6c477b17817084d9	https://api.spotify.com/v1/tracks/7xOB5iOSHNsTyRAkW8T3xa	2022-11-04T14:46:26Z
+Strawberry Margarita	ELLEGARDEN	Strawberry Margarita	https://i.scdn.co/image/ab67616d0000b27373fb9daf6a10a77687171eca	https://api.spotify.com/v1/tracks/6TsRIgK1wGPQDy5dsv36AF	2022-11-04T14:46:15Z
+ゲームオーバー	Kaneyorimasaru	ゲームオーバー	https://i.scdn.co/image/ab67616d0000b27383d7d98920f2a9f452ef8fb1	https://api.spotify.com/v1/tracks/6Ht0WEBCr04XNgqz6cEsTk	2022-11-04T14:45:23Z
+Wish	Mika Nakashima	Wish	https://i.scdn.co/image/ab67616d0000b27353b362a3674d13a9eee0653c	https://api.spotify.com/v1/tracks/6FKD84N4mVnqIYRruFnnoe	2022-11-02T19:36:30Z
 PRESENT - Japanese ver.	Mrs. GREEN APPLE	5	https://i.scdn.co/image/ab67616d0000b2737788b408c91aef40e626df44	https://api.spotify.com/v1/tracks/3Tv6eV6SanuShBI2uHCBtz	2022-10-30T22:10:57Z
 きらり	Fujii Kaze	Kirari Remixes (Asia Edition)	https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4	https://api.spotify.com/v1/tracks/51oc6MEsXTpnPn6GOw5VuP	2022-10-30T22:08:22Z
 ON	EOW	SWITCH	https://i.scdn.co/image/ab67616d0000b2731758426ea7bd9c3f5d058ff0	https://api.spotify.com/v1/tracks/1rUBgfKs07xtbnnXpYHrZc	2022-10-30T21:58:27Z
@@ -848,8 +862,8 @@ STEP TO THE NEW WORLD	SOULHEAD	Oh My Sister	https://i.scdn.co/image/ab67616d0000
 Dear Friends	SOULHEAD	Dear Friends	https://i.scdn.co/image/ab67616d0000b2733b37fe13b3b600b48f9a7433	https://api.spotify.com/v1/tracks/3ZL3lip33fZbsxbCkWvr0K	2021-01-17T11:07:13Z
 青いイナズマ LIVE	Kenji Hayashida	今夜は BEST 2000	https://i.scdn.co/image/ab67616d0000b273565b180c4c0f4765ad44f496	https://api.spotify.com/v1/tracks/7ERT8O69VuPVCo8kt6ze6m	2021-01-17T11:06:45Z
 花色の美少女	SAKANAMON	花色の美少女	https://i.scdn.co/image/ab67616d0000b273bdc492720a0e623c5547876d	https://api.spotify.com/v1/tracks/0YraXr26QEKoVwlLhDmY7G	2021-01-17T11:05:34Z
-MOON	REBECCA	REBECCA SINGLES	https://i.scdn.co/image/ab67616d0000b2734b781b3dc6a1456ad6698169	https://api.spotify.com/v1/tracks/5l4ahEh7uyOwrvsm9YFoeC	2021-01-17T11:03:20Z
 フレンズ	REBECCA	REBECCA SINGLES	https://i.scdn.co/image/ab67616d0000b2734b781b3dc6a1456ad6698169	https://api.spotify.com/v1/tracks/5lAW7Y56kL1r3dD6bAI49y	2021-01-17T11:03:20Z
+MOON	REBECCA	REBECCA SINGLES	https://i.scdn.co/image/ab67616d0000b2734b781b3dc6a1456ad6698169	https://api.spotify.com/v1/tracks/5l4ahEh7uyOwrvsm9YFoeC	2021-01-17T11:03:20Z
 ミッドナイト清純異性交遊	Seiko Oomori	絶対少女	https://i.scdn.co/image/ab67616d0000b2739c84b327c9d7bd933350026b	https://api.spotify.com/v1/tracks/6wn4Ri9YkV4jQDeoayPkF7	2021-01-17T11:01:26Z
 ごめんね、いいコじゃいられない。	Miku Sawai	憂鬱日和。	https://i.scdn.co/image/ab67616d0000b273f15e73095a9afd79d7daa9b0	https://api.spotify.com/v1/tracks/3lQCsg0VaUkUYRhIK8JFY0	2021-01-17T10:59:43Z
 東京 et 巴里	大川茂伸	東京 et 巴里	https://i.scdn.co/image/ab67616d0000b27312b306bd02da34b422036c06	https://api.spotify.com/v1/tracks/7L0qWLpwpmEk1NgbTiE7E1	2021-01-17T10:58:32Z
@@ -1283,17 +1297,17 @@ Kisaragi Attention	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7
 Mekakushi Code	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/0lbF71UnYd0lkNP0uaCPs9	2015-07-14T11:14:00Z
 Konoha No Sekai Jijou	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4UfTBGJzlkJTZ81Alptgm8	2015-07-14T11:14:00Z
 Shinigami Record	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4aqHMjLQ1khyeWxkiJsKlS	2015-07-14T11:14:00Z
+乙女心 Hey Hey Hey	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/07Moiorn7JwFBR7IMJines	2015-07-13T08:06:07Z
+マイミステイク	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/0L0snIGtsfSL8LnLaFtTtQ	2015-07-13T08:06:07Z
 青春に、その涙が必要だ!	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/2beUXjZ8A3x7wdo1pEa1qa	2015-07-13T08:06:07Z
 I do it	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6oUsnhgfZkdbp3331MoSVR	2015-07-13T08:06:07Z
 木漏れ日のジャーニー	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6KaMqFY3j3QlM28lc5SOwX	2015-07-13T08:06:07Z
 泪のムコウ	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/4UqCpvmOL8FiohnarAoRRx	2015-07-13T08:06:07Z
-乙女心 Hey Hey Hey	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/07Moiorn7JwFBR7IMJines	2015-07-13T08:06:07Z
 泣かないで	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/1d6AYVua3fi4GjGXXDFEWi	2015-07-13T08:06:07Z
 effective line	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/7xnM4TXgadGc63crGUErNv	2015-07-13T08:06:07Z
 スウィート・ブルー	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/53JmjqfYnbB1CTegLw97Et	2015-07-13T08:06:07Z
 都会ノ森	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/0yoVdDx0Byn2cv5WI7P72F	2015-07-13T08:06:07Z
 幸せの丘で暮らしたい	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/2O9uVl1HJGCOuwDbhXISqV	2015-07-13T08:06:07Z
-マイミステイク	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/0L0snIGtsfSL8LnLaFtTtQ	2015-07-13T08:06:07Z
 ヒトヒラのハナビラ	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6B2QRrVCFaWSwLi2lEtCD6	2015-07-13T08:06:07Z
 青空 Very good days!!	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/2P9QItKo0gHRQMCRHktEtK	2015-07-13T08:06:07Z
 Light My Fire	KOTOKO	Light My Fire	https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2	https://api.spotify.com/v1/tracks/4lvxofi0SOziS2NaQAfHLS	2015-07-12T19:59:19Z
