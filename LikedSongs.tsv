@@ -1,4 +1,11 @@
 name	artists	album	cover	href	added_at
+ロンリープラネット	Usotsuki	ロンリープラネット	https://i.scdn.co/image/ab67616d0000b273b4a6ef422cff3f295dc80ddb	https://api.spotify.com/v1/tracks/5MdVsN1CNlsrUzG7WhIq6I	2022-11-12T23:01:45Z
+アーモンド - feat. りりあ。	Ohashi Trio	アーモンド (feat. りりあ。)	https://i.scdn.co/image/ab67616d0000b27348326569c41e2de6ceb8fb9c	https://api.spotify.com/v1/tracks/5j3gYRcISt5cbd6VFLBXOv	2022-11-12T23:01:37Z
+新星	yama	色彩	https://i.scdn.co/image/ab67616d0000b27314849f3b83757735f52785d8	https://api.spotify.com/v1/tracks/4dwRjaD0ttkelpv5eoE6RT	2022-11-12T22:58:51Z
+私は最強	Mrs. GREEN APPLE	Soranji	https://i.scdn.co/image/ab67616d0000b273394f3c1d90214a5ddfc20457	https://api.spotify.com/v1/tracks/0tJ6d01rh2gTbpFlY1mYJZ	2022-11-12T22:57:50Z
+僕が一番欲しかったもの	Noriyuki Makihara	EXPLORER	https://i.scdn.co/image/ab67616d0000b27347f8840f6510f923a6706ccd	https://api.spotify.com/v1/tracks/0lgZz4x4QuTo3nEl5uoVJl	2022-11-12T22:56:11Z
+ないものねだり	Chunky Cookie Club	Popcorn	https://i.scdn.co/image/ab67616d0000b27300b247026de3b2a544a125e2	https://api.spotify.com/v1/tracks/5JJOQwB0DEN3U7z1uQKxjp	2022-11-11T20:04:43Z
+ないものねだり	Kumoi	ないものねだり	https://i.scdn.co/image/ab67616d0000b273437aac806d9b64b8689706c9	https://api.spotify.com/v1/tracks/5vjnTfKqM0NYdozaByhGIo	2022-11-11T20:04:42Z
 ラリパッパ☆しゅぎ	莉犬	シャッターチャンス!	https://i.scdn.co/image/ab67616d0000b273525ef8060c39f025cfd2e97a	https://api.spotify.com/v1/tracks/2aUQsJ7RRnl1q3h8uFBRQY	2022-11-09T20:32:18Z
 Popipo	Hatsune Miku	Popipo	https://i.scdn.co/image/ab67616d0000b2739d3a80d132ba4bb428c74473	https://api.spotify.com/v1/tracks/04nJixim5a0MAz3PGiVID1	2022-11-09T20:31:33Z
 YY	ロイ-RöE-	YY	https://i.scdn.co/image/ab67616d0000b273192ca62200efa1373ac0885f	https://api.spotify.com/v1/tracks/25GkD4iNf00xQqvAv8hXAg	2022-11-09T19:35:19Z
@@ -502,7 +509,7 @@ Rainbow -acoustic ver.-	ROUND TABLE featuring Nino	「ARIA The ANIMATION」オ�
 フラッグを立てろ	YUKI	フラッグを立てろ	https://i.scdn.co/image/ab67616d0000b2731d2588d44dec5a60594a6aed	https://api.spotify.com/v1/tracks/1D4deoqHs8nQ4oS08IdXI8	2022-05-07T20:29:15Z
 YAMERO!	Heiakim	YAMERO!	https://i.scdn.co/image/ab67616d0000b273d993265716ed87cc4170561d	https://api.spotify.com/v1/tracks/4V1KMOjTOyK9ApKRQVPlny	2022-05-07T20:27:34Z
 Cast List	3000m	Super Mario World (Original Game Soundtrack)	https://i.scdn.co/image/ab67616d0000b273169ac28367359afa08dbd7cc	https://api.spotify.com/v1/tracks/759BLSj7kJRQkGknTl9N0Y	2022-05-07T20:15:32Z
-ワタシ	ハク。	ワタシ	https://i.scdn.co/image/ab67616d0000b273c9a72960173d560d3fc08ec2	https://api.spotify.com/v1/tracks/6ruZeCdbMnn7n5tyeaPiaW	2022-05-06T11:52:55Z
+ワタシ	Haku.	ワタシ	https://i.scdn.co/image/ab67616d0000b273c9a72960173d560d3fc08ec2	https://api.spotify.com/v1/tracks/6ruZeCdbMnn7n5tyeaPiaW	2022-05-06T11:52:55Z
 エイリアンセックスフレンド	FINAL SPANK HAPPY	mint exorcist	https://i.scdn.co/image/ab67616d0000b27326262dc1f4f0be2b1086fa81	https://api.spotify.com/v1/tracks/4cCGSF0tf7WgmxEo34CbVW	2022-05-06T11:43:26Z
 独りうた ~September調子はどうだい~	うじたまい	独りうた ~September調子はどうだい~	https://i.scdn.co/image/ab67616d0000b273a255342d443c43cd270ceefd	https://api.spotify.com/v1/tracks/3kCJXH7uFaaggkCOL5dlQl	2022-05-05T07:37:59Z
 MYSTERION	Momoiro Clover Z	MYSTERION	https://i.scdn.co/image/ab67616d0000b273e32ed8a9b2ed1e5d1138eeac	https://api.spotify.com/v1/tracks/47e3IIqqC5FbSp23Ij685X	2022-04-29T09:48:14Z
@@ -1395,15 +1402,15 @@ Candy or Chocolate?	KOTOKO	Light My Fire	https://i.scdn.co/image/ab67616d0000b27
 Candy or Chocolate? - Instrumental	KOTOKO	Light My Fire	https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2	https://api.spotify.com/v1/tracks/6kUhjs5MY2Epc6a1RyJI43	2015-07-24T22:29:36Z
 Magic of Love(Album-mix) - Album-Mix	Perfume	LEVEL3	https://i.scdn.co/image/ab67616d0000b273a479a10fffbeb7a57457934f	https://api.spotify.com/v1/tracks/5NL7PJHssictdXxVAhFv3N	2015-07-15T19:08:18Z
 PERMANENT REVOLUTION	World Order	WORLD ORDER 「FIND THE LIGHT/PERMANENT REVOLUTION」	https://i.scdn.co/image/ab67616d0000b2733260f1c598aacb24b528aa9a	https://api.spotify.com/v1/tracks/0z5JCveJgUpovQMUeaUekr	2015-07-15T12:53:56Z
+Kagerou Days	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/6c6fQ8k4yIUnLJEPy7zj3z	2015-07-14T11:14:00Z
 Headphone Actor	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/0kAXFANlXyhTyQrcLX72Ln	2015-07-14T11:14:00Z
 Kuusou Forest	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/0H2gP8EntfyX0vIgS4tEKq	2015-07-14T11:14:00Z
-Jinzou Enemy	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/0LcXRv7yo41vIn7G1bLSIg	2015-07-14T11:14:00Z
-Mekakushi Code	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/0lbF71UnYd0lkNP0uaCPs9	2015-07-14T11:14:00Z
-Kagerou Days	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/6c6fQ8k4yIUnLJEPy7zj3z	2015-07-14T11:14:00Z
 Ene No Dennou Kikou	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/6GAczjzHTn0KzjEF9QMcMi	2015-07-14T11:14:00Z
 Dead and Seek	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/1npaDLPr19R0gwlxJXXWbb	2015-07-14T11:14:00Z
+Jinzou Enemy	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/0LcXRv7yo41vIn7G1bLSIg	2015-07-14T11:14:00Z
 Toumei Answer	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/1ot5dND1vMbeLsuxHBAPQu	2015-07-14T11:14:00Z
 Kisaragi Attention	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/6D96feQOGRg5YRzzNudCiT	2015-07-14T11:14:00Z
+Mekakushi Code	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/0lbF71UnYd0lkNP0uaCPs9	2015-07-14T11:14:00Z
 Konoha No Sekai Jijou	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4UfTBGJzlkJTZ81Alptgm8	2015-07-14T11:14:00Z
 Shinigami Record	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4aqHMjLQ1khyeWxkiJsKlS	2015-07-14T11:14:00Z
 青春に、その涙が必要だ!	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/2beUXjZ8A3x7wdo1pEa1qa	2015-07-13T08:06:07Z
@@ -1428,24 +1435,17 @@ Subzero:One Second City Planning	myremy	Vocaloid Parade feat. Hatsune Miku	https
 Lost Melody	AKI TAKATSUKI	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/3JZEsFYzNk417bsAE7njgH	2015-07-12T19:49:13Z
 Do Androids Dream of sugar confectionery?	Imoken Potato	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/37PovyfkpUPghCCUFtRAnN	2015-07-12T19:49:13Z
 Star Sound Afterimage Gem	mowaku	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/2aEGMXIxtZAJWpgsmK4bTy	2015-07-12T19:49:13Z
-lonely walk	gogop	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4qUbdL9oki3OeUwMZ09iNu	2015-07-12T19:49:13Z
 First love	Fluoxetine	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0DGKE0nb28J8SD8834KRAe	2015-07-12T19:49:13Z
 seventeen	muratamurao	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/28mfPUVhJqnzh9P5QskaLF	2015-07-12T19:49:13Z
 Sky High	Keyta	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/3NAKecKf3fgEUzh3f0mZsb	2015-07-12T19:49:13Z
-Itazura Obake	Style	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/5kRWMkTT3w38L3zpQHmkA5	2015-07-12T19:49:13Z
 kimi to koi to prade	monoeye	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/04ORAJUgT4VO17zXgol5KQ	2015-07-12T19:49:13Z
 Fictionia	Taroon	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/1IYxHEPLjsL2gDHRSIM6Sm	2015-07-12T19:49:13Z
-Rain	mitejin	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4OkKw51NOVEEemkZPpWquZ	2015-07-12T19:49:13Z
 Luminary	Saiph	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi	2015-07-12T19:49:13Z
 yurufuwa koi gokoro	Atawame	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk	2015-07-12T19:49:13Z
 Rinne	Deme	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4L9t6Of9x7O5OFeNWi2elG	2015-07-12T19:49:13Z
 PEACE	Kali C.	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22	2015-07-12T19:49:13Z
-Utsusemi Disco	killchord	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu	2015-07-12T19:49:13Z
 Carnival	Bokunenbito	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv	2015-07-12T19:49:13Z
-LOVELOVEMIKU	katatumuriP	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/5yJrP1frURYhTVgOyQ6FoR	2015-07-12T19:49:13Z
 DANCALOID	Kii	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f	2015-07-12T19:49:13Z
 Can We Go Back	Arthur Shastra	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh	2015-07-12T19:49:13Z
 Splendid Fantazia	Rinne Apple P	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt	2015-07-12T19:49:13Z
-Sign	Fasorashi-Do	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG	2015-07-12T19:49:13Z
 Getting Depressed and Depressed	Orange P	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0lZB3rHRY5e9pewayYNwg7	2015-07-12T19:49:13Z
-Kaero Kaero	Penoreri	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4n3xD1VfJRQS6k2p5qDBTt	2015-07-12T19:49:13Z
