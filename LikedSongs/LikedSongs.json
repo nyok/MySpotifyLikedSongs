@@ -1,5 +1,85 @@
 [
     {
+        "name": "\u6559\u5ba4",
+        "artists": "\u68ee\u5ddd\u7f8e\u7a42",
+        "album": "\u68ee\u5ddd\u7f8e\u7a42 VERY BEST SONGS 35",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739dcb1b2685f24510190aeedf",
+        "href": "https://api.spotify.com/v1/tracks/7uxKxSQxAk5rdMkNF5njn2",
+        "added_at": "2022-12-26T17:49:10Z"
+    },
+    {
+        "name": "\u4fe1\u3058\u308b\u3082\u306e\u306b\u6551\u308f\u308c\u308b",
+        "artists": "Yumi Tanimura",
+        "album": "\u5727\u5012\u7684\u306b\u7247\u60f3\u3044",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27354a7e34662b168f7220e33d3",
+        "href": "https://api.spotify.com/v1/tracks/1D9wgbr9L7obrCbE554n7W",
+        "added_at": "2022-12-26T12:10:26Z"
+    },
+    {
+        "name": "\u5929\u4f7f\u306e\u30a6\u30a3\u30f3\u30af",
+        "artists": "Ami Ozaki",
+        "album": "\u5c3e\u5d0e\u4e9c\u7f8e \u30d9\u30b9\u30c8\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273829a98d07903ee728b30cea3",
+        "href": "https://api.spotify.com/v1/tracks/0aV6vS3Z9XLujdb42JXGjE",
+        "added_at": "2022-12-26T12:02:46Z"
+    },
+    {
+        "name": "\u3042\u306a\u305f\u3092\u30fb\u3082\u3063\u3068\u30fb\u77e5\u308a\u305f\u304f\u3066",
+        "artists": "Hiroko Yakushimaru",
+        "album": "\u6b4c\u7269\u8a9e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27389109f1faedb38763553a060",
+        "href": "https://api.spotify.com/v1/tracks/6Mi53Ih5CDHU1IK9Hx9Vkb",
+        "added_at": "2022-12-26T11:53:03Z"
+    },
+    {
+        "name": "\u3053\u306e\u8857",
+        "artists": "Chisato Moritaka",
+        "album": "\u53e4\u4eca\u6771\u897f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732287a0b4805ca4e4c8c1e379",
+        "href": "https://api.spotify.com/v1/tracks/0smn3TQLCbWyrd2PiFyfw4",
+        "added_at": "2022-12-26T11:51:58Z"
+    },
+    {
+        "name": "Sosotte",
+        "artists": "Minako Honda",
+        "album": "Look Over My Shoulder",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273145646dd9f867371abf4d0f3",
+        "href": "https://api.spotify.com/v1/tracks/0Rzxyg93PPUJh9uJAoJz36",
+        "added_at": "2022-12-26T11:25:16Z"
+    },
+    {
+        "name": "\u97f3\u697d\u306e\u3088\u3046\u306a\u98a8 - Acoustic Version",
+        "artists": "EPO",
+        "album": "UVA",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27391647d7978cd233cfd9cafee",
+        "href": "https://api.spotify.com/v1/tracks/2baIEkXkNljOv8jJxugAFs",
+        "added_at": "2022-12-26T11:13:47Z"
+    },
+    {
+        "name": "USO",
+        "artists": "BiSH",
+        "album": "SEE YOU",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b24554273a0c02573b71b0f0",
+        "href": "https://api.spotify.com/v1/tracks/7ujorHLk0xZy3ITdFhUNrj",
+        "added_at": "2022-12-24T13:29:58Z"
+    },
+    {
+        "name": "\u65ad\u6368\u96e2",
+        "artists": "SG",
+        "album": "\u65ad\u6368\u96e2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734ec97697fa0deef628eb9288",
+        "href": "https://api.spotify.com/v1/tracks/0Lw8vSXdeoEi0FjpSimBR4",
+        "added_at": "2022-12-21T19:28:12Z"
+    },
+    {
+        "name": "\u3069\u3093\u306a\u306b\u541b\u304c\u5909\u308f\u3063\u3066\u3082\u50d5\u304c\u3069\u3093\u306a\u3075\u3046\u306b\u5909\u308f\u3063\u3066\u3082\u660e\u65e5\u304c\u6765\u308b\u541b\u306b\u4f1a\u3046\u305f\u3081",
+        "artists": "BiSH",
+        "album": "\u3069\u3093\u306a\u306b\u541b\u304c\u5909\u308f\u3063\u3066\u3082\u50d5\u304c\u3069\u3093\u306a\u3075\u3046\u306b\u5909\u308f\u3063\u3066\u3082\u660e\u65e5\u304c\u6765\u308b\u541b\u306b\u4f1a\u3046\u305f\u3081",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ab53f77e6f4ac93cfa0f6ab0",
+        "href": "https://api.spotify.com/v1/tracks/1YOvSP3ZjLor9QhOljN9tt",
+        "added_at": "2022-12-21T18:22:50Z"
+    },
+    {
         "name": "\u304b\u308f\u3044\u3044\u4eba",
         "artists": "Leo Ieiri",
         "album": "\u304b\u308f\u3044\u3044\u4eba",
@@ -3025,7 +3105,7 @@
     },
     {
         "name": "Subtitle",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "Subtitle",
         "cover": "https://i.scdn.co/image/ab67616d0000b273d69b54199b7773b97a57a196",
         "href": "https://api.spotify.com/v1/tracks/49F3htNmwzPKFycPdOrDvf",
@@ -3809,7 +3889,7 @@
     },
     {
         "name": "Bedroom Talk - Live",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "one-man tour 2021-2022 -Editorial-@\u3055\u3044\u305f\u307e\u30b9\u30fc\u30d1\u30fc\u30a2\u30ea\u30fc\u30ca",
         "cover": "https://i.scdn.co/image/ab67616d0000b273705373714ddfa13f0af0d4c5",
         "href": "https://api.spotify.com/v1/tracks/3L7gBUi38Ng22979vJy1Yl",
@@ -4041,7 +4121,7 @@
     },
     {
         "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
         "cover": "https://i.scdn.co/image/ab67616d0000b273e4432f106a0ca7a2088fbb3d",
         "href": "https://api.spotify.com/v1/tracks/60ReNXcPcsVFd7nUuQw5HZ",
@@ -5729,7 +5809,7 @@
     },
     {
         "name": "Mixed Nuts",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "Mixed Nuts",
         "cover": "https://i.scdn.co/image/ab67616d0000b2732b603ffe9f8493e96193e65b",
         "href": "https://api.spotify.com/v1/tracks/3RFL9hE5cBocBsjD5XLJLQ",
@@ -6105,7 +6185,7 @@
     },
     {
         "name": "Universe",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "Universe",
         "cover": "https://i.scdn.co/image/ab67616d0000b27376b0bb5718d2e9f13107951b",
         "href": "https://api.spotify.com/v1/tracks/6KLaKHxwJE3CZECVJLH4cN",
@@ -6833,7 +6913,7 @@
     },
     {
         "name": "Universe",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "Editorial",
         "cover": "https://i.scdn.co/image/ab67616d0000b2731ce13e03759fd585b8115476",
         "href": "https://api.spotify.com/v1/tracks/0RuLz62h4YPNXqdO20Fmf6",
@@ -8313,7 +8393,7 @@
     },
     {
         "name": "Cry Baby",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "Cry Baby",
         "cover": "https://i.scdn.co/image/ab67616d0000b27337c8ac3d4ade98d669867e73",
         "href": "https://api.spotify.com/v1/tracks/7vBX6cVsCPFSx2C58hpZ4f",
@@ -8937,7 +9017,7 @@
     },
     {
         "name": "Universe",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "Universe",
         "cover": "https://i.scdn.co/image/ab67616d0000b27322be4c0eeaa71b2f383feb0e",
         "href": "https://api.spotify.com/v1/tracks/2wZvuzqGm485UNfwCstU8A",
@@ -9841,7 +9921,7 @@
     },
     {
         "name": "\u7570\u7aef\u306a\u30b9\u30bf\u30fc",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "\u30ec\u30dd\u30fc\u30c8",
         "cover": "https://i.scdn.co/image/ab67616d0000b2731c50756229b41baab44c7e9c",
         "href": "https://api.spotify.com/v1/tracks/6vtHQ7FcAXSOKSOeaBm5bc",
@@ -10257,7 +10337,7 @@
     },
     {
         "name": "Pretender",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "Pretender",
         "cover": "https://i.scdn.co/image/ab67616d0000b27378582014369e64b6596f30ad",
         "href": "https://api.spotify.com/v1/tracks/5LkWXxDxUTwEVHL0pfKL55",
@@ -10721,7 +10801,7 @@
     },
     {
         "name": "Shukumei",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "Traveler",
         "cover": "https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2",
         "href": "https://api.spotify.com/v1/tracks/0XaHPBAzPAC5ubwcRBqc1p",
@@ -12457,7 +12537,7 @@
     },
     {
         "name": "Pretender",
-        "artists": "Official HIGE DANdism",
+        "artists": "OFFICIAL HIGE DANDISM",
         "album": "Pretender",
         "cover": "https://i.scdn.co/image/ab67616d0000b273c03d59ccf637e7ce5754e370",
         "href": "https://api.spotify.com/v1/tracks/0peJAyrJ03wHnagMFlpgun",
@@ -12696,14 +12776,6 @@
         "added_at": "2015-07-15T12:53:56Z"
     },
     {
-        "name": "Kagerou Days",
-        "artists": "Jin",
-        "album": "MEKAKUCITYDAYS",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d",
-        "href": "https://api.spotify.com/v1/tracks/6c6fQ8k4yIUnLJEPy7zj3z",
-        "added_at": "2015-07-14T11:14:00Z"
-    },
-    {
         "name": "Headphone Actor",
         "artists": "Jin",
         "album": "MEKAKUCITYDAYS",
@@ -12720,6 +12792,22 @@
         "added_at": "2015-07-14T11:14:00Z"
     },
     {
+        "name": "Jinzou Enemy",
+        "artists": "Jin",
+        "album": "MEKAKUCITYDAYS",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d",
+        "href": "https://api.spotify.com/v1/tracks/0LcXRv7yo41vIn7G1bLSIg",
+        "added_at": "2015-07-14T11:14:00Z"
+    },
+    {
+        "name": "Kagerou Days",
+        "artists": "Jin",
+        "album": "MEKAKUCITYDAYS",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d",
+        "href": "https://api.spotify.com/v1/tracks/6c6fQ8k4yIUnLJEPy7zj3z",
+        "added_at": "2015-07-14T11:14:00Z"
+    },
+    {
         "name": "Ene No Dennou Kikou",
         "artists": "Jin",
         "album": "MEKAKUCITYDAYS",
@@ -12733,14 +12821,6 @@
         "album": "MEKAKUCITYDAYS",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d",
         "href": "https://api.spotify.com/v1/tracks/1npaDLPr19R0gwlxJXXWbb",
-        "added_at": "2015-07-14T11:14:00Z"
-    },
-    {
-        "name": "Jinzou Enemy",
-        "artists": "Jin",
-        "album": "MEKAKUCITYDAYS",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d",
-        "href": "https://api.spotify.com/v1/tracks/0LcXRv7yo41vIn7G1bLSIg",
         "added_at": "2015-07-14T11:14:00Z"
     },
     {
@@ -12784,22 +12864,6 @@
         "added_at": "2015-07-14T11:14:00Z"
     },
     {
-        "name": "\u4e59\u5973\u5fc3 Hey Hey Hey",
-        "artists": "Stereopony",
-        "album": "A Hydrangea Blooms",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
-        "href": "https://api.spotify.com/v1/tracks/07Moiorn7JwFBR7IMJines",
-        "added_at": "2015-07-13T08:06:07Z"
-    },
-    {
-        "name": "\u30de\u30a4\u30df\u30b9\u30c6\u30a4\u30af",
-        "artists": "Stereopony",
-        "album": "A Hydrangea Blooms",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
-        "href": "https://api.spotify.com/v1/tracks/0L0snIGtsfSL8LnLaFtTtQ",
-        "added_at": "2015-07-13T08:06:07Z"
-    },
-    {
         "name": "\u9752\u6625\u306b\u3001\u305d\u306e\u6d99\u304c\u5fc5\u8981\u3060!",
         "artists": "Stereopony",
         "album": "A Hydrangea Blooms",
@@ -12829,6 +12893,14 @@
         "album": "A Hydrangea Blooms",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
         "href": "https://api.spotify.com/v1/tracks/4UqCpvmOL8FiohnarAoRRx",
+        "added_at": "2015-07-13T08:06:07Z"
+    },
+    {
+        "name": "\u4e59\u5973\u5fc3 Hey Hey Hey",
+        "artists": "Stereopony",
+        "album": "A Hydrangea Blooms",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
+        "href": "https://api.spotify.com/v1/tracks/07Moiorn7JwFBR7IMJines",
         "added_at": "2015-07-13T08:06:07Z"
     },
     {
@@ -12869,6 +12941,14 @@
         "album": "A Hydrangea Blooms",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
         "href": "https://api.spotify.com/v1/tracks/2O9uVl1HJGCOuwDbhXISqV",
+        "added_at": "2015-07-13T08:06:07Z"
+    },
+    {
+        "name": "\u30de\u30a4\u30df\u30b9\u30c6\u30a4\u30af",
+        "artists": "Stereopony",
+        "album": "A Hydrangea Blooms",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
+        "href": "https://api.spotify.com/v1/tracks/0L0snIGtsfSL8LnLaFtTtQ",
         "added_at": "2015-07-13T08:06:07Z"
     },
     {
@@ -12920,35 +13000,11 @@
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
-        "name": "Save You!!",
-        "artists": "Electrical",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6AxmJI0UWUxs2B7acGETWT",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Garakuta Hard worker",
-        "artists": "Tohru-ch",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6Ww2oPoTXaVTXO4Csm2qEx",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
         "name": "Cyber DJ",
         "artists": "EinsteinP",
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/13qUoGMEmJLaSvvPori3fS",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "MelancholyNirandakori",
-        "artists": "BijomenZ nacchi",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/7mwPVfUIDiyUBvEmjSwHkE",
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
@@ -12968,35 +13024,11 @@
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
-        "name": "Kakurenbo",
-        "artists": "SirotumeP",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/7zzL2pdS2tCrnuT4fkgQD3",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
         "name": "Do Androids Dream of sugar confectionery?",
         "artists": "Imoken Potato",
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/37PovyfkpUPghCCUFtRAnN",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Zombie Zombie Generation",
-        "artists": "Kimuta",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6k9ibeHTEe1RaP1KdzSrvE",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Dearest",
-        "artists": "Ryo Azuma",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6cND8NaOsmFHEbkRB5y3qQ",
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
@@ -13128,14 +13160,6 @@
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
-        "name": "Habitat",
-        "artists": "Strausz",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/7v6rNgbLVQgrDGbaoGtJti",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
         "name": "DANCALOID",
         "artists": "Kii",
         "album": "Vocaloid Parade feat. Hatsune Miku",
@@ -13157,30 +13181,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "JAXA",
-        "artists": "Giganta",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Alma Song",
-        "artists": "PWRFL Power",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/7KFBlb7nKH7dieXzKyrZIu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Sign",
-        "artists": "Fasorashi-Do",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG",
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
