@@ -1,4 +1,13 @@
 name	artists	album	cover	href	added_at
+悲しみのラッキースター - Vu Ja De ver.	Haruomi Hosono	Vu Ja De	https://i.scdn.co/image/ab67616d0000b273a5fae987055113b8180a8751	https://api.spotify.com/v1/tracks/2kagISmqPNkvGBA8E2oWr4	2023-01-12T21:11:49Z
+Cola Splash	Cola Splash	Cola Splash	https://i.scdn.co/image/ab67616d0000b273efaa352d43bd9b4a3f06c23a	https://api.spotify.com/v1/tracks/6D21L2Gg3Z39qgUwHGfV6n	2023-01-09T21:46:16Z
+月姫 (Moon Light Princess)	Mioko Yamaguchi	月姫	https://i.scdn.co/image/ab67616d0000b273fcb879b080db9efe5183c2ea	https://api.spotify.com/v1/tracks/4lDEb2jtbJyLsjD2Br8Wzp	2023-01-09T21:03:04Z
+低気圧ボーイ	Natsu Summer	サン・キスド・レディー	https://i.scdn.co/image/ab67616d0000b27328801291d9065b74cf3ccd64	https://api.spotify.com/v1/tracks/7xh5ZFf5tw9IgafLD9rmyc	2023-01-09T20:58:00Z
+ハミングがきこえる	Kahimi Karie	ハミングがきこえる	https://i.scdn.co/image/ab67616d0000b273d793c5e2eaaa3506667a08fd	https://api.spotify.com/v1/tracks/34iGoi7EDtpJOJo1hTuHbh	2023-01-09T20:40:06Z
+色彩都市	Taeko Onuki	cliche (Mastered by Bernie Grundman)	https://i.scdn.co/image/ab67616d0000b273d36aede9cd6d4b5e17b266a2	https://api.spotify.com/v1/tracks/1NPwuNYRugoQz8y5HTnIBL	2023-01-09T20:23:23Z
+悲しみはBEATに変えて ~Rise and Shine~(シングル・オンリー)	Ami Ozaki	Lapis Lazuli	https://i.scdn.co/image/ab67616d0000b2732a167c22f5d95af4df8e40e9	https://api.spotify.com/v1/tracks/79be1damPMdlxjE8EwXzqD	2023-01-09T20:06:07Z
+ひみつの扉 (2019 Remaster)	Mari Iijima	Rose (2019 Remaster)	https://i.scdn.co/image/ab67616d0000b273bf400824559bdd4f0b8b85b7	https://api.spotify.com/v1/tracks/3Nt9JiHBXN0LVHyH5Iyc3O	2023-01-09T19:48:46Z
+Love Sick (2019 Remaster)	Mari Iijima	Rose (2019 Remaster)	https://i.scdn.co/image/ab67616d0000b273bf400824559bdd4f0b8b85b7	https://api.spotify.com/v1/tracks/0kbF1ymOw5ZAjTJlJ8xT0E	2023-01-07T13:29:53Z
 ひとつだけ	Akiko Yano	ごはんができたよ	https://i.scdn.co/image/ab67616d0000b27355b3ed314aa06ae9d654f5ce	https://api.spotify.com/v1/tracks/3KyXkORcoKrjWi0ig3jSef	2023-01-05T15:05:51Z
 ここにある地球(ほし)	矢野顕子・野口聡一	ここにある地球(ほし)	https://i.scdn.co/image/ab67616d0000b273ed4e124fbce4e1cfa0398561	https://api.spotify.com/v1/tracks/3QZMFiHaweFFr8xqwIVo4v	2023-01-05T14:48:21Z
 PARK Ave. 1981	EPO	GOODIES	https://i.scdn.co/image/ab67616d0000b273ae9e5fe06532c051d516a0f6	https://api.spotify.com/v1/tracks/0RRYgIGIL9pJv0Zg8Es4kG	2023-01-02T15:45:26Z
@@ -1631,24 +1640,21 @@ Mekakushi Code	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09
 Konoha No Sekai Jijou	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4UfTBGJzlkJTZ81Alptgm8	2015-07-14T11:14:00Z
 Shinigami Record	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4aqHMjLQ1khyeWxkiJsKlS	2015-07-14T11:14:00Z
 青春に、その涙が必要だ!	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/2beUXjZ8A3x7wdo1pEa1qa	2015-07-13T08:06:07Z
-I do it	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6oUsnhgfZkdbp3331MoSVR	2015-07-13T08:06:07Z
-木漏れ日のジャーニー	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6KaMqFY3j3QlM28lc5SOwX	2015-07-13T08:06:07Z
 泪のムコウ	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/4UqCpvmOL8FiohnarAoRRx	2015-07-13T08:06:07Z
 乙女心 Hey Hey Hey	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/07Moiorn7JwFBR7IMJines	2015-07-13T08:06:07Z
 泣かないで	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/1d6AYVua3fi4GjGXXDFEWi	2015-07-13T08:06:07Z
-effective line	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/7xnM4TXgadGc63crGUErNv	2015-07-13T08:06:07Z
 スウィート・ブルー	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/53JmjqfYnbB1CTegLw97Et	2015-07-13T08:06:07Z
 都会ノ森	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/0yoVdDx0Byn2cv5WI7P72F	2015-07-13T08:06:07Z
 幸せの丘で暮らしたい	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/2O9uVl1HJGCOuwDbhXISqV	2015-07-13T08:06:07Z
 マイミステイク	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/0L0snIGtsfSL8LnLaFtTtQ	2015-07-13T08:06:07Z
 ヒトヒラのハナビラ	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6B2QRrVCFaWSwLi2lEtCD6	2015-07-13T08:06:07Z
 青空 Very good days!!	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/2P9QItKo0gHRQMCRHktEtK	2015-07-13T08:06:07Z
+I do it	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6oUsnhgfZkdbp3331MoSVR	2015-07-13T08:06:07Z
+木漏れ日のジャーニー	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6KaMqFY3j3QlM28lc5SOwX	2015-07-13T08:06:07Z
+effective line	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/7xnM4TXgadGc63crGUErNv	2015-07-13T08:06:07Z
 Light My Fire	KOTOKO	Light My Fire	https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2	https://api.spotify.com/v1/tracks/4lvxofi0SOziS2NaQAfHLS	2015-07-12T19:59:19Z
 Sing	Goose house	Goose house Phrase#01	https://i.scdn.co/image/ab67616d0000b273aa15aa84720c229152f752ca	https://api.spotify.com/v1/tracks/1oR7VE2YJv3kT5XIa0MGMS	2015-07-12T19:58:41Z
 Kitten Tale (Kagamine Rin Version)	Nanameue-P	Kitten Tale	https://i.scdn.co/image/ab67616d0000b273831cb35fe79c288d44cf29df	https://api.spotify.com/v1/tracks/5rOPFQiowZlvTW9RvXAvUc	2015-07-12T19:54:05Z
-First love	Fluoxetine	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0DGKE0nb28J8SD8834KRAe	2015-07-12T19:49:13Z
-kimi to koi to prade	monoeye	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/04ORAJUgT4VO17zXgol5KQ	2015-07-12T19:49:13Z
-Can We Go Back	Arthur Shastra	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh	2015-07-12T19:49:13Z
 sofutochiyu	Penoreri	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/1IackaiPYuZ0HwD6z5xVQz	2015-07-12T19:49:13Z
 Save You!!	Electrical	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/6AxmJI0UWUxs2B7acGETWT	2015-07-12T19:49:13Z
 Garakuta Hard worker	Tohru-ch	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/6Ww2oPoTXaVTXO4Csm2qEx	2015-07-12T19:49:13Z
@@ -1662,9 +1668,11 @@ Zombie Zombie Generation	Kimuta	Vocaloid Parade feat. Hatsune Miku	https://i.scd
 Dearest	Ryo Azuma	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/6cND8NaOsmFHEbkRB5y3qQ	2015-07-12T19:49:13Z
 Star Sound Afterimage Gem	mowaku	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/2aEGMXIxtZAJWpgsmK4bTy	2015-07-12T19:49:13Z
 lonely walk	gogop	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4qUbdL9oki3OeUwMZ09iNu	2015-07-12T19:49:13Z
+First love	Fluoxetine	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0DGKE0nb28J8SD8834KRAe	2015-07-12T19:49:13Z
 seventeen	muratamurao	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/28mfPUVhJqnzh9P5QskaLF	2015-07-12T19:49:13Z
 Sky High	Keyta	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/3NAKecKf3fgEUzh3f0mZsb	2015-07-12T19:49:13Z
 Itazura Obake	Style	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/5kRWMkTT3w38L3zpQHmkA5	2015-07-12T19:49:13Z
+kimi to koi to prade	monoeye	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/04ORAJUgT4VO17zXgol5KQ	2015-07-12T19:49:13Z
 Fictionia	Taroon	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/1IYxHEPLjsL2gDHRSIM6Sm	2015-07-12T19:49:13Z
 Rain	mitejin	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4OkKw51NOVEEemkZPpWquZ	2015-07-12T19:49:13Z
 Luminary	Saiph	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi	2015-07-12T19:49:13Z
@@ -1676,6 +1684,7 @@ Carnival	Bokunenbito	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/
 LOVELOVEMIKU	katatumuriP	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/5yJrP1frURYhTVgOyQ6FoR	2015-07-12T19:49:13Z
 Habitat	Strausz	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/7v6rNgbLVQgrDGbaoGtJti	2015-07-12T19:49:13Z
 DANCALOID	Kii	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f	2015-07-12T19:49:13Z
+Can We Go Back	Arthur Shastra	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh	2015-07-12T19:49:13Z
 Splendid Fantazia	Rinne Apple P	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt	2015-07-12T19:49:13Z
 JAXA	Giganta	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK	2015-07-12T19:49:13Z
 Alma Song	PWRFL Power	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/7KFBlb7nKH7dieXzKyrZIu	2015-07-12T19:49:13Z
