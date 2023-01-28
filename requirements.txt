@@ -1,3 +1,6 @@
 os
 json
 spotipy
+base64
+requests
+dotenv
