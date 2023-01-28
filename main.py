@@ -12,7 +12,7 @@ def getEnv():
         redirect_uri = str(os.environ['MYSPOTIFYLIKEDSONGS_URL'])
         return (client_id, client_secret, redirect_uri)
     except:
-        print("Переменные окружения не установлены")
+        print("Environment variables not set")
         exit()
 
 

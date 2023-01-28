@@ -12,7 +12,7 @@ def getEnv():
         token = str(os.environ['GITHUB_TOKEN'])
         return (username, repo, token)
     except:
-        print("Переменные окружения не установлены")
+        print("Environment variables not set")
         exit()
 
 # Checking if a branch exists
