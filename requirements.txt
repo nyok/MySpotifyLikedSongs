@@ -4,3 +4,4 @@ spotipy
 base64
 requests
 dotenv
+hashlib

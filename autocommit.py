@@ -1,6 +1,7 @@
 import os
 import json
 import base64
+import hashlib
 import requests
 from dotenv import load_dotenv
 
@@ -55,6 +56,15 @@ def getBranchSha(branch_name):
             return sha
     except Exception:
         return None
+
+# Get unique ID (hash sum) of local file
+def getLocalSha(path):
+    filesize_bytes = os.path.getsize(path)
+    s = hashlib.sha1()
+    s.update(b"blob %u\0" % filesize_bytes)
+    with open(path, 'rb') as f:
+        s.update(f.read())
+    return s.hexdigest()
 
 # Find out if the file exists.
 # If we don't get the hash sum for the file
@@ -119,11 +129,19 @@ def main():
         for path in files:
             git_path = path.removeprefix(project_path)
             sha = None
+            changed = True
             if existFile(git_path):
                 sha = getSha(git_path)
-            lines = ReadFile(path)
-            f = makeFileAndCommit(lines, sha)
-            r = sendFile(git_path, f)
+                local_sha = getLocalSha(path)
+            if not (sha is None):
+                if local_sha == sha:
+                    changed = False
+                else:
+                    changed = True
+            if changed:
+                lines = ReadFile(path)
+                f = makeFileAndCommit(lines, sha)
+                r = sendFile(git_path, f)
 
 if __name__ == '__main__':
     username, repo, token = getEnv()
