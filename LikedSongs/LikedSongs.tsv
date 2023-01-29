@@ -1,4 +1,7 @@
 name	artists	album	cover	href	added_at
+セクレアール	Maaya Sakamoto	25周年記念アルバム シングルコレクション+ アチコチ	https://i.scdn.co/image/ab67616d0000b273cbd62457c283c29e1b28c63c	https://api.spotify.com/v1/tracks/0ROGSc5kYqyRAfmBIoPP5z	2023-01-28T22:52:56Z
+CLEAR	Maaya Sakamoto	25周年記念アルバム シングルコレクション+ アチコチ	https://i.scdn.co/image/ab67616d0000b273cbd62457c283c29e1b28c63c	https://api.spotify.com/v1/tracks/39ygz0yRW9bOtwMQ7jSqF9	2023-01-28T22:16:08Z
+Million Clouds	Maaya Sakamoto	25周年記念アルバム シングルコレクション+ アチコチ	https://i.scdn.co/image/ab67616d0000b273cbd62457c283c29e1b28c63c	https://api.spotify.com/v1/tracks/3AXxeu6r2EvXgndlh7aKRf	2023-01-28T22:11:51Z
 Be mine!	Maaya Sakamoto	25周年記念アルバム シングルコレクション+ アチコチ	https://i.scdn.co/image/ab67616d0000b273cbd62457c283c29e1b28c63c	https://api.spotify.com/v1/tracks/00uzQ9jZTvuzyJ2UIKLX0v	2023-01-28T22:08:39Z
 Could Have Been Me - Japan Version	AiNA THE END	Sing 2 (Original Motion Picture Soundtrack) [Alternate Version]	https://i.scdn.co/image/ab67616d0000b273fa4b163b0b88cdad1bdeff4c	https://api.spotify.com/v1/tracks/2Q0vkWRWE9u4yvpqWuDOCJ	2023-01-28T21:19:50Z
 ドラマチックじゃなくても	Kana Hanazawa	ドラマチックじゃなくても	https://i.scdn.co/image/ab67616d0000b2736642f85761a45d2ff6e03ccf	https://api.spotify.com/v1/tracks/5zxc1g7UVdTfp3pYD1lzmW	2023-01-28T21:14:02Z
@@ -1645,8 +1648,8 @@ Don't say ''LAZY'' keion	trusty products	8bit japan anime cover vol.1	https://i.
 Ryousangata Kareshi	SHISHAMO	Ryousangata Kareshi	https://i.scdn.co/image/ab67616d0000b273ba555fecbb6597bc8807c387	https://api.spotify.com/v1/tracks/3QUmnj3iiIkdesYywspcza	2015-07-24T22:30:10Z
 Kimito Hanasenainoha	SHISHAMO	Ryousangata Kareshi	https://i.scdn.co/image/ab67616d0000b273ba555fecbb6597bc8807c387	https://api.spotify.com/v1/tracks/24SRg3sR3yAXGUxD904NFr	2015-07-24T22:30:10Z
 Tenkou No Uta	SHISHAMO	Ryousangata Kareshi	https://i.scdn.co/image/ab67616d0000b273ba555fecbb6597bc8807c387	https://api.spotify.com/v1/tracks/1EOVXz3z8nI1np2AFmlhy8	2015-07-24T22:30:10Z
-Light My Fire - Instrumental	KOTOKO	Light My Fire	https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2	https://api.spotify.com/v1/tracks/3wMF9flx1FaDcj9gHYkYFk	2015-07-24T22:29:36Z
 Candy or Chocolate?	KOTOKO	Light My Fire	https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2	https://api.spotify.com/v1/tracks/3rqjuDNkJItpDby1MEupg1	2015-07-24T22:29:36Z
+Light My Fire - Instrumental	KOTOKO	Light My Fire	https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2	https://api.spotify.com/v1/tracks/3wMF9flx1FaDcj9gHYkYFk	2015-07-24T22:29:36Z
 Candy or Chocolate? - Instrumental	KOTOKO	Light My Fire	https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2	https://api.spotify.com/v1/tracks/6kUhjs5MY2Epc6a1RyJI43	2015-07-24T22:29:36Z
 Magic of Love(Album-mix) - Album-Mix	Perfume	LEVEL3	https://i.scdn.co/image/ab67616d0000b273a479a10fffbeb7a57457934f	https://api.spotify.com/v1/tracks/5NL7PJHssictdXxVAhFv3N	2015-07-15T19:08:18Z
 PERMANENT REVOLUTION	World Order	WORLD ORDER 「FIND THE LIGHT/PERMANENT REVOLUTION」	https://i.scdn.co/image/ab67616d0000b2733260f1c598aacb24b528aa9a	https://api.spotify.com/v1/tracks/0z5JCveJgUpovQMUeaUekr	2015-07-15T12:53:56Z
@@ -1688,12 +1691,9 @@ seventeen	muratamurao	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image
 Sky High	Keyta	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/3NAKecKf3fgEUzh3f0mZsb	2015-07-12T19:49:13Z
 kimi to koi to prade	monoeye	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/04ORAJUgT4VO17zXgol5KQ	2015-07-12T19:49:13Z
 Fictionia	Taroon	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/1IYxHEPLjsL2gDHRSIM6Sm	2015-07-12T19:49:13Z
-Rain	mitejin	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4OkKw51NOVEEemkZPpWquZ	2015-07-12T19:49:13Z
 Luminary	Saiph	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi	2015-07-12T19:49:13Z
 yurufuwa koi gokoro	Atawame	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk	2015-07-12T19:49:13Z
-Rinne	Deme	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4L9t6Of9x7O5OFeNWi2elG	2015-07-12T19:49:13Z
 PEACE	Kali C.	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22	2015-07-12T19:49:13Z
-Utsusemi Disco	killchord	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu	2015-07-12T19:49:13Z
 Carnival	Bokunenbito	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv	2015-07-12T19:49:13Z
 DANCALOID	Kii	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f	2015-07-12T19:49:13Z
 Can We Go Back	Arthur Shastra	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh	2015-07-12T19:49:13Z
