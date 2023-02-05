@@ -1,4 +1,5 @@
 name	artists	album	cover	href	added_at
+BANTAM	Koshi Inaba	BANTAM	https://i.scdn.co/image/ab67616d0000b27390eb4d18f1de1c64949a4585	https://api.spotify.com/v1/tracks/4JeZNqDNEFkSkdaDp9THEl	2023-02-05T14:03:44Z
 Not Unusual	Mao Abe	Not Unusual	https://i.scdn.co/image/ab67616d0000b27308c92c90be91696680cc3ad8	https://api.spotify.com/v1/tracks/3FgUONsyQoWWZWk4BtHVHk	2023-02-05T13:59:37Z
 ナスティ・ハウス	眞名子 新	ナスティ・ハウス	https://i.scdn.co/image/ab67616d0000b2738a8d5d8144f781cf0cfacfbf	https://api.spotify.com/v1/tracks/5GmPGaSokdG5KAfiahOdeF	2023-02-05T13:48:33Z
 さよならサンセット	Shikao Suga	イノセント	https://i.scdn.co/image/ab67616d0000b2735d2a3d16686e8a8549017198	https://api.spotify.com/v1/tracks/6SgQDtIyugPUd2sjasKlsM	2023-02-05T13:29:21Z
@@ -1698,10 +1699,10 @@ Dead and Seek	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09d
 Jinzou Enemy	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/0LcXRv7yo41vIn7G1bLSIg	2015-07-14T11:14:00Z
 Toumei Answer	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/1ot5dND1vMbeLsuxHBAPQu	2015-07-14T11:14:00Z
 Mekakushi Code	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/0lbF71UnYd0lkNP0uaCPs9	2015-07-14T11:14:00Z
-Konoha No Sekai Jijou	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4UfTBGJzlkJTZ81Alptgm8	2015-07-14T11:14:00Z
 Kagerou Days	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/6c6fQ8k4yIUnLJEPy7zj3z	2015-07-14T11:14:00Z
 Ene No Dennou Kikou	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/6GAczjzHTn0KzjEF9QMcMi	2015-07-14T11:14:00Z
 Kisaragi Attention	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/6D96feQOGRg5YRzzNudCiT	2015-07-14T11:14:00Z
+Konoha No Sekai Jijou	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4UfTBGJzlkJTZ81Alptgm8	2015-07-14T11:14:00Z
 Shinigami Record	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4aqHMjLQ1khyeWxkiJsKlS	2015-07-14T11:14:00Z
 青春に、その涙が必要だ!	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/2beUXjZ8A3x7wdo1pEa1qa	2015-07-13T08:06:07Z
 I do it	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6oUsnhgfZkdbp3331MoSVR	2015-07-13T08:06:07Z
@@ -1726,7 +1727,6 @@ Cyber DJ	EinsteinP	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab
 Subzero:One Second City Planning	myremy	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/3VpZhiqogL1FCuQIW3zayp	2015-07-12T19:49:13Z
 Lost Melody	AKI TAKATSUKI	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/3JZEsFYzNk417bsAE7njgH	2015-07-12T19:49:13Z
 Do Androids Dream of sugar confectionery?	Imoken Potato	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/37PovyfkpUPghCCUFtRAnN	2015-07-12T19:49:13Z
-Dearest	Ryo Azuma	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/6cND8NaOsmFHEbkRB5y3qQ	2015-07-12T19:49:13Z
 Star Sound Afterimage Gem	mowaku	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/2aEGMXIxtZAJWpgsmK4bTy	2015-07-12T19:49:13Z
 lonely walk	gogop	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4qUbdL9oki3OeUwMZ09iNu	2015-07-12T19:49:13Z
 First love	Fluoxetine	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0DGKE0nb28J8SD8834KRAe	2015-07-12T19:49:13Z
