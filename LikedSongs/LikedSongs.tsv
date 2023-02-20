@@ -1,4 +1,5 @@
 name	artists	album	cover	href	added_at
+Cinderella	TOMOO	Cinderella	https://i.scdn.co/image/ab67616d0000b273188a8b158639ca1d51d4955d	https://api.spotify.com/v1/tracks/6Q0YiUGPwMRmxsEZ6RX3q1	2023-02-20T21:52:25Z
 星空のBelieve	Mami Ayukawa	Reply~Mami Ayukawa 25th Anniversary Best Album~	https://i.scdn.co/image/ab67616d0000b273c1a5c92d9d8492b3708b8137	https://api.spotify.com/v1/tracks/3KX9Ky0uBKGYvMNe1l4iWr	2023-02-20T18:27:30Z
 風が聴こえる朝	Mami Ayukawa	35th Anniversary Best ~刻をこえて~ (Digital Edition)	https://i.scdn.co/image/ab67616d0000b27353dcc2ab51b93961abbc7c6a	https://api.spotify.com/v1/tracks/0a3m4rQXoLAsSzYuk4L5R1	2023-02-20T05:30:25Z
 蒲公英	Lilas Ikuta	蒲公英	https://i.scdn.co/image/ab67616d0000b273f2bf2441257bc438766b92ce	https://api.spotify.com/v1/tracks/05qgaAIIEFSkrrvxqb5np2	2023-02-17T23:04:50Z
@@ -1548,8 +1549,8 @@ Galactic mermaid	マーメイド・シスターズ(Vo.クリヤマユウリ)	TV�
 ドラえもん	Gen Hoshino	ドラえもん	https://i.scdn.co/image/ab67616d0000b27374f6b10a4037ca228a7efffa	https://api.spotify.com/v1/tracks/6rEReeuYDZdggaSMF1sybO	2019-11-24T21:55:01Z
 Snow Men	Gen Hoshino	YELLOW DANCER	https://i.scdn.co/image/ab67616d0000b273b70bdd96ad09d1c7cdb4d720	https://api.spotify.com/v1/tracks/4EAFrjOpnbkUel0WrD9TTy	2019-11-24T21:54:50Z
 アイデア	Gen Hoshino	POP VIRUS	https://i.scdn.co/image/ab67616d0000b27307831685d7f988332899529a	https://api.spotify.com/v1/tracks/7jgqNMnqAT9FghC1uSYTFF	2019-11-24T21:54:40Z
-SUN	Gen Hoshino	YELLOW DANCER	https://i.scdn.co/image/ab67616d0000b273b70bdd96ad09d1c7cdb4d720	https://api.spotify.com/v1/tracks/1DOZa2VoazIiDjGYlUQTlW	2019-11-24T21:54:29Z
 恋	Gen Hoshino	POP VIRUS	https://i.scdn.co/image/ab67616d0000b27307831685d7f988332899529a	https://api.spotify.com/v1/tracks/1flvuaMS27JxpEBL0u2cWc	2019-11-24T21:54:29Z
+SUN	Gen Hoshino	YELLOW DANCER	https://i.scdn.co/image/ab67616d0000b273b70bdd96ad09d1c7cdb4d720	https://api.spotify.com/v1/tracks/1DOZa2VoazIiDjGYlUQTlW	2019-11-24T21:54:29Z
 シャングリラ	Chatmonchy	チャットモンチー BEST~2005-2011~	https://i.scdn.co/image/ab67616d0000b273ff1070963ee3d533b66fc01a	https://api.spotify.com/v1/tracks/2vESvd6dRvfd0HjKV8vQ9R	2019-11-24T21:16:11Z
 ZOMBIES BUT ALIVE	LITTLE ZOMBIES	WE ARE LITTLE ZOMBIES ORIGINAL SOUNDTRACK	https://i.scdn.co/image/ab67616d0000b273a13cfaf092c0cf4601c10f20	https://api.spotify.com/v1/tracks/4my1okEx8N4vOeuR4O70uC	2019-11-24T20:35:15Z
 GAME OVER	Original Soundtrack	WE ARE LITTLE ZOMBIES ORIGINAL SOUNDTRACK	https://i.scdn.co/image/ab67616d0000b273a13cfaf092c0cf4601c10f20	https://api.spotify.com/v1/tracks/4TOKMWKAQMKRp3GmWbNTPt	2019-11-24T20:34:54Z
@@ -1743,7 +1744,6 @@ Kitten Tale (Kagamine Rin Version)	Nanameue-P	Kitten Tale	https://i.scdn.co/imag
 Cyber DJ	EinsteinP	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/13qUoGMEmJLaSvvPori3fS	2015-07-12T19:49:13Z
 First love	Fluoxetine	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0DGKE0nb28J8SD8834KRAe	2015-07-12T19:49:13Z
 kimi to koi to prade	monoeye	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/04ORAJUgT4VO17zXgol5KQ	2015-07-12T19:49:13Z
-Fictionia	Taroon	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/1IYxHEPLjsL2gDHRSIM6Sm	2015-07-12T19:49:13Z
 Luminary	Saiph	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi	2015-07-12T19:49:13Z
 yurufuwa koi gokoro	Atawame	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk	2015-07-12T19:49:13Z
 PEACE	Kali C.	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22	2015-07-12T19:49:13Z
@@ -1764,6 +1764,7 @@ lonely walk	gogop	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab6
 seventeen	muratamurao	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/28mfPUVhJqnzh9P5QskaLF	2015-07-12T19:49:13Z
 Sky High	Keyta	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/3NAKecKf3fgEUzh3f0mZsb	2015-07-12T19:49:13Z
 Itazura Obake	Style	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/5kRWMkTT3w38L3zpQHmkA5	2015-07-12T19:49:13Z
+Fictionia	Taroon	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/1IYxHEPLjsL2gDHRSIM6Sm	2015-07-12T19:49:13Z
 Rain	mitejin	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4OkKw51NOVEEemkZPpWquZ	2015-07-12T19:49:13Z
 Rinne	Deme	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4L9t6Of9x7O5OFeNWi2elG	2015-07-12T19:49:13Z
 Utsusemi Disco	killchord	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu	2015-07-12T19:49:13Z
