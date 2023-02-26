@@ -1,4 +1,5 @@
 name	artists	album	cover	href	added_at
+椿姫咲いた(歌メロ入りカラオケ)	Midori Oka	椿姫咲いた	https://i.scdn.co/image/ab67616d0000b2735e124cf0991c3089cef5e5da	https://api.spotify.com/v1/tracks/7JBUt4CMZ70WJuZZ118DOD	2023-02-26T17:17:47Z
 椿姫咲いた	Midori Oka	椿姫咲いた	https://i.scdn.co/image/ab67616d0000b2735e124cf0991c3089cef5e5da	https://api.spotify.com/v1/tracks/6E6l35qHTbf2kafzBU0ndM	2023-02-23T22:03:54Z
 lemonade	Chilli Beans.	Chilli Beans.	https://i.scdn.co/image/ab67616d0000b273518c4b725bf4b40fba6cf5f5	https://api.spotify.com/v1/tracks/0EyViwXzoKDRKUtLczjJwL	2023-02-22T22:10:38Z
 hurray	Yabai T-Shirts Yasan	hurray	https://i.scdn.co/image/ab67616d0000b273263b5a7c709ef843179b2d3f	https://api.spotify.com/v1/tracks/0Fv7VQdjRjTqb0wk88uBzP	2023-02-22T22:09:16Z
@@ -1747,7 +1748,6 @@ Sing	Goose house	Goose house Phrase#01	https://i.scdn.co/image/ab67616d0000b273a
 Kitten Tale (Kagamine Rin Version)	Nanameue-P	Kitten Tale	https://i.scdn.co/image/ab67616d0000b273831cb35fe79c288d44cf29df	https://api.spotify.com/v1/tracks/5rOPFQiowZlvTW9RvXAvUc	2015-07-12T19:54:05Z
 First love	Fluoxetine	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0DGKE0nb28J8SD8834KRAe	2015-07-12T19:49:13Z
 kimi to koi to prade	monoeye	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/04ORAJUgT4VO17zXgol5KQ	2015-07-12T19:49:13Z
-yurufuwa koi gokoro	Atawame	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk	2015-07-12T19:49:13Z
 Can We Go Back	Arthur Shastra	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh	2015-07-12T19:49:13Z
 sofutochiyu	Penoreri	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/1IackaiPYuZ0HwD6z5xVQz	2015-07-12T19:49:13Z
 Save You!!	Electrical	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/6AxmJI0UWUxs2B7acGETWT	2015-07-12T19:49:13Z
@@ -1768,6 +1768,7 @@ Itazura Obake	Style	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/a
 Fictionia	Taroon	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/1IYxHEPLjsL2gDHRSIM6Sm	2015-07-12T19:49:13Z
 Rain	mitejin	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4OkKw51NOVEEemkZPpWquZ	2015-07-12T19:49:13Z
 Luminary	Saiph	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi	2015-07-12T19:49:13Z
+yurufuwa koi gokoro	Atawame	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk	2015-07-12T19:49:13Z
 Rinne	Deme	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4L9t6Of9x7O5OFeNWi2elG	2015-07-12T19:49:13Z
 PEACE	Kali C.	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22	2015-07-12T19:49:13Z
 Utsusemi Disco	killchord	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu	2015-07-12T19:49:13Z
