@@ -1,4 +1,5 @@
 name	artists	album	cover	href	added_at
+Lune	M2U	『DEEMO』SONG COLLECTION VOL.2	https://i.scdn.co/image/ab67616d0000b2731fc2651f310eda1a929c13f4	https://api.spotify.com/v1/tracks/3yYVxcaqEjW0BWBE8zNZJj	2023-03-07T09:01:54Z
 Merry Go Round	Couple N	Love Is	https://i.scdn.co/image/ab67616d0000b27313f0ecebd514b44cb367a118	https://api.spotify.com/v1/tracks/742QKImjrtX6JgLukB6cxt	2023-03-07T08:43:46Z
 TOKIWA	トマト組	Shirakami Cafe Music	https://i.scdn.co/image/ab67616d0000b273bdffc6fa9d7d136a2cb1a66e	https://api.spotify.com/v1/tracks/5zb3aI2xmJ4WKrd1MWqy7R	2023-03-06T14:10:29Z
 Pleasure Smile	Falcom Sound Team jdk	英雄伝説 閃の軌跡IV -THE END OF SAGA- オリジナルサウンドトラック Vol.3	https://i.scdn.co/image/ab67616d0000b2738677875766375edf655493f3	https://api.spotify.com/v1/tracks/4AWCypg2pqkLi0XbgE6qmN	2023-03-06T13:59:21Z
@@ -1738,7 +1739,6 @@ Mekakushi Code	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09
 Konoha No Sekai Jijou	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4UfTBGJzlkJTZ81Alptgm8	2015-07-14T11:14:00Z
 Shinigami Record	Jin	MEKAKUCITYDAYS	https://i.scdn.co/image/ab67616d0000b273a7ed09df921f6cdc3669943d	https://api.spotify.com/v1/tracks/4aqHMjLQ1khyeWxkiJsKlS	2015-07-14T11:14:00Z
 青春に、その涙が必要だ!	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/2beUXjZ8A3x7wdo1pEa1qa	2015-07-13T08:06:07Z
-I do it	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6oUsnhgfZkdbp3331MoSVR	2015-07-13T08:06:07Z
 木漏れ日のジャーニー	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6KaMqFY3j3QlM28lc5SOwX	2015-07-13T08:06:07Z
 泪のムコウ	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/4UqCpvmOL8FiohnarAoRRx	2015-07-13T08:06:07Z
 乙女心 Hey Hey Hey	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/07Moiorn7JwFBR7IMJines	2015-07-13T08:06:07Z
@@ -1749,6 +1749,7 @@ I do it	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a4
 マイミステイク	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/0L0snIGtsfSL8LnLaFtTtQ	2015-07-13T08:06:07Z
 ヒトヒラのハナビラ	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6B2QRrVCFaWSwLi2lEtCD6	2015-07-13T08:06:07Z
 青空 Very good days!!	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/2P9QItKo0gHRQMCRHktEtK	2015-07-13T08:06:07Z
+I do it	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/6oUsnhgfZkdbp3331MoSVR	2015-07-13T08:06:07Z
 effective line	Stereopony	A Hydrangea Blooms	https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30	https://api.spotify.com/v1/tracks/7xnM4TXgadGc63crGUErNv	2015-07-13T08:06:07Z
 Light My Fire	KOTOKO	Light My Fire	https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2	https://api.spotify.com/v1/tracks/4lvxofi0SOziS2NaQAfHLS	2015-07-12T19:59:19Z
 Sing	Goose house	Goose house Phrase#01	https://i.scdn.co/image/ab67616d0000b273aa15aa84720c229152f752ca	https://api.spotify.com/v1/tracks/1oR7VE2YJv3kT5XIa0MGMS	2015-07-12T19:58:41Z
