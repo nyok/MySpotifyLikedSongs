@@ -13992,19 +13992,19 @@
         "added_at": "2015-07-24T22:30:10Z"
     },
     {
-        "name": "Candy or Chocolate?",
-        "artists": "KOTOKO",
-        "album": "Light My Fire",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2",
-        "href": "https://api.spotify.com/v1/tracks/3rqjuDNkJItpDby1MEupg1",
-        "added_at": "2015-07-24T22:29:36Z"
-    },
-    {
         "name": "Light My Fire - Instrumental",
         "artists": "KOTOKO",
         "album": "Light My Fire",
         "cover": "https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2",
         "href": "https://api.spotify.com/v1/tracks/3wMF9flx1FaDcj9gHYkYFk",
+        "added_at": "2015-07-24T22:29:36Z"
+    },
+    {
+        "name": "Candy or Chocolate?",
+        "artists": "KOTOKO",
+        "album": "Light My Fire",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2",
+        "href": "https://api.spotify.com/v1/tracks/3rqjuDNkJItpDby1MEupg1",
         "added_at": "2015-07-24T22:29:36Z"
     },
     {
@@ -14256,11 +14256,35 @@
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
+        "name": "Save You!!",
+        "artists": "Electrical",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/6AxmJI0UWUxs2B7acGETWT",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Garakuta Hard worker",
+        "artists": "Tohru-ch",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/6Ww2oPoTXaVTXO4Csm2qEx",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
         "name": "Cyber DJ",
         "artists": "EinsteinP",
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/13qUoGMEmJLaSvvPori3fS",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "MelancholyNirandakori",
+        "artists": "BijomenZ nacchi",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/7mwPVfUIDiyUBvEmjSwHkE",
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
@@ -14280,6 +14304,14 @@
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
+        "name": "Kakurenbo",
+        "artists": "SirotumeP",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/7zzL2pdS2tCrnuT4fkgQD3",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
         "name": "Do Androids Dream of sugar confectionery?",
         "artists": "Imoken Potato",
         "album": "Vocaloid Parade feat. Hatsune Miku",
@@ -14288,11 +14320,35 @@
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
+        "name": "Zombie Zombie Generation",
+        "artists": "Kimuta",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/6k9ibeHTEe1RaP1KdzSrvE",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Dearest",
+        "artists": "Ryo Azuma",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/6cND8NaOsmFHEbkRB5y3qQ",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
         "name": "Star Sound Afterimage Gem",
         "artists": "mowaku",
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/2aEGMXIxtZAJWpgsmK4bTy",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "lonely walk",
+        "artists": "gogop",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/4qUbdL9oki3OeUwMZ09iNu",
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
@@ -14320,6 +14376,14 @@
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
+        "name": "Itazura Obake",
+        "artists": "Style",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/5kRWMkTT3w38L3zpQHmkA5",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
         "name": "kimi to koi to prade",
         "artists": "monoeye",
         "album": "Vocaloid Parade feat. Hatsune Miku",
@@ -14333,70 +14397,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/1IYxHEPLjsL2gDHRSIM6Sm",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Luminary",
-        "artists": "Saiph",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "yurufuwa koi gokoro",
-        "artists": "Atawame",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "PEACE",
-        "artists": "Kali C.",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Carnival",
-        "artists": "Bokunenbito",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "DANCALOID",
-        "artists": "Kii",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Can We Go Back",
-        "artists": "Arthur Shastra",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Splendid Fantazia",
-        "artists": "Rinne Apple P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Getting Depressed and Depressed",
-        "artists": "Orange P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/0lZB3rHRY5e9pewayYNwg7",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
