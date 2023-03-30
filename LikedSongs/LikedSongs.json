@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u5099\u5fd8\u9332 - Self Cover Ver.",
+        "artists": "TakaseToya",
+        "album": "MEMO RANDUM",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ad2e5e3a92d45f3b61198c82",
+        "href": "https://api.spotify.com/v1/tracks/3AzIcfVZ4axS3IlZrSTxkD",
+        "added_at": "2023-03-30T21:20:24Z"
+    },
+    {
         "name": "Answer",
         "artists": "Lilas Ikuta",
         "album": "Answer",
@@ -13976,14 +13984,6 @@
         "added_at": "2019-05-30T11:41:24Z"
     },
     {
-        "name": "Hare hare yukai (suzumiya haruhi no yuuutsu)",
-        "artists": "trusty products",
-        "album": "8bit japan anime cover vol.1",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273cd24e3fcd0f09f45149b4df5",
-        "href": "https://api.spotify.com/v1/tracks/4LwMfv0U6i6D7kAGPMJlxP",
-        "added_at": "2015-07-24T22:30:19Z"
-    },
-    {
         "name": "Zankoku na tenshi no These (evangelion)",
         "artists": "trusty products",
         "album": "8bit japan anime cover vol.1",
@@ -14013,6 +14013,14 @@
         "album": "8bit japan anime cover vol.1",
         "cover": "https://i.scdn.co/image/ab67616d0000b273cd24e3fcd0f09f45149b4df5",
         "href": "https://api.spotify.com/v1/tracks/7cH3xyTcsHN4vPktTHJjSl",
+        "added_at": "2015-07-24T22:30:19Z"
+    },
+    {
+        "name": "Hare hare yukai (suzumiya haruhi no yuuutsu)",
+        "artists": "trusty products",
+        "album": "8bit japan anime cover vol.1",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273cd24e3fcd0f09f45149b4df5",
+        "href": "https://api.spotify.com/v1/tracks/4LwMfv0U6i6D7kAGPMJlxP",
         "added_at": "2015-07-24T22:30:19Z"
     },
     {
@@ -14381,14 +14389,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Splendid Fantazia",
-        "artists": "Rinne Apple P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt",
         "added_at": "2015-07-12T19:49:13Z"
     },
     {
