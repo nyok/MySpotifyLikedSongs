@@ -1,4 +1,5 @@
 name	artists	album	cover	href	added_at
+備忘録 - Self Cover Ver.	TakaseToya	MEMO RANDUM	https://i.scdn.co/image/ab67616d0000b273ad2e5e3a92d45f3b61198c82	https://api.spotify.com/v1/tracks/3AzIcfVZ4axS3IlZrSTxkD	2023-03-30T21:20:24Z
 Answer	Lilas Ikuta	Answer	https://i.scdn.co/image/ab67616d0000b27348c5cfdc37632311b3093be5	https://api.spotify.com/v1/tracks/5hVAQTNarrb3lmWqg9Ens4	2023-03-29T17:59:41Z
 グリンピース	GReeeeN	グリンピース	https://i.scdn.co/image/ab67616d0000b273a20f90fa1c64a0de41da9b96	https://api.spotify.com/v1/tracks/5soa09bsZgHxoG57cN9bwu	2023-03-29T17:48:27Z
 左右盲	ヨルシカ	左右盲	https://i.scdn.co/image/ab67616d0000b273c20a6e31e47ae48d800edd4b	https://api.spotify.com/v1/tracks/797EOD68bmVFiyalgBGeOZ	2023-03-26T16:56:19Z
@@ -1746,11 +1747,11 @@ The House	Rie fu	PORTRAITS	https://i.scdn.co/image/ab67616d0000b2730965ed71b2a01
 Clue	Rie fu	PORTRAITS	https://i.scdn.co/image/ab67616d0000b2730965ed71b2a018cec1e7d866	https://api.spotify.com/v1/tracks/521Uv462Lb9pf6HHPJFrph	2019-05-30T14:35:29Z
 Places	Rie fu	PLACES	https://i.scdn.co/image/ab67616d0000b27308babcb210c904abe3bbaf51	https://api.spotify.com/v1/tracks/4WLTyGjyjLwlYnmmI2X5kb	2019-05-30T14:28:00Z
 Life is Like a Boat	Rie fu	Rie fu	https://i.scdn.co/image/ab67616d0000b27330189ecb95673edd7125d0b1	https://api.spotify.com/v1/tracks/6wIT42IHgz9PvkYcFYqc0x	2019-05-30T11:41:24Z
-Hare hare yukai (suzumiya haruhi no yuuutsu)	trusty products	8bit japan anime cover vol.1	https://i.scdn.co/image/ab67616d0000b273cd24e3fcd0f09f45149b4df5	https://api.spotify.com/v1/tracks/4LwMfv0U6i6D7kAGPMJlxP	2015-07-24T22:30:19Z
 Zankoku na tenshi no These (evangelion)	trusty products	8bit japan anime cover vol.1	https://i.scdn.co/image/ab67616d0000b273cd24e3fcd0f09f45149b4df5	https://api.spotify.com/v1/tracks/1wyWSObP62wU1tbBx7Gr5c	2015-07-24T22:30:19Z
 Don't say ''LAZY'' keion	trusty products	8bit japan anime cover vol.1	https://i.scdn.co/image/ab67616d0000b273cd24e3fcd0f09f45149b4df5	https://api.spotify.com/v1/tracks/1mOzwoD519ujBAWyxS11m2	2015-07-24T22:30:19Z
 Connect (mahou shoujyo madoka magika)	trusty products	8bit japan anime cover vol.1	https://i.scdn.co/image/ab67616d0000b273cd24e3fcd0f09f45149b4df5	https://api.spotify.com/v1/tracks/50Slw1MPmCdmwOsjpkDBV4	2015-07-24T22:30:19Z
 Kimi no shiranai monogatari (bake monogatari)	trusty products	8bit japan anime cover vol.1	https://i.scdn.co/image/ab67616d0000b273cd24e3fcd0f09f45149b4df5	https://api.spotify.com/v1/tracks/7cH3xyTcsHN4vPktTHJjSl	2015-07-24T22:30:19Z
+Hare hare yukai (suzumiya haruhi no yuuutsu)	trusty products	8bit japan anime cover vol.1	https://i.scdn.co/image/ab67616d0000b273cd24e3fcd0f09f45149b4df5	https://api.spotify.com/v1/tracks/4LwMfv0U6i6D7kAGPMJlxP	2015-07-24T22:30:19Z
 Ryousangata Kareshi	SHISHAMO	Ryousangata Kareshi	https://i.scdn.co/image/ab67616d0000b273ba555fecbb6597bc8807c387	https://api.spotify.com/v1/tracks/3QUmnj3iiIkdesYywspcza	2015-07-24T22:30:10Z
 Kimito Hanasenainoha	SHISHAMO	Ryousangata Kareshi	https://i.scdn.co/image/ab67616d0000b273ba555fecbb6597bc8807c387	https://api.spotify.com/v1/tracks/24SRg3sR3yAXGUxD904NFr	2015-07-24T22:30:10Z
 Tenkou No Uta	SHISHAMO	Ryousangata Kareshi	https://i.scdn.co/image/ab67616d0000b273ba555fecbb6597bc8807c387	https://api.spotify.com/v1/tracks/1EOVXz3z8nI1np2AFmlhy8	2015-07-24T22:30:10Z
@@ -1797,5 +1798,4 @@ Luminary	Saiph	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab6761
 yurufuwa koi gokoro	Atawame	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk	2015-07-12T19:49:13Z
 PEACE	Kali C.	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22	2015-07-12T19:49:13Z
 Can We Go Back	Arthur Shastra	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh	2015-07-12T19:49:13Z
-Splendid Fantazia	Rinne Apple P	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt	2015-07-12T19:49:13Z
 Getting Depressed and Depressed	Orange P	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97	https://api.spotify.com/v1/tracks/0lZB3rHRY5e9pewayYNwg7	2015-07-12T19:49:13Z
