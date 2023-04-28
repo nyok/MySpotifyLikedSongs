@@ -1,5 +1,61 @@
 [
     {
+        "name": "\u307e\u3061\u3076\u305b",
+        "artists": "Yumi Arai",
+        "album": "\u307e\u3061\u3076\u305b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27302f0c854bda2866434e7c981",
+        "href": "https://api.spotify.com/v1/tracks/2aYKJFDGdJpu1rXMt7bpBj",
+        "added_at": "2023-04-28T10:39:51Z"
+    },
+    {
+        "name": "\u8a95\u751f\u65e5\u306f\u30de\u30a4\u30ca\u30b91",
+        "artists": "Kanako Wada",
+        "album": "KANA",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738c4999a6de085d2bd04df1d9",
+        "href": "https://api.spotify.com/v1/tracks/7aoAKpdbFqQmQO6WZU4ky0",
+        "added_at": "2023-04-28T10:32:30Z"
+    },
+    {
+        "name": "retour",
+        "artists": "Miki Imai",
+        "album": "retour",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735a2c714b2eb875ad7aca0c04",
+        "href": "https://api.spotify.com/v1/tracks/6DpoeQTNOVTDrr3zihE5eL",
+        "added_at": "2023-04-28T10:23:34Z"
+    },
+    {
+        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0 \u30d6\u30eb\u30fc\u30b9",
+        "artists": "Misato Watanabe",
+        "album": "Song is Beautiful",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273834563c388cf5a8d4a8bea4f",
+        "href": "https://api.spotify.com/v1/tracks/20wk6UiWEi0Op3FLip5xYT",
+        "added_at": "2023-04-28T10:22:21Z"
+    },
+    {
+        "name": "Believe (Remix Version)",
+        "artists": "Misato Watanabe",
+        "album": "ribbon",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27311ed7cd00fb280b02974860c",
+        "href": "https://api.spotify.com/v1/tracks/6npl4QaI1K0GoLDVS71Dv5",
+        "added_at": "2023-04-28T10:21:36Z"
+    },
+    {
+        "name": "\u604b\u3057\u305f\u3063\u3066\u3044\u3044\u3058\u3083\u306a\u3044",
+        "artists": "Misato Watanabe",
+        "album": "The LEGEND",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732126f65e7af65399b24555df",
+        "href": "https://api.spotify.com/v1/tracks/58HA3woxXeudPFVyZHyXXA",
+        "added_at": "2023-04-28T10:21:27Z"
+    },
+    {
+        "name": "My Revolution",
+        "artists": "Misato Watanabe",
+        "album": "The LEGEND",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732126f65e7af65399b24555df",
+        "href": "https://api.spotify.com/v1/tracks/0OWgeWt4Vy4niKdHbMKS3x",
+        "added_at": "2023-04-28T10:17:04Z"
+    },
+    {
         "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
         "artists": "Kanaria",
         "album": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
@@ -14741,62 +14797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Save You!!",
-        "artists": "Electrical",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6AxmJI0UWUxs2B7acGETWT",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Garakuta Hard worker",
-        "artists": "Tohru-ch",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6Ww2oPoTXaVTXO4Csm2qEx",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Dearest",
-        "artists": "Ryo Azuma",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6cND8NaOsmFHEbkRB5y3qQ",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Zombie Zombie Generation",
-        "artists": "Kimuta",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6k9ibeHTEe1RaP1KdzSrvE",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "JAXA",
-        "artists": "Giganta",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Alma Song",
-        "artists": "PWRFL Power",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/7KFBlb7nKH7dieXzKyrZIu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "MelancholyNirandakori",
-        "artists": "BijomenZ nacchi",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/7mwPVfUIDiyUBvEmjSwHkE",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
