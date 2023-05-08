@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u5f53\u4e8b\u8005",
+        "artists": "EGOIST",
+        "album": "\u5f53\u4e8b\u8005",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730b35bb3433dc09fb178a9968",
+        "href": "https://api.spotify.com/v1/tracks/69TMjHuBaLNRtMPopKWbdC",
+        "added_at": "2023-05-08T17:01:16Z"
+    },
+    {
         "name": "Yozora",
         "artists": "Lauren Horii",
         "album": "Yozora",
