@@ -1,5 +1,21 @@
 [
     {
+        "name": "\u98f2\u307f\u306b\u6765\u306a\u3044\u304b",
+        "artists": "Sukima Switch",
+        "album": "\u7a7a\u5275\u30af\u30ea\u30c3\u30d7",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d0624e5204e7871f088a65b9",
+        "href": "https://api.spotify.com/v1/tracks/7Kkck8hOJkK4sGAnFVwm47",
+        "added_at": "2023-05-21T00:45:24Z"
+    },
+    {
+        "name": "\u7530\u5712",
+        "artists": "Koji Tamaki",
+        "album": "CAFE JAPAN",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273966edd81ddaca0b3bd6a8986",
+        "href": "https://api.spotify.com/v1/tracks/0b2PHexDZWgFbvRRswrfRk",
+        "added_at": "2023-05-21T00:19:44Z"
+    },
+    {
         "name": "\u3075\u308c\u3066\u672a\u6765\u3092",
         "artists": "Sukima Switch",
         "album": "\u590f\u96f2\u30ce\u30a4\u30ba",
@@ -15181,22 +15197,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/4OkKw51NOVEEemkZPpWquZ",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Utsusemi Disco",
-        "artists": "killchord",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Kaero Kaero",
-        "artists": "Penoreri",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/4n3xD1VfJRQS6k2p5qDBTt",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
