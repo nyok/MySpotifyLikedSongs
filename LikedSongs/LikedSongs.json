@@ -1,5 +1,117 @@
 [
     {
+        "name": "\u3044\u3070\u3089",
+        "artists": "Ado",
+        "album": "\u3044\u3070\u3089",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e2fd0e132948d0c27192d326",
+        "href": "https://api.spotify.com/v1/tracks/3xWRjOUp8oDOByEJbOVh6U",
+        "added_at": "2023-06-04T00:45:42Z"
+    },
+    {
+        "name": "LADY",
+        "artists": "Kenshi Yonezu",
+        "album": "LADY",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731ed02be53f30035e33b20066",
+        "href": "https://api.spotify.com/v1/tracks/7w6NWogvAAFdEhD9MA2uvv",
+        "added_at": "2023-06-04T00:44:44Z"
+    },
+    {
+        "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
+        "artists": "natori",
+        "album": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27306f4831110130abc335f8452",
+        "href": "https://api.spotify.com/v1/tracks/6MXlv5l2I2BRa9pO38dE1a",
+        "added_at": "2023-06-04T00:44:30Z"
+    },
+    {
+        "name": "Love Song",
+        "artists": "Uru",
+        "album": "\u30b3\u30f3\u30c8\u30e9\u30b9\u30c8(Special Edition)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f42ec303e791b4655a344203",
+        "href": "https://api.spotify.com/v1/tracks/2bVNCp7NZEO5wnRJnNKjff",
+        "added_at": "2023-06-04T00:44:17Z"
+    },
+    {
+        "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+        "artists": "Uru",
+        "album": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736a81da932758060c47773764",
+        "href": "https://api.spotify.com/v1/tracks/4YMukCV1BsdK8V9kZoQpT6",
+        "added_at": "2023-06-04T00:44:12Z"
+    },
+    {
+        "name": "\u5fc3\u5f97",
+        "artists": "Uru",
+        "album": "\u5fc3\u5f97",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d9f45180b95fff6dc19f5f7b",
+        "href": "https://api.spotify.com/v1/tracks/2hPBIYQeqpbQWSMAM9ln1w",
+        "added_at": "2023-06-04T00:44:05Z"
+    },
+    {
+        "name": "TATTOO",
+        "artists": "OFFICIAL HIGE DANDISM",
+        "album": "TATTOO",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c40dd206a9ec33515dd7e1ea",
+        "href": "https://api.spotify.com/v1/tracks/36jIu8oPR1Z4cguMuHxUXA",
+        "added_at": "2023-06-04T00:41:20Z"
+    },
+    {
+        "name": "Cutie Cutie",
+        "artists": "fusq",
+        "album": "Lost Station",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27339f3ace7a490b1073890f52c",
+        "href": "https://api.spotify.com/v1/tracks/0PimqJTXOVDgTI5e79wAYb",
+        "added_at": "2023-06-04T00:35:59Z"
+    },
+    {
+        "name": "\u30de\u30c4\u30b1\u30f3\u30b5\u30f3\u30d0\u2161",
+        "artists": "Ken Matsudaira",
+        "album": "\u30de\u30c4\u30b1\u30f3\u30fb\u30b5\u30f3\u30cf\u3099 II",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732191b4c998f6a9c33c12f506",
+        "href": "https://api.spotify.com/v1/tracks/4emdCmGcerW2gVymhw12vN",
+        "added_at": "2023-06-04T00:27:54Z"
+    },
+    {
+        "name": "\u3088\u308a\u307f\u3061\u30ea\u30c8\u30eb\u30b9\u30bf\u30fc - GAME VERSION",
+        "artists": "U149",
+        "album": "\u3088\u308a\u307f\u3061\u30ea\u30c8\u30eb\u30b9\u30bf\u30fc (GAME VERSION)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d313a2647173a5eed6a3a8aa",
+        "href": "https://api.spotify.com/v1/tracks/0c0SOC0Vz2uQZImlGfnlMf",
+        "added_at": "2023-06-04T00:19:14Z"
+    },
+    {
+        "name": "\u76ee\u6307\u305b\u30e1\u30b8\u30e3\u30fc\u30c7\u30d3\u30e5\u30fc",
+        "artists": "\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u30df\u30e5\u30fc\u30b8\u30ab\u30eb",
+        "album": "\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u30df\u30e5\u30fc\u30b8\u30ab\u30eb",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a7b5daef8a9d2bf73313ced0",
+        "href": "https://api.spotify.com/v1/tracks/7MHFs6L090dST8fg0QeHZV",
+        "added_at": "2023-06-04T00:18:14Z"
+    },
+    {
+        "name": "New Nostalgic Friend - TV size",
+        "artists": "\u9cf3 \u3053\u3053\u306a (CV.\u77f3\u898b\u821e\u83dc\u9999)",
+        "album": "New Nostalgic Friend (TV size)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d1950d7f779ce25ad41df572",
+        "href": "https://api.spotify.com/v1/tracks/1esuDbXrSnmPP9BjgiTZOS",
+        "added_at": "2023-06-04T00:17:11Z"
+    },
+    {
+        "name": "\u604b\u306e\u30c0\u30a4\u30e4\u30eb6700",
+        "artists": "Finger 5",
+        "album": "NEW BEST",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27379060eae79464ec359e7cc84",
+        "href": "https://api.spotify.com/v1/tracks/6n3qQi0KpK3XHKqzt9V6aB",
+        "added_at": "2023-06-04T00:13:06Z"
+    },
+    {
+        "name": "\u4f55\u5ea6\u3067\u3082",
+        "artists": "DREAMS COME TRUE",
+        "album": "THE LOVE ROCKS",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a6c2a27e67d006444f09eae0",
+        "href": "https://api.spotify.com/v1/tracks/1g4iy2Fgiw0vZJE4qBNlhc",
+        "added_at": "2023-06-04T00:12:01Z"
+    },
+    {
         "name": "\u3046\u308c\u3057\u3044!\u305f\u306e\u3057\u3044!\u5927\u597d\u304d!",
         "artists": "DREAMS COME TRUE",
         "album": "\u3046\u308c\u3057\u306f\u305a\u304b\u3057\u671d\u5e30\u308a",
