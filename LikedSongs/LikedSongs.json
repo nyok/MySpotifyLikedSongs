@@ -1,5 +1,29 @@
 [
     {
+        "name": "\u3067\u3082\u306d\u3001\u305f\u307e\u306b\u306f",
+        "artists": "imase",
+        "album": "POP CUBE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734b062591b6a5c15652dd2bb5",
+        "href": "https://api.spotify.com/v1/tracks/6xxFBc6UtaHbAfHJ2SpfpV",
+        "added_at": "2023-06-07T15:42:31Z"
+    },
+    {
+        "name": "\u6771\u4eac\u4eca\u591c",
+        "artists": "\u30d5\u30ec\u30f3\u30ba",
+        "album": "SOLAR",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738a57d51a556a955715598a70",
+        "href": "https://api.spotify.com/v1/tracks/4DIsoFfeSwTvWyE3FjKOmP",
+        "added_at": "2023-06-07T15:26:11Z"
+    },
+    {
+        "name": "U+",
+        "artists": "\u306b\u3057\u306a",
+        "album": "1999",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735ea4597956b0f9020620585c",
+        "href": "https://api.spotify.com/v1/tracks/0MGLjahQGLLVCNRw7bWPE8",
+        "added_at": "2023-06-07T15:19:09Z"
+    },
+    {
         "name": "\u65c5\u8def",
         "artists": "Fujii Kaze",
         "album": "LOVE ALL SERVE ALL",
