@@ -1,5 +1,13 @@
 [
     {
+        "name": "So Beautiful",
+        "artists": "Dizzy Sunfist",
+        "album": "DIZZYLAND -To Infinity & Beyond-",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273faf5815378b9f173e2bab066",
+        "href": "https://api.spotify.com/v1/tracks/0ANrROnEXL45Sro21lWYgX",
+        "added_at": "2023-06-08T14:41:04Z"
+    },
+    {
         "name": "NO BITTER LIFE",
         "artists": "\u30d5\u30ec\u30f3\u30ba",
         "album": "\u30b3\u30f3\u30fb\u30d1\u30fc\u30c1!",
