@@ -1,5 +1,13 @@
 [
     {
+        "name": "NO BITTER LIFE",
+        "artists": "\u30d5\u30ec\u30f3\u30ba",
+        "album": "\u30b3\u30f3\u30fb\u30d1\u30fc\u30c1!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27336935aad9e8a3343b7239c34",
+        "href": "https://api.spotify.com/v1/tracks/4kcIGWTssrFHlwhMQTiLpr",
+        "added_at": "2023-06-08T10:17:48Z"
+    },
+    {
         "name": "In The Deep",
         "artists": "KUZIRA",
         "album": "Deep Down",
