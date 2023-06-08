@@ -1,5 +1,37 @@
 [
     {
+        "name": "\u5929\u4f7f",
+        "artists": "adieu",
+        "album": "adieu 2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27320f15ca0723040769b5902d0",
+        "href": "https://api.spotify.com/v1/tracks/6c7RiaGB3qIte4DJDxcpmb",
+        "added_at": "2023-06-08T07:24:52Z"
+    },
+    {
+        "name": "How crazy",
+        "artists": "YUI",
+        "album": "CAN'T BUY MY LOVE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737508bd4e7236b2524dc2ec91",
+        "href": "https://api.spotify.com/v1/tracks/6ivAnhE6HtZbq9qJvVHp6G",
+        "added_at": "2023-06-08T07:23:16Z"
+    },
+    {
+        "name": "Partner",
+        "artists": "\u6709\u83ef",
+        "album": "Partner",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27334fca08b3e6bd06be8b4721a",
+        "href": "https://api.spotify.com/v1/tracks/48lsRmp9AC6tU4rP9QJx4H",
+        "added_at": "2023-06-08T07:10:12Z"
+    },
+    {
+        "name": "boy - feat. asmi & imase",
+        "artists": "KERENMI",
+        "album": "boy (feat. asmi & imase)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a18f6d290a513b3dbb59e19b",
+        "href": "https://api.spotify.com/v1/tracks/5ZpYanxEoJRJjfWJORq2Jf",
+        "added_at": "2023-06-08T07:01:26Z"
+    },
+    {
         "name": "\u30a4\u30a8\u30b9\u30bf\u30c7\u30a4",
         "artists": "OFFICIAL HIGE DANDISM",
         "album": "Traveler",
