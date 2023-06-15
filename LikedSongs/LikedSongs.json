@@ -2800,6 +2800,406 @@
         "added_at": "2022-12-20T20:21:51Z"
     },
     {
+        "name": "your song",
+        "artists": "SUPER BEAVER",
+        "album": "\u672a\u6765\u306e\u59cb\u3081\u304b\u305f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ead3b36601634e8ac3a50023",
+        "href": "https://api.spotify.com/v1/tracks/5tnpJstGXXug2qb5HWTzva",
+        "added_at": "2022-12-20T20:09:46Z"
+    },
+    {
+        "name": "\u3089\u3057\u3055",
+        "artists": "SUPER BEAVER",
+        "album": "\u611b\u3059\u308b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ba12a2a6e9e5341f4d947def",
+        "href": "https://api.spotify.com/v1/tracks/4KH5dTWkl7HRBa3LgBkj1c",
+        "added_at": "2022-12-20T19:58:43Z"
+    },
+    {
+        "name": "\u7a81\u7834\u53e3",
+        "artists": "SUPER BEAVER",
+        "album": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273cf35fa841bcdb5d625e43439",
+        "href": "https://api.spotify.com/v1/tracks/2JNl3zf7dLaK3ceN12RTOW",
+        "added_at": "2022-12-20T19:58:35Z"
+    },
+    {
+        "name": "\u79d8\u5bc6 - Acoustic ver.",
+        "artists": "SUPER BEAVER",
+        "album": "\u3072\u305f\u3080\u304d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ad6786761cdb224757fa1f8d",
+        "href": "https://api.spotify.com/v1/tracks/4t309yXLwMWfras7ddXrXk",
+        "added_at": "2022-12-20T19:58:09Z"
+    },
+    {
+        "name": "WALK",
+        "artists": "Kana Adachi",
+        "album": "WALK",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731b7614de9fd61b56b3e6eb80",
+        "href": "https://api.spotify.com/v1/tracks/1ehQnIJZ6V5SrmY52N4tHU",
+        "added_at": "2022-12-18T16:54:51Z"
+    },
+    {
+        "name": "\u77ac\u304d\u3068\u7cbe\u795e\u3068\u541b\u306e\u6b4c\u3068\u97f3\u697d\u3068",
+        "artists": "ao",
+        "album": "\u77ac\u304d\u3068\u7cbe\u795e\u3068\u541b\u306e\u6b4c\u3068\u97f3\u697d\u3068",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732bf7fef99608cd45e262892d",
+        "href": "https://api.spotify.com/v1/tracks/0u6MZXPVfP9bAVuvGd4DgP",
+        "added_at": "2022-12-18T16:53:01Z"
+    },
+    {
+        "name": "\u3081\u3044\u3073\u30fc",
+        "artists": "Dannie May",
+        "album": "\u3081\u3044\u3073\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d1c8f17e67dab9cc3b48da7f",
+        "href": "https://api.spotify.com/v1/tracks/6AXJ3EZVbAOzTH3ws1YcXS",
+        "added_at": "2022-12-18T13:30:10Z"
+    },
+    {
+        "name": "CHEESE!",
+        "artists": "the peggies",
+        "album": "MMY",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27336a4520966f0b5e730a519ed",
+        "href": "https://api.spotify.com/v1/tracks/1q0SHDl0P7NkZtY24BbJu5",
+        "added_at": "2022-12-18T13:19:11Z"
+    },
+    {
+        "name": "\u30d7\u30ed\u30df\u30b9\u30b6\u30b9\u30bf\u30fc",
+        "artists": "BiSH",
+        "album": "THE GUERRiLLA BiSH",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f",
+        "href": "https://api.spotify.com/v1/tracks/61Yl4bWKSUeNxe6jPgKq5c",
+        "added_at": "2022-12-18T13:04:59Z"
+    },
+    {
+        "name": "\u307e\u3058\u30672\u5206\u3067\u4f5c\u3063\u305f\u66f2",
+        "artists": "Yabai T-Shirts Yasan",
+        "album": "\u3072\u307e\u308f\u308a\u30b3\u30f3\u30c6\u30b9\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a959d324e6689c6d716c3c48",
+        "href": "https://api.spotify.com/v1/tracks/3Aw9qEJhxqhAXrrUidm27U",
+        "added_at": "2022-12-18T12:53:30Z"
+    },
+    {
+        "name": "\u767a\u8272",
+        "artists": "PASSEPIED",
+        "album": "ukabubaku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730577e159648615e286ba4631",
+        "href": "https://api.spotify.com/v1/tracks/5BtRCXGoPRpkhpY6umG3hn",
+        "added_at": "2022-12-18T12:41:35Z"
+    },
+    {
+        "name": "Like?",
+        "artists": "chilldspot",
+        "album": "Titles",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27300f555e39ad7390eb28cd6a9",
+        "href": "https://api.spotify.com/v1/tracks/2nyjxEUH1nxw1P0MY0YFPD",
+        "added_at": "2022-12-18T12:31:29Z"
+    },
+    {
+        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+        "artists": "Ryokuoushoku Shakai",
+        "album": "\u30df\u30c1\u30f2\u30e6\u30b1",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273193d3b1828f00f7b9c2d3965",
+        "href": "https://api.spotify.com/v1/tracks/63EaBEMlwYv55V7YXO7LQv",
+        "added_at": "2022-12-18T12:19:41Z"
+    },
+    {
+        "name": "\u30b5\u30e8\u30ca\u30e9",
+        "artists": "\u7af9\u5185\u30a2\u30f3\u30ca",
+        "album": "\u30b5\u30e8\u30ca\u30e9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a4ae0c1aa730168e199d0191",
+        "href": "https://api.spotify.com/v1/tracks/236Qs6gaFYm4vIAvSmkETB",
+        "added_at": "2022-12-18T12:09:45Z"
+    },
+    {
+        "name": "CALL ME AGAiN",
+        "artists": "BiSH",
+        "album": "ZUTTO",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30",
+        "href": "https://api.spotify.com/v1/tracks/6nJg2bBZdga2bp45jRXjkR",
+        "added_at": "2022-12-18T12:04:14Z"
+    },
+    {
+        "name": "ZUTTO",
+        "artists": "BiSH",
+        "album": "ZUTTO",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30",
+        "href": "https://api.spotify.com/v1/tracks/1WQg8t53Iu9g1nAHsscbnN",
+        "added_at": "2022-12-16T20:38:23Z"
+    },
+    {
+        "name": "\u30d0\u30b1\u30e2\u30ce\u3002",
+        "artists": "703goushitsu",
+        "album": "\u30d0\u30b1\u30e2\u30ce\u3002",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f8899610661ace136493aad9",
+        "href": "https://api.spotify.com/v1/tracks/4xkYvJDWmwJssTGPCgVFjx",
+        "added_at": "2022-12-16T16:13:46Z"
+    },
+    {
+        "name": "\u30bd\u30ec\u4ee5\u4e0a\u3001\u30a2\u30ec\u672a\u6e80",
+        "artists": "Sayuri Kokusho",
+        "album": "GOLDEN\u2606BEST / \u56fd\u751f\u3055\u3086\u308a SINGLES",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ce5ea2f9514999d490994625",
+        "href": "https://api.spotify.com/v1/tracks/5sXwB6HFE5h93GQ7wGopQg",
+        "added_at": "2022-12-15T20:09:13Z"
+    },
+    {
+        "name": "\u30ce\u30fc\u30d6\u30eb\u30ec\u30c3\u30c9\u306e\u77ac\u9593",
+        "artists": "Sayuri Kokusho",
+        "album": "GOLDEN\u2606BEST / \u56fd\u751f\u3055\u3086\u308a SINGLES",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ce5ea2f9514999d490994625",
+        "href": "https://api.spotify.com/v1/tracks/6jg4LkRWZ9yrAEMaLmWBiP",
+        "added_at": "2022-12-15T16:31:54Z"
+    },
+    {
+        "name": "\u590f\u3092\u5f85\u3066\u306a\u3044",
+        "artists": "Sayuri Kokusho",
+        "album": "GOLDEN\u2606BEST / \u56fd\u751f\u3055\u3086\u308a SINGLES",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ce5ea2f9514999d490994625",
+        "href": "https://api.spotify.com/v1/tracks/2pefCh2oaPIfRVo2EwnvS7",
+        "added_at": "2022-12-15T16:31:48Z"
+    },
+    {
+        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30fb\u30ad\u30c3\u30b9",
+        "artists": "Sayuri Kokusho",
+        "album": "GOLDEN\u2606BEST / \u56fd\u751f\u3055\u3086\u308a SINGLES",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ce5ea2f9514999d490994625",
+        "href": "https://api.spotify.com/v1/tracks/2N8hrhxDHw5RBdcQdIStwO",
+        "added_at": "2022-12-15T16:31:29Z"
+    },
+    {
+        "name": "Happy Xmas(War Is Over)",
+        "artists": "LOVE PSYCHEDELICO",
+        "album": "Beautiful World / Happy Xmas(War Is Over)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734de19f7baeffd81c3cf5e14b",
+        "href": "https://api.spotify.com/v1/tracks/5kWcBzgOyefctkf0WuFj52",
+        "added_at": "2022-12-13T20:06:49Z"
+    },
+    {
+        "name": "CHRISTMAS TIME FOREVER",
+        "artists": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+        "album": "\u4e16\u306b\u4e07\u8449\u306e\u82b1\u304c\u54b2\u304f\u306a\u308a",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733fbdbafd73f59238466524b1",
+        "href": "https://api.spotify.com/v1/tracks/3KVI0WQZpi7J91dY2Zk8Im",
+        "added_at": "2022-12-13T19:59:13Z"
+    },
+    {
+        "name": "\u51a5\u754c\u30e9\u30f3\u30c7\u30d6\u30fc(\u51a5\u754cVer.)",
+        "artists": "\u30d5\u30fc\u30ea\u30f3\u30ad\u30e3\u30c3\u30c8\u30de\u30fc\u30af",
+        "album": "\u30ed\u30f3\u30b0\u30ed\u30f3\u30b0\u30ed\u30f3\u30c9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fd485bc33a3b3dd67c062f89",
+        "href": "https://api.spotify.com/v1/tracks/1uP7Ihff1KoWAdpXt0bgwD",
+        "added_at": "2022-12-11T16:04:25Z"
+    },
+    {
+        "name": "Night Club Junkie",
+        "artists": "YUC'e",
+        "album": "Future C\u03b1ke",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f7d7a349fca78dc31913deda",
+        "href": "https://api.spotify.com/v1/tracks/7KzQ9ermAzagLbxwX5n0eP",
+        "added_at": "2022-12-10T22:23:49Z"
+    },
+    {
+        "name": "\u672a\u6765-\u30df\u30e9\u30a4-",
+        "artists": "Miho Fukuhara",
+        "album": "Music is My Life",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e13bad82325b23ba614b7196",
+        "href": "https://api.spotify.com/v1/tracks/6AjN6y27DISzU1q1sIWYH9",
+        "added_at": "2022-12-10T20:10:13Z"
+    },
+    {
+        "name": "Only One,Only You",
+        "artists": "GLAY",
+        "album": "Only One,Only You",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27369aa32c5f7db178037445b40",
+        "href": "https://api.spotify.com/v1/tracks/0ff65hi4fvwWPQWPcaIojp",
+        "added_at": "2022-12-10T19:19:38Z"
+    },
+    {
+        "name": "Free",
+        "artists": "My Little Lover",
+        "album": "evergreen",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a848606699dc0439a2c01e78",
+        "href": "https://api.spotify.com/v1/tracks/3NKXwyqJQEXttgfQVraIAE",
+        "added_at": "2022-12-10T19:06:55Z"
+    },
+    {
+        "name": "\u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060",
+        "artists": "yama",
+        "album": "Oz. / \u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060 / \u30b9\u30e2\u30fc\u30ad\u30fc\u30d2\u30ed\u30a4\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739ba05a2519cde4b92130ac73",
+        "href": "https://api.spotify.com/v1/tracks/5eOEqeLIkfbj6lFQ7a4mmZ",
+        "added_at": "2022-12-09T20:42:43Z"
+    },
+    {
+        "name": "\u751f\u6d3b",
+        "artists": "\u5c0f\u6797\u79c1",
+        "album": "\u5065\u5eb7\u3092\u60a3\u3046",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a49dd87f19efd38e11ed1710",
+        "href": "https://api.spotify.com/v1/tracks/20CcYR3hmlnPE3Vg3aXOjR",
+        "added_at": "2022-12-09T20:09:35Z"
+    },
+    {
+        "name": "\u751f\u6d3b",
+        "artists": "SAKURA FUJIWARA",
+        "album": "SUPERMARKET",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b83e081072479599359528e8",
+        "href": "https://api.spotify.com/v1/tracks/7Ir6oHlrS6oxsuUK3tf7Lw",
+        "added_at": "2022-12-09T20:09:21Z"
+    },
+    {
+        "name": "\u79c1\u751f\u6d3b - \u65b0\u8a33\u7248",
+        "artists": "Tokyo Incidents",
+        "album": "\u79c1\u751f\u6d3b (\u65b0\u8a33\u7248)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736e3033cf5ab5ebe495733661",
+        "href": "https://api.spotify.com/v1/tracks/0VNPsx1SsHyJCyvNwSYTHo",
+        "added_at": "2022-12-09T20:08:57Z"
+    },
+    {
+        "name": "\u708e",
+        "artists": "LiSA",
+        "album": "\u708e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094",
+        "href": "https://api.spotify.com/v1/tracks/0cSkn2l67csUljEy0EEBPn",
+        "added_at": "2022-12-09T19:20:38Z"
+    },
+    {
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30bd\u30f3\u30b0",
+        "artists": "back number",
+        "album": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27359a14a1d53eb5610f84c8382",
+        "href": "https://api.spotify.com/v1/tracks/5P8ZvBQoCrujjNcLAxO3Su",
+        "added_at": "2022-12-09T19:19:15Z"
+    },
+    {
+        "name": "Butterfly",
+        "artists": "BUMP OF CHICKEN",
+        "album": "Butterflies",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c5233a87900584258a21f267",
+        "href": "https://api.spotify.com/v1/tracks/2L0B42R9RNk5Wx23ZCqglF",
+        "added_at": "2022-12-09T19:08:42Z"
+    },
+    {
+        "name": "\u304d\u307f\u306e\u3044\u306a\u3044\u90e8\u5c4b",
+        "artists": "Hideki Kaji",
+        "album": "\u304d\u307f\u306e\u3044\u306a\u3044\u90e8\u5c4b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27359cba256b9e7a3d8b81b4935",
+        "href": "https://api.spotify.com/v1/tracks/1bLbnXKtK6JsK0WOO0uEsV",
+        "added_at": "2022-12-09T19:07:41Z"
+    },
+    {
+        "name": "Grieve",
+        "artists": "\u73c0",
+        "album": "Grieve",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732c0da97c08446af3e3aa8b44",
+        "href": "https://api.spotify.com/v1/tracks/0rVUKdK6BIBFxfuOj98ic2",
+        "added_at": "2022-12-09T18:11:28Z"
+    },
+    {
+        "name": "Stella Express",
+        "artists": "Tselky",
+        "album": "Stella Express",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27344f9187a9b24305192672c71",
+        "href": "https://api.spotify.com/v1/tracks/0dE0VwMNC8g5Ykog9meRB5",
+        "added_at": "2022-12-09T18:11:25Z"
+    },
+    {
+        "name": "\u672a\u5b8c\u6210\u30ec\u30be\u30ca\u30f3\u30b9",
+        "artists": "meiyo",
+        "album": "\u672a\u5b8c\u6210\u30ec\u30be\u30ca\u30f3\u30b9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ae3dbe494d150b4e401d0377",
+        "href": "https://api.spotify.com/v1/tracks/2xp8nv9MiUCQWSaA4HvnfV",
+        "added_at": "2022-12-09T18:10:01Z"
+    },
+    {
+        "name": "\u5c0f\u3055\u306a\u5922",
+        "artists": "Higuchi Ai",
+        "album": "\u5c0f\u3055\u306a\u5922",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ae81f555a4adcfa68e91b3cd",
+        "href": "https://api.spotify.com/v1/tracks/5RgAxJOsu3rvHIGPZQAvnJ",
+        "added_at": "2022-12-09T18:06:27Z"
+    },
+    {
+        "name": "Good\u2606Vibration",
+        "artists": "Nyarons",
+        "album": "Good\u2606Vibration",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739292562662bd0629eef92566",
+        "href": "https://api.spotify.com/v1/tracks/388VKCgJZliyMKfw83DR77",
+        "added_at": "2022-12-09T18:02:56Z"
+    },
+    {
+        "name": "\u30b5\u30e0\u30c7\u30a4\u30eb\u30fc\u30b6\u30fc",
+        "artists": "reGretGirl",
+        "album": "\u30b5\u30e0\u30c7\u30a4\u30eb\u30fc\u30b6\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f7c9bb2f631bde676b96f278",
+        "href": "https://api.spotify.com/v1/tracks/2K4TGcqNCfhIBgA6rfuqUK",
+        "added_at": "2022-12-09T17:58:14Z"
+    },
+    {
+        "name": "\u3044\u3064\u304b\u3053\u306e\u6d99\u304c - Live Tour 2022 Journey Live on 2022.07.24 -",
+        "artists": "Little Glee Monster",
+        "album": "Live Tour 2022 Journey",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273953536237c17df8714013181",
+        "href": "https://api.spotify.com/v1/tracks/0o9Hs9UVGCUSYf4aIQ8l1y",
+        "added_at": "2022-12-09T17:52:56Z"
+    },
+    {
+        "name": "Like no one's done",
+        "artists": "Sincere",
+        "album": "Like no one's done",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e559dfb0dd4319341a9d655c",
+        "href": "https://api.spotify.com/v1/tracks/1G8jWpWgCtTEuy4Zz3Ihfe",
+        "added_at": "2022-12-08T19:37:58Z"
+    },
+    {
+        "name": "LOVE\u301cwinter song\u301c(album version)",
+        "artists": "Miho Fukuhara",
+        "album": "RAINBOW",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739d13bd1a5fdf7fe0c5c2841e",
+        "href": "https://api.spotify.com/v1/tracks/4A4sQHvMpSdcuUewSOOB0t",
+        "added_at": "2022-12-05T21:31:05Z"
+    },
+    {
+        "name": "TOKYO\u901a\u4fe1\u301cUrbs Communication\u301c",
+        "artists": "SOUL'd OUT",
+        "album": "Single Collection",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735e065d435e57434819c36468",
+        "href": "https://api.spotify.com/v1/tracks/3BGAIb1nZvZ4vvBRPsZ1rJ",
+        "added_at": "2022-12-05T17:55:46Z"
+    },
+    {
+        "name": "\u5fd8\u308c\u54b2\u304d",
+        "artists": "GARNET CROW",
+        "album": "I'm waiting 4 you",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27346322857912a9609c09490a0",
+        "href": "https://api.spotify.com/v1/tracks/71TpBctYuFr8mV9YcOPrnl",
+        "added_at": "2022-12-04T23:31:14Z"
+    },
+    {
+        "name": "\u6d99\u306e\u30a4\u30a8\u30b9\u30bf\u30c7\u30fc",
+        "artists": "GARNET CROW",
+        "album": "THE BEST History of GARNET CROW at the crest...",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739277c0f915e61584c356232e",
+        "href": "https://api.spotify.com/v1/tracks/7ehUmLhuvuObMjp4w5rZoM",
+        "added_at": "2022-12-04T23:31:02Z"
+    },
+    {
+        "name": "\u7ffc\u3092\u5e83\u3052\u3066",
+        "artists": "ZARD",
+        "album": "\u7ffc\u3092\u5e83\u3052\u3066 / \u611b\u306f\u6697\u95c7\u306e\u4e2d\u3067",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273631a0fdcce390402139acda0",
+        "href": "https://api.spotify.com/v1/tracks/6rqejjcfbRUSQ0WXhV2bg6",
+        "added_at": "2022-12-04T23:29:51Z"
+    },
+    {
+        "name": "\u3042\u306a\u305f\u306b\u4f1a\u3048\u3066\u3088\u304b\u3063\u305f",
+        "artists": "Kyoko Koizumi",
+        "album": "AFROPIA",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731d187d85f2a50d7d2e8124fa",
+        "href": "https://api.spotify.com/v1/tracks/5FJho22sdsYoBFeuov4myw",
+        "added_at": "2022-12-04T23:27:47Z"
+    },
+    {
         "name": "Yumeyozora",
         "artists": "\u5c0f\u6fa4\u3061\u3072\u308d",
         "album": "\u304d\u3085\u304d\u3085\u304d\u3085",
@@ -3598,6 +3998,406 @@
         "cover": "https://i.scdn.co/image/ab67616d0000b273255ca949e450cb675edf715d",
         "href": "https://api.spotify.com/v1/tracks/17rhDgnYYryQU4uS71ZxFu",
         "added_at": "2022-11-14T22:32:24Z"
+    },
+    {
+        "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
+        "artists": "\u7d50\u675f\u30d0\u30f3\u30c9",
+        "album": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c21080fb642befe5247ac6bc",
+        "href": "https://api.spotify.com/v1/tracks/0jpP8AlQLVtaMwA3vQYpYB",
+        "added_at": "2022-11-14T22:28:15Z"
+    },
+    {
+        "name": "\u5e78\u305b\u306e\u30b7\u30e3\u30ca\u30ca",
+        "artists": "BRADIO",
+        "album": "Joyful Style",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ba79c6cc24c1402c58add9cb",
+        "href": "https://api.spotify.com/v1/tracks/1JCiBOh5xgXilLg8G4JcaT",
+        "added_at": "2022-11-14T22:18:42Z"
+    },
+    {
+        "name": "tokyo",
+        "artists": "miyukicore",
+        "album": "tokyo",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737c5cda3b836aff1516d6653b",
+        "href": "https://api.spotify.com/v1/tracks/5SJOAm1woBrghcgGBO1kpE",
+        "added_at": "2022-11-14T22:15:37Z"
+    },
+    {
+        "name": "Bitter Sweet Harmony",
+        "artists": "\u4e2d\u5cf6\u611b",
+        "album": "30 pieces of love -selection-",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e7c944bd319abcd7441be7ea",
+        "href": "https://api.spotify.com/v1/tracks/4pY7Ls1vq65efdZfZaNn69",
+        "added_at": "2022-11-14T21:46:05Z"
+    },
+    {
+        "name": "\u30e9\u30a4\u30aa\u30f3",
+        "artists": "May'n",
+        "album": "\u300c\u30de\u30af\u30ed\u30b9F\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de \u30e9\u30a4\u30aa\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732adcb5fdd7cd48b096577e83",
+        "href": "https://api.spotify.com/v1/tracks/35HhTsMus2B7hA7rfbrp84",
+        "added_at": "2022-11-14T21:45:56Z"
+    },
+    {
+        "name": "\u6c34\u69fd",
+        "artists": "\u4e2d\u5cf6\u611b",
+        "album": "\u6c34\u69fd/\u9aea\u98fe\u308a\u306e\u5929\u4f7f [\u661f\u5408\u76e4]",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f968855d9959f680bcff9e29",
+        "href": "https://api.spotify.com/v1/tracks/4BPegBTKIorWndePrVSCge",
+        "added_at": "2022-11-14T21:45:41Z"
+    },
+    {
+        "name": "\u3055\u3088\u306a\u3089\u306e\u590f\u301c\u30b3\u30af\u30ea\u30b3\u5742\u304b\u3089\u301c",
+        "artists": "Sumi Shimamoto",
+        "album": "sings \u30b8\u30d6\u30ea \u30ea\u30cb\u30e5\u30fc\u30a2\u30eb \u30d4\u30a2\u30ce \u30d0\u30fc\u30b8\u30e7\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732ca65c341b8810efdc647db8",
+        "href": "https://api.spotify.com/v1/tracks/6wK2qgPFfQe9N47GLWsn2g",
+        "added_at": "2022-11-14T21:37:47Z"
+    },
+    {
+        "name": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed",
+        "artists": "Sumi Shimamoto",
+        "album": "sings \u30b8\u30d6\u30ea \u30ea\u30cb\u30e5\u30fc\u30a2\u30eb \u30d4\u30a2\u30ce \u30d0\u30fc\u30b8\u30e7\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732ca65c341b8810efdc647db8",
+        "href": "https://api.spotify.com/v1/tracks/5eJC4YhqcIniyNuWrel2ot",
+        "added_at": "2022-11-14T21:27:06Z"
+    },
+    {
+        "name": "The Moon (Duck Tales OST)",
+        "artists": "Yoshihiro Sakaguchi",
+        "album": "Top 10 Nes Soundtracks",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732c9f2a2f3071a1d38d766568",
+        "href": "https://api.spotify.com/v1/tracks/60KXVSMBnRC1r3Bgxq1lfD",
+        "added_at": "2022-11-14T21:26:32Z"
+    },
+    {
+        "name": "Still Alive (From \"Portal\")",
+        "artists": "The 8-Bit Big Band",
+        "album": "Choose Your Character!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2",
+        "href": "https://api.spotify.com/v1/tracks/0RrhwwIqnfCDPZD7DfWAVj",
+        "added_at": "2022-11-14T21:10:47Z"
+    },
+    {
+        "name": "Demons",
+        "artists": "Fly By Nightcore",
+        "album": "Goes Acoustic, Vol. 5",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e6ee4d1e97cdb2c0a10afd9d",
+        "href": "https://api.spotify.com/v1/tracks/7hn0m92sRbUs69esustI8a",
+        "added_at": "2022-11-14T21:07:15Z"
+    },
+    {
+        "name": "\u8d64\u3044\u82b1\u767d\u3044\u82b1",
+        "artists": "Shione Yukawa",
+        "album": "\u30ae\u30f3\u30ac\u30e0\u30c1\u30a7\u30c3\u30af\u306e\u5c0f\u9ce5",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27384ba3ebd120126da2161fd28",
+        "href": "https://api.spotify.com/v1/tracks/7ziZTgtVYfCHOb3fuHOncn",
+        "added_at": "2022-11-14T20:57:17Z"
+    },
+    {
+        "name": "\u604b\u306f\u6c34\u8272",
+        "artists": "Saori Yuki",
+        "album": "\u3042\u306a\u305f\u3068\u591c\u3068\u97f3\u697d\u3068 -\u7531\u7d00\u3055\u304a\u308a\u306e\u9b45\u529b-",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735aaa1586452c3c9a8ef2d0ee",
+        "href": "https://api.spotify.com/v1/tracks/6XOoJQqY4G5pzdnvjAN203",
+        "added_at": "2022-11-14T20:56:10Z"
+    },
+    {
+        "name": "\u30d0\u30fc\u30c6\u30f3\u30c0\u30fc",
+        "artists": "Natural  High",
+        "album": "\u59cb\u307e\u308a\u306e\u30d2\u30c8/\u30d0\u30fc\u30c6\u30f3\u30c0\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c06d02709cf446e8b47a8723",
+        "href": "https://api.spotify.com/v1/tracks/0aEuqNf2B3XXqCEYGvPLyB",
+        "added_at": "2022-11-14T20:49:36Z"
+    },
+    {
+        "name": "\u4e16\u754c\u3067\u3044\u3061\u3070\u3093\u71b1\u3044\u590f",
+        "artists": "Natural  High",
+        "album": "14\u30d7\u30ea\u30f3\u30bb\u30b9\u301cPRINCESS PRINCESS CHILDREN\u301c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273dd50aa3f9d2d5fbea9f63356",
+        "href": "https://api.spotify.com/v1/tracks/2x3qRB7jIWm61lECoonBYU",
+        "added_at": "2022-11-14T20:49:30Z"
+    },
+    {
+        "name": "\u307c\u304f\u3089\u306e\u9b54\u6cd5",
+        "artists": "Humbert Humbert",
+        "album": "\u611b\u306e\u3072\u307f\u3064",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273341102e115919ce1ebdfaa40",
+        "href": "https://api.spotify.com/v1/tracks/54CtSKddgZ9VOn2C3BFwK2",
+        "added_at": "2022-11-14T20:40:15Z"
+    },
+    {
+        "name": "\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+        "artists": "yutori",
+        "album": "\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b7908923b949871770286a42",
+        "href": "https://api.spotify.com/v1/tracks/6xUokbrxXheK4GLPsWIHsc",
+        "added_at": "2022-11-14T20:36:39Z"
+    },
+    {
+        "name": "\u3042\u3079\u3053\u3079",
+        "artists": "imase",
+        "album": "\u3042\u3079\u3053\u3079",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273675eb55fb8d2a0254a9579f8",
+        "href": "https://api.spotify.com/v1/tracks/7Elrq7Thg6UxFGNv6NgpuK",
+        "added_at": "2022-11-14T20:35:40Z"
+    },
+    {
+        "name": "sweety girl",
+        "artists": "\u4e2d\u6751\u3055\u3093\u305d",
+        "album": "\u4e2d\u6751\u3055\u3093\u305d\u3068\u5922\u306e\u7d9a\u304d\u3067",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27355c206cd4a7b1c18970aab1a",
+        "href": "https://api.spotify.com/v1/tracks/7BbX9Pvwz4VZGXBOZ8gd75",
+        "added_at": "2022-11-14T20:21:46Z"
+    },
+    {
+        "name": "17",
+        "artists": "TOMOO",
+        "album": "17",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fcd9a55d8acb5c797f4b792c",
+        "href": "https://api.spotify.com/v1/tracks/0ZfMlo2gcxF5NYmRQL8ajQ",
+        "added_at": "2022-11-14T20:18:52Z"
+    },
+    {
+        "name": "\u30d3\u30e5\u30fc\u30c6\u30a3\u30fcMY\u30b8\u30f3\u30bb\u30a4!",
+        "artists": "Kaede Higuchi",
+        "album": "\u30d3\u30e5\u30fc\u30c6\u30a3\u30fcMY\u30b8\u30f3\u30bb\u30a4!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f69b4dc24f11ba5664137acb",
+        "href": "https://api.spotify.com/v1/tracks/3OzOIAFa2IsiTiUs6cNJ7W",
+        "added_at": "2022-11-14T20:17:39Z"
+    },
+    {
+        "name": "CHECK!",
+        "artists": "SW!CH",
+        "album": "Pinky Bandage",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e0beba6afc5d91b11fc23f3d",
+        "href": "https://api.spotify.com/v1/tracks/6LvXfG8izru5TL3ph5fetp",
+        "added_at": "2022-11-14T20:16:15Z"
+    },
+    {
+        "name": "\u307e\u308b\u3067\u4ea1\u970a",
+        "artists": "TOOBOE",
+        "album": "\u9320\u5264",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a44551bfeb6730c6bc912ea7",
+        "href": "https://api.spotify.com/v1/tracks/1bM6d4I1ljftWkDFHdGYVV",
+        "added_at": "2022-11-14T20:09:32Z"
+    },
+    {
+        "name": "Anthem",
+        "artists": "Young Kee",
+        "album": "Bad Memory",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a03fd643d9d1fcdea2a27997",
+        "href": "https://api.spotify.com/v1/tracks/6f1ukHvuOh7cLIW3M7A0tr",
+        "added_at": "2022-11-14T20:05:45Z"
+    },
+    {
+        "name": "\u50b7\u3092\u96a0\u3057\u3066",
+        "artists": "tonari no Hanako",
+        "album": "\u50b7\u3092\u96a0\u3057\u3066",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273527f4a73cc40667d54baba21",
+        "href": "https://api.spotify.com/v1/tracks/5XwZ7M00FqgFD0Azt6j1yk",
+        "added_at": "2022-11-14T20:04:21Z"
+    },
+    {
+        "name": "Gotcha!",
+        "artists": "Lilniina",
+        "album": "Gotcha!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273183ca96b13e3a418ef24ab28",
+        "href": "https://api.spotify.com/v1/tracks/2R6yks6HZO7ISPZedfRdCa",
+        "added_at": "2022-11-14T20:02:08Z"
+    },
+    {
+        "name": "akumachan \u2020",
+        "artists": "Lilniina",
+        "album": "akumachan \u2020",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f87dd98e3d495369ce00f822",
+        "href": "https://api.spotify.com/v1/tracks/0GY6TyS3rcaXOCWhDP20yw",
+        "added_at": "2022-11-14T20:00:07Z"
+    },
+    {
+        "name": "Angel Beach",
+        "artists": "STARKIDS",
+        "album": "POP",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f9ef3d688ec6015c8d2af0e7",
+        "href": "https://api.spotify.com/v1/tracks/1xYkWXUJDJn8sHZWIPz40o",
+        "added_at": "2022-11-14T19:57:39Z"
+    },
+    {
+        "name": "midorimaru",
+        "artists": "\u306a\u307f\u3060\u85cd",
+        "album": "midorimaru",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732d5da0e099df215ae82c141a",
+        "href": "https://api.spotify.com/v1/tracks/6htCJTMggmQ7vdLXjdirTX",
+        "added_at": "2022-11-14T18:30:05Z"
+    },
+    {
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30d7\u30e9\u30cd\u30c3\u30c8",
+        "artists": "Usotsuki",
+        "album": "\u30ed\u30f3\u30ea\u30fc\u30d7\u30e9\u30cd\u30c3\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b4a6ef422cff3f295dc80ddb",
+        "href": "https://api.spotify.com/v1/tracks/5MdVsN1CNlsrUzG7WhIq6I",
+        "added_at": "2022-11-12T23:01:45Z"
+    },
+    {
+        "name": "\u30a2\u30fc\u30e2\u30f3\u30c9 - feat. \u308a\u308a\u3042\u3002",
+        "artists": "Ohashi Trio",
+        "album": "\u30a2\u30fc\u30e2\u30f3\u30c9 (feat. \u308a\u308a\u3042\u3002)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27348326569c41e2de6ceb8fb9c",
+        "href": "https://api.spotify.com/v1/tracks/5j3gYRcISt5cbd6VFLBXOv",
+        "added_at": "2022-11-12T23:01:37Z"
+    },
+    {
+        "name": "\u65b0\u661f",
+        "artists": "yama",
+        "album": "\u8272\u5f69",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27314849f3b83757735f52785d8",
+        "href": "https://api.spotify.com/v1/tracks/4dwRjaD0ttkelpv5eoE6RT",
+        "added_at": "2022-11-12T22:58:51Z"
+    },
+    {
+        "name": "\u79c1\u306f\u6700\u5f37",
+        "artists": "Mrs. GREEN APPLE",
+        "album": "Soranji",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273394f3c1d90214a5ddfc20457",
+        "href": "https://api.spotify.com/v1/tracks/0tJ6d01rh2gTbpFlY1mYJZ",
+        "added_at": "2022-11-12T22:57:50Z"
+    },
+    {
+        "name": "\u50d5\u304c\u4e00\u756a\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
+        "artists": "Noriyuki Makihara",
+        "album": "EXPLORER",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27347f8840f6510f923a6706ccd",
+        "href": "https://api.spotify.com/v1/tracks/0lgZz4x4QuTo3nEl5uoVJl",
+        "added_at": "2022-11-12T22:56:11Z"
+    },
+    {
+        "name": "\u306a\u3044\u3082\u306e\u306d\u3060\u308a",
+        "artists": "Chunky Cookie Club",
+        "album": "Popcorn",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27300b247026de3b2a544a125e2",
+        "href": "https://api.spotify.com/v1/tracks/5JJOQwB0DEN3U7z1uQKxjp",
+        "added_at": "2022-11-11T20:04:43Z"
+    },
+    {
+        "name": "\u306a\u3044\u3082\u306e\u306d\u3060\u308a",
+        "artists": "kumoi",
+        "album": "\u306a\u3044\u3082\u306e\u306d\u3060\u308a",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273437aac806d9b64b8689706c9",
+        "href": "https://api.spotify.com/v1/tracks/5vjnTfKqM0NYdozaByhGIo",
+        "added_at": "2022-11-11T20:04:42Z"
+    },
+    {
+        "name": "\u30e9\u30ea\u30d1\u30c3\u30d1\u2606\u3057\u3085\u304e",
+        "artists": "\u8389\u72ac",
+        "album": "\u30b7\u30e3\u30c3\u30bf\u30fc\u30c1\u30e3\u30f3\u30b9!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273525ef8060c39f025cfd2e97a",
+        "href": "https://api.spotify.com/v1/tracks/2aUQsJ7RRnl1q3h8uFBRQY",
+        "added_at": "2022-11-09T20:32:18Z"
+    },
+    {
+        "name": "Popipo",
+        "artists": "Hatsune Miku",
+        "album": "Popipo",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739d3a80d132ba4bb428c74473",
+        "href": "https://api.spotify.com/v1/tracks/04nJixim5a0MAz3PGiVID1",
+        "added_at": "2022-11-09T20:31:33Z"
+    },
+    {
+        "name": "YY",
+        "artists": "\u30ed\u30a4-R\u00f6E-",
+        "album": "YY",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273192ca62200efa1373ac0885f",
+        "href": "https://api.spotify.com/v1/tracks/25GkD4iNf00xQqvAv8hXAg",
+        "added_at": "2022-11-09T19:35:19Z"
+    },
+    {
+        "name": "\u305d\u307c\u3075\u308b",
+        "artists": "\u30ed\u30a4-R\u00f6E-",
+        "album": "\u30ef\u30eb\u30b5",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a830aeb94132dd97b97b9aec",
+        "href": "https://api.spotify.com/v1/tracks/1aVETDhW4PucwcVb2ARWZ0",
+        "added_at": "2022-11-09T19:32:20Z"
+    },
+    {
+        "name": "VIOLATION",
+        "artists": "\u30ed\u30a4-R\u00f6E-",
+        "album": "\u30ef\u30eb\u30b5",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a830aeb94132dd97b97b9aec",
+        "href": "https://api.spotify.com/v1/tracks/6TOfP5kaEoAJI218uDRaSf",
+        "added_at": "2022-11-09T19:24:23Z"
+    },
+    {
+        "name": "\u305d\u305d\u3089\u308b\u308b*",
+        "artists": "\u30ed\u30a4-R\u00f6E-",
+        "album": "\u30a6\u30ab",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273982d0378ba29779ff812cedb",
+        "href": "https://api.spotify.com/v1/tracks/53RVx25TQVXibxmRfINlqW",
+        "added_at": "2022-11-09T19:22:48Z"
+    },
+    {
+        "name": "Fighters",
+        "artists": "\u30ed\u30a4-R\u00f6E-",
+        "album": "Fighters",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f0bfed2731d6fc06cf2243a6",
+        "href": "https://api.spotify.com/v1/tracks/2hRq4L0wg5fkD6VXAiUsSW",
+        "added_at": "2022-11-09T19:14:30Z"
+    },
+    {
+        "name": "\u6ce1\u3068\u9396*",
+        "artists": "\u30ed\u30a4-R\u00f6E-",
+        "album": "\u30a6\u30ab",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273982d0378ba29779ff812cedb",
+        "href": "https://api.spotify.com/v1/tracks/38E90l9mVZn3WczJxkGMhy",
+        "added_at": "2022-11-09T19:05:49Z"
+    },
+    {
+        "name": "Senpai",
+        "artists": "Bemax",
+        "album": "Senpai",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b14b40485254cd46e144febc",
+        "href": "https://api.spotify.com/v1/tracks/7o6ID71UTdoVD9t2nyrCnb",
+        "added_at": "2022-11-09T18:35:27Z"
+    },
+    {
+        "name": "\u7d0b\u767d\u8776 - feat. \u77f3\u539f\u614e\u4e5f (Saucy Dog)",
+        "artists": "Tokyo Ska Paradise Orchestra",
+        "album": "\u7d0b\u767d\u8776 [feat. \u77f3\u539f\u614e\u4e5f (Saucy Dog)]",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273dfd0a8e56f116738078a7946",
+        "href": "https://api.spotify.com/v1/tracks/70uJr9I7fSA0DUrnSzyCvZ",
+        "added_at": "2022-11-09T16:42:07Z"
+    },
+    {
+        "name": "\u304a\u304b\u3048\u308a - Home and Dry ver.",
+        "artists": "Tani Yuuki",
+        "album": "\u304a\u304b\u3048\u308a",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ce750ebc50229d0a163c3306",
+        "href": "https://api.spotify.com/v1/tracks/06YN5tCfdQ8WSsTQNeAtfM",
+        "added_at": "2022-11-09T16:39:19Z"
+    },
+    {
+        "name": "Perfect! Your Love",
+        "artists": "Yoko Kuzuya",
+        "album": "Perfect! Your Love",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27379a604b27ec65f006e878290",
+        "href": "https://api.spotify.com/v1/tracks/5NrqcSAxspspQHsSSoHgey",
+        "added_at": "2022-11-09T16:32:16Z"
+    },
+    {
+        "name": "\u611b\u3092\u89e3\u304f",
+        "artists": "yama",
+        "album": "\u8272\u5f69",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27314849f3b83757735f52785d8",
+        "href": "https://api.spotify.com/v1/tracks/7DHatm4xHTDxQaTz83zf7V",
+        "added_at": "2022-11-09T16:30:49Z"
+    },
+    {
+        "name": "CICADA",
+        "artists": "RUNG HYANG",
+        "album": "ROMANTIA",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f906e3357fad4908b830f7d1",
+        "href": "https://api.spotify.com/v1/tracks/3Z6TLHU8N4oCjhFK0aJDER",
+        "added_at": "2022-11-09T16:29:48Z"
     },
     {
         "name": "\u4e00\u6589\u30ce\u559d\u91c7",
@@ -4798,6 +5598,406 @@
         "cover": "https://i.scdn.co/image/ab67616d0000b273a9e5fa677c2f00686585b5ac",
         "href": "https://api.spotify.com/v1/tracks/2gqwCxvd7eVS07GGP1As3R",
         "added_at": "2022-10-30T20:49:30Z"
+    },
+    {
+        "name": "\u3088\u308b\u304a\u304d\u3066\u3042\u3055\u306d\u3080\u308b",
+        "artists": "\u6620\u79c0\u3002",
+        "album": "\u3088\u308b\u304a\u304d\u3066\u3042\u3055\u306d\u3080\u308b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f7d7a8b2b051b15987c6d026",
+        "href": "https://api.spotify.com/v1/tracks/6DRaMkWwRgUzsFFPKR3uY3",
+        "added_at": "2022-10-30T20:27:45Z"
+    },
+    {
+        "name": "ICE CREAM.",
+        "artists": "\u7af9\u5185\u30a2\u30f3\u30ca",
+        "album": "TICKETS",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273789b2ea4ccbc7bbfaa8a4112",
+        "href": "https://api.spotify.com/v1/tracks/3JTJ62eyEnldRkMzRoRHug",
+        "added_at": "2022-10-30T20:26:04Z"
+    },
+    {
+        "name": "SUNKISSed GIRL",
+        "artists": "\u7af9\u5185\u30a2\u30f3\u30ca",
+        "album": "MATOUSIC",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273aa707260372822d185ec7c48",
+        "href": "https://api.spotify.com/v1/tracks/2qjpEBiidr8lyE0MHZ0xxL",
+        "added_at": "2022-10-30T20:25:59Z"
+    },
+    {
+        "name": "RIDE ON WEEKEND",
+        "artists": "\u7af9\u5185\u30a2\u30f3\u30ca",
+        "album": "MATOUSIC",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273aa707260372822d185ec7c48",
+        "href": "https://api.spotify.com/v1/tracks/1camFvxeIWoou6KQ5sZJHk",
+        "added_at": "2022-10-30T20:25:47Z"
+    },
+    {
+        "name": "Fly-day Chinatown",
+        "artists": "\u6cf0\u8449",
+        "album": "Fly-day Chinatown",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27368a5d2cd77f7abef0b964981",
+        "href": "https://api.spotify.com/v1/tracks/2uXlHiOE4o5xHOCiob8DKn",
+        "added_at": "2022-10-30T20:22:34Z"
+    },
+    {
+        "name": "\u706f\u706b",
+        "artists": "Yuga",
+        "album": "\u8a00\u8449\u306e\u306a\u3044\u591c\u306b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ac34b01184df4f375c9594dd",
+        "href": "https://api.spotify.com/v1/tracks/3B08qtYJGxfCeCCdVCg3YU",
+        "added_at": "2022-10-30T20:19:28Z"
+    },
+    {
+        "name": "\u30e1\u30ed\u30c7\u30a3\u30fc",
+        "artists": "Koji Tamaki",
+        "album": "CAFE JAPAN",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273966edd81ddaca0b3bd6a8986",
+        "href": "https://api.spotify.com/v1/tracks/3QppEXrAGuSrs8pmlxBDou",
+        "added_at": "2022-10-30T20:18:51Z"
+    },
+    {
+        "name": "\u77b3\u306b\u3081\u3056\u3081\u3066",
+        "artists": "My Hair is Bad",
+        "album": "\u77b3\u306b\u3081\u3056\u3081\u3066",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273973b418b61ee9dbe17b9fc5b",
+        "href": "https://api.spotify.com/v1/tracks/2Mf4WM0Ek5JjbolrOtjLgi",
+        "added_at": "2022-10-30T20:15:21Z"
+    },
+    {
+        "name": "\u30b9\u30ce\u30fc\u30d5\u30ec\u30fc\u30af\u306e\u30b9\u30ab\u30fc\u30c8",
+        "artists": "\u5e73\u7406\u592e",
+        "album": "\u30b9\u30ce\u30fc\u30d5\u30ec\u30fc\u30af\u306e\u30b9\u30ab\u30fc\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c7263980ed738308af02b4ce",
+        "href": "https://api.spotify.com/v1/tracks/40KpIBdbuMBs5IDASSzZbh",
+        "added_at": "2022-10-30T20:04:19Z"
+    },
+    {
+        "name": "First Love",
+        "artists": "Hikaru Utada",
+        "album": "First Love",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734fa36b14a276fe560940baa0",
+        "href": "https://api.spotify.com/v1/tracks/39HrUxcvKF3jtLz7fUDWXc",
+        "added_at": "2022-10-30T20:00:46Z"
+    },
+    {
+        "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
+        "artists": "Mrs. GREEN APPLE",
+        "album": "Attitude",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27381f55cd879e9480e3ed313df",
+        "href": "https://api.spotify.com/v1/tracks/2vOAHp8PBBFYqvQUWSoITY",
+        "added_at": "2022-10-30T19:46:31Z"
+    },
+    {
+        "name": "\u50d5\u306e\u3053\u3068",
+        "artists": "Mrs. GREEN APPLE",
+        "album": "Attitude",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27381f55cd879e9480e3ed313df",
+        "href": "https://api.spotify.com/v1/tracks/0tnhoHUrHfcLi9hPknUFZ4",
+        "added_at": "2022-10-30T19:40:29Z"
+    },
+    {
+        "name": "Mirror",
+        "artists": "CHANMINA",
+        "album": "Mirror",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d554b69a22d91cbd2cec28b0",
+        "href": "https://api.spotify.com/v1/tracks/6tF5SVu63mcy3bxzqpTiap",
+        "added_at": "2022-10-30T19:28:46Z"
+    },
+    {
+        "name": "SOUVENIR",
+        "artists": "BUMP OF CHICKEN",
+        "album": "SOUVENIR",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734215e4b973011670aaad1d9b",
+        "href": "https://api.spotify.com/v1/tracks/7qOsSOpiL3R8RKyiBtIYNQ",
+        "added_at": "2022-10-30T19:16:21Z"
+    },
+    {
+        "name": "\u30c0\u30c0\u30ea\u30aa",
+        "artists": "ZOOKARADERU",
+        "album": "\u30c0\u30c0\u30ea\u30aa",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735a609b81698f523966f3ef3d",
+        "href": "https://api.spotify.com/v1/tracks/5W3DgO9LLQkG1EVUKRNmZo",
+        "added_at": "2022-10-29T20:20:39Z"
+    },
+    {
+        "name": "\u3044\u3064\u304b",
+        "artists": "Saucy Dog",
+        "album": "\u30ab\u30f3\u30c8\u30ea\u30fc\u30ed\u30fc\u30c9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733f3a6fd24fb49e6dabf7c5bf",
+        "href": "https://api.spotify.com/v1/tracks/0v3iUTe5rskRsxbUhboRlT",
+        "added_at": "2022-10-29T20:17:59Z"
+    },
+    {
+        "name": "\u7d2b\u82d1",
+        "artists": "Saucy Dog",
+        "album": "\u7d2b\u82d1",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737fc0b7f31a6eafbe80c3bb27",
+        "href": "https://api.spotify.com/v1/tracks/4dFGAtzdQ0C7WowKPZXc8J",
+        "added_at": "2022-10-29T20:17:12Z"
+    },
+    {
+        "name": "Your Song",
+        "artists": "LOVE PSYCHEDELICO",
+        "album": "THE GREATEST HITS",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27353c6f4c704dc35de47cfe331",
+        "href": "https://api.spotify.com/v1/tracks/1n6MXJ2Yj5xjZrGLUFqN0J",
+        "added_at": "2022-10-29T20:12:16Z"
+    },
+    {
+        "name": "Last Smile",
+        "artists": "LOVE PSYCHEDELICO",
+        "album": "Last Smile",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27371a329645e0cc1911719b42f",
+        "href": "https://api.spotify.com/v1/tracks/2VLahyfOp1t3SMuU2HeQvx",
+        "added_at": "2022-10-29T20:12:10Z"
+    },
+    {
+        "name": "\u98fd\u548c",
+        "artists": "Ayase",
+        "album": "\u98fd\u548c / \u30b7\u30cd\u30de",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732933fcf8998a8e1feebdf464",
+        "href": "https://api.spotify.com/v1/tracks/1UPtzvnvQALqV9feDrqVSs",
+        "added_at": "2022-10-29T20:11:53Z"
+    },
+    {
+        "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+        "artists": "back number",
+        "album": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735f96f9df056aa682c854e720",
+        "href": "https://api.spotify.com/v1/tracks/4gbHag1jhjLTDcrbfpFnYQ",
+        "added_at": "2022-10-29T19:04:16Z"
+    },
+    {
+        "name": "\u3075\u308f\u3075\u308f\u266a",
+        "artists": "Yui Makino",
+        "album": "\u30db\u30ed\u30b0\u30e9\u30d5\u30a3\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735f67bcfdf5371f967af2180f",
+        "href": "https://api.spotify.com/v1/tracks/0XeCa4l7Ibd1GYhUVVpcho",
+        "added_at": "2022-10-27T19:56:38Z"
+    },
+    {
+        "name": "\u79c1\u3068\u4e16\u754c",
+        "artists": "Yui Makino",
+        "album": "\u3042\u306a\u305f\u3068\u308f\u305f\u3057\u3092\u7e4b\u3050\u3082\u306e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e4b84eebdcdb7e7273c90569",
+        "href": "https://api.spotify.com/v1/tracks/1ozBLIVhjPJSupubyOimQE",
+        "added_at": "2022-10-27T18:38:25Z"
+    },
+    {
+        "name": "Subtitle",
+        "artists": "OFFICIAL HIGE DANDISM",
+        "album": "Subtitle",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d69b54199b7773b97a57a196",
+        "href": "https://api.spotify.com/v1/tracks/49F3htNmwzPKFycPdOrDvf",
+        "added_at": "2022-10-27T15:12:40Z"
+    },
+    {
+        "name": "\u30b9\u30d4\u30e9\u30fc\u30ec",
+        "artists": "Yui Makino",
+        "album": "\u30c6\u30ec\u30d3\u6771\u4eac\u7cfb\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cARIA The ORIGINATION\u300dOP\u30c6\u30fc\u30de \u30b9\u30d4\u30e9\u30fc\u30ec",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733670d14f1e7aeed4f0cd8805",
+        "href": "https://api.spotify.com/v1/tracks/5v7d2c9NlvYbP3vooHj4RZ",
+        "added_at": "2022-10-27T15:11:16Z"
+    },
+    {
+        "name": "demo",
+        "artists": "\u306a\u304b\u306d\u304b\u306a",
+        "album": "demo",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737644657b6473145613b17c2f",
+        "href": "https://api.spotify.com/v1/tracks/30VCqfe0tfVIYMkHv02xfx",
+        "added_at": "2022-10-26T16:23:04Z"
+    },
+    {
+        "name": "STRAIGHT JET",
+        "artists": "\u6817\u6797\u307f\u306a\u5b9f",
+        "album": "10th Anniversary Best Album\u300cstories\u300d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737f98297230ab5b58b05e41f3",
+        "href": "https://api.spotify.com/v1/tracks/7ccf23kreCBuwDto1zGyuo",
+        "added_at": "2022-10-26T15:50:27Z"
+    },
+    {
+        "name": "\u30b7\u30e5\u30ac\u30fc\u30fb\u30b7\u30e5\u30ac\u30fc\u30fb\u30b9\u30d1\u30a4\u30b9",
+        "artists": "\u6817\u6797\u307f\u306a\u5b9f",
+        "album": "\u30b7\u30e5\u30ac\u30fc\u30fb\u30b7\u30e5\u30ac\u30fc\u30fb\u30b9\u30d1\u30a4\u30b9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e18af71d5cb6290d44b118c2",
+        "href": "https://api.spotify.com/v1/tracks/5EtOLv7nGSg2ENdoGIawwp",
+        "added_at": "2022-10-26T15:41:56Z"
+    },
+    {
+        "name": "Cakes",
+        "artists": "Homecomings",
+        "album": "Cakes",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27310047bd7a4b20870c054cb59",
+        "href": "https://api.spotify.com/v1/tracks/1KNtWqY7PTkDywG27CKYT6",
+        "added_at": "2022-10-26T11:53:06Z"
+    },
+    {
+        "name": "F Wonderful World",
+        "artists": "ano",
+        "album": "F Wonderful World",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e70b9faea69ab5cbcc0cc233",
+        "href": "https://api.spotify.com/v1/tracks/0mYH5j2O9xt1PC9obiDz9X",
+        "added_at": "2022-10-26T10:08:53Z"
+    },
+    {
+        "name": "\u5e78\u305b\u306e\u5206\u304b\u308c\u9053",
+        "artists": "Yuki Kadokura",
+        "album": "\u5e78\u305b\u306e\u5206\u304b\u308c\u9053",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734ea7a4fb62912f0a70f0d42c",
+        "href": "https://api.spotify.com/v1/tracks/2k0408p0p1OWdqCFvia0yE",
+        "added_at": "2022-10-26T09:36:31Z"
+    },
+    {
+        "name": "Love? Reason why!!",
+        "artists": "Konomi Suzuki",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u604b\u611b\u30d5\u30ed\u30c3\u30d7\u30b9\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300cLove? Reason why!!\u300d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735cb9952a63d19b5036e36d8c",
+        "href": "https://api.spotify.com/v1/tracks/6mxGQEjIxL6grFLPuvT3kg",
+        "added_at": "2022-10-26T09:35:33Z"
+    },
+    {
+        "name": "\u3059\u305a\u3081",
+        "artists": "RADWIMPS",
+        "album": "\u3059\u305a\u3081",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27348d4eaf595967959fc3be747",
+        "href": "https://api.spotify.com/v1/tracks/1huqzMaPdQkXuOJaLxrC2s",
+        "added_at": "2022-10-25T09:51:45Z"
+    },
+    {
+        "name": "\u3053\u3093\u306a\u591c\u66f4\u3051\u306f",
+        "artists": "GLIM SPANKY",
+        "album": "Walking On Fire",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273dfd4ca4a3fad3cca1d3e786e",
+        "href": "https://api.spotify.com/v1/tracks/5Gd5llvb4qm3o7DjQbjUqY",
+        "added_at": "2022-10-23T21:38:10Z"
+    },
+    {
+        "name": "\u591c\u96f2\u5f71",
+        "artists": "Yoko Hatanaka",
+        "album": "\u591c\u96f2\u5f71",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736addc147af68407f5d10d6dc",
+        "href": "https://api.spotify.com/v1/tracks/54fHjhMsdgQhvmd2MK96lf",
+        "added_at": "2022-10-23T21:37:21Z"
+    },
+    {
+        "name": "Restart!",
+        "artists": "Snail's House",
+        "album": "Restart!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733519bf485ed5d52771da1a85",
+        "href": "https://api.spotify.com/v1/tracks/52lDb3brvuOnMWjtS5tZpE",
+        "added_at": "2022-10-23T18:31:50Z"
+    },
+    {
+        "name": "\u7b50\u4f53\u54c0\u6b4c",
+        "artists": "Sumire Uesaka",
+        "album": "ANTHOLOGY & DESTINY",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739e12a6db8cf098a406565c61",
+        "href": "https://api.spotify.com/v1/tracks/4FC1INSCidLXSlaLvtjqZi",
+        "added_at": "2022-10-23T18:30:01Z"
+    },
+    {
+        "name": "\u4eba\u306b\u3084\u3055\u3057\u304f",
+        "artists": "Rika Tanaka",
+        "album": "Japanese Songbook 2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ce480d9644da0584c3aa2d67",
+        "href": "https://api.spotify.com/v1/tracks/4oIMA54mk5UcB1p5UOzHho",
+        "added_at": "2022-10-23T18:29:16Z"
+    },
+    {
+        "name": "\u666e\u5909",
+        "artists": "ano",
+        "album": "\u666e\u5909",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273146e593d20f71c2916f9ed37",
+        "href": "https://api.spotify.com/v1/tracks/0erVkcKozQbnisCelEiC7S",
+        "added_at": "2022-10-23T17:41:26Z"
+    },
+    {
+        "name": "KICK BACK",
+        "artists": "Kenshi Yonezu",
+        "album": "KICK BACK",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273303d8545fce8302841c39859",
+        "href": "https://api.spotify.com/v1/tracks/3khEEPRyBeOUabbmOPJzAG",
+        "added_at": "2022-10-23T17:41:01Z"
+    },
+    {
+        "name": "\u30de\u30e8\u30a4\u30ac",
+        "artists": "Hitsujibungaku",
+        "album": "\u30de\u30e8\u30a4\u30ac",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f964facb63811100c7a60bc1",
+        "href": "https://api.spotify.com/v1/tracks/0aAYM2ApVTzuNOgI0sZPmE",
+        "added_at": "2022-10-21T22:00:45Z"
+    },
+    {
+        "name": "\u307f\u3093\u306a\u306e\u4e16\u754c",
+        "artists": "\u30eb\u30df\u30ca\u30b9\u30a6\u30a3\u30c3\u30c1\u30fc\u30ba",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30eb\u30df\u30ca\u30b9\u30a6\u30a3\u30c3\u30c1\u30fc\u30ba\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0CD 3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27339d8c8bd0a62588c5da2a98d",
+        "href": "https://api.spotify.com/v1/tracks/6AhmLktSK6eSpTVHCdP78n",
+        "added_at": "2022-10-21T22:00:34Z"
+    },
+    {
+        "name": "\u305a\u308b\u3044\u3088\u2026",
+        "artists": "CHIHIRO",
+        "album": "NAMIDA CARATS",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27323ac8cb2adad61872f206288",
+        "href": "https://api.spotify.com/v1/tracks/3XHNXqZKnA22UA3o73dT0z",
+        "added_at": "2022-10-21T21:54:28Z"
+    },
+    {
+        "name": "3%",
+        "artists": "CHIHIRO",
+        "album": "3%",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27302e5ef1a846be1e79ae027ad",
+        "href": "https://api.spotify.com/v1/tracks/1pk8geYcPBvNhipvGfmmA9",
+        "added_at": "2022-10-21T21:49:41Z"
+    },
+    {
+        "name": "\u77b3\u304c\u307b\u307b\u3048\u3080\u304b\u3089",
+        "artists": "Miki Imai",
+        "album": "I Love a Piano",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732aa7c18f60b8ae90b7b6bd8c",
+        "href": "https://api.spotify.com/v1/tracks/3qVOVJTnuYaNB32gwkrjvK",
+        "added_at": "2022-10-19T23:26:53Z"
+    },
+    {
+        "name": "\u3055\u3088\u306a\u3089\u306e\u590f~\u30b3\u30af\u30ea\u30b3\u5742\u304b\u3089~",
+        "artists": "Aoi Teshima",
+        "album": "\u30b3\u30af\u30ea\u30b3\u5742\u304b\u3089 \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273645fad695a35bb7c674acb1e",
+        "href": "https://api.spotify.com/v1/tracks/7H6XelNUoK8FAejLzpgUoo",
+        "added_at": "2022-10-19T23:26:18Z"
+    },
+    {
+        "name": "\u7a7a\u8272\u30c7\u30a4\u30ba",
+        "artists": "Shoko Nakagawa",
+        "album": "\u3057\u3087\u3053\u305f\u3093\u2606\u3079\u3059\u3068\u2015\u2015(\u00b0\u2200\u00b0)\u2015\u2015!!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735015c8ee13ce0a321269d199",
+        "href": "https://api.spotify.com/v1/tracks/4EkbGJChszyxhEP0bIwBSZ",
+        "added_at": "2022-10-19T23:10:47Z"
+    },
+    {
+        "name": "\u305d\u308c\u3067\u3082\u50d5\u306f",
+        "artists": "yama",
+        "album": "Versus the night",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730ceb00274ab3e634c68283c7",
+        "href": "https://api.spotify.com/v1/tracks/31QKpSuAzhMCnoJZYgAG4h",
+        "added_at": "2022-10-19T23:10:09Z"
+    },
+    {
+        "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
+        "artists": "Lilas Ikuta",
+        "album": "\u30b9\u30d1\u30fc\u30af\u30eb",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bad1903025f118cb2d6b6335",
+        "href": "https://api.spotify.com/v1/tracks/6EuubEs5qOmJdpNhkU47OZ",
+        "added_at": "2022-10-19T23:09:30Z"
+    },
+    {
+        "name": "\u30b9\u30de\u30a4\u30eb",
+        "artists": "\u68ee\u4e03\u83dc",
+        "album": "\u30b9\u30de\u30a4\u30eb",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e314bb758e7bfa8a2c4c9054",
+        "href": "https://api.spotify.com/v1/tracks/4GMsLvtWIlSnUzWFiN3vXV",
+        "added_at": "2022-10-19T23:05:14Z"
     },
     {
         "name": "\u9053",
@@ -11200,6 +12400,1206 @@
         "added_at": "2021-01-16T23:38:07Z"
     },
     {
+        "name": "Youkoso! Hitori Bocchi - Welcome to Loneliness",
+        "artists": "ACN Music.",
+        "album": "Welcome to the nhk",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e4aa1f8b42927d6dfcfbe7f6",
+        "href": "https://api.spotify.com/v1/tracks/63iEdkn9ytfgWPbly2QG4t",
+        "added_at": "2021-01-16T23:37:07Z"
+    },
+    {
+        "name": "\u5352\u696d\u5199\u771f",
+        "artists": "Ikimonogakari",
+        "album": "SAKURA",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273212b2f06b099c754392df0af",
+        "href": "https://api.spotify.com/v1/tracks/0t08HcKTJyw83sFM1cO7w7",
+        "added_at": "2021-01-16T23:35:56Z"
+    },
+    {
+        "name": "\u7d20\u6575\u306a\u3053\u3068\u304c\u3042\u306a\u305f\u3092\u5f85\u3063\u3066\u3044\u308b",
+        "artists": "Maiko Fujita",
+        "album": "\u601d\u3044\u7d9a\u3051\u308c\u3070",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733e25a4e14558ca09b7a289d5",
+        "href": "https://api.spotify.com/v1/tracks/4InGRX5xss39djALr9nF6Y",
+        "added_at": "2021-01-16T23:33:58Z"
+    },
+    {
+        "name": "\u86cd",
+        "artists": "Maiko Fujita",
+        "album": "\u3082\u3046\u4e00\u5ea6",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bcd031d9ad0f2dd5b473248f",
+        "href": "https://api.spotify.com/v1/tracks/1oF9lB1sISfiL96yyX1iDE",
+        "added_at": "2021-01-16T23:33:55Z"
+    },
+    {
+        "name": "\u306d\u3047",
+        "artists": "Maiko Fujita",
+        "album": "10th Anniversary Best",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bd790e127845f03f4c9e5576",
+        "href": "https://api.spotify.com/v1/tracks/6hTrqKniNDWOoC2H6P3Is5",
+        "added_at": "2021-01-16T23:33:19Z"
+    },
+    {
+        "name": "\u306e\u3046\u305c\u3093\u304b\u3064\u3089 - \u30ea\u30d7\u30e9\u30a4\u30ba",
+        "artists": "Yuko Ando",
+        "album": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30c7\u30a4\u30ba \u301cLimited Collection\u301c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273405778f99b87207b028cdb77",
+        "href": "https://api.spotify.com/v1/tracks/1UoH4VvLD0w5UP2rvFnlwY",
+        "added_at": "2021-01-16T23:32:43Z"
+    },
+    {
+        "name": "Ambivalentidea",
+        "artists": "yanaginagi",
+        "album": "Ambivalentidea",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27311998397c23e32e42fe4d04c",
+        "href": "https://api.spotify.com/v1/tracks/2pVM7fKZJHsFskQBtWk7tf",
+        "added_at": "2021-01-16T23:28:29Z"
+    },
+    {
+        "name": "DreamRiser",
+        "artists": "ChouCho",
+        "album": "secretgarden",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fd7a002947d9cb2e58849815",
+        "href": "https://api.spotify.com/v1/tracks/4TVlVdsWTsJGkTI5yhs0Dv",
+        "added_at": "2021-01-16T23:27:57Z"
+    },
+    {
+        "name": "Respect for the dead man",
+        "artists": "Pay money To my Pain",
+        "album": "gene",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f5ce0cbd2270440809b09c96",
+        "href": "https://api.spotify.com/v1/tracks/7lUJKsXRl9D38QDoRvEvvr",
+        "added_at": "2021-01-16T23:26:54Z"
+    },
+    {
+        "name": "Omae Wa Mou - Tiny Little Adiantum Remix",
+        "artists": "deadman \u6b7b\u4eba",
+        "album": "Omae Wa Mou (Tiny Little Adiantum Remix)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d54ad93b8712802d7a880d0d",
+        "href": "https://api.spotify.com/v1/tracks/7hY1S4SKti3cGz0rGYmT5A",
+        "added_at": "2021-01-16T23:25:21Z"
+    },
+    {
+        "name": "\u30c9\u30e9\u30de\u30c1\u30c3\u30af",
+        "artists": "YUKI",
+        "album": "Powers of Ten",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736650024baed81246cb29c3a3",
+        "href": "https://api.spotify.com/v1/tracks/55s4VF7PAAoWEo3bgjOa8r",
+        "added_at": "2021-01-16T23:25:14Z"
+    },
+    {
+        "name": "Sparkle - movie ver.",
+        "artists": "RADWIMPS",
+        "album": "Your Name.",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273cbbbea7d8fcf057f65071a85",
+        "href": "https://api.spotify.com/v1/tracks/3A4FRzgve9BjfKbvVXRIFO",
+        "added_at": "2021-01-16T23:25:10Z"
+    },
+    {
+        "name": "Catch You Catch Me",
+        "artists": "GUMI",
+        "album": "\u30ab\u30fc\u30c9\u30ad\u30e3\u30d7\u30bf\u30fc\u3055\u304f\u3089 \u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 1998.4~1999.2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273193532dece8c9bd455095412",
+        "href": "https://api.spotify.com/v1/tracks/6ElSzFGDDrOnE0ifSf7WMC",
+        "added_at": "2021-01-16T23:24:58Z"
+    },
+    {
+        "name": "Groovy!",
+        "artists": "Kohmi Hirose",
+        "album": "\u30ab\u30fc\u30c9\u30ad\u30e3\u30d7\u30bf\u30fc\u3055\u304f\u3089 \u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 1998.4~1999.2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273193532dece8c9bd455095412",
+        "href": "https://api.spotify.com/v1/tracks/1x4FdiswW96Q9PV2A1rJxP",
+        "added_at": "2021-01-16T23:24:53Z"
+    },
+    {
+        "name": "Kasumisou",
+        "artists": "Akiakane",
+        "album": "Kasumisou",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27376d8366a824c470e175d9d0d",
+        "href": "https://api.spotify.com/v1/tracks/2f1gCiX1VFJB1IrWcuF4aI",
+        "added_at": "2021-01-16T23:23:53Z"
+    },
+    {
+        "name": "Listen to the Stereo!!",
+        "artists": "GOING UNDER GROUND",
+        "album": "Inagawa Kun",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27315724e93002ef0fe9221a848",
+        "href": "https://api.spotify.com/v1/tracks/2ezVGTwsguq9FuvBfw6cHm",
+        "added_at": "2021-01-16T23:21:41Z"
+    },
+    {
+        "name": "Q&A \u30ea\u30b5\u30a4\u30bf\u30eb!",
+        "artists": "Haruka Tomatsu",
+        "album": "Haruka Tomatsu Best Selection Sunshine",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b8701b69e2ed435ce11d6078",
+        "href": "https://api.spotify.com/v1/tracks/30zu4o628KVJE2l8DgGJYb",
+        "added_at": "2021-01-15T22:36:47Z"
+    },
+    {
+        "name": "\u30ce\u30fc\u30dd\u30a4\u30c3!",
+        "artists": "Petit Rabbit's",
+        "album": "\u30ce\u30fc\u30dd\u30a4\u30c3!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a029394be12aedb8b0e80085",
+        "href": "https://api.spotify.com/v1/tracks/7jcNtBUinvkKPEkt5DiUyc",
+        "added_at": "2021-01-15T22:24:10Z"
+    },
+    {
+        "name": "Venus & Jesus (RADIO ONSEN EUTOPIA)",
+        "artists": "YAKUSHIMARU Etsuko",
+        "album": "RADIO ONSEN EUTOPIA",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738642040675045076ca7dff5b",
+        "href": "https://api.spotify.com/v1/tracks/0e9FUaO12sbDQY1gFXHEE9",
+        "added_at": "2021-01-08T18:37:04Z"
+    },
+    {
+        "name": "\u98a8\u8aad\u307f\u30ea\u30dc\u30f3",
+        "artists": "Aya Hirano",
+        "album": "\u5192\u967a\u3067\u3057\u3087\u3067\u3057\u3087?",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737e2e9f8006bc35acbac34ea1",
+        "href": "https://api.spotify.com/v1/tracks/0MuWDaQCWZYDR12uDZhYco",
+        "added_at": "2021-01-08T16:20:15Z"
+    },
+    {
+        "name": "Friend Like Me - Shiki Theatre Company",
+        "artists": "SHIKI THEATRE COMPANY",
+        "album": "Broadway's Musical Comedy Aladdin (Shiki Version)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738735051020359329c08583e3",
+        "href": "https://api.spotify.com/v1/tracks/2ZADGpvbg6LuwbXcb7caXs",
+        "added_at": "2021-01-06T23:17:44Z"
+    },
+    {
+        "name": "TSUNAMI",
+        "artists": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+        "album": "TSUNAMI",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27343ea9e1f2ebeb01786d83676",
+        "href": "https://api.spotify.com/v1/tracks/2iXZA6Ecf9AZHw92tZBNLv",
+        "added_at": "2021-01-06T22:59:19Z"
+    },
+    {
+        "name": "\u30cf\u30ca\u30df\u30ba\u30ad",
+        "artists": "Yo Hitoto",
+        "album": "\u30d2\u30c8\u30c8\u30a6\u30bf",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739207422fb700cadeada31696",
+        "href": "https://api.spotify.com/v1/tracks/4PqDkR6YM80Sy590Qsy6mm",
+        "added_at": "2021-01-06T22:59:08Z"
+    },
+    {
+        "name": "\u6d99\u305d\u3046\u305d\u3046",
+        "artists": "Rimi Natsukawa",
+        "album": "\u6d99\u305d\u3046\u305d\u3046",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fc9ebb20e2df32e8201083a7",
+        "href": "https://api.spotify.com/v1/tracks/6aLnEfXkfdMCIJjxdG7RsC",
+        "added_at": "2021-01-06T22:59:03Z"
+    },
+    {
+        "name": "\u674f\u4ec1\u30ab\u3099\u30fc\u30eb ~Far Eastern Tale~ feat. \u571f\u5c90\u9ebb\u5b50",
+        "artists": "Schroeder-Headz",
+        "album": "\u30b2\u30b9\u30c8\u30fb\u30b9\u30a4\u30fc\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737c0fba28023c11ac8ad48d84",
+        "href": "https://api.spotify.com/v1/tracks/7CUjaFcATgPqwe4pE5o2zd",
+        "added_at": "2021-01-03T15:24:04Z"
+    },
+    {
+        "name": "\u7570\u7aef\u306a\u30b9\u30bf\u30fc",
+        "artists": "OFFICIAL HIGE DANDISM",
+        "album": "\u30ec\u30dd\u30fc\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731c50756229b41baab44c7e9c",
+        "href": "https://api.spotify.com/v1/tracks/6vtHQ7FcAXSOKSOeaBm5bc",
+        "added_at": "2021-01-02T20:48:42Z"
+    },
+    {
+        "name": "OH MY LITTLE GIRL",
+        "artists": "Yutaka Ozaki",
+        "album": "\u5341\u4e03\u6b73\u306e\u5730\u56f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273afa9b8ccad965dd122f5584c",
+        "href": "https://api.spotify.com/v1/tracks/5Qfw76KLvvMgrq6xtajJIO",
+        "added_at": "2021-01-01T01:03:43Z"
+    },
+    {
+        "name": "\u30ed\u30de\u30f3\u30b9\u306e\u795e\u69d8",
+        "artists": "Kohmi Hirose",
+        "album": "SUCCESS STORY",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b60086833bd44b9fc21769f8",
+        "href": "https://api.spotify.com/v1/tracks/0xYSgQHddr1lh6IfqWgn2W",
+        "added_at": "2021-01-01T00:59:09Z"
+    },
+    {
+        "name": "Hello, my friend",
+        "artists": "Yumi Matsutoya",
+        "album": "THE DANCING SUN",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273204d37d5927e143fe9d2255b",
+        "href": "https://api.spotify.com/v1/tracks/41NIQxcwqfE4M4iJ6UQHFX",
+        "added_at": "2021-01-01T00:50:12Z"
+    },
+    {
+        "name": "\u4e16\u754c\u4e2d\u306e\u8ab0\u3088\u308a\u304d\u3063\u3068",
+        "artists": "\u4e2d\u5c71\u7f8e\u7a42 & WANDS",
+        "album": "\u4e16\u754c\u4e2d\u306e\u8ab0\u3088\u308a\u304d\u3063\u3068",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a546885f7d6b03883dd5cf6f",
+        "href": "https://api.spotify.com/v1/tracks/5DEb6u4nukTgZh4fF9JNNx",
+        "added_at": "2021-01-01T00:37:02Z"
+    },
+    {
+        "name": "\u3072\u3060\u307e\u308a\u306e\u8a69\u30fbLe Couple",
+        "artists": "Le Couple",
+        "album": "\u301090's J-Pop Drama Hits\u3011~\u30c9\u30e9\u30de\u3067\u632f\u308a\u8fd4\u308b\u3042\u306e\u9803~",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739e6063eea6b8ef95d07816cf",
+        "href": "https://api.spotify.com/v1/tracks/6dxqhZ6kPqbhZ7osqB8BkJ",
+        "added_at": "2020-12-31T23:57:50Z"
+    },
+    {
+        "name": "\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+        "artists": "\u7269\u8a9e\u30b7\u30ea\u30fc\u30ba",
+        "album": "\u6b4c\u7269\u8a9e Special Edition",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273426fff6f6d9dbdd9a1bc3133",
+        "href": "https://api.spotify.com/v1/tracks/28vDmEUoGFrfkrUWM9Cuqy",
+        "added_at": "2020-12-31T23:56:09Z"
+    },
+    {
+        "name": "\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7(\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7)",
+        "artists": "\u85e4\u5ca1\u85e4\u5dfb\u3068\u5927\u6a4b\u306e\u305e\u307f",
+        "album": "\u30b9\u30bf\u30b7\u3099\u30aa\u30b7\u3099\u30d5\u3099\u30ea\u306e\u6b4c -\u5897\u88dc\u76e4-",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27370dd8d3875c4cdbf51cd6570",
+        "href": "https://api.spotify.com/v1/tracks/1Afz8sEPXEkwiDxHFbnx9Z",
+        "added_at": "2020-12-31T23:56:04Z"
+    },
+    {
+        "name": "\u98a8\u306b\u306a\u308b",
+        "artists": "Tsuji Ayano",
+        "album": "\u604b\u604b\u98a8\u6b4c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739385cab000124c1c28004e1d",
+        "href": "https://api.spotify.com/v1/tracks/1BMYkyKXS6UfnJteWN7nSD",
+        "added_at": "2020-12-31T23:39:23Z"
+    },
+    {
+        "name": "\u30ad\u30df\u30ef\u30a4\u30ca'17",
+        "artists": "ATARASHII GAKKO!",
+        "album": "\u30de\u30a8\u30ca\u30e9\u30ef\u30ca\u30a4",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735f487dc01e9c1b6793d3539f",
+        "href": "https://api.spotify.com/v1/tracks/70rKsgPbMw5MFqtpoLgvuv",
+        "added_at": "2020-12-30T16:11:35Z"
+    },
+    {
+        "name": "\u6ce3\u304d\u7b11\u3044\u306e\u30a8\u30d4\u30bd\u30fc\u30c9",
+        "artists": "Motohiro Hata",
+        "album": "\u6ce3\u304d\u7b11\u3044\u306e\u30a8\u30d4\u30bd\u30fc\u30c9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27397b597f3a674012d108c2a03",
+        "href": "https://api.spotify.com/v1/tracks/2wdNrkehTJtwXHH0NfFM2V",
+        "added_at": "2020-12-28T20:00:39Z"
+    },
+    {
+        "name": "\u8ab0\u3082\u304c\u307f\u3093\u306a\u30b5\u30f3\u30bf\u30af\u30ed\u30fc\u30b9",
+        "artists": "BIGMAMA",
+        "album": "Snow Motion.EP",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735b6ef0659292a6477ef8f2a4",
+        "href": "https://api.spotify.com/v1/tracks/1QrOhqvqtY8PJiVkOETgW1",
+        "added_at": "2020-12-28T17:48:13Z"
+    },
+    {
+        "name": "Sunrise in My City",
+        "artists": "Nyarons",
+        "album": "Sunrise in My City",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ad3b41c45f660429b8b9c2f1",
+        "href": "https://api.spotify.com/v1/tracks/5qhJUvPs1muIWITajVpF5H",
+        "added_at": "2020-12-28T17:44:13Z"
+    },
+    {
+        "name": "\u5815\u6559\u5e2b",
+        "artists": "Seiko Oomori",
+        "album": "Kintsugi",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27395d7a97ab1ffc133a49700d0",
+        "href": "https://api.spotify.com/v1/tracks/02jMfG6HDgZu7PmCWD4DnT",
+        "added_at": "2020-12-28T17:37:39Z"
+    },
+    {
+        "name": "\u5929\u624d\u306e\u7a2e",
+        "artists": "Shintaro Tokita",
+        "album": "\u5929\u624d\u306e\u7a2e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731c241ab3bd9185a45bd77fcd",
+        "href": "https://api.spotify.com/v1/tracks/68tnrZHzqux3FDhFp2M4Y1",
+        "added_at": "2020-12-28T16:15:42Z"
+    },
+    {
+        "name": "\u660e\u65e5\u306e\u591c\u306f\u4f55\u304c\u98df\u3079\u305f\u3044?",
+        "artists": "SHISHAMO",
+        "album": "\u660e\u65e5\u306e\u591c\u306f\u4f55\u304c\u98df\u3079\u305f\u3044?",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735b6251eb8e1fd1a6ac5c0bd8",
+        "href": "https://api.spotify.com/v1/tracks/70SCzcGMyIW0IhCkG8RVji",
+        "added_at": "2020-12-26T21:39:24Z"
+    },
+    {
+        "name": "\u547d\u77ed\u3057\u604b\u305b\u3088\u4e59\u5973",
+        "artists": "MOSHIMO",
+        "album": "\u547d\u77ed\u3057\u604b\u305b\u3088\u4e59\u5973",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734e76f9323a8542aa724f998f",
+        "href": "https://api.spotify.com/v1/tracks/7rIIngohCJergDdJy5EZ6R",
+        "added_at": "2020-12-26T15:49:57Z"
+    },
+    {
+        "name": "So much",
+        "artists": "kiki vivi lily",
+        "album": "vivid",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732a2c0feb77ada571ebe355c0",
+        "href": "https://api.spotify.com/v1/tracks/1RlZKqSijGannM9aRRg8F6",
+        "added_at": "2020-12-26T15:40:11Z"
+    },
+    {
+        "name": "Part of Your World",
+        "artists": "SHIKI THEATRE COMPANY",
+        "album": "Disney \"The Little Mermaid\" Musical (Shiki Version)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c88587d27030959e268103df",
+        "href": "https://api.spotify.com/v1/tracks/6LnCPXqXPcxPWi1bYxh5cC",
+        "added_at": "2020-12-17T16:14:32Z"
+    },
+    {
+        "name": "stolen worID",
+        "artists": "Seiko Oomori",
+        "album": "stolen worID",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734c0ade3cee3b02e73c942930",
+        "href": "https://api.spotify.com/v1/tracks/192ye1Srmtsw3xtHNUMuwe",
+        "added_at": "2020-12-17T13:48:17Z"
+    },
+    {
+        "name": "\u30d3\u30d0\u30cf\u30d4",
+        "artists": "Nanahira",
+        "album": "Meltical sugar wave",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e89b56de4beeaadc40a64a95",
+        "href": "https://api.spotify.com/v1/tracks/78BXiuGBt0od3gBWGadmfP",
+        "added_at": "2020-12-17T13:43:37Z"
+    },
+    {
+        "name": "\u3081\u3056\u305b\u30dd\u30b1\u30e2\u30f3\u30de\u30b9\u30bf\u30fc -20th Anniversary- [TV\u30a2\u30cb\u30e1 \u30b5\u30a4\u30ba]",
+        "artists": "Rica Matsumoto",
+        "album": "\u3081\u3056\u305b\u30dd\u30b1\u30e2\u30f3\u30de\u30b9\u30bf\u30fc -20th Anniversary-",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732d65484731d772f6fb35f8c5",
+        "href": "https://api.spotify.com/v1/tracks/22J0pi4wL0JQJbaiNqNoo4",
+        "added_at": "2020-12-16T21:14:37Z"
+    },
+    {
+        "name": "\u3081\u3056\u305b\u30dd\u30b1\u30e2\u30f3\u30de\u30b9\u30bf\u30fc -20th Anniversary-",
+        "artists": "Rica Matsumoto",
+        "album": "\u3081\u3056\u305b\u30dd\u30b1\u30e2\u30f3\u30de\u30b9\u30bf\u30fc -20th Anniversary-",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f248c9e797513b262ea0692f",
+        "href": "https://api.spotify.com/v1/tracks/6x067ZNq4y4FCn6py85FKU",
+        "added_at": "2020-12-16T21:14:19Z"
+    },
+    {
+        "name": "Daidai Genome",
+        "artists": "Tsuna Maru (Mezame-P)",
+        "album": "Exit Tunes Presents Supernova 8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273994090d7f63539e151e42931",
+        "href": "https://api.spotify.com/v1/tracks/7gkZY8rJuupkxaGRFiOy8C",
+        "added_at": "2020-12-16T17:58:46Z"
+    },
+    {
+        "name": "\u84bc",
+        "artists": "adieu",
+        "album": "adieu 1",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ab84ef160a7a4dfbf6f24c84",
+        "href": "https://api.spotify.com/v1/tracks/2P7WhzKp04oX2lqTZYhRBX",
+        "added_at": "2020-12-16T17:39:30Z"
+    },
+    {
+        "name": "Sentimental heart boy",
+        "artists": "Such",
+        "album": "innocent",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27305032972a9a711a62d1a3367",
+        "href": "https://api.spotify.com/v1/tracks/2R60VK2bw0erSEUeIpDnM8",
+        "added_at": "2020-12-16T17:37:39Z"
+    },
+    {
+        "name": "\u767e\u516b\u5186\u306e\u604b",
+        "artists": "Creep Hyp",
+        "album": "\u4e00\u3064\u306b\u306a\u308c\u306a\u3044\u306a\u3089\u3001\u305b\u3081\u3066\u4e8c\u3064\u3060\u3051\u3067\u3044\u3088\u3046",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a4bfee2a5cb99552dc96a342",
+        "href": "https://api.spotify.com/v1/tracks/2YlOtvLXPiFHxh8WWI9gDW",
+        "added_at": "2020-12-15T12:10:46Z"
+    },
+    {
+        "name": "\u660e\u65e5\u306f\u306a\u3044",
+        "artists": "SHISHAMO",
+        "album": "\u660e\u65e5\u306f\u306a\u3044",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ada9f3fdfb800b62b5755d42",
+        "href": "https://api.spotify.com/v1/tracks/7bW2oBUunnrZ1QAgvPay6p",
+        "added_at": "2020-12-04T20:00:04Z"
+    },
+    {
+        "name": "\u611b\u306e\u307e\u307e\u3092",
+        "artists": "Kaneko Ayano",
+        "album": "\u71e6\u3005",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27358d1de24fa8a2b26a4065303",
+        "href": "https://api.spotify.com/v1/tracks/3g1lkUg0wDCV4OEHMRKO3d",
+        "added_at": "2020-12-04T19:52:05Z"
+    },
+    {
+        "name": "\u30ad\u30bb\u30ad",
+        "artists": "GReeeeN",
+        "album": "\u3042\u3063\u3001\u3069\u3082\u3002\u304a\u3072\u3055\u3057\u3076\u308a\u3067\u3059\u3002",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27357fc2bbd3061376a6058fc74",
+        "href": "https://api.spotify.com/v1/tracks/7ztdl6cnbJgHRdMkKldkts",
+        "added_at": "2020-11-30T17:48:42Z"
+    },
+    {
+        "name": "\u307e\u305f\u306d",
+        "artists": "Ryokuoushoku Shakai",
+        "album": "\u7dd1\u9ec4\u8272\u793e\u4f1a",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273454fefaff62b67ab49fd9416",
+        "href": "https://api.spotify.com/v1/tracks/0NzlvijN4CyxvwuPAcj2kL",
+        "added_at": "2020-11-27T18:10:11Z"
+    },
+    {
+        "name": "\u79c1\u306e\u597d\u304d\u306a\u3082\u306e",
+        "artists": "Lovely Summer Chan",
+        "album": "#\u30e9\u30d6\u30ea\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736da8a02745401834b346e0b9",
+        "href": "https://api.spotify.com/v1/tracks/0R3eyX0bACiPcvb0qh7Wx5",
+        "added_at": "2020-11-27T17:50:06Z"
+    },
+    {
+        "name": "\u3082\u3046\u305d\u3046\u2606\u3048\u304f\u3059\u3077\u308c\u3059",
+        "artists": "\u7269\u8a9e\u30b7\u30ea\u30fc\u30ba",
+        "album": "\u6b4c\u7269\u8a9e Special Edition",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273426fff6f6d9dbdd9a1bc3133",
+        "href": "https://api.spotify.com/v1/tracks/3gV0rmDRnLa7KU9i4TAQBg",
+        "added_at": "2020-11-23T11:45:42Z"
+    },
+    {
+        "name": "ray",
+        "artists": "BUMP OF CHICKEN",
+        "album": "ray",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731bc3a96706495fb0a1dbdffd",
+        "href": "https://api.spotify.com/v1/tracks/67T4aWFCAbMNWKamvI3piH",
+        "added_at": "2020-11-23T10:51:46Z"
+    },
+    {
+        "name": "AIAIAI (feat. \u4e2d\u7530\u30e4\u30b9\u30bf\u30ab)",
+        "artists": "Kizuna AI",
+        "album": "AIAIAI (feat. \u4e2d\u7530\u30e4\u30b9\u30bf\u30ab)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732afbeb724be112ac5ea10cf9",
+        "href": "https://api.spotify.com/v1/tracks/3KIcKiftxner9luU8Na5KZ",
+        "added_at": "2020-11-23T10:48:12Z"
+    },
+    {
+        "name": "WORLDEND",
+        "artists": "negoto",
+        "album": "Soak",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e0a2177e6940a3dd19c700f4",
+        "href": "https://api.spotify.com/v1/tracks/4hStsVEzwdgc4ubiwSqLIx",
+        "added_at": "2020-11-22T20:01:44Z"
+    },
+    {
+        "name": "\u30bb\u30fc\u30e9\u30fc\u30b9\u30bf\u30fc\u30bd\u30f3\u30b0",
+        "artists": "Mitsuko Horie",
+        "album": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3 THE 20TH ANNIVERSARY MEMORIAL TRIBUTE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273cfb7e27d5cd05870b504c1b7",
+        "href": "https://api.spotify.com/v1/tracks/7zZLgwQ4V5FbNB39slDHKQ",
+        "added_at": "2020-11-22T19:49:58Z"
+    },
+    {
+        "name": "Fight!",
+        "artists": "\u9ad9\u6a4b\u7531\u7f8e\u5b50",
+        "album": "\u9b54\u795e\u82f1\u96c4\u4f1d\u30ef\u30bf\u30eb2 Music Collection",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a0fd851a017213f37b1a42ac",
+        "href": "https://api.spotify.com/v1/tracks/6BPMSV4HMjO6qxi0QU9KOV",
+        "added_at": "2020-11-22T19:47:23Z"
+    },
+    {
+        "name": "\u30d3\u30d0\u30ca\u30df\u30c0",
+        "artists": "Yasuyuki Okamura",
+        "album": "\u5e78\u798f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27367891c2e81a0d1d7c5aa2e6e",
+        "href": "https://api.spotify.com/v1/tracks/6WCk50NkLdTdCvFyfqqgOK",
+        "added_at": "2020-11-22T19:47:06Z"
+    },
+    {
+        "name": "\u5922\u3092\u3042\u304d\u3089\u3081\u306a\u3044\u3067",
+        "artists": "Takako Okamura",
+        "album": "liberte",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730be67a6417b30963537b8932",
+        "href": "https://api.spotify.com/v1/tracks/0lH1nME5TuJ06cyUztK05L",
+        "added_at": "2020-11-20T14:09:47Z"
+    },
+    {
+        "name": "Departures ~\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c~(TV Edit)",
+        "artists": "EGOIST",
+        "album": "Departures ~\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c~",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734afe1fa4798fc13070d4d1d8",
+        "href": "https://api.spotify.com/v1/tracks/0cgIWUA68gHi59bKu0mAoN",
+        "added_at": "2020-11-14T23:30:05Z"
+    },
+    {
+        "name": "\u2192unfinished\u2192",
+        "artists": "KOTOKO",
+        "album": "\u2192unfinished\u2192",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b0cf3226794c7ea40a0e7cf5",
+        "href": "https://api.spotify.com/v1/tracks/6KU3PYrgp5v5J8nI4FDks8",
+        "added_at": "2020-11-14T23:26:43Z"
+    },
+    {
+        "name": "Light My Fire",
+        "artists": "KOTOKO",
+        "album": "Light My Fire",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d69364e19dac2308a506a8a1",
+        "href": "https://api.spotify.com/v1/tracks/3L5ZFD91sui2GavhIsreJE",
+        "added_at": "2020-11-14T23:26:29Z"
+    },
+    {
+        "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+        "artists": "Ikimonogakari",
+        "album": "My song Your song",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27391336bf773dc35c0db7b64f2",
+        "href": "https://api.spotify.com/v1/tracks/7LY0Mdsj2esWkuO98LEAPl",
+        "added_at": "2020-11-14T23:25:23Z"
+    },
+    {
+        "name": "\u71b1\u60c5\u306e\u30b9\u30da\u30af\u30c8\u30e9\u30e0",
+        "artists": "Ikimonogakari",
+        "album": "FUN! FUN! FANFARE!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f75cade2515ec1ad3a65982c",
+        "href": "https://api.spotify.com/v1/tracks/1AB1BtAt1H47voJt5EHvBC",
+        "added_at": "2020-11-14T23:25:20Z"
+    },
+    {
+        "name": "\u30db\u30bf\u30eb\u30ce\u30d2\u30ab\u30ea",
+        "artists": "Ikimonogakari",
+        "album": "\u30cf\u30b8\u30de\u30ea\u30ce\u30a6\u30bf",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736bb63791505149807eac014f",
+        "href": "https://api.spotify.com/v1/tracks/7c8iWWcqDYEVe2pRF6nLtn",
+        "added_at": "2020-11-14T23:25:17Z"
+    },
+    {
+        "name": "HANABI",
+        "artists": "Ikimonogakari",
+        "album": "\u685c\u54b2\u304f\u8857\u7269\u8a9e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273adf3eb65f33c2d3ddcb51496",
+        "href": "https://api.spotify.com/v1/tracks/1sSgOAqEPv1ErsP6ddLlUa",
+        "added_at": "2020-11-14T23:25:10Z"
+    },
+    {
+        "name": "Departures ~\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c~",
+        "artists": "EGOIST",
+        "album": "Departures ~\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c~",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734afe1fa4798fc13070d4d1d8",
+        "href": "https://api.spotify.com/v1/tracks/6FvouuYgpt4ocvmyYCXcvc",
+        "added_at": "2020-11-14T23:24:44Z"
+    },
+    {
+        "name": "\u30d2\u30fc\u30ed\u30fc",
+        "artists": "supercell",
+        "album": "Today Is A Beautiful Day",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c7051cf3ea219b91555b3006",
+        "href": "https://api.spotify.com/v1/tracks/1bAlwxksMDZlZPBkcOzDIm",
+        "added_at": "2020-11-14T23:24:20Z"
+    },
+    {
+        "name": "The Bravery",
+        "artists": "supercell",
+        "album": "The Bravery",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273857b4fc99e80a48d4a93e310",
+        "href": "https://api.spotify.com/v1/tracks/6oHTFWS3NO5aISWua79maZ",
+        "added_at": "2020-11-14T23:24:13Z"
+    },
+    {
+        "name": "My Dearest",
+        "artists": "supercell",
+        "album": "My Dearest",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c99fb1d48e00d4dacf198045",
+        "href": "https://api.spotify.com/v1/tracks/0igSHyuXUj63EwcJugmtcW",
+        "added_at": "2020-11-14T23:23:26Z"
+    },
+    {
+        "name": "\u30aa\u30c8\u30ce\u30ca\u30eb\u30db\u30a6\u30d8\u2192",
+        "artists": "Goose house",
+        "album": "Milk",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739383af489c2f651806c769bb",
+        "href": "https://api.spotify.com/v1/tracks/7c0La7lYcPzLFQp7YrXh97",
+        "added_at": "2020-11-14T23:21:57Z"
+    },
+    {
+        "name": "Pretender",
+        "artists": "OFFICIAL HIGE DANDISM",
+        "album": "Pretender",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27378582014369e64b6596f30ad",
+        "href": "https://api.spotify.com/v1/tracks/5LkWXxDxUTwEVHL0pfKL55",
+        "added_at": "2020-11-14T23:17:24Z"
+    },
+    {
+        "name": "French Toast",
+        "artists": "Mashinomi",
+        "album": "French Toast",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730b1cfcfc5080ecb23cce4ae6",
+        "href": "https://api.spotify.com/v1/tracks/0lcI93pYeSfezVTVNnFlwF",
+        "added_at": "2020-11-14T22:43:25Z"
+    },
+    {
+        "name": "\u71b1\u5e2f\u591c",
+        "artists": "SHISHAMO",
+        "album": "SHISHAMO BEST",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bdbd62a9699189f9c392bc80",
+        "href": "https://api.spotify.com/v1/tracks/6dnPQD7riP9K0ub8tbFJV5",
+        "added_at": "2020-11-14T01:49:06Z"
+    },
+    {
+        "name": "HOME",
+        "artists": "Angela Aki",
+        "album": "Home",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733f2b2de27ec7919caeed77c9",
+        "href": "https://api.spotify.com/v1/tracks/6sNCaAYOv7YZwNnbKva6Z9",
+        "added_at": "2020-11-14T01:44:58Z"
+    },
+    {
+        "name": "Kiss Me Good-Bye",
+        "artists": "Angela Aki",
+        "album": "Home",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733f2b2de27ec7919caeed77c9",
+        "href": "https://api.spotify.com/v1/tracks/2B4vbzkNXbWYum3vRVLA2J",
+        "added_at": "2020-11-14T01:44:51Z"
+    },
+    {
+        "name": "TODAY",
+        "artists": "Angela Aki",
+        "album": "TAPESTRY OF SONGS -THE BEST OF ANGELA AKI(Deluxe Edition)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f84b297e6553d09585a76a99",
+        "href": "https://api.spotify.com/v1/tracks/1PaMajBaamBygUK0qGgN8d",
+        "added_at": "2020-11-14T01:44:18Z"
+    },
+    {
+        "name": "Again",
+        "artists": "Angela Aki",
+        "album": "TAPESTRY OF SONGS -THE BEST OF ANGELA AKI(Deluxe Edition)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f84b297e6553d09585a76a99",
+        "href": "https://api.spotify.com/v1/tracks/6iClslVIpc2QY0bcK1df9Y",
+        "added_at": "2020-11-14T01:44:12Z"
+    },
+    {
+        "name": "Kiss Me Good-Bye",
+        "artists": "Angela Aki",
+        "album": "TAPESTRY OF SONGS -THE BEST OF ANGELA AKI(Deluxe Edition)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f84b297e6553d09585a76a99",
+        "href": "https://api.spotify.com/v1/tracks/4GZLDNJGn5TYrTSmSiPqUD",
+        "added_at": "2020-11-14T01:44:04Z"
+    },
+    {
+        "name": "Every Woman's Song",
+        "artists": "Angela Aki",
+        "album": "TAPESTRY OF SONGS -THE BEST OF ANGELA AKI(Deluxe Edition)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f84b297e6553d09585a76a99",
+        "href": "https://api.spotify.com/v1/tracks/37lK6Ut0mzNgMZB1h8MBsj",
+        "added_at": "2020-11-14T01:40:38Z"
+    },
+    {
+        "name": "Money Will Love You(English version)",
+        "artists": "Rie fu",
+        "album": "URBAN ROMANTIC",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b636c16ab7cfe4d13176bdfb",
+        "href": "https://api.spotify.com/v1/tracks/28X4XVg6HT7ryyd20ZFIvD",
+        "added_at": "2020-11-14T01:38:39Z"
+    },
+    {
+        "name": "2cm",
+        "artists": "Rie fu",
+        "album": "Rie fu",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27330189ecb95673edd7125d0b1",
+        "href": "https://api.spotify.com/v1/tracks/33aw8oxfW6qhGdCF3ipXuI",
+        "added_at": "2020-11-14T01:38:00Z"
+    },
+    {
+        "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+        "artists": "MONGOL800",
+        "album": "MESSAGE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c6a3678b061e8586d7a13db6",
+        "href": "https://api.spotify.com/v1/tracks/23atyJacJVHvB9RHBNhr35",
+        "added_at": "2020-11-14T01:17:40Z"
+    },
+    {
+        "name": "Break These Chain",
+        "artists": "Chara",
+        "album": "Sweet",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731af41b00ed6b50099a2b08f1",
+        "href": "https://api.spotify.com/v1/tracks/6t6TWdm5OUlLHVgLKNFjea",
+        "added_at": "2020-11-14T01:17:07Z"
+    },
+    {
+        "name": "\u5275\u50b7\u30a4\u30ce\u30bb\u30f3\u30b9",
+        "artists": "Maaya Uchida",
+        "album": "PENKI\u3010\u901a\u5e38\u76e4\u3011",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273db1b90fb4664150e0588b84b",
+        "href": "https://api.spotify.com/v1/tracks/2uXPRnLsbA5MWXUpNaYAUJ",
+        "added_at": "2020-11-14T01:14:19Z"
+    },
+    {
+        "name": "\u6c17\u307e\u3050\u308c\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af",
+        "artists": "\u9ad8\u6728\u3055\u3093(CV:\u9ad8\u6a4b\u674e\u4f9d)",
+        "album": "\u304b\u3089\u304b\u3044\u4e0a\u624b\u306e\u9ad8\u6728\u3055\u3093 Cover song collection",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27342d94b02e2d1e4db7eb40817",
+        "href": "https://api.spotify.com/v1/tracks/2ivTDMirJsFKznRukF1Dga",
+        "added_at": "2020-11-14T01:13:16Z"
+    },
+    {
+        "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+        "artists": "\u9ad8\u6728\u3055\u3093(CV:\u9ad8\u6a4b\u674e\u4f9d)",
+        "album": "\u304b\u3089\u304b\u3044\u4e0a\u624b\u306e\u9ad8\u6728\u3055\u3093 Cover song collection",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27342d94b02e2d1e4db7eb40817",
+        "href": "https://api.spotify.com/v1/tracks/3rysOpH29UDtPpv5W2pzWZ",
+        "added_at": "2020-11-14T01:13:11Z"
+    },
+    {
+        "name": "\u661f\u3092\u8fbf\u308c\u3070",
+        "artists": "\u5927\u539f\u3086\u3044\u5b50",
+        "album": "\u661f\u306b\u540d\u524d\u3092\u3064\u3051\u308b\u3068\u304d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27398a593a376031c1e7a64cb0f",
+        "href": "https://api.spotify.com/v1/tracks/5q00kFhN2ep2v0nzl9C4IA",
+        "added_at": "2020-11-14T01:13:07Z"
+    },
+    {
+        "name": "\u3084\u305f\u3089\u3068\u30b7\u30f3\u30af\u30ed\u30cb\u30b7\u30c6\u30a3",
+        "artists": "YUKI",
+        "album": "forme",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27352a9bc3917ab2a8c22c8d1ea",
+        "href": "https://api.spotify.com/v1/tracks/0rM0nOQCCZikwpkBj5rJGt",
+        "added_at": "2020-11-14T01:12:21Z"
+    },
+    {
+        "name": "\u30c9\u30e9\u30de\u30c1\u30c3\u30af",
+        "artists": "YUKI",
+        "album": "Single Collection \"five-star\"",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273aa26cbae1daa1e754a6733f5",
+        "href": "https://api.spotify.com/v1/tracks/4QnGCFPL1sQ9km5WRzsmZK",
+        "added_at": "2020-11-14T01:12:02Z"
+    },
+    {
+        "name": "JOY",
+        "artists": "YUKI",
+        "album": "Single Collection \"five-star\"",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273aa26cbae1daa1e754a6733f5",
+        "href": "https://api.spotify.com/v1/tracks/2ZQa7vyK2HdSi1UxpXn888",
+        "added_at": "2020-11-14T01:11:34Z"
+    },
+    {
+        "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
+        "artists": "Ai Otsuka",
+        "album": "LOVE COOK",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bfca414b7a654241a6950e35",
+        "href": "https://api.spotify.com/v1/tracks/3zfyzbHuqcT2AAffAyLm02",
+        "added_at": "2020-11-14T01:10:13Z"
+    },
+    {
+        "name": "Butterfly",
+        "artists": "Kaela Kimura",
+        "album": "HOCUS POCUS",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bf841298e49f88a3436374cc",
+        "href": "https://api.spotify.com/v1/tracks/4BNo7jHTdqU7bl6wocxdsD",
+        "added_at": "2020-11-14T01:09:57Z"
+    },
+    {
+        "name": "\u51fa\u9022\u3063\u305f\u9803\u306e\u3088\u3046\u306b",
+        "artists": "Every Little Thing",
+        "album": "Time to Destination",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737e6a7000eb4a388e5227377b",
+        "href": "https://api.spotify.com/v1/tracks/6Z7LayRg0N3mkFFjGsO8fN",
+        "added_at": "2020-11-14T01:09:39Z"
+    },
+    {
+        "name": "Time goes by",
+        "artists": "Every Little Thing",
+        "album": "Every Little Thing LIVE TOUR \u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f731405f383e1ce5798408c5",
+        "href": "https://api.spotify.com/v1/tracks/1U2It4ydGIJ9L2LKyyRYCc",
+        "added_at": "2020-11-14T01:09:36Z"
+    },
+    {
+        "name": "fragile",
+        "artists": "Every Little Thing",
+        "album": "4 FORCE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273987bba9591efdeae91c8e2ee",
+        "href": "https://api.spotify.com/v1/tracks/0mRm9OJxlTf7XNd1uT6BR5",
+        "added_at": "2020-11-14T01:09:32Z"
+    },
+    {
+        "name": "\u30b0\u30e9\u30f3\u30c9\u30a8\u30b9\u30b1\u30fc\u30d7",
+        "artists": "RADWIMPS",
+        "album": "\u5929\u6c17\u306e\u5b50 (complete version)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731f995bf0052673398dceb506",
+        "href": "https://api.spotify.com/v1/tracks/5bUWFHUTbXQcmqI6vWL62j",
+        "added_at": "2020-11-14T01:05:48Z"
+    },
+    {
+        "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
+        "artists": "RADWIMPS",
+        "album": "\u4eba\u9593\u958b\u82b1",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c0c7b714cda847eb4965b0f3",
+        "href": "https://api.spotify.com/v1/tracks/1HdqMIGjLm8wkL4vWDcFPm",
+        "added_at": "2020-11-14T01:01:33Z"
+    },
+    {
+        "name": "\u611b\u306b\u3067\u304d\u308b\u3053\u3068\u306f\u307e\u3060\u3042\u308b\u304b\u3044",
+        "artists": "RADWIMPS",
+        "album": "\u5929\u6c17\u306e\u5b50",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27317eae79af1f8ba14e6710b0e",
+        "href": "https://api.spotify.com/v1/tracks/0PUoNLjLtrSCNwIvvbERS2",
+        "added_at": "2020-11-14T01:01:24Z"
+    },
+    {
+        "name": "\u30b0\u30e9\u30f3\u30c9\u30a8\u30b9\u30b1\u30fc\u30d7 - Movie edit",
+        "artists": "RADWIMPS",
+        "album": "\u5929\u6c17\u306e\u5b50",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27317eae79af1f8ba14e6710b0e",
+        "href": "https://api.spotify.com/v1/tracks/0kQgPCe6FL0vVY9otIzXoM",
+        "added_at": "2020-11-14T01:01:21Z"
+    },
+    {
+        "name": "\u30b9\u30d1\u30fc\u30af\u30eb - movie ver.",
+        "artists": "RADWIMPS",
+        "album": "\u541b\u306e\u540d\u306f\u3002",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c8e53f40aecd020ec460466c",
+        "href": "https://api.spotify.com/v1/tracks/1TFv0KXyFvC7eCP2ury0KV",
+        "added_at": "2020-11-14T01:01:05Z"
+    },
+    {
+        "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3084 - movie ver.",
+        "artists": "RADWIMPS",
+        "album": "\u541b\u306e\u540d\u306f\u3002",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c8e53f40aecd020ec460466c",
+        "href": "https://api.spotify.com/v1/tracks/3SMpsXpVrFju2OUzFtJPws",
+        "added_at": "2020-11-14T01:01:02Z"
+    },
+    {
+        "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b - From THE FIRST TAKE",
+        "artists": "CHiCO with HoneyWorks",
+        "album": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b - From THE FIRST TAKE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733110c287fb7d0fa60cec9841",
+        "href": "https://api.spotify.com/v1/tracks/3KgtqaRk7Jov0MR5punNlZ",
+        "added_at": "2020-11-14T01:00:11Z"
+    },
+    {
+        "name": "\u304a\u3068\u306a\u306e\u87ba\u65cb\u968e\u6bb5\u30de\u30fc\u30c1 - \u3053\u3082\u308a\u3046\u305fver.",
+        "artists": "Charan-Po-Rantan",
+        "album": "\u3053\u3082\u308a\u3046\u305f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730f9c5db86f73feaded378346",
+        "href": "https://api.spotify.com/v1/tracks/43ZKllFe1uaEEOQGkDnD6h",
+        "added_at": "2020-11-14T00:58:44Z"
+    },
+    {
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30a8\u30ec\u30b8\u30fc",
+        "artists": "Ami Sakaguchi",
+        "album": "\u30bb\u30f3\u30c8\u30e9\u30eb",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27397c36efdf600e89d32ca117a",
+        "href": "https://api.spotify.com/v1/tracks/2Ppzf9xeodAUgpRaWgkCzn",
+        "added_at": "2020-11-14T00:58:33Z"
+    },
+    {
+        "name": "\u771f\u51ac\u306e\u30cf\u30fc\u30e2\u30cb\u30fc",
+        "artists": "Mika Nakashima",
+        "album": "\u771f\u51ac\u306e\u30cf\u30fc\u30e2\u30cb\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738ce7d54a9d3d951b253da5bb",
+        "href": "https://api.spotify.com/v1/tracks/5fosUV8qPNXEEDQ6y3jAUd",
+        "added_at": "2020-11-14T00:57:32Z"
+    },
+    {
+        "name": "BUBBLE TEA",
+        "artists": "dark cat",
+        "album": "BUBBLE TEA",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a8f730230340d31d1276cb23",
+        "href": "https://api.spotify.com/v1/tracks/4YMvlMYV3hD8emKCprfb4N",
+        "added_at": "2020-11-14T00:56:49Z"
+    },
+    {
+        "name": "Pretty!",
+        "artists": "cute girls doing cute things",
+        "album": "Slice of Life",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730c90995adca53f81ca1c9bd6",
+        "href": "https://api.spotify.com/v1/tracks/5HyzMBNxS6PaDhawOQeNdc",
+        "added_at": "2020-11-14T00:55:38Z"
+    },
+    {
+        "name": "\u30b8\u30a7\u30ea\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5 (feat. \u30ed\u30fc\u30e9\u30fc\u30ac\u30fc\u30eb)",
+        "artists": "Yunomi",
+        "album": "\u30b8\u30a7\u30ea\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5 (feat. \u30ed\u30fc\u30e9\u30fc\u30ac\u30fc\u30eb)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27346f85fc824716592edc45e33",
+        "href": "https://api.spotify.com/v1/tracks/6kIivltIxJscvk682sTXoV",
+        "added_at": "2020-11-14T00:54:40Z"
+    },
+    {
+        "name": "\u6795\u5143\u306b\u30b4\u30fc\u30b9\u30c8",
+        "artists": "Yunomi",
+        "album": "\u3086\u306e\u3082\u304d\u3085",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e3a8cc0c4984a9abe5c886b4",
+        "href": "https://api.spotify.com/v1/tracks/5n4dw2rt2eQJezVH95RIwb",
+        "added_at": "2020-11-14T00:52:18Z"
+    },
+    {
+        "name": "\u3061\u3087\u3063\u3068\u3057\u305f\u3082\u306e",
+        "artists": "Aoi Teshima",
+        "album": "Ren'dez-vous",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d382dbc17e199bb17ef472e8",
+        "href": "https://api.spotify.com/v1/tracks/73CgmOpbSV0oxrX1JpvHyu",
+        "added_at": "2020-11-13T22:23:35Z"
+    },
+    {
+        "name": "\u52d8\u9055\u3044\u5fc3\u62cd\u6570",
+        "artists": "Nyanzonu Deshi",
+        "album": "\u52d8\u9055\u3044\u5fc3\u62cd\u6570",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c68894c6b2dcd9a8bdb740b1",
+        "href": "https://api.spotify.com/v1/tracks/54bOz8yKjdrdD4EO9Dapgr",
+        "added_at": "2020-11-10T19:36:04Z"
+    },
+    {
+        "name": "\u541b\u306e\u96a3\u306b\u3044\u305f\u3044\u304b\u3089(\u30bd\u30d7\u30e9\u30ce)",
+        "artists": "Asako Miyazaki",
+        "album": "Chorus ONTA Vol.27 \u6559\u80b2\u82b8\u8853\u793e \u5408\u5531\u30d1\u30fc\u30c8\u7df4\u7fd2\u7528",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734230119d4c53e7e405538391",
+        "href": "https://api.spotify.com/v1/tracks/6g4tcjKPL1KJcJF4Fky8RO",
+        "added_at": "2020-11-07T00:08:32Z"
+    },
+    {
+        "name": "Meet again",
+        "artists": "Megumi Hayashibara",
+        "album": "\u30b9\u30ec\u30a4\u30e4\u30fc\u30baMEGUMIXXX",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273055ab67e541d99c4e3d56a64",
+        "href": "https://api.spotify.com/v1/tracks/02wfeHQGw9e4TICnIuZ6Jr",
+        "added_at": "2020-11-07T00:01:44Z"
+    },
+    {
+        "name": "Get along <ALBUM VERSION>",
+        "artists": "Megumi Hayashibara",
+        "album": "\u30b9\u30ec\u30a4\u30e4\u30fc\u30baMEGUMIXXX",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273055ab67e541d99c4e3d56a64",
+        "href": "https://api.spotify.com/v1/tracks/5rPF3lhPX8Vvkf7gTgheyF",
+        "added_at": "2020-11-06T23:56:37Z"
+    },
+    {
+        "name": "Give a reason ~Ballade Version~",
+        "artists": "Megumi Hayashibara",
+        "album": "\u30b9\u30ec\u30a4\u30e4\u30fc\u30baMEGUMIXXX",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273055ab67e541d99c4e3d56a64",
+        "href": "https://api.spotify.com/v1/tracks/6rngKbDaBQn8PH3JSvJdEp",
+        "added_at": "2020-11-06T23:56:34Z"
+    },
+    {
+        "name": "\u30b7\u30ab\u30b4",
+        "artists": "clammbon",
+        "album": "\u307e\u3061\u308f\u3073 \u307e\u3061\u3055\u3073<2016\u30c7\u30b8\u30bf\u30eb\u30fb\u30ea\u30de\u30b9\u30bf\u30fc>",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273dd2fe3c213d7445a1411e712",
+        "href": "https://api.spotify.com/v1/tracks/2X6ZtVw4hhudQWkPPkierm",
+        "added_at": "2020-11-06T23:54:59Z"
+    },
+    {
+        "name": "\u30d7\u30e9\u30de\u30a4",
+        "artists": "aiko",
+        "album": "May Dream",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737b6f760e598867a7cbe1049c",
+        "href": "https://api.spotify.com/v1/tracks/5BgDpxAiTZ1sWpOobWdMjk",
+        "added_at": "2020-11-06T23:49:06Z"
+    },
+    {
+        "name": "\u3082\u3063\u3068",
+        "artists": "aiko",
+        "album": "May Dream",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737b6f760e598867a7cbe1049c",
+        "href": "https://api.spotify.com/v1/tracks/097ZY0nN7fo8Dx4fDwSrb4",
+        "added_at": "2020-11-06T23:49:03Z"
+    },
+    {
+        "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
+        "artists": "COALAMODE.",
+        "album": "\u30a2\u30f3\u30c0\u30f3\u30c6",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273934884b322d8ce8dc84b3284",
+        "href": "https://api.spotify.com/v1/tracks/5jMDwL2QUo8zFnunHWzhqO",
+        "added_at": "2020-11-06T23:47:56Z"
+    },
+    {
+        "name": "\u9022\u3044\u305f\u3044\u30dc\u30bf\u30f3",
+        "artists": "Gentle Forest Jazz Band",
+        "album": "\u9022\u3044\u305f\u3044\u30dc\u30bf\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732387ae36040d06ce05b087bc",
+        "href": "https://api.spotify.com/v1/tracks/1y0Zf3M4F6ocsU6QemvjU3",
+        "added_at": "2020-11-06T23:47:04Z"
+    },
+    {
+        "name": "\u30cf\u30c3\u30d4\u30fc\u30de\u30a4\u30b5\u30de\u30fc\u30c0\u30fc\u30ea\u30f3 - \u3053\u3082\u308a\u3046\u305fver.",
+        "artists": "Charan-Po-Rantan",
+        "album": "\u3053\u3082\u308a\u3046\u305f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730f9c5db86f73feaded378346",
+        "href": "https://api.spotify.com/v1/tracks/0xVeUjB9C3zywLWAMKzowh",
+        "added_at": "2020-11-06T23:46:43Z"
+    },
+    {
+        "name": "Donuts Mind If I Do",
+        "artists": "CHAI",
+        "album": "Donuts Mind If I Do",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f5babb9435db86f00cd598db",
+        "href": "https://api.spotify.com/v1/tracks/61xsOCKo7WUietJY7WCGi1",
+        "added_at": "2020-11-06T23:43:43Z"
+    },
+    {
+        "name": "\u9752\u306eID",
+        "artists": "Tokyo Incidents",
+        "album": "\u9752\u306eID",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c986e17209e066865275c91b",
+        "href": "https://api.spotify.com/v1/tracks/1Ay8JPDuBxKRNAaR58pmNc",
+        "added_at": "2020-11-06T23:40:55Z"
+    },
+    {
+        "name": "Woman\u201cW\u306e\u60b2\u5287\u201d\u3088\u308a - Live",
+        "artists": "Hiroko Yakushimaru",
+        "album": "Best Songs 1981-2017 ~Live in \u6625\u65e5\u5927\u793e~",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732dec3c6b9851979e8b738c2c",
+        "href": "https://api.spotify.com/v1/tracks/6n6q05p5J9NzAx9HaJ5BXl",
+        "added_at": "2020-11-06T23:35:41Z"
+    },
+    {
+        "name": "\u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af\u30b3\u30fc\u30b9\u30bf\u30fc",
+        "artists": "Kyary Pamyu Pamyu",
+        "album": "KPP BEST",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739c33c8da78eadb217e4cdb94",
+        "href": "https://api.spotify.com/v1/tracks/3QMGWRT7f9fXpuM3eJAckJ",
+        "added_at": "2020-11-06T23:34:14Z"
+    },
+    {
+        "name": "\u304b\u307e\u3044\u305f\u3061",
+        "artists": "Kyary Pamyu Pamyu",
+        "album": "\u304b\u307e\u3044\u305f\u3061",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fa41dec076ace05023d1740d",
+        "href": "https://api.spotify.com/v1/tracks/23ZHjzbZChZlIJWPVcOOnO",
+        "added_at": "2020-11-06T23:32:55Z"
+    },
+    {
+        "name": "\u98a8\u306b\u5411\u304b\u3046\u4e00\u8f2a\u306e\u82b1",
+        "artists": "Seiko Matsuda",
+        "album": "SEIKO MATSUDA 2020",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273023b5f1bec4dd4bf33c76b51",
+        "href": "https://api.spotify.com/v1/tracks/3Htun7sUy7h2nTPb1R08SS",
+        "added_at": "2020-10-26T18:44:17Z"
+    },
+    {
+        "name": "spacecraft (feat.mako)",
+        "artists": "sui sui duck",
+        "album": "Long time no see.",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c3f8b4934c37434ebd64adbb",
+        "href": "https://api.spotify.com/v1/tracks/1IqSUSW6vatC5euDdePN1S",
+        "added_at": "2020-10-26T17:03:22Z"
+    },
+    {
+        "name": "Shukumei",
+        "artists": "OFFICIAL HIGE DANDISM",
+        "album": "Traveler",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2",
+        "href": "https://api.spotify.com/v1/tracks/0XaHPBAzPAC5ubwcRBqc1p",
+        "added_at": "2020-10-25T00:11:05Z"
+    },
+    {
+        "name": "Bakamitai - Taxi Driver Edition",
+        "artists": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+        "album": "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736cedf06b77c1a36cf6130140",
+        "href": "https://api.spotify.com/v1/tracks/4xXu9UO2qdBotUOfqru2UC",
+        "added_at": "2020-10-23T22:28:28Z"
+    },
+    {
+        "name": "\u3074\u3085\u3042\u3074\u3085\u3042\u306f\u30fc\u3068",
+        "artists": "Ho - Kago Tea Time",
+        "album": "\u3074\u3085\u3042\u3074\u3085\u3042\u306f\u30fc\u3068",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27384f9c4ed2d6379b750cc8649",
+        "href": "https://api.spotify.com/v1/tracks/70Sok4MpZKQbiPFx6jgiJB",
+        "added_at": "2020-09-05T15:10:43Z"
+    },
+    {
+        "name": "asphyxia (piano ver.)",
+        "artists": "C\u00f6 Shu Nie",
+        "album": "Aurora",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fe21715563e948b809644740",
+        "href": "https://api.spotify.com/v1/tracks/1tRK5pa2v89ed5zDICQrkD",
+        "added_at": "2020-09-05T14:48:04Z"
+    },
+    {
+        "name": "\u305f\u3076\u3093",
+        "artists": "YOASOBI",
+        "album": "\u305f\u3076\u3093",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737b7d90956f81e0cc3f39d0b8",
+        "href": "https://api.spotify.com/v1/tracks/62Lv9WcrfzJqhvYDbilJy3",
+        "added_at": "2020-08-17T21:05:28Z"
+    },
+    {
+        "name": "BLUISH WHITE",
+        "artists": "\u6797\u9752\u7a7a",
+        "album": "\u51fa\u822a\u65e5\u548c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27318d54e20065ffb5f3c0db4cc",
+        "href": "https://api.spotify.com/v1/tracks/5uxe65nV932QYaknkImKwI",
+        "added_at": "2020-07-29T19:13:02Z"
+    },
+    {
+        "name": "\u30cf\u30a4\u30d2\u30fc\u30eb\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "artists": "\u6797\u9752\u7a7a",
+        "album": "\u30cf\u30a4\u30d2\u30fc\u30eb\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f2f41b391f26d21578ad18e2",
+        "href": "https://api.spotify.com/v1/tracks/7GmswKcr58HMDHbTPw9ZWF",
+        "added_at": "2020-07-29T19:07:50Z"
+    },
+    {
+        "name": "FLASH POINT",
+        "artists": "Foi",
+        "album": "FLASH POINT",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737f14c0661539e21b6849296a",
+        "href": "https://api.spotify.com/v1/tracks/1oLHQQyoFaPD9X4puzhsWh",
+        "added_at": "2020-07-23T23:24:40Z"
+    },
+    {
+        "name": "\u3042\u306a\u305f\u306eSpecial\u306b\u306a\u308a\u305f\u3044~Just wanna be~",
+        "artists": "AZU",
+        "album": "\u6642\u9593\u3088\u6b62\u307e\u308c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c0cec7966ccda57f6788bf79",
+        "href": "https://api.spotify.com/v1/tracks/5LpbATAxRoAz2FcZ1a5b9z",
+        "added_at": "2020-07-23T23:24:06Z"
+    },
+    {
+        "name": "Sweet Love",
+        "artists": "Junko Ohashi",
+        "album": "THE BEST SONGS of JUNKO OHASHI",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738a43441fe6166eb615335814",
+        "href": "https://api.spotify.com/v1/tracks/5WTCHYg9G27e9e5HFKGdd1",
+        "added_at": "2020-07-23T23:21:05Z"
+    },
+    {
+        "name": "\u308b\u308b\u3061\u3083\u3093\u306e\u81ea\u6bba\u914d\u4fe1",
+        "artists": "Shinsei Kamattechan",
+        "album": "\u5150\u7ae5\u30ab\u30eb\u30c6",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d14938188f84670b61137dbd",
+        "href": "https://api.spotify.com/v1/tracks/1ZBhrIxwuiDVB0NDkyekgN",
+        "added_at": "2020-07-23T23:20:22Z"
+    },
+    {
+        "name": "\u3077\u308a\u3093 - Acoustic ver.",
+        "artists": "\u679c\u6b69",
+        "album": "\u6c34\u8272\u306e\u5099\u5fd8\u9332",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273773c9d6dbf4daec99161721e",
+        "href": "https://api.spotify.com/v1/tracks/6tqqjqN2t2ZNrHZMJqxDTA",
+        "added_at": "2020-07-23T23:17:19Z"
+    },
+    {
+        "name": "\u604b\u306f\u3044\u3064\u3082",
+        "artists": "Wakana",
+        "album": "\u30a2\u30ad\u30ce\u30b5\u30af\u30e9 EP",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27336855eba5313998a848f97b4",
+        "href": "https://api.spotify.com/v1/tracks/5Fr9shSKrfZY8Hv60Orxd6",
+        "added_at": "2020-07-23T23:16:55Z"
+    },
+    {
+        "name": "\u30bf\u30d4\u30aa\u30ab\u30df\u30eb\u30af\u30c6\u30a3\u30fc",
+        "artists": "Wasuta",
+        "album": "JUMPING SUMMER",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f3cb917c652453ebb871b883",
+        "href": "https://api.spotify.com/v1/tracks/1IMawAUhQ4YKjugC537i1a",
+        "added_at": "2020-07-23T23:15:22Z"
+    },
+    {
+        "name": "\u6700&\u9ad8",
+        "artists": "Kyary Pamyu Pamyu",
+        "album": "\u6700&\u9ad8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e63352c5cd7fa5feb74c1490",
+        "href": "https://api.spotify.com/v1/tracks/7mkZusSUPpvNilpDHqn2z1",
+        "added_at": "2020-07-23T23:13:08Z"
+    },
+    {
         "name": "\u547c\u5438",
         "artists": "YARUNE SONOUCHI",
         "album": "\u547c\u5438",
@@ -13198,5 +15598,365 @@
         "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
         "href": "https://api.spotify.com/v1/tracks/2beUXjZ8A3x7wdo1pEa1qa",
         "added_at": "2015-07-13T08:06:07Z"
+    },
+    {
+        "name": "\u6cea\u306e\u30e0\u30b3\u30a6",
+        "artists": "Stereopony",
+        "album": "A Hydrangea Blooms",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
+        "href": "https://api.spotify.com/v1/tracks/4UqCpvmOL8FiohnarAoRRx",
+        "added_at": "2015-07-13T08:06:07Z"
+    },
+    {
+        "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30d6\u30eb\u30fc",
+        "artists": "Stereopony",
+        "album": "A Hydrangea Blooms",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
+        "href": "https://api.spotify.com/v1/tracks/53JmjqfYnbB1CTegLw97Et",
+        "added_at": "2015-07-13T08:06:07Z"
+    },
+    {
+        "name": "\u30d2\u30c8\u30d2\u30e9\u306e\u30cf\u30ca\u30d3\u30e9",
+        "artists": "Stereopony",
+        "album": "A Hydrangea Blooms",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
+        "href": "https://api.spotify.com/v1/tracks/6B2QRrVCFaWSwLi2lEtCD6",
+        "added_at": "2015-07-13T08:06:07Z"
+    },
+    {
+        "name": "\u6728\u6f0f\u308c\u65e5\u306e\u30b8\u30e3\u30fc\u30cb\u30fc",
+        "artists": "Stereopony",
+        "album": "A Hydrangea Blooms",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
+        "href": "https://api.spotify.com/v1/tracks/6KaMqFY3j3QlM28lc5SOwX",
+        "added_at": "2015-07-13T08:06:07Z"
+    },
+    {
+        "name": "I do it",
+        "artists": "Stereopony",
+        "album": "A Hydrangea Blooms",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
+        "href": "https://api.spotify.com/v1/tracks/6oUsnhgfZkdbp3331MoSVR",
+        "added_at": "2015-07-13T08:06:07Z"
+    },
+    {
+        "name": "effective line",
+        "artists": "Stereopony",
+        "album": "A Hydrangea Blooms",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a42ef101f5ca6f5a88b0cc30",
+        "href": "https://api.spotify.com/v1/tracks/7xnM4TXgadGc63crGUErNv",
+        "added_at": "2015-07-13T08:06:07Z"
+    },
+    {
+        "name": "Light My Fire",
+        "artists": "KOTOKO",
+        "album": "Light My Fire",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27322a2ff1f40fc564f33e1d4c2",
+        "href": "https://api.spotify.com/v1/tracks/4lvxofi0SOziS2NaQAfHLS",
+        "added_at": "2015-07-12T19:59:19Z"
+    },
+    {
+        "name": "Sing",
+        "artists": "Goose house",
+        "album": "Goose house Phrase#01",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273aa15aa84720c229152f752ca",
+        "href": "https://api.spotify.com/v1/tracks/1oR7VE2YJv3kT5XIa0MGMS",
+        "added_at": "2015-07-12T19:58:41Z"
+    },
+    {
+        "name": "Kitten Tale (Kagamine Rin Version)",
+        "artists": "Nanameue-P",
+        "album": "Kitten Tale",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273831cb35fe79c288d44cf29df",
+        "href": "https://api.spotify.com/v1/tracks/5rOPFQiowZlvTW9RvXAvUc",
+        "added_at": "2015-07-12T19:54:05Z"
+    },
+    {
+        "name": "kimi to koi to prade",
+        "artists": "monoeye",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/04ORAJUgT4VO17zXgol5KQ",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Can We Go Back",
+        "artists": "Arthur Shastra",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "First love",
+        "artists": "Fluoxetine",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/0DGKE0nb28J8SD8834KRAe",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "yurufuwa koi gokoro",
+        "artists": "Atawame",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "PEACE",
+        "artists": "Kali C.",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Luminary",
+        "artists": "Saiph",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Getting Depressed and Depressed",
+        "artists": "Orange P",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/0lZB3rHRY5e9pewayYNwg7",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Cyber DJ",
+        "artists": "EinsteinP",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/13qUoGMEmJLaSvvPori3fS",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Fictionia",
+        "artists": "Taroon",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/1IYxHEPLjsL2gDHRSIM6Sm",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "sofutochiyu",
+        "artists": "Penoreri",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/1IackaiPYuZ0HwD6z5xVQz",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "seventeen",
+        "artists": "muratamurao",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/28mfPUVhJqnzh9P5QskaLF",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Star Sound Afterimage Gem",
+        "artists": "mowaku",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/2aEGMXIxtZAJWpgsmK4bTy",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Splendid Fantazia",
+        "artists": "Rinne Apple P",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Do Androids Dream of sugar confectionery?",
+        "artists": "Imoken Potato",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/37PovyfkpUPghCCUFtRAnN",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Lost Melody",
+        "artists": "AKI TAKATSUKI",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/3JZEsFYzNk417bsAE7njgH",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "DANCALOID",
+        "artists": "Kii",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Sky High",
+        "artists": "Keyta",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/3NAKecKf3fgEUzh3f0mZsb",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Subzero:One Second City Planning",
+        "artists": "myremy",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/3VpZhiqogL1FCuQIW3zayp",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Carnival",
+        "artists": "Bokunenbito",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Rinne",
+        "artists": "Deme",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/4L9t6Of9x7O5OFeNWi2elG",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Rain",
+        "artists": "mitejin",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/4OkKw51NOVEEemkZPpWquZ",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Utsusemi Disco",
+        "artists": "killchord",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Kaero Kaero",
+        "artists": "Penoreri",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/4n3xD1VfJRQS6k2p5qDBTt",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "lonely walk",
+        "artists": "gogop",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/4qUbdL9oki3OeUwMZ09iNu",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Itazura Obake",
+        "artists": "Style",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/5kRWMkTT3w38L3zpQHmkA5",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "LOVELOVEMIKU",
+        "artists": "katatumuriP",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/5yJrP1frURYhTVgOyQ6FoR",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Sign",
+        "artists": "Fasorashi-Do",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Save You!!",
+        "artists": "Electrical",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/6AxmJI0UWUxs2B7acGETWT",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Garakuta Hard worker",
+        "artists": "Tohru-ch",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/6Ww2oPoTXaVTXO4Csm2qEx",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Dearest",
+        "artists": "Ryo Azuma",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/6cND8NaOsmFHEbkRB5y3qQ",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Zombie Zombie Generation",
+        "artists": "Kimuta",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/6k9ibeHTEe1RaP1KdzSrvE",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "JAXA",
+        "artists": "Giganta",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Alma Song",
+        "artists": "PWRFL Power",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/7KFBlb7nKH7dieXzKyrZIu",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "MelancholyNirandakori",
+        "artists": "BijomenZ nacchi",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/7mwPVfUIDiyUBvEmjSwHkE",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Habitat",
+        "artists": "Strausz",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/7v6rNgbLVQgrDGbaoGtJti",
+        "added_at": "2015-07-12T19:49:13Z"
+    },
+    {
+        "name": "Kakurenbo",
+        "artists": "SirotumeP",
+        "album": "Vocaloid Parade feat. Hatsune Miku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
+        "href": "https://api.spotify.com/v1/tracks/7zzL2pdS2tCrnuT4fkgQD3",
+        "added_at": "2015-07-12T19:49:13Z"
     }
 ]
