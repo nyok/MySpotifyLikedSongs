@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u4e94\u7b49\u5206\u306e\u30ab\u30bf\u30c1",
+        "artists": "\u4e2d\u91ce\u5bb6\u306e\u4e94\u3064\u5b50",
+        "album": "\u4e94\u7b49\u5206\u306e\u30ab\u30bf\u30c1/\u306f\u3064\u3053\u3044",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a1bd449afb37e187f6b5e9df",
+        "href": "https://api.spotify.com/v1/tracks/0c0SnAvk6flplPQWkb0oIO",
+        "added_at": "2023-06-22T13:17:17Z"
+    },
+    {
         "name": "BAKU",
         "artists": "Ikimonogakari",
         "album": "BAKU",
@@ -15989,14 +15997,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Kaero Kaero",
-        "artists": "Penoreri",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/4n3xD1VfJRQS6k2p5qDBTt",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
