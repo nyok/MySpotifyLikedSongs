@@ -1,5 +1,29 @@
 [
     {
+        "name": "\u30e6\u30e1\u30f2\u30ab\u30b1\u30eb!",
+        "artists": "\u30b9\u30da\u30b7\u30e3\u30eb\u30a6\u30a3\u30fc\u30af (CV. \u548c\u6c23\u3042\u305a\u672a)",
+        "album": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 (vol.1 \u30e6\u30e1\u30f2\u30ab\u30b1\u30eb!)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27302a657bc291b9edb83ac4795",
+        "href": "https://api.spotify.com/v1/tracks/1o2aQhMdbZ2WtFQJvJzygZ",
+        "added_at": "2023-06-23T13:23:29Z"
+    },
+    {
+        "name": "\u8679\u306e\u5f7c\u65b9\u306b - From THE FIRST TAKE",
+        "artists": "ReoNa",
+        "album": "\u8679\u306e\u5f7c\u65b9\u306b - From THE FIRST TAKE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b9cf4b7092e8007a1507d34a",
+        "href": "https://api.spotify.com/v1/tracks/0fQPEXLLGPtw3uNYDH2l64",
+        "added_at": "2023-06-23T13:11:41Z"
+    },
+    {
+        "name": "\u8594\u8587\u8272\u306e\u4eba\u751f",
+        "artists": "Mai Kuraki",
+        "album": "\u304d\u307f\u3068\u604b\u306e\u307e\u307e\u3066\u3099\u7d42\u308f\u308c\u306a\u3044 \u3044\u3064\u3082\u5922\u306e\u307e\u307e\u3057\u3099\u3083\u3044\u3089\u308c\u306a\u3044/\u8594\u8587\u8272\u306e\u4eba\u751f\u3010\u540d\u63a2\u5075\u30b3\u30ca\u30f3\u76e4\u3011",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737f65be89b4dc0b3c12d222f7",
+        "href": "https://api.spotify.com/v1/tracks/19Ym1dbM0UNplaknXP0Gmd",
+        "added_at": "2023-06-23T13:00:30Z"
+    },
+    {
         "name": "Knock Out",
         "artists": "Okazaki Taiiku",
         "album": "Knock Out",
@@ -15973,30 +15997,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/3NAKecKf3fgEUzh3f0mZsb",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Subzero:One Second City Planning",
-        "artists": "myremy",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/3VpZhiqogL1FCuQIW3zayp",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Carnival",
-        "artists": "Bokunenbito",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Rinne",
-        "artists": "Deme",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/4L9t6Of9x7O5OFeNWi2elG",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
