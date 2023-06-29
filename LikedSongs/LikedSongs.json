@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u604b\u306e\u30e1\u30ac\u30e9\u30d0",
+        "artists": "\u30b3\u30ed\u30ca\u30ca\u30e2\u30ec\u30e2\u30e2",
+        "album": "\u604b\u306e\u30e1\u30ac\u30e9\u30d0 / G'old\u301cen\u301cGuy (D\u00d7D remix) [feat. Misaki]",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f86333747a59e4e8489dd217",
+        "href": "https://api.spotify.com/v1/tracks/7cML1VOtaxsPH1EkktvVq6",
+        "added_at": "2023-06-29T18:05:48Z"
+    },
+    {
         "name": "WASH(\u30a6\u30aa\u30c3\u30b7\u30e5)",
         "artists": "Miki Matsubara",
         "album": "\u677e\u539f\u307f\u304d \u30d9\u30b9\u30c8\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
@@ -15989,14 +15997,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/3JZEsFYzNk417bsAE7njgH",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "DANCALOID",
-        "artists": "Kii",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
