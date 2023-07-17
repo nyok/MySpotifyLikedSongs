@@ -1,5 +1,29 @@
 [
     {
+        "name": "\u7e01",
+        "artists": "Higuchi Ai",
+        "album": "\u6700\u60aa\u6700\u611b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27331812388cc0d7c15ae1e6bb2",
+        "href": "https://api.spotify.com/v1/tracks/1LPlzpnNaiYvv4sWvkKCse",
+        "added_at": "2023-07-17T08:56:36Z"
+    },
+    {
+        "name": "\u3042\u306e\u8857\u306b\u98a8\u5439\u3051\u3070",
+        "artists": "Hitsujibungaku",
+        "album": "you love",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731aec94517652a7127223434f",
+        "href": "https://api.spotify.com/v1/tracks/1aZSQkvJ4EN06hYQpFqjC3",
+        "added_at": "2023-07-17T08:51:56Z"
+    },
+    {
+        "name": "\u7a93",
+        "artists": "CRCK/LCKS",
+        "album": "Double Rift",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ef97d97c93fb61ddf9fa5aac",
+        "href": "https://api.spotify.com/v1/tracks/0CWG1AdZJu8wCQ8UZEJwvf",
+        "added_at": "2023-07-17T08:34:57Z"
+    },
+    {
         "name": "\u6c37\u83d3\u5b50",
         "artists": "Kayoko Yoshizawa",
         "album": "\u6c37\u83d3\u5b50",
