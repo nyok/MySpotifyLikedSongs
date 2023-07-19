@@ -1,5 +1,21 @@
 [
     {
+        "name": "\u685c\u5439\u96ea\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9 (2017 Remastering)",
+        "artists": "\u5ca1\u672c\u821e\u5b50",
+        "album": "\u30cf\u30fc\u30c8\u306e\u6249 (2017 Remastering)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27318610752c7260b1383192245",
+        "href": "https://api.spotify.com/v1/tracks/64bjlHPtN5OnANQ7BA9xpF",
+        "added_at": "2023-07-19T22:57:07Z"
+    },
+    {
+        "name": "\u672a\u5b8c\u6210\u30c9\u30ea\u30fc\u30e0!",
+        "artists": "\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u30df\u30e5\u30fc\u30b8\u30ab\u30eb",
+        "album": "\u672a\u5b8c\u6210\u30c9\u30ea\u30fc\u30e0!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273abce0480779b3dfb283bdcab",
+        "href": "https://api.spotify.com/v1/tracks/3MVbG5259vPrYXUhX5JtQZ",
+        "added_at": "2023-07-19T22:48:32Z"
+    },
+    {
         "name": "\u7e01",
         "artists": "Higuchi Ai",
         "album": "\u6700\u60aa\u6700\u611b",
