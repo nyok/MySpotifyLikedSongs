@@ -1,5 +1,21 @@
 [
     {
+        "name": "CHASER GAME",
+        "artists": "Maaya Uchida",
+        "album": "\u30e9\u30a6\u30c9\u30d8\u30a4\u30e9\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738e5b5624f102d5b41f01d9e0",
+        "href": "https://api.spotify.com/v1/tracks/4dGIxvnuHIv6GfqiOEFZCn",
+        "added_at": "2023-07-22T14:53:47Z"
+    },
+    {
+        "name": "\u541b\u3068\u898b\u308b\u5922",
+        "artists": "\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u30df\u30e5\u30fc\u30b8\u30ab\u30eb",
+        "album": "\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u30df\u30e5\u30fc\u30b8\u30ab\u30eb",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a7b5daef8a9d2bf73313ced0",
+        "href": "https://api.spotify.com/v1/tracks/5ipMOLSYJRSyUG4hzNqtqg",
+        "added_at": "2023-07-22T14:53:04Z"
+    },
+    {
         "name": "\u685c\u5439\u96ea\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9 (2017 Remastering)",
         "artists": "\u5ca1\u672c\u821e\u5b50",
         "album": "\u30cf\u30fc\u30c8\u306e\u6249 (2017 Remastering)",
