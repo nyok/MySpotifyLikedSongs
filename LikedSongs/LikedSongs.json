@@ -1,5 +1,13 @@
 [
     {
+        "name": "Kizuna no Hate",
+        "artists": "ESTi",
+        "album": "Destiny Child (Original Soundtrack) Pt. 1",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27346c2ee0c7e7381a34fc2fb67",
+        "href": "https://api.spotify.com/v1/tracks/1mhHWHQFvqIQvAfNKvLCur",
+        "added_at": "2023-08-01T12:55:43Z"
+    },
+    {
         "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\u306f\u3059\u3050\u305d\u3070\u306b",
         "artists": "Yuinishio",
         "album": "tasty city",
@@ -9982,6 +9990,14 @@
         "cover": "https://i.scdn.co/image/ab67616d0000b2731ce13e03759fd585b8115476",
         "href": "https://api.spotify.com/v1/tracks/0RuLz62h4YPNXqdO20Fmf6",
         "added_at": "2022-01-31T20:03:56Z"
+    },
+    {
+        "name": "Forever Friends",
+        "artists": "Daoko",
+        "album": "\u6253\u4e0a\u82b1\u706b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27398c2a02143e5ee8a80ca0c94",
+        "href": "https://api.spotify.com/v1/tracks/0a3KDmOQMXc3DA7wohn8I8",
+        "added_at": "2022-01-29T21:14:05Z"
     },
     {
         "name": "Forever Friends",
