@@ -14162,7 +14162,7 @@
     {
         "name": "\u90e8\u5c4b\u3068Y\u30b7\u30e3\u30c4\u3068\u79c1~\u3042\u308c\u304b\u3089~",
         "artists": "Eri Hiramatsu",
-        "album": "\u90e8\u5c4b\u3068Y\u30b7\u30e3\u30c4\u3068\u79c1 ~\u3042\u308c\u304b\u3089~",
+        "album": "\u90e8\u5c4b\u3068Y\u30b7\u30e3\u30c4\u3068\u79c1 \uff5e\u3042\u308c\u304b\u3089\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733de06c0e7a0c0c66a96d5c96",
         "href": "https://api.spotify.com/v1/tracks/3ndJhVD3mOuD13MobTXKCV",
         "added_at": "2020-07-17T21:16:06Z"
