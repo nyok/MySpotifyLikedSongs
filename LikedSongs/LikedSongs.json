@@ -1,5 +1,37 @@
 [
     {
+        "name": "\u5927\u962aLOVER",
+        "artists": "DREAMS COME TRUE",
+        "album": "\u5927\u962aLOVER",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27396550f393c95d7e4cf85171c",
+        "href": "https://api.spotify.com/v1/tracks/2WpgKrUoWaZHQLTgT6aZBF",
+        "added_at": "2023-08-22T22:19:42Z"
+    },
+    {
+        "name": "LOVE LOVE LOVE",
+        "artists": "DREAMS COME TRUE",
+        "album": "\u611b\u3057\u3066\u3044\u308b\u3068\u8a00\u3063\u3066\u304f\u308c \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e3c884fb1864c9dcccd1b1a0",
+        "href": "https://api.spotify.com/v1/tracks/0kI1eqATzXs5ztZ0nJtQMa",
+        "added_at": "2023-08-22T22:19:31Z"
+    },
+    {
+        "name": "\u6c7a\u6226\u306f\u91d1\u66dc\u65e5",
+        "artists": "DREAMS COME TRUE",
+        "album": "\u6c7a\u6226\u306f\u91d1\u66dc\u65e5/\u592a\u967d\u304c\u898b\u3066\u308b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732e0a3152c32130cf8170c3d4",
+        "href": "https://api.spotify.com/v1/tracks/7iunyO2biewHVCt7ofOrtq",
+        "added_at": "2023-08-22T22:17:30Z"
+    },
+    {
+        "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044",
+        "artists": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+        "album": "\u3059\u308b\u3069\u3044\u3055\u3055\u304f\u308c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e9bfe694c60819d50578e765",
+        "href": "https://api.spotify.com/v1/tracks/5O7dUqcxMUVPFL9YAE9e7q",
+        "added_at": "2023-08-22T22:10:43Z"
+    },
+    {
         "name": "\u5c0f\u3055\u306a\u9858\u3044",
         "artists": "Saori Minami",
         "album": "\u6f6e\u98a8\u306e\u30e1\u30ed\u30c7\u30a3",
@@ -16365,38 +16397,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/2aEGMXIxtZAJWpgsmK4bTy",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Splendid Fantazia",
-        "artists": "Rinne Apple P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Do Androids Dream of sugar confectionery?",
-        "artists": "Imoken Potato",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/37PovyfkpUPghCCUFtRAnN",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Lost Melody",
-        "artists": "AKI TAKATSUKI",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/3JZEsFYzNk417bsAE7njgH",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "DANCALOID",
-        "artists": "Kii",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
