@@ -2050,7 +2050,7 @@
     {
         "name": "\u8c9d\u6bbb\u7269\u8a9e-Once Upon A Summertime-",
         "artists": "Hiroko Mita",
-        "album": "GOLDEN J-POP/THE BEST \u4e09\u7530\u5bdb\u5b50",
+        "album": "GOLDEN J-POP/THE BEST\u3000\u4e09\u7530\u5bdb\u5b50",
         "cover": "https://i.scdn.co/image/ab67616d0000b2737cd369eb2f1d772e983d32f0",
         "href": "https://api.spotify.com/v1/tracks/6a4jX9thlomFokuobBjgEL",
         "added_at": "2023-03-24T20:29:34Z"
@@ -2058,7 +2058,7 @@
     {
         "name": "\u3075\u305f\u308a\u307d\u3063\u3061\u7269\u8a9e",
         "artists": "Hiroko Mita",
-        "album": "GOLDEN J-POP/THE BEST \u4e09\u7530\u5bdb\u5b50",
+        "album": "GOLDEN J-POP/THE BEST\u3000\u4e09\u7530\u5bdb\u5b50",
         "cover": "https://i.scdn.co/image/ab67616d0000b2737cd369eb2f1d772e983d32f0",
         "href": "https://api.spotify.com/v1/tracks/1eaf34TFBbtcy0CTZCt724",
         "added_at": "2023-03-24T20:18:37Z"
@@ -7370,7 +7370,7 @@
     {
         "name": "\u604b\u3059\u308b\u30e1\u30c8\u30ed",
         "artists": "Hiroko Mita",
-        "album": "GOLDEN J-POP/THE BEST \u4e09\u7530\u5bdb\u5b50",
+        "album": "GOLDEN J-POP/THE BEST\u3000\u4e09\u7530\u5bdb\u5b50",
         "cover": "https://i.scdn.co/image/ab67616d0000b2737cd369eb2f1d772e983d32f0",
         "href": "https://api.spotify.com/v1/tracks/6zHppvIat3Gvk2wocwtBmU",
         "added_at": "2022-09-06T19:06:08Z"
@@ -7378,7 +7378,7 @@
     {
         "name": "\u6625\u306e\u5192\u967a",
         "artists": "Hiroko Mita",
-        "album": "GOLDEN J-POP/THE BEST \u4e09\u7530\u5bdb\u5b50",
+        "album": "GOLDEN J-POP/THE BEST\u3000\u4e09\u7530\u5bdb\u5b50",
         "cover": "https://i.scdn.co/image/ab67616d0000b2737cd369eb2f1d772e983d32f0",
         "href": "https://api.spotify.com/v1/tracks/4z0QGHy5X04GKnpo0S9blm",
         "added_at": "2022-09-06T18:49:06Z"
@@ -7386,7 +7386,7 @@
     {
         "name": "\u521d\u604b",
         "artists": "Hiroko Mita",
-        "album": "GOLDEN J-POP/THE BEST \u4e09\u7530\u5bdb\u5b50",
+        "album": "GOLDEN J-POP/THE BEST\u3000\u4e09\u7530\u5bdb\u5b50",
         "cover": "https://i.scdn.co/image/ab67616d0000b2737cd369eb2f1d772e983d32f0",
         "href": "https://api.spotify.com/v1/tracks/21ARvoKRPMVOyHMzxgxJns",
         "added_at": "2022-09-06T18:37:42Z"
@@ -7858,7 +7858,7 @@
     {
         "name": "\u590f\u306e\u30df\u30e9\u30fc\u30b8\u30e5",
         "artists": "Kanako Wada",
-        "album": "Esquisse(\u30a8\u30b9\u30ad\u30fc\u30b9)",
+        "album": "Esquisse\uff08\u30a8\u30b9\u30ad\u30fc\u30b9\uff09",
         "cover": "https://i.scdn.co/image/ab67616d0000b2734c29c981ac9a4d45592b5755",
         "href": "https://api.spotify.com/v1/tracks/17QmZTdwAkTB3b9rGLNbur",
         "added_at": "2022-07-11T11:03:29Z"
