@@ -200,7 +200,7 @@
         "added_at": "2023-08-18T23:40:56Z"
     },
     {
-        "name": "\u611b\u304c\u6b62\u307e\u3089\u306a\u3044 ~Turn it into love~ (Original Remastered 2018)",
+        "name": "\u611b\u304c\u6b62\u307e\u3089\u306a\u3044 \uff5eTurn it into love\uff5e (Original Remastered 2018)",
         "artists": "Wink",
         "album": "At Heel Diamonds (Original Remastered 2018)",
         "cover": "https://i.scdn.co/image/ab67616d0000b273260b70c1c0a1e145ef4d6230",
@@ -1154,7 +1154,7 @@
     {
         "name": "\u30de\u30c4\u30b1\u30f3\u30b5\u30f3\u30d0\u2161",
         "artists": "Ken Matsudaira",
-        "album": "\u30de\u30c4\u30b1\u30f3\u30fb\u30b5\u30f3\u30cf\u3099 II",
+        "album": "\u30de\u30c4\u30b1\u30f3\uff65\u30b5\u30f3\u30d0 \u2161",
         "cover": "https://i.scdn.co/image/ab67616d0000b2732191b4c998f6a9c33c12f506",
         "href": "https://api.spotify.com/v1/tracks/4emdCmGcerW2gVymhw12vN",
         "added_at": "2023-06-04T00:27:54Z"
@@ -5074,7 +5074,7 @@
     {
         "name": "\u3061\u3083\u3063\u304d\u308a\u30de\u30f3\u30dc (DJ \u5409\u6ca2dynamite.jp Retouch)",
         "artists": "\u751f\u7530\u6075\u5b50",
-        "album": "\u751f\u7530 \u6075\u5b50 EP (DJ \u5409\u6ca2dynamite.jp Retouch)",
+        "album": "\u751f\u7530\u3000\u6075\u5b50 EP (DJ \u5409\u6ca2dynamite.jp Retouch)",
         "cover": "https://i.scdn.co/image/ab67616d0000b2735e485235e7661a89f32e8229",
         "href": "https://api.spotify.com/v1/tracks/2plmOxf9oAOaSu5wW8PQl4",
         "added_at": "2022-11-09T16:13:39Z"
@@ -7186,7 +7186,7 @@
     {
         "name": "\u5929\u4f7f\u306e\u7d75\u306e\u5177",
         "artists": "Mari Iijima",
-        "album": "palette(\u30cf\u309a\u30ec\u30c3\u30c8)",
+        "album": "palette\uff08\u30d1\u30ec\u30c3\u30c8\uff09",
         "cover": "https://i.scdn.co/image/ab67616d0000b27357ea0e676b9f37985cb277f2",
         "href": "https://api.spotify.com/v1/tracks/3D8gdGUjOHEm7Xg1drhVNh",
         "added_at": "2022-10-07T21:47:50Z"
@@ -9354,7 +9354,7 @@
     {
         "name": "Come sweet death,second impact",
         "artists": "Megumi Hayashibara",
-        "album": "Fifty~Fifty",
+        "album": "Fifty\uff5eFifty",
         "cover": "https://i.scdn.co/image/ab67616d0000b2736416a6ae0da17c1d2a0e0ef8",
         "href": "https://api.spotify.com/v1/tracks/1gZHs1FdM4IuWCA7MB2coA",
         "added_at": "2022-04-09T13:34:38Z"
@@ -10970,7 +10970,7 @@
     {
         "name": "\u3082\u30461\u4eba\u306e\u79c1 MEGU Version",
         "artists": "Megumi Hayashibara",
-        "album": "Fifty~Fifty",
+        "album": "Fifty\uff5eFifty",
         "cover": "https://i.scdn.co/image/ab67616d0000b2736416a6ae0da17c1d2a0e0ef8",
         "href": "https://api.spotify.com/v1/tracks/1DQyyPwgmCn0kCSkOB8kXO",
         "added_at": "2021-07-22T08:43:30Z"
@@ -10978,7 +10978,7 @@
     {
         "name": "Fifty",
         "artists": "Megumi Hayashibara",
-        "album": "Fifty~Fifty",
+        "album": "Fifty\uff5eFifty",
         "cover": "https://i.scdn.co/image/ab67616d0000b2736416a6ae0da17c1d2a0e0ef8",
         "href": "https://api.spotify.com/v1/tracks/7d3LHHi78fUloK5M7jv2AB",
         "added_at": "2021-07-21T10:39:08Z"
