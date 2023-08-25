@@ -1002,7 +1002,7 @@
     {
         "name": "100What?! Girl (2017 Remastering)",
         "artists": "\u5ca1\u672c\u821e\u5b50",
-        "album": "FASCINATION+9 (2017 Remastering)",
+        "album": "FASCINATION\uff0b\uff19 (2017 Remastering)",
         "cover": "https://i.scdn.co/image/ab67616d0000b273c69e63c87512d8275b8ea192",
         "href": "https://api.spotify.com/v1/tracks/6zvncinXcOltB2s1E7ELu8",
         "added_at": "2023-06-04T01:52:46Z"
@@ -3938,7 +3938,7 @@
     {
         "name": "Winter\u30b9\u30d7\u30ea\u30f3\u30b0Summer\u30d5\u30a9\u30fc\u30eb",
         "artists": "Minayo Watanabe",
-        "album": "GOLDEN\u2606BEST / \u6e21\u8fba\u7f8e\u5948\u4ee3 \u301cSINGLES\u301c",
+        "album": "GOLDEN\u2606BEST / \u6e21\u8fba\u7f8e\u5948\u4ee3\u3000\u301cSINGLES\u301c",
         "cover": "https://i.scdn.co/image/ab67616d0000b2731eb970f4afed9e2bd47c87cd",
         "href": "https://api.spotify.com/v1/tracks/35BxfllgwZdyRgGJl3kw51",
         "added_at": "2022-12-04T22:56:27Z"
@@ -4698,7 +4698,7 @@
     {
         "name": "\u6c34\u69fd",
         "artists": "\u4e2d\u5cf6\u611b",
-        "album": "\u6c34\u69fd/\u9aea\u98fe\u308a\u306e\u5929\u4f7f [\u661f\u5408\u76e4]",
+        "album": "\u6c34\u69fd\uff0f\u9aea\u98fe\u308a\u306e\u5929\u4f7f [\u661f\u5408\u76e4]",
         "cover": "https://i.scdn.co/image/ab67616d0000b273f968855d9959f680bcff9e29",
         "href": "https://api.spotify.com/v1/tracks/4BPegBTKIorWndePrVSCge",
         "added_at": "2022-11-14T21:45:41Z"
@@ -7648,9 +7648,9 @@
         "added_at": "2022-08-01T19:30:48Z"
     },
     {
-        "name": "\u79c1\u3089\u3057\u304f\u751f\u304d\u3066\u307f\u305f\u3044 -5th Celebration Tour 2019 ~MONSTER GROOVE PARTY~-",
+        "name": "\u79c1\u3089\u3057\u304f\u751f\u304d\u3066\u307f\u305f\u3044 -5th Celebration Tour 2019 \uff5eMONSTER GROOVE PARTY\uff5e-",
         "artists": "Little Glee Monster",
-        "album": "5th Celebration Tour 2019 ~MONSTER GROOVE PARTY~",
+        "album": "5th Celebration Tour 2019 \uff5eMONSTER GROOVE PARTY\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b27376e7a8388b2b8d877e5cdd2f",
         "href": "https://api.spotify.com/v1/tracks/4zMVG8DMWxqBr3AQuWNgLq",
         "added_at": "2022-08-01T19:09:40Z"
@@ -8426,7 +8426,7 @@
     {
         "name": "\u3055\u304f\u3089 - \u72ec\u5531",
         "artists": "Naotaro Moriyama",
-        "album": "\u5091\u4f5c\u64b0 2001~2005",
+        "album": "\u5091\u4f5c\u64b0 2001\uff5e2005",
         "cover": "https://i.scdn.co/image/ab67616d0000b2730a42ad65bf935dfb1c1a6fa6",
         "href": "https://api.spotify.com/v1/tracks/7x0ZuC7zKDiAzGfVVJYf83",
         "added_at": "2022-06-19T20:45:12Z"
@@ -10144,9 +10144,9 @@
         "added_at": "2022-02-15T20:58:03Z"
     },
     {
-        "name": "\u4eca\u3059\u3050Kiss Me",
+        "name": "\u4eca\u3059\u3050\uff2b\uff49\uff53\uff53\u3000\uff2d\uff45",
         "artists": "LINDBERG",
-        "album": "LINDBERG III",
+        "album": "\uff2c\uff29\uff2e\uff24\uff22\uff25\uff32\uff27 \uff29\uff29\uff29",
         "cover": "https://i.scdn.co/image/ab67616d0000b273df9d87d8260179558b891e58",
         "href": "https://api.spotify.com/v1/tracks/5Nc3OwtzaQdeyEFMb31YCW",
         "added_at": "2022-02-11T20:01:20Z"
@@ -10306,7 +10306,7 @@
     {
         "name": "\u6625\u590f\u79cb\u51ac\u30fb\u671d\u663c\u591c",
         "artists": "Chica Boom",
-        "album": "\u6625\u590f\u79cb\u51ac ~Chica Boom Selection~",
+        "album": "\u6625\u590f\u79cb\u51ac \uff5eChica Boom Selection\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b27340dea4b8a15822cc5955808e",
         "href": "https://api.spotify.com/v1/tracks/2LztDDeoklqDDCZLxGrSjk",
         "added_at": "2022-01-21T19:41:58Z"
@@ -10368,7 +10368,7 @@
         "added_at": "2022-01-16T18:10:42Z"
     },
     {
-        "name": "OUR GOOD DAY\u30fb\u30fb\u30fb\u50d5\u3089\u306eGOOD DAY",
+        "name": "OUR GOOD DAY\uff65\uff65\uff65\u50d5\u3089\u306eGOOD DAY",
         "artists": "Megumi Hayashibara",
         "album": "SHAMROCK",
         "cover": "https://i.scdn.co/image/ab67616d0000b2739e0ad71c897b2273d15fccec",
@@ -11072,7 +11072,7 @@
         "added_at": "2021-07-16T17:29:25Z"
     },
     {
-        "name": "secret base ~\u541b\u304c\u304f\u308c\u305f\u3082\u306e~",
+        "name": "secret base \uff5e\u541b\u304c\u304f\u308c\u305f\u3082\u306e\uff5e",
         "artists": "ZONE",
         "album": "E \u301cComplete A side Singles\u301c",
         "cover": "https://i.scdn.co/image/ab67616d0000b27375990e5cc75f43ba3d8c7218",
@@ -11224,17 +11224,17 @@
         "added_at": "2021-06-26T09:46:43Z"
     },
     {
-        "name": "\u541b\u306e\u3044\u3061\u306f\u3099\u3093\u306b\u30fb\u30fb\u30fb",
+        "name": "\u541b\u306e\u3044\u3061\u3070\u3093\u306b\uff65\uff65\uff65",
         "artists": "LINDBERG",
-        "album": "LINDBERG BEST~FLIGHT RECORDER III~",
+        "album": "LINDBERG BEST\uff5eFLIGHT RECORDER III\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b2734004ecac9634e64c4e02c5f9",
         "href": "https://api.spotify.com/v1/tracks/3MFhHXPKfKJX59WyQxEBu5",
         "added_at": "2021-06-25T22:18:10Z"
     },
     {
-        "name": "\u4eca\u3059\u3050Kiss Me",
+        "name": "\u4eca\u3059\u3050\uff2b\uff49\uff53\uff53\u3000\uff2d\uff45",
         "artists": "LINDBERG",
-        "album": "LINDBERG III",
+        "album": "\uff2c\uff29\uff2e\uff24\uff22\uff25\uff32\uff27 \uff29\uff29\uff29",
         "cover": "https://i.scdn.co/image/ab67616d0000b273abb964af0ec84877eac04144",
         "href": "https://api.spotify.com/v1/tracks/7gZJSUrhN2KrlgpY9unQy6",
         "added_at": "2021-06-25T22:12:40Z"
@@ -12338,7 +12338,7 @@
     {
         "name": "\u4e16\u754c\u4e2d\u306e\u8ab0\u3088\u308a\u304d\u3063\u3068 (Version II)",
         "artists": "Noriko Sakai",
-        "album": "\u5927\u597d\u304d ~My Moments Best~",
+        "album": "\u5927\u597d\u304d \uff5eMy Moments Best\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b2736fe4edd02523307cc03bd82a",
         "href": "https://api.spotify.com/v1/tracks/5OhpMYefMNbkbpzkDGhb34",
         "added_at": "2021-03-22T07:32:07Z"
@@ -12546,7 +12546,7 @@
     {
         "name": "\u65e9\u6625\u7269\u8a9e",
         "artists": "Tomoyo Harada",
-        "album": "\u539f\u7530\u77e5\u4e16 Best Harvest",
+        "album": "\u539f\u7530\u77e5\u4e16\u3000Best Harvest",
         "cover": "https://i.scdn.co/image/ab67616d0000b2730e82e4a904c0f2d8053e0a40",
         "href": "https://api.spotify.com/v1/tracks/3rgvMFR6fLgNfLZymvQqMn",
         "added_at": "2021-01-17T11:25:50Z"
@@ -13248,7 +13248,7 @@
         "added_at": "2021-01-06T22:59:03Z"
     },
     {
-        "name": "\u674f\u4ec1\u30ab\u3099\u30fc\u30eb ~Far Eastern Tale~ feat. \u571f\u5c90\u9ebb\u5b50",
+        "name": "\u674f\u4ec1\u30ac\u30fc\u30eb \uff5eFar Eastern Tale\uff5e feat. \u571f\u5c90\u9ebb\u5b50",
         "artists": "Schroeder-Headz",
         "album": "\u30b2\u30b9\u30c8\u30fb\u30b9\u30a4\u30fc\u30c8",
         "cover": "https://i.scdn.co/image/ab67616d0000b2737c0fba28023c11ac8ad48d84",
@@ -14810,7 +14810,7 @@
     {
         "name": "\u30b7\u30e3\u30f3\u30b0\u30ea\u30e9",
         "artists": "Chatmonchy",
-        "album": "\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc BEST~2005-2011~",
+        "album": "\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc BEST\uff5e2005-2011\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b273ff1070963ee3d533b66fc01a",
         "href": "https://api.spotify.com/v1/tracks/2vESvd6dRvfd0HjKV8vQ9R",
         "added_at": "2019-11-24T21:16:11Z"
