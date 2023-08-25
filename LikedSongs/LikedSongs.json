@@ -1026,7 +1026,7 @@
     {
         "name": "100What?! Girl (2017 Remastering)",
         "artists": "\u5ca1\u672c\u821e\u5b50",
-        "album": "FASCINATION+9 (2017 Remastering)",
+        "album": "FASCINATION\uff0b\uff19 (2017 Remastering)",
         "cover": "https://i.scdn.co/image/ab67616d0000b273c69e63c87512d8275b8ea192",
         "href": "https://api.spotify.com/v1/tracks/6zvncinXcOltB2s1E7ELu8",
         "added_at": "2023-06-04T01:52:46Z"
@@ -5098,7 +5098,7 @@
     {
         "name": "\u3061\u3083\u3063\u304d\u308a\u30de\u30f3\u30dc (DJ \u5409\u6ca2dynamite.jp Retouch)",
         "artists": "\u751f\u7530\u6075\u5b50",
-        "album": "\u751f\u7530 \u6075\u5b50 EP (DJ \u5409\u6ca2dynamite.jp Retouch)",
+        "album": "\u751f\u7530\u3000\u6075\u5b50 EP (DJ \u5409\u6ca2dynamite.jp Retouch)",
         "cover": "https://i.scdn.co/image/ab67616d0000b2735e485235e7661a89f32e8229",
         "href": "https://api.spotify.com/v1/tracks/2plmOxf9oAOaSu5wW8PQl4",
         "added_at": "2022-11-09T16:13:39Z"
@@ -7672,7 +7672,7 @@
         "added_at": "2022-08-01T19:30:48Z"
     },
     {
-        "name": "\u79c1\u3089\u3057\u304f\u751f\u304d\u3066\u307f\u305f\u3044 -5th Celebration Tour 2019 ~MONSTER GROOVE PARTY~-",
+        "name": "\u79c1\u3089\u3057\u304f\u751f\u304d\u3066\u307f\u305f\u3044 -5th Celebration Tour 2019 \uff5eMONSTER GROOVE PARTY\uff5e-",
         "artists": "Little Glee Monster",
         "album": "5th Celebration Tour 2019 \uff5eMONSTER GROOVE PARTY\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b27376e7a8388b2b8d877e5cdd2f",
@@ -10392,7 +10392,7 @@
         "added_at": "2022-01-16T18:10:42Z"
     },
     {
-        "name": "OUR GOOD DAY\u30fb\u30fb\u30fb\u50d5\u3089\u306eGOOD DAY",
+        "name": "OUR GOOD DAY\uff65\uff65\uff65\u50d5\u3089\u306eGOOD DAY",
         "artists": "Megumi Hayashibara",
         "album": "SHAMROCK",
         "cover": "https://i.scdn.co/image/ab67616d0000b2739e0ad71c897b2273d15fccec",
@@ -11026,7 +11026,7 @@
     {
         "name": "\u592a\u967d\u3068\u6563\u6b69",
         "artists": "Mayu Watanabe",
-        "album": "\u30e9\u30c3\u30d1\u7df4\u7fd2\u4e2d Type-D",
+        "album": "\u30e9\u30c3\u30d1\u7df4\u7fd2\u4e2d\u3000Type-D",
         "cover": "https://i.scdn.co/image/ab67616d0000b273cb70f0ebf76fdebe9c335b11",
         "href": "https://api.spotify.com/v1/tracks/2xcUat6pwGo5Tx7SEJixx9",
         "added_at": "2021-07-17T19:16:41Z"
