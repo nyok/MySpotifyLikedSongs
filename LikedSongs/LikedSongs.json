@@ -1642,7 +1642,7 @@
     {
         "name": "\u6211\u304c\u307e\u307e\u306a\u30cf\u30a4\u30d2\u30fc\u30eb - Non Stop Mix ver.",
         "artists": "Kaoru Akimoto",
-        "album": "TOKYO 1980s Victor Edition (The Alternate Mix) Boogie, Funk & Modern Soul from Japan ~Non Stop Mix ver.~",
+        "album": "TOKYO 1980s Victor Edition (The Alternate Mix) Boogie, Funk & Modern Soul from Japan \uff5eNon Stop Mix ver.\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b273f84cf86efeb4fc853eed8852",
         "href": "https://api.spotify.com/v1/tracks/7rwK52xzfFuyCv8VD1p9tL",
         "added_at": "2023-05-05T14:10:27Z"
@@ -11610,7 +11610,7 @@
     {
         "name": "\u30b9\u30da\u30b7\u30e3\u30ebHAPPY\u30d0\u30fc\u30b9\u30c7\u30fc",
         "artists": "Bakusute Sotokanda Icchome",
-        "album": "\u7518\u3044\u8a98\u60d1\u30c7\u30a4\u30f3\u30b8\u30e3\u30e9\u30b9 EP",
+        "album": "\u7518\u3044\u8a98\u60d1\u30c7\u30a4\u30f3\u30b8\u30e3\u30e9\u30b9\u3000EP",
         "cover": "https://i.scdn.co/image/ab67616d0000b27374c47865f8811eff70b99aff",
         "href": "https://api.spotify.com/v1/tracks/2lW3E3V9U1Zj3iLHFuItyg",
         "added_at": "2021-06-02T19:38:17Z"
