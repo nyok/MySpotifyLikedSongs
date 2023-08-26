@@ -1762,7 +1762,7 @@
     {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab(\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab)",
         "artists": "\u5b89\u7530\u6210\u7f8e",
-        "album": "\u30b9\u30bf\u30b7\u3099\u30aa\u30b7\u3099\u30d5\u3099\u30ea\u306e\u6b4c -\u5897\u88dc\u76e4-",
+        "album": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea\u306e\u6b4c \uff0d\u5897\u88dc\u76e4\uff0d",
         "cover": "https://i.scdn.co/image/ab67616d0000b27370dd8d3875c4cdbf51cd6570",
         "href": "https://api.spotify.com/v1/tracks/2bkOPXOAb0zi6LNt0s72cZ",
         "added_at": "2023-05-01T12:21:46Z"
@@ -8048,9 +8048,9 @@
         "added_at": "2022-06-27T21:29:09Z"
     },
     {
-        "name": "Go Live!",
+        "name": "Go Live\uff01",
         "artists": "Nana Mizuki",
-        "album": "Go Live!",
+        "album": "Go Live\uff01",
         "cover": "https://i.scdn.co/image/ab67616d0000b27337f0cf4308fd51cb4b10c08f",
         "href": "https://api.spotify.com/v1/tracks/7DtziIc0PbQqXEA2y0GpCR",
         "added_at": "2022-06-26T18:14:35Z"
@@ -8058,7 +8058,7 @@
     {
         "name": "\u611b\u3055\u751f\u307e\u308a\u5cf6",
         "artists": "Rimi Natsukawa",
-        "album": "\u4f1a\u3044\u305f\u3044 ~\u304b\u306a\u3055\u3093\u3069\u3049~",
+        "album": "\u4f1a\u3044\u305f\u3044 \uff5e\u304b\u306a\u3055\u3093\u3069\u3049\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b273f4958f61f368fba93bd6927a",
         "href": "https://api.spotify.com/v1/tracks/30ZrfAG2MkVujIE6xAdoy9",
         "added_at": "2022-06-24T19:23:07Z"
@@ -8074,7 +8074,7 @@
     {
         "name": "Alice in Joker?!",
         "artists": "KOTOKO",
-        "album": "\u3059\u3045\u3043~\u3068\u3055\u3044\u304f\u308d\u3093-\u2606\u3044\u3047\u3044\u3063\u2606-",
+        "album": "\u3059\u3045\u3043\uff5e\u3068\u3055\u3044\u304f\u308d\u3093-\u2606\u3044\u3047\u3044\u3063\u2606-",
         "cover": "https://i.scdn.co/image/ab67616d0000b273615ce9b94bf0dcf99657883f",
         "href": "https://api.spotify.com/v1/tracks/1n3O3CD6fserS7xvLLBWCx",
         "added_at": "2022-06-24T18:24:00Z"
@@ -12640,7 +12640,7 @@
         "added_at": "2021-01-17T11:19:54Z"
     },
     {
-        "name": "OPEN YOUR MIND ~\u5c0f\u3055\u306a\u7fbd\u6839\u3072\u308d\u3051\u3099\u3066~",
+        "name": "OPEN YOUR MIND \uff5e\u5c0f\u3055\u306a\u7fbd\u6839\u3072\u308d\u3052\u3066\uff5e",
         "artists": "Yoko Ishida",
         "album": "Single Collection",
         "cover": "https://i.scdn.co/image/ab67616d0000b273bc82d943e771ceeda43f0e3f",
@@ -12858,7 +12858,7 @@
     {
         "name": "Karenai Hana",
         "artists": "Mikuni Shimokawa",
-        "album": "Tsubasa ~ Very Best of Mikuni Shimokawa",
+        "album": "Tsubasa \uff5e Very Best of Mikuni Shimokawa",
         "cover": "https://i.scdn.co/image/ab67616d0000b27374e96c72840ae216861e7b1a",
         "href": "https://api.spotify.com/v1/tracks/1Nvj7qRDvRfwPNV64aKwIi",
         "added_at": "2021-01-17T10:47:47Z"
@@ -13338,7 +13338,7 @@
     {
         "name": "\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7(\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7)",
         "artists": "\u85e4\u5ca1\u85e4\u5dfb\u3068\u5927\u6a4b\u306e\u305e\u307f",
-        "album": "\u30b9\u30bf\u30b7\u3099\u30aa\u30b7\u3099\u30d5\u3099\u30ea\u306e\u6b4c -\u5897\u88dc\u76e4-",
+        "album": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea\u306e\u6b4c \uff0d\u5897\u88dc\u76e4\uff0d",
         "cover": "https://i.scdn.co/image/ab67616d0000b27370dd8d3875c4cdbf51cd6570",
         "href": "https://api.spotify.com/v1/tracks/1Afz8sEPXEkwiDxHFbnx9Z",
         "added_at": "2020-12-31T23:56:04Z"
@@ -15242,7 +15242,7 @@
     {
         "name": "\u3055\u3088\u306a\u3089\u306e\u30c1\u30e3\u30a4\u30e0",
         "artists": "Qlair",
-        "album": "\u30a2\u30a4\u30c9\u30eb\u30fb\u30df\u30e9\u30af\u30eb\u30d0\u30a4\u30d6\u30eb\u30b7\u30ea\u30fc\u30ba Qlair Archives",
+        "album": "\u30a2\u30a4\u30c9\u30eb\u30fb\u30df\u30e9\u30af\u30eb\u30d0\u30a4\u30d6\u30eb\u30b7\u30ea\u30fc\u30ba\u3000Qlair Archives",
         "cover": "https://i.scdn.co/image/ab67616d0000b2734c0848f6ec465de58fefcfd0",
         "href": "https://api.spotify.com/v1/tracks/7efPTzZZKHVHEDDjBrVd1P",
         "added_at": "2019-06-19T18:29:27Z"
