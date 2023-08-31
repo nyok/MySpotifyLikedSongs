@@ -1,5 +1,21 @@
 [
     {
+        "name": "\u30bf\u30a4\u30ac\u30fc\u30d5\u30a1\u30a4\u30e4\u30fc\u30b5\u30a4\u30d0\u30fc\u30d5\u30a1\u30a4\u30bf\u30fc",
+        "artists": "KOTO",
+        "album": "\u3070\u3044\u3070\u3044\u3066\u3043\u30fc\u3093\u305a\u3089\u3089\u3070\u3044",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730b85c8909e9577fe2f7aa155",
+        "href": "https://api.spotify.com/v1/tracks/45E3LPz1TC6Q83q3BFdP6I",
+        "added_at": "2023-08-30T23:20:12Z"
+    },
+    {
+        "name": "DAITAI",
+        "artists": "Yuinishio",
+        "album": "DAITAI",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738950a7f1770857ecc10d27ae",
+        "href": "https://api.spotify.com/v1/tracks/5os1GZXX3Ohe8tJriBZzzE",
+        "added_at": "2023-08-30T23:18:26Z"
+    },
+    {
         "name": "\u30e6\u30fc\u30b9\u30aa\u30d6\u30c8\u30a5\u30a8\u30f3\u30c6\u30a3",
         "artists": "Kaneyorimasaru",
         "album": "MY FAVORITES",
