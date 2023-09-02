@@ -1,5 +1,53 @@
 [
     {
+        "name": "\u4e0d\u53ef\u5e78\u529b",
+        "artists": "Vaundy",
+        "album": "strobo",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736da83ea7813b3b8d1bd22a87",
+        "href": "https://api.spotify.com/v1/tracks/57MvUwzIzRJ0r21rnNU1s1",
+        "added_at": "2023-09-02T04:21:00Z"
+    },
+    {
+        "name": "\u30d2\u30c3\u30c1\u30b3\u30c3\u30af",
+        "artists": "\u30e8\u30eb\u30b7\u30ab",
+        "album": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27328b535c92629e3c8d20ec242",
+        "href": "https://api.spotify.com/v1/tracks/153lRbNmhQZVi69kbhmjY8",
+        "added_at": "2023-09-02T04:18:57Z"
+    },
+    {
+        "name": "\u81ea\u8ca9\u6a5f\u306e\u604b",
+        "artists": "Higuchi Ai",
+        "album": "\u81ea\u8ca9\u6a5f\u306e\u604b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d50651318a0f7c76792bb823",
+        "href": "https://api.spotify.com/v1/tracks/2uyvkc1JKxKZwjG29sZuy9",
+        "added_at": "2023-09-02T04:13:50Z"
+    },
+    {
+        "name": "\u3053\u306e\u9000\u5c48\u306a\u65e5\u3005\u3092",
+        "artists": "Higuchi Ai",
+        "album": "\u3053\u306e\u9000\u5c48\u306a\u65e5\u3005\u3092",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27301f49d9222280da116b147e3",
+        "href": "https://api.spotify.com/v1/tracks/08XOZolTmloSXiwMhwPqt8",
+        "added_at": "2023-09-02T04:13:07Z"
+    },
+    {
+        "name": "\u7070\u304b\u3076\u308a",
+        "artists": "Toaka",
+        "album": "\u7070\u304b\u3076\u308a",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d52b1660d440947861aaa94f",
+        "href": "https://api.spotify.com/v1/tracks/1eHgJysShUOu4p4jnRdoi4",
+        "added_at": "2023-09-02T04:12:53Z"
+    },
+    {
+        "name": "UNION",
+        "artists": "OxT",
+        "album": "REUNION",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f8f9aab4eb8ec1a7d9e2d764",
+        "href": "https://api.spotify.com/v1/tracks/0tT0ZEi4KS8rnlPC6ypT00",
+        "added_at": "2023-09-02T04:10:08Z"
+    },
+    {
         "name": "\u30bf\u30a4\u30ac\u30fc\u30d5\u30a1\u30a4\u30e4\u30fc\u30b5\u30a4\u30d0\u30fc\u30d5\u30a1\u30a4\u30bf\u30fc",
         "artists": "KOTO",
         "album": "\u3070\u3044\u3070\u3044\u3066\u3043\u30fc\u3093\u305a\u3089\u3089\u3070\u3044",
