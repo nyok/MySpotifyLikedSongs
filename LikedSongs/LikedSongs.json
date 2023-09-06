@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u5927\u597d\u304d!",
+        "artists": "Alisa Mizuki",
+        "album": "CUTE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e2ad7c99eb1f8bc3b511e4eb",
+        "href": "https://api.spotify.com/v1/tracks/5uRm6ouhjIwYgWI8mN3car",
+        "added_at": "2023-09-06T11:09:04Z"
+    },
+    {
         "name": "\u7f8e\u5c11\u5973",
         "artists": "Kayoko Yoshizawa",
         "album": "\u65b0\u30fb\u9b54\u5973\u56f3\u9451",
