@@ -1,5 +1,21 @@
 [
     {
+        "name": "Orange, You\u2019re Not a Joke to Me!",
+        "artists": "Stella Jang",
+        "album": "Orange, You\u2019re Not a Joke to Me!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731bcac5fe7c200714f10b5886",
+        "href": "https://api.spotify.com/v1/tracks/6eAVfkbRov3Md8RmQJrZb9",
+        "added_at": "2023-09-07T18:25:05Z"
+    },
+    {
+        "name": "\u900f\u660e\u4eba\u9593",
+        "artists": "Sonoko Inoue",
+        "album": "24\u6b73 / \u6771\u4eac",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739f76dcd76d12529e36d6ba72",
+        "href": "https://api.spotify.com/v1/tracks/4SUKU340aE4wATlDGe9as8",
+        "added_at": "2023-09-07T18:24:41Z"
+    },
+    {
         "name": "\u5927\u597d\u304d!",
         "artists": "Alisa Mizuki",
         "album": "CUTE",
