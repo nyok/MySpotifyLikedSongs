@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u6708\u66dc\u65e5\u6226\u4e89",
+        "artists": "Kayoko Yoshizawa",
+        "album": "\u5973\u512a\u59c9\u59b9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734b2ddaac85e1d480df736562",
+        "href": "https://api.spotify.com/v1/tracks/4pmgcA1d4udgwRhUEF0PXf",
+        "added_at": "2023-09-13T08:54:20Z"
+    },
+    {
         "name": "\u54b2\u304d\u8a87\u308c\u611b\u3057\u3055\u3088 (Remastered 2014)",
         "artists": "Wink",
         "album": "BRUNCH (Remastered 2014)",
@@ -16789,14 +16797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/7v6rNgbLVQgrDGbaoGtJti",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Kakurenbo",
-        "artists": "SirotumeP",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/7zzL2pdS2tCrnuT4fkgQD3",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
