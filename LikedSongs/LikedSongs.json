@@ -1,5 +1,21 @@
 [
     {
+        "name": "\u3082\u3057\u3082",
+        "artists": "\u6ff1\u5b88\u6804\u5b50",
+        "album": "My Route -Eiko Hamamori Best-",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732dead0d8c502d28eef181d7d",
+        "href": "https://api.spotify.com/v1/tracks/02CTX7mTtTzZgZotCi6HwF",
+        "added_at": "2023-09-22T15:27:17Z"
+    },
+    {
+        "name": "\u8f1d\u304d\u306e\u4e2d\u3067",
+        "artists": "Ayaka Ide",
+        "album": "\u8f1d\u304d\u306e\u4e2d\u3067",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27345bc9dd752c415f69e281648",
+        "href": "https://api.spotify.com/v1/tracks/1Ub3KHvwwBFHqzYHxQLKLH",
+        "added_at": "2023-09-22T15:26:39Z"
+    },
+    {
         "name": "\u604b! \u30cf\u30ec\u30a4\u30b7\u30e7\u30f3 THE WAR\uff5ealbum version\uff5e",
         "artists": "\u30ef\u30eb\u30ad\u30e5\u30fc\u30ec/(\u7f8e\u96f2\u0394JUNNA/\u30d5\u30ec\u30a4\u30a2\u0394\u9234\u6728\u307f\u306e\u308a/\u30ab\u30ca\u30e1\u0394\u5b89\u91ce\u5e0c\u4e16\u4e43/\u30ec\u30a4\u30ca\u0394\u6771\u5c71\u5948\u592e/\u30de\u30ad\u30ca\u0394\u897f\u7530\u671b\u898b)",
         "album": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u30de\u30af\u30ed\u30b9\u0394\u300d\u30dc\u30fc\u30ab\u30eb\u30a2\u30eb\u30d0\u30e0\u3000Walkure Attack!",
@@ -16781,22 +16797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Save You!!",
-        "artists": "Electrical",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6AxmJI0UWUxs2B7acGETWT",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Garakuta Hard worker",
-        "artists": "Tohru-ch",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6Ww2oPoTXaVTXO4Csm2qEx",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
