@@ -1,5 +1,53 @@
 [
     {
+        "name": "\u604b! \u30cf\u30ec\u30a4\u30b7\u30e7\u30f3 THE WAR\uff5ealbum version\uff5e",
+        "artists": "\u30ef\u30eb\u30ad\u30e5\u30fc\u30ec/(\u7f8e\u96f2\u0394JUNNA/\u30d5\u30ec\u30a4\u30a2\u0394\u9234\u6728\u307f\u306e\u308a/\u30ab\u30ca\u30e1\u0394\u5b89\u91ce\u5e0c\u4e16\u4e43/\u30ec\u30a4\u30ca\u0394\u6771\u5c71\u5948\u592e/\u30de\u30ad\u30ca\u0394\u897f\u7530\u671b\u898b)",
+        "album": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u30de\u30af\u30ed\u30b9\u0394\u300d\u30dc\u30fc\u30ab\u30eb\u30a2\u30eb\u30d0\u30e0\u3000Walkure Attack!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731dcb5507df9cc78044f0a33a",
+        "href": "https://api.spotify.com/v1/tracks/7CK0JSRyylEkmhKi53C11e",
+        "added_at": "2023-09-22T10:37:35Z"
+    },
+    {
+        "name": "\u30eb\u30f3\u304c\u30d4\u30ab\u30c3\u3068\u5149\u3063\u305f\u3089\uff5ealbum version\uff5e",
+        "artists": "\u30ef\u30eb\u30ad\u30e5\u30fc\u30ec/(\u7f8e\u96f2\u0394JUNNA/\u30d5\u30ec\u30a4\u30a2\u0394\u9234\u6728\u307f\u306e\u308a/\u30ab\u30ca\u30e1\u0394\u5b89\u91ce\u5e0c\u4e16\u4e43/\u30ec\u30a4\u30ca\u0394\u6771\u5c71\u5948\u592e/\u30de\u30ad\u30ca\u0394\u897f\u7530\u671b\u898b)",
+        "album": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u30de\u30af\u30ed\u30b9\u0394\u300d\u30dc\u30fc\u30ab\u30eb\u30a2\u30eb\u30d0\u30e0\u3000Walkure Attack!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731dcb5507df9cc78044f0a33a",
+        "href": "https://api.spotify.com/v1/tracks/5qPcaTWuar9deONFEpgWR2",
+        "added_at": "2023-09-21T12:28:47Z"
+    },
+    {
+        "name": "\u3081\u3043\u3077\u308b\u30b7\u30ed\u30c3\u30d7 (\u308a\u3067\u3053\u308c\u3044\u3068\u3070\u30fc\u3058\u3087\u3093)",
+        "artists": "KOTOKO",
+        "album": "\u30ea\u30c7\u30b3\u30ec\u30a4\u30c8\uff65\u30de\u30a4\u30bb\u30eb\u30d5",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27396bc09fc6d593707681a7b2d",
+        "href": "https://api.spotify.com/v1/tracks/10chWnbEq1YJWv6gZryvdN",
+        "added_at": "2023-09-16T04:13:47Z"
+    },
+    {
+        "name": "\u3046\u308c\u3057\u304f\u3066",
+        "artists": "Ikimonogakari",
+        "album": "\u3046\u308c\u3057\u304f\u3066\uff0f\u3068\u304d\u3081\u304d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732fe16b7f974d95e04a2a2465",
+        "href": "https://api.spotify.com/v1/tracks/25C3HZIvRGGtkasbrZe7D1",
+        "added_at": "2023-09-15T15:42:53Z"
+    },
+    {
+        "name": "Water Drop",
+        "artists": "Ali Project",
+        "album": "CLAMP\u5b66\u5712\u63a2\u5075\u56e3 \u30bd\u30f3\u30b0\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739fd37895eef8fd3cb449c975",
+        "href": "https://api.spotify.com/v1/tracks/0BRHa82fGkjzyvHrIcBvny",
+        "added_at": "2023-09-15T11:31:32Z"
+    },
+    {
+        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+        "artists": "ReoNa",
+        "album": "ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737809d890e0bcaafa063d61fa",
+        "href": "https://api.spotify.com/v1/tracks/0jMS7S4by55KgUdyvtebyh",
+        "added_at": "2023-09-15T11:23:02Z"
+    },
+    {
         "name": "\u6708\u66dc\u65e5\u6226\u4e89",
         "artists": "Kayoko Yoshizawa",
         "album": "\u5973\u512a\u59c9\u59b9",
@@ -7760,7 +7808,7 @@
         "added_at": "2022-08-05T19:03:09Z"
     },
     {
-        "name": "\u4e16\u754c\u3067\u3044\u3061\u3070\u3093\u71b1\u3044\u590f (\u5e73\u6210\u30ec\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0) 2012mix",
+        "name": "\u4e16\u754c\u3067\u3044\u3061\u3070\u3093\u71b1\u3044\u590f (\u5e73\u6210\u30ec\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0)\u30002012mix",
         "artists": "PRINCESS PRINCESS",
         "album": "THE REBIRTH BEST\u301c\u518d\u4f1a\u301c",
         "cover": "https://i.scdn.co/image/ab67616d0000b2736280e0e867a481555c88d66f",
@@ -7794,7 +7842,7 @@
     {
         "name": "\u4e16\u754c\u3067\u3044\u3061\u3070\u3093\u71b1\u3044\u590f",
         "artists": "PRINCESS PRINCESS",
-        "album": "STAR BOX EXTRA PRINCESS PRINCESS",
+        "album": "STAR BOX EXTRA\u3000PRINCESS PRINCESS",
         "cover": "https://i.scdn.co/image/ab67616d0000b273d57c7bcb5c47dec8e0963ed3",
         "href": "https://api.spotify.com/v1/tracks/5lyfW4Q2rDarzlpnh09BYW",
         "added_at": "2022-08-04T21:46:10Z"
@@ -11035,7 +11083,7 @@
         "name": "Like That (feat. Gucci Mane)",
         "artists": "Doja Cat",
         "album": "Hot Pink",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273dd0316b194097528348c8eb0",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b",
         "href": "https://api.spotify.com/v1/tracks/4EivmOT13NMpNSfTKn9p4s",
         "added_at": "2021-08-09T19:35:27Z"
     },
@@ -12032,7 +12080,7 @@
         "added_at": "2021-05-17T13:21:56Z"
     },
     {
-        "name": "\u611b\u3088 \u30d5\u30a1\u30e9\u30a6\u30a7\u30a4",
+        "name": "\u611b\u3088\u3000\u30d5\u30a1\u30e9\u30a6\u30a7\u30a4",
         "artists": "Rie Fujiwara",
         "album": "\u9752\u6625\u3057\u305f\u3044",
         "cover": "https://i.scdn.co/image/ab67616d0000b27334060d5c1681acf2e54266a4",
@@ -13346,7 +13394,7 @@
     {
         "name": "Catch You Catch Me",
         "artists": "GUMI",
-        "album": "\u30ab\u30fc\u30c9\u30ad\u30e3\u30d7\u30bf\u30fc\u3055\u304f\u3089 \u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 1998.4~1999.2",
+        "album": "\u30ab\u30fc\u30c9\u30ad\u30e3\u30d7\u30bf\u30fc\u3055\u304f\u3089\u3000\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 1998.4\uff5e1999.2",
         "cover": "https://i.scdn.co/image/ab67616d0000b273193532dece8c9bd455095412",
         "href": "https://api.spotify.com/v1/tracks/6ElSzFGDDrOnE0ifSf7WMC",
         "added_at": "2021-01-16T23:24:58Z"
@@ -13354,7 +13402,7 @@
     {
         "name": "Groovy!",
         "artists": "Kohmi Hirose",
-        "album": "\u30ab\u30fc\u30c9\u30ad\u30e3\u30d7\u30bf\u30fc\u3055\u304f\u3089 \u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 1998.4~1999.2",
+        "album": "\u30ab\u30fc\u30c9\u30ad\u30e3\u30d7\u30bf\u30fc\u3055\u304f\u3089\u3000\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 1998.4\uff5e1999.2",
         "cover": "https://i.scdn.co/image/ab67616d0000b273193532dece8c9bd455095412",
         "href": "https://api.spotify.com/v1/tracks/1x4FdiswW96Q9PV2A1rJxP",
         "added_at": "2021-01-16T23:24:53Z"
@@ -16749,54 +16797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/6Ww2oPoTXaVTXO4Csm2qEx",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Dearest",
-        "artists": "Ryo Azuma",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6cND8NaOsmFHEbkRB5y3qQ",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Zombie Zombie Generation",
-        "artists": "Kimuta",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6k9ibeHTEe1RaP1KdzSrvE",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "JAXA",
-        "artists": "Giganta",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Alma Song",
-        "artists": "PWRFL Power",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/7KFBlb7nKH7dieXzKyrZIu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "MelancholyNirandakori",
-        "artists": "BijomenZ nacchi",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/7mwPVfUIDiyUBvEmjSwHkE",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Habitat",
-        "artists": "Strausz",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/7v6rNgbLVQgrDGbaoGtJti",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
