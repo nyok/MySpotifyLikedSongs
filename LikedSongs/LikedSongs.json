@@ -1,5 +1,29 @@
 [
     {
+        "name": "\u5fd8\u308c\u3063\u307d\u3044\u3093\u3060",
+        "artists": "indigo la End",
+        "album": "\u5fd8\u308c\u3063\u307d\u3044\u3093\u3060",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739d40424a648796859de01082",
+        "href": "https://api.spotify.com/v1/tracks/4CVSEhpfVizwsj6xMJEhwV",
+        "added_at": "2023-09-23T04:49:04Z"
+    },
+    {
+        "name": "I've Got the Power",
+        "artists": "Mao Abe",
+        "album": "I've Got the Power",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273628dcd3ad7da854d8f1bfd3c",
+        "href": "https://api.spotify.com/v1/tracks/5sGMHpYpF1oGHrzGQEBXfJ",
+        "added_at": "2023-09-22T21:33:09Z"
+    },
+    {
+        "name": "RUNNING IN THE 90'S",
+        "artists": "Max Coveri",
+        "album": "SUPER EUROBEAT presents INITIAL D \u301cD SELECTION\u301c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c27e997313531dbc7b01b247",
+        "href": "https://api.spotify.com/v1/tracks/6DlPa2rrVK3BygXJ48WYo3",
+        "added_at": "2023-09-22T19:48:30Z"
+    },
+    {
         "name": "\u3082\u3057\u3082",
         "artists": "\u6ff1\u5b88\u6804\u5b50",
         "album": "My Route -Eiko Hamamori Best-",
@@ -16773,30 +16797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/4qUbdL9oki3OeUwMZ09iNu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Itazura Obake",
-        "artists": "Style",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/5kRWMkTT3w38L3zpQHmkA5",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "LOVELOVEMIKU",
-        "artists": "katatumuriP",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/5yJrP1frURYhTVgOyQ6FoR",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Sign",
-        "artists": "Fasorashi-Do",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
