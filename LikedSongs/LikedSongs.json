@@ -1,5 +1,13 @@
 [
     {
+        "name": "Queen of the Night",
+        "artists": "KanoeRana",
+        "album": "Queen of the Night",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733768342ce56eaaca5cf7438f",
+        "href": "https://api.spotify.com/v1/tracks/1gzlOAq7ozJ8X8VIbUN8yd",
+        "added_at": "2023-10-08T12:46:51Z"
+    },
+    {
         "name": "\u3082\u3046\u4e00\u5ea6\u597d\u304d\u306b\u306a\u3063\u3066",
         "artists": "YUTORI-SEDAI",
         "album": "\u3082\u3046\u4e00\u5ea6\u597d\u304d\u306b\u306a\u3063\u3066",
@@ -16789,14 +16797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/3JZEsFYzNk417bsAE7njgH",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "DANCALOID",
-        "artists": "Kii",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
