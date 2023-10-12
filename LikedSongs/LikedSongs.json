@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u3058\u3083\u611b\u305b\u306a\u3044 (feat. \u3080\u30c8)",
+        "artists": "\u5410\u606f",
+        "album": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u3058\u3083\u611b\u305b\u306a\u3044 (feat. \u3080\u30c8)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273661c7a814c549707b1f94e9b",
+        "href": "https://api.spotify.com/v1/tracks/4DtKkHBaUn0VXmMJn9DX9G",
+        "added_at": "2023-10-12T19:43:03Z"
+    },
+    {
         "name": "Bahagia",
         "artists": "Hivi!",
         "album": "CERITERA",
@@ -16789,14 +16797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
         "href": "https://api.spotify.com/v1/tracks/28mfPUVhJqnzh9P5QskaLF",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Star Sound Afterimage Gem",
-        "artists": "mowaku",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273751399a1b2839dd87a78ae97",
-        "href": "https://api.spotify.com/v1/tracks/2aEGMXIxtZAJWpgsmK4bTy",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
