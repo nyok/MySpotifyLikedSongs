@@ -1,5 +1,29 @@
 [
     {
+        "name": "\u30a2\u30a4\u30b3\u30c8\u30d0",
+        "artists": "AiNA THE END",
+        "album": "\u30a2\u30a4\u30b3\u30c8\u30d0",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b69d758051c021d98d5c6185",
+        "href": "https://api.spotify.com/v1/tracks/3OtR0cI6ngSveZ3sxOARa9",
+        "added_at": "2023-11-13T20:33:50Z"
+    },
+    {
+        "name": "\u511a\u304f\u306a\u3044",
+        "artists": "SUPER BEAVER",
+        "album": "\u511a\u304f\u306a\u3044",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e5a82b9ae1ff5670f8e7a535",
+        "href": "https://api.spotify.com/v1/tracks/4oGe0AT9wDhwHfDTifSw0e",
+        "added_at": "2023-11-13T20:26:45Z"
+    },
+    {
+        "name": "\u79c1\u306e\u307e\u307e\u3067",
+        "artists": "SHISHAMO",
+        "album": "\u79c1\u306e\u307e\u307e\u3067",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27311af6ed23c3f30212f951233",
+        "href": "https://api.spotify.com/v1/tracks/5yd9B49JLpmQls6NZmvXaI",
+        "added_at": "2023-11-13T20:18:05Z"
+    },
+    {
         "name": "\u5361\u8def\u91cc - \u7535\u5f71\u300a\u897f\u8679\u5e02\u9996\u5bcc\u300b\u63d2\u66f2",
         "artists": "\u706b\u7bad\u5c11\u5973101",
         "album": "\u5361\u8def\u91cc (\u7535\u5f71\u300a\u897f\u8679\u5e02\u9996\u5bcc\u300b\u63d2\u66f2)",
