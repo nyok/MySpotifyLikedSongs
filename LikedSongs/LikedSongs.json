@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u3069\u3046\u3067\u3082\u3044\u3044\u8a71\u304c\u3057\u305f\u3044",
+        "artists": "Leina",
+        "album": "\u3069\u3046\u3067\u3082\u3044\u3044\u8a71\u304c\u3057\u305f\u3044",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ce34ece035bafb406ac42f3d",
+        "href": "https://api.spotify.com/v1/tracks/2XSRtBSiJK1MpJrIGizsBF",
+        "added_at": "2023-11-20T17:35:18Z"
+    },
+    {
         "name": "\u5730\u7403\u5100 - Spinning Globe",
         "artists": "Kenshi Yonezu",
         "album": "\u5730\u7403\u5100 - Spinning Globe",
