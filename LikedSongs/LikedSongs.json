@@ -1,5 +1,13 @@
 [
     {
+        "name": "LOA",
+        "artists": "Furui Riho",
+        "album": "LOA",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736831393d8c4394c6d7186d56",
+        "href": "https://api.spotify.com/v1/tracks/7fFwkEjPSEapRqQRSOH8uL",
+        "added_at": "2023-11-22T07:40:35Z"
+    },
+    {
         "name": "\u541b\u304c\u3044\u308b\u3060\u3051\u3067",
         "artists": "Julee Karan",
         "album": "TORCH\u2161",
