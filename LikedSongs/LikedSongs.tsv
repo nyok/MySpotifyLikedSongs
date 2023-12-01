@@ -1,4 +1,8 @@
 name	artists	album	cover	href	added_at
+ノンブレス・オブリージュ - STUDY WITH MIKU ver. -	PinocchioP	STUDY WITH MIKU part3	https://i.scdn.co/image/ab67616d0000b27393bee44940d12c191739e469	https://api.spotify.com/v1/tracks/43d2z184Q5v8EXjlPbA9f2	2023-12-01T07:52:59Z
+初恋	Tele	初恋	https://i.scdn.co/image/ab67616d0000b273a34b6e35e1207cc206ed670e	https://api.spotify.com/v1/tracks/6TwzwaTeNOEqxDJcBJDyQm	2023-12-01T07:30:34Z
+追いかけて	みゆな	追いかけて	https://i.scdn.co/image/ab67616d0000b27370ee944581d85f557888d91f	https://api.spotify.com/v1/tracks/3UwKVJd4XpKwHwBdzglfar	2023-12-01T07:28:26Z
+君がいるだけで	CHIHIRO	君がいるだけで	https://i.scdn.co/image/ab67616d0000b27305e2f4914bb26de1d6673e27	https://api.spotify.com/v1/tracks/4LoOJQKdBomDsD6iGCQ9zO	2023-12-01T07:22:04Z
 ブリキノダンス	Ado	ブリキノダンス	https://i.scdn.co/image/ab67616d0000b273253d2d6b2ad01f3a9f5409ec	https://api.spotify.com/v1/tracks/2yVBhde18jnhFGgA52eDt2	2023-12-01T06:16:35Z
 kang-fu neko punch!!	ああああ	kang-fu neko punch!!	https://i.scdn.co/image/ab67616d0000b2737c85ae4ad8a94d55981d0bd2	https://api.spotify.com/v1/tracks/6rtmIjx5gF5k9egRmFMbv1	2023-12-01T06:14:10Z
 声	Ikimonogakari	声	https://i.scdn.co/image/ab67616d0000b27310cc49714ad7c96dea448db7	https://api.spotify.com/v1/tracks/2aO4zJhoAjAxUu2tV441x3	2023-12-01T06:06:12Z
@@ -1945,6 +1949,7 @@ YOU MAY DREAM	SHEENA & THE ROKKETS	真空パック	https://i.scdn.co/image/ab676
 プラマイ	aiko	aikoの詩。	https://i.scdn.co/image/ab67616d0000b2730ae9701a3dce3857fb3dbb9f	https://api.spotify.com/v1/tracks/6UIrMRLb4Z6JkYXq967VsU	2020-03-04T18:15:34Z
 ずっと	aiko	aikoの詩。	https://i.scdn.co/image/ab67616d0000b2730ae9701a3dce3857fb3dbb9f	https://api.spotify.com/v1/tracks/3ctOUnGo5dmRkCA1YaW0G0	2020-03-04T18:15:28Z
 KissHug	aiko	aikoの詩。	https://i.scdn.co/image/ab67616d0000b2730ae9701a3dce3857fb3dbb9f	https://api.spotify.com/v1/tracks/6RtUMYhAsnV15bWK9cBxX2	2020-03-04T18:15:25Z
+KissHug	aiko	aikoの詩。	https://i.scdn.co/image/ab67616d0000b2730ae9701a3dce3857fb3dbb9f	https://api.spotify.com/v1/tracks/6RtUMYhAsnV15bWK9cBxX2	2020-03-04T18:15:25Z
 カブトムシ	aiko	カブトムシ	https://i.scdn.co/image/ab67616d0000b2733b2550ba6ca5262414f78ebf	https://api.spotify.com/v1/tracks/2Os0vzke5CakbU3dkSHckx	2020-03-04T18:15:13Z
 キラキラ	aiko	彼女	https://i.scdn.co/image/ab67616d0000b273e1abc3ba4de324f688cb11bb	https://api.spotify.com/v1/tracks/4umlYZFcYU1P9fAYC8e6Pw	2020-03-04T18:15:07Z
 空から落ちる星のように	CHIAKI SATO	PLANET	https://i.scdn.co/image/ab67616d0000b273b772622766b4b1202479f1a0	https://api.spotify.com/v1/tracks/2CiH5aeE2OSAtFUFY9fz1F	2020-01-31T21:44:12Z
@@ -2194,8 +2199,3 @@ Kaero Kaero	Penoreri	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/
 lonely walk	gogop	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/4qUbdL9oki3OeUwMZ09iNu	2015-07-12T19:49:13Z
 Itazura Obake	Style	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/5kRWMkTT3w38L3zpQHmkA5	2015-07-12T19:49:13Z
 LOVELOVEMIKU	katatumuriP	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/5yJrP1frURYhTVgOyQ6FoR	2015-07-12T19:49:13Z
-Sign	Fasorashi-Do	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG	2015-07-12T19:49:13Z
-Save You!!	Electrical	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/6AxmJI0UWUxs2B7acGETWT	2015-07-12T19:49:13Z
-Garakuta Hard worker	Tohru-ch	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/6Ww2oPoTXaVTXO4Csm2qEx	2015-07-12T19:49:13Z
-Dearest	Ryo Azuma	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/6cND8NaOsmFHEbkRB5y3qQ	2015-07-12T19:49:13Z
-Zombie Zombie Generation	Kimuta	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/6k9ibeHTEe1RaP1KdzSrvE	2015-07-12T19:49:13Z
