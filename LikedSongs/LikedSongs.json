@@ -1,5 +1,13 @@
 [
     {
+        "name": "The Goldmine",
+        "artists": "GLIM SPANKY",
+        "album": "The Goldmine",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a4cc14dda24cc52bc754aa3d",
+        "href": "https://api.spotify.com/v1/tracks/6jySeYVTWo7S9HE1A9q7ju",
+        "added_at": "2023-12-06T17:20:37Z"
+    },
+    {
         "name": "\u30de\u30f3\u30cd\u30ea\u30a6\u30a3\u30fc\u30af\u30a8\u30f3\u30c9",
         "artists": "FAKE TYPE.",
         "album": "FAKE SWING 2",
@@ -17589,14 +17597,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/3VpZhiqogL1FCuQIW3zayp",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Carnival",
-        "artists": "Bokunenbito",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
