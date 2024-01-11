@@ -1,5 +1,85 @@
 [
     {
+        "name": "ATM\u3067\u3072\u305f\u3059\u3089\u5f85\u305f\u3055\u308c\u308b\u30ea\u30f3\u3061\u3083\u3093",
+        "artists": "\u3086\u304b\u3066\u3075",
+        "album": "ATM\u3067\u3072\u305f\u3059\u3089\u5f85\u305f\u3055\u308c\u308b\u30ea\u30f3\u3061\u3083\u3093",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27350fda317ddaf8f0911a80268",
+        "href": "https://api.spotify.com/v1/tracks/5JCJZ2rrVHtJVMwrLieMD1",
+        "added_at": "2024-01-09T19:56:54Z"
+    },
+    {
+        "name": "\u864e\u72fc\u6765",
+        "artists": "Eve",
+        "album": "\u307c\u304f\u3089\u306e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b2b6a5a45122405350393371",
+        "href": "https://api.spotify.com/v1/tracks/4cULlSu8XPFcZiQ63WfHeZ",
+        "added_at": "2024-01-09T19:48:42Z"
+    },
+    {
+        "name": "\u541b\u305f\u3061\u30ad\u30a6\u30a4\u30fb\u30d1\u30d1\u30a4\u30a2\u30fb\u30de\u30f3\u30b4\u30fc\u3060\u306d\u3002",
+        "artists": "Meiko Nakahara",
+        "album": "2000BEST\uff08\u30df\u30ec\u30cb\u30a2\u30e0\u30d9\u30b9\u30c8\uff09\u4e2d\u539f\u3081\u3044\u3053\u3000\u30d9\u30b9\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c808dc5504b9da2b72608cc7",
+        "href": "https://api.spotify.com/v1/tracks/74o7H4ZU7ygXDFu6awIyhV",
+        "added_at": "2024-01-09T19:48:18Z"
+    },
+    {
+        "name": "\u5e03\u56e3\u306e\u4e2d\u304b\u3089\u51fa\u305f\u304f\u306a\u3044",
+        "artists": "UchikubiGokumonDoukoukai",
+        "album": "\u7344\u81f3\u5341\u4e94",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c4bb340632ee967e87082e10",
+        "href": "https://api.spotify.com/v1/tracks/2RiA4JqedyVdTTLjzt15mQ",
+        "added_at": "2024-01-09T19:47:57Z"
+    },
+    {
+        "name": "\u732b\u306e\u60d1\u661f",
+        "artists": "UchikubiGokumonDoukoukai",
+        "album": "\u307e\u3060\u307e\u3060\u65b0\u7c73",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e4681701b20b1b7601bf219b",
+        "href": "https://api.spotify.com/v1/tracks/2v6lDSiD7itnio9bPCOK3u",
+        "added_at": "2024-01-09T19:47:16Z"
+    },
+    {
+        "name": "\u3042\u305f\u3057\u306e\u5168\u90e8\u3092\u611b\u305b\u306a\u3044",
+        "artists": "a\u5b50",
+        "album": "\u3042\u305f\u3057\u306e\u5168\u90e8\u3092\u611b\u305b\u306a\u3044",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e0cf4149383258360d38c107",
+        "href": "https://api.spotify.com/v1/tracks/4Lz2o8TYE2p39ZUJaFpsmk",
+        "added_at": "2024-01-09T19:43:10Z"
+    },
+    {
+        "name": "\u590f\u306e\u901f\u5ea6",
+        "artists": "\u6d66\u5c0f\u96ea",
+        "album": "\u590f\u306e\u901f\u5ea6",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273cb1b99421bc662b1e28bc3a7",
+        "href": "https://api.spotify.com/v1/tracks/5QQ431fyLAkDQ97X7Tb8sP",
+        "added_at": "2024-01-09T19:42:31Z"
+    },
+    {
+        "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u68ee",
+        "artists": "\u7389\u4e95\u8a69\u7e54",
+        "album": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u68ee",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27324847d5dd343ff19e0290bac",
+        "href": "https://api.spotify.com/v1/tracks/4ABcPryYSivXhVOi7KBnO9",
+        "added_at": "2024-01-09T19:40:52Z"
+    },
+    {
+        "name": "\u30ed\u30f3\u30b0\u30ed\u30f3\u30b0\u30cf\u30a4\u30a6\u30a7\u30a4",
+        "artists": "\u6d66\u5c0f\u96ea",
+        "album": "\u30ed\u30f3\u30b0\u30ed\u30f3\u30b0\u30cf\u30a4\u30a6\u30a7\u30a4",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ba6e0c631832afd44e8373f1",
+        "href": "https://api.spotify.com/v1/tracks/7CodcUUvDENylXLaL6fump",
+        "added_at": "2024-01-09T19:38:47Z"
+    },
+    {
+        "name": "\u8ffd\u3044\u98a8\u8ffd\u3044\u8d8a\u3057\u3066",
+        "artists": "scythe",
+        "album": "Nighty Night Stories",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b16523f3059dabb8d2f6cbb1",
+        "href": "https://api.spotify.com/v1/tracks/7xFZHREf4iWK3VtgLu7tIf",
+        "added_at": "2024-01-09T19:38:25Z"
+    },
+    {
         "name": "\u661f\u306e\u964d\u308b\u65e5\u306b",
         "artists": "aiko",
         "album": "\u661f\u306e\u964d\u308b\u65e5\u306b",
@@ -315,7 +395,7 @@
         "name": "\u30d8\u30f3\u30c8\u30a6\u30bf\u30a4",
         "artists": "\u4e43\u7d2b",
         "album": "\u30d8\u30f3\u30c8\u30a6\u30bf\u30a4",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27335fc829b8cba6b1c8fcb1692",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731b1fba672f13a2caf5c1b6c8",
         "href": "https://api.spotify.com/v1/tracks/5acubt3tZ9wsDNM2wSM89d",
         "added_at": "2023-11-19T21:30:32Z"
     },
@@ -7058,8 +7138,8 @@
     {
         "name": "Planetarium",
         "artists": "Greyl",
-        "album": "Eisei Ep",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273404888ef77368f4a6fc12d04",
+        "album": "Eisei E.P",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734cb38c4ed30b9b7fcfb32e5d",
         "href": "https://api.spotify.com/v1/tracks/7w4S8aDpxE5xaiEZIwB9DB",
         "added_at": "2022-11-04T14:54:35Z"
     },
