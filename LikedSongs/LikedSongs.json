@@ -2338,7 +2338,7 @@
     {
         "name": "High High High",
         "artists": "Kasarinchu",
-        "album": "\u3084\u3081\u3089\u308c\u306a\u3044 \u3068\u307e\u308c\u306a\u3044/High High High",
+        "album": "\u3084\u3081\u3089\u308c\u306a\u3044\u3000\u3068\u307e\u308c\u306a\u3044/High High High",
         "cover": "https://i.scdn.co/image/ab67616d0000b273385e3b82fe75845a3d150324",
         "href": "https://api.spotify.com/v1/tracks/69JHp8ynsXCiYsO5Ck80lo",
         "added_at": "2023-06-04T02:19:28Z"
@@ -7266,8 +7266,8 @@
     {
         "name": "Planetarium",
         "artists": "Greyl",
-        "album": "Eisei E.P",
-        "cover": "https://i.scdn.co/image/ab67616d0000b2734cb38c4ed30b9b7fcfb32e5d",
+        "album": "EISEI",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273861d0ba01e098b53c62a6fa1",
         "href": "https://api.spotify.com/v1/tracks/7w4S8aDpxE5xaiEZIwB9DB",
         "added_at": "2022-11-04T14:54:35Z"
     },
