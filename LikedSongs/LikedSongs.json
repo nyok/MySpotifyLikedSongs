@@ -1,5 +1,29 @@
 [
     {
+        "name": "DICE",
+        "artists": "BAND-MAID",
+        "album": "WORLD DOMINATION",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27315fb8bbb558441a045fbc281",
+        "href": "https://api.spotify.com/v1/tracks/26P0PvxuRYcgzxeHZ4rjD0",
+        "added_at": "2024-07-23T18:03:59Z"
+    },
+    {
+        "name": "Choose me",
+        "artists": "BAND-MAID",
+        "album": "10th Anniversary Best Vol.1",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27330376f81c97d6dd34d09c6f9",
+        "href": "https://api.spotify.com/v1/tracks/5Uj6NgupVm7ByY1JXNYTp5",
+        "added_at": "2024-07-23T18:02:53Z"
+    },
+    {
+        "name": "\u30b8\u30a7\u30e9\u30b7\u30fc",
+        "artists": "\u51a8\u5ca1\u611b",
+        "album": "\u30b8\u30a7\u30e9\u30b7\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739d8dae6d5ae3dd6089727289",
+        "href": "https://api.spotify.com/v1/tracks/1D8CQdoa0S86dLwbSXkHq9",
+        "added_at": "2024-07-23T18:00:42Z"
+    },
+    {
         "name": "\u30de\u30a1\u30eb\u30a4\u30c4\u30ad",
         "artists": "\u6771\u4eac\u521d\u671f\u885d\u52d5",
         "album": "\u3048\u3093\u3069\u30fb\u304a\u3076\u30fb\u3056\u30fb\u308f\u30fc\u308b\u3069",
