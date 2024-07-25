@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u30d9\u30fc\u30b3\u30f3\u30a8\u30d4",
+        "artists": "TOMOO",
+        "album": "TWO MOON",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730dc1c7a8950174d4f9ee2186",
+        "href": "https://api.spotify.com/v1/tracks/7oO80yRqJ0rqjZxFJa1QQd",
+        "added_at": "2024-07-25T11:16:54Z"
+    },
+    {
         "name": "\u604b\u3057\u3061\u3083\u3063\u305f\u3093\u3060",
         "artists": "YUTORI-SEDAI",
         "album": "\u604b\u3057\u3061\u3083\u3063\u305f\u3093\u3060",
@@ -19189,14 +19197,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Splendid Fantazia",
-        "artists": "Rinne Apple P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
