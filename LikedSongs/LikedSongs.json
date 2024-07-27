@@ -1,5 +1,37 @@
 [
     {
+        "name": "\u30de\u30eb\u30fb\u30de\u30eb\u30fb\u30e2\u30ea\u30fb\u30e2\u30ea!",
+        "artists": "Happy Heads NANIYORI",
+        "album": "\u30e9\u30a4\u30d6\u30ad\u30c3\u30ba\u306e\u305f\u3081\u306e\u540d\u66f2\u96c6",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e13e43dfba88495497ae25f4",
+        "href": "https://api.spotify.com/v1/tracks/03bgCAKq9qT42Kwk7s6lXb",
+        "added_at": "2024-07-27T18:41:36Z"
+    },
+    {
+        "name": "idolstep Yumemi ('19 Remastered)",
+        "artists": "Mikazuki BIGWAVE",
+        "album": "Kanojo Wa Lonely Girl",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733107e3962f8ad6d9a0808152",
+        "href": "https://api.spotify.com/v1/tracks/0k5izt8vD2moBTICc8bYz5",
+        "added_at": "2024-07-27T18:38:38Z"
+    },
+    {
+        "name": "Bayside Blue",
+        "artists": "Mikazuki BIGWAVE",
+        "album": "\u6d77\u8fba\u306eSENTIMENTAL",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27312855effe53ffdc4549a7204",
+        "href": "https://api.spotify.com/v1/tracks/3HHElTTv1vTpjtsqpqUkb8",
+        "added_at": "2024-07-27T18:38:25Z"
+    },
+    {
+        "name": "Enoshima Island",
+        "artists": "Mikazuki BIGWAVE",
+        "album": "\u6d77\u8fba\u306eSENTIMENTAL",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27312855effe53ffdc4549a7204",
+        "href": "https://api.spotify.com/v1/tracks/7hmbkAzOqx1GOiSLu9gFkp",
+        "added_at": "2024-07-27T18:37:25Z"
+    },
+    {
         "name": "456",
         "artists": "muque",
         "album": "456",
@@ -19165,38 +19197,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Utsusemi Disco",
-        "artists": "killchord",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Carnival",
-        "artists": "Bokunenbito",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "LOVELOVEMIKU",
-        "artists": "katatumuriP",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/5yJrP1frURYhTVgOyQ6FoR",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Habitat",
-        "artists": "Strausz",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/7v6rNgbLVQgrDGbaoGtJti",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
