@@ -11842,8 +11842,8 @@
     {
         "name": "Glossy:MMM",
         "artists": "Miyuki Hashimoto",
-        "album": "\u300e\u54b2-Saki-\u300fBest Album \u301cAnthology\u301c",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27310f67dcd3eb40c87c6cb07f2",
+        "album": "\u300e\u54b2-Saki-\u300fBest Album \uff5eAnthology\uff5e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736f49a9ccc7f2eb7bea7bb088",
         "href": "https://api.spotify.com/v1/tracks/4jdvftDPguhZTWixCeHpQX",
         "added_at": "2022-04-25T19:04:24Z"
     },
