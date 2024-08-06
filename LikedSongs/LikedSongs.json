@@ -1,5 +1,21 @@
 [
     {
+        "name": "\u30d0\u30f3\u30d6\u30fc\u30c7\u30a3\u30b9\u30b3",
+        "artists": "Yunomi",
+        "album": "\u5927\u6c5f\u6238\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f23614ef8dbdfebe3d654514",
+        "href": "https://api.spotify.com/v1/tracks/1LRcpWmki6nmF80PwQUYPV",
+        "added_at": "2024-08-06T20:59:27Z"
+    },
+    {
+        "name": "\u30a4\u30f3\u30c9\u30a2\u7cfb\u306a\u3089\u30c8\u30e9\u30c3\u30af\u30e1\u30a4\u30ab\u30fc",
+        "artists": "Yunomi",
+        "album": "\u3086\u306e\u3082\u304d\u3085",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e3a8cc0c4984a9abe5c886b4",
+        "href": "https://api.spotify.com/v1/tracks/3SAgoXsKEGMlIGNtOvs0vV",
+        "added_at": "2024-08-06T20:57:06Z"
+    },
+    {
         "name": "\u98a8\u306e\u7d04\u675f\u301c\u82b1\u7247\u306e\u884c\u65b9",
         "artists": "Yasunori Mitsuda",
         "album": "KiRite",
@@ -17984,6 +18000,14 @@
         "added_at": "2019-06-16T00:22:37Z"
     },
     {
+        "name": "RPG",
+        "artists": "SEKAI NO OWARI",
+        "album": "Tree",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734b17a98d5c1bcbd868cc921d",
+        "href": "https://api.spotify.com/v1/tracks/7facNrW6VRW8s3ICZ8G1uW",
+        "added_at": "2019-06-16T00:22:37Z"
+    },
+    {
         "name": "\u8ff7\u3048\u3070\u5c0a\u3057",
         "artists": "ATARASHII GAKKO!",
         "album": "\u8ff7\u3048\u3070\u5c0a\u3057",
@@ -19173,30 +19197,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/3NAKecKf3fgEUzh3f0mZsb",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Itazura Obake",
-        "artists": "Style",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/5kRWMkTT3w38L3zpQHmkA5",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "kimi to koi to prade",
-        "artists": "monoeye",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/04ORAJUgT4VO17zXgol5KQ",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Fictionia",
-        "artists": "Taroon",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/1IYxHEPLjsL2gDHRSIM6Sm",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
