@@ -1,5 +1,29 @@
 [
     {
+        "name": "SWEET MEMORIES (Re-Mix Version)",
+        "artists": "Seiko Matsuda",
+        "album": "\u30da\u30f3\u30ae\u30f3\u30ba\u30fb\u30e1\u30e2\u30ea\u30fc\u300c\u5e78\u798f\u7269\u8a9e\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273633a9c3cdc4f7a370dc62e59",
+        "href": "https://api.spotify.com/v1/tracks/6UDky6rmQprD5seH60B8jY",
+        "added_at": "2024-08-15T20:57:56Z"
+    },
+    {
+        "name": "SWEET MEMORIES",
+        "artists": "Seiko Matsuda",
+        "album": "BIBLE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e17f9ba29e61f30bbf6cf8bd",
+        "href": "https://api.spotify.com/v1/tracks/4bgVk4itt6wPVrJJwh5vyp",
+        "added_at": "2024-08-15T20:57:40Z"
+    },
+    {
+        "name": "\u30b7\u30e3\u30f3\u30b0\u30ea\u30e9",
+        "artists": "Sundae May Club",
+        "album": "\u5c11\u5973\u6f2b\u753b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731ede1dc7aabfa2a9cbadf794",
+        "href": "https://api.spotify.com/v1/tracks/4e21MNtjbyc6TxaZCe2K5i",
+        "added_at": "2024-08-15T20:45:02Z"
+    },
+    {
         "name": "D.D.D.D.",
         "artists": "(K)NoW_NAME",
         "album": "TV\u30a2\u30cb\u30e1\u300c\u30c9\u30ed\u30d8\u30c9\u30ed\u300dED\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0\u300c\u6df7\u6c8c\u306e\u4e2d\u3067\u8e0a\u308c\u300d",
