@@ -1,5 +1,21 @@
 [
     {
+        "name": "D.D.D.D.",
+        "artists": "(K)NoW_NAME",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30c9\u30ed\u30d8\u30c9\u30ed\u300dED\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0\u300c\u6df7\u6c8c\u306e\u4e2d\u3067\u8e0a\u308c\u300d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731ad298ef29156bb809be5e9c",
+        "href": "https://api.spotify.com/v1/tracks/3xq5nPHz7xSautx6iJDzVh",
+        "added_at": "2024-08-15T18:35:05Z"
+    },
+    {
+        "name": "D.D.D.D - Dorohedoro",
+        "artists": "Myun",
+        "album": "D.D.D.D (Dorohedoro)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a8b5ad05da0596c1edb8c0f9",
+        "href": "https://api.spotify.com/v1/tracks/2isfQM7GjLIjOgZI8ZbjkZ",
+        "added_at": "2024-08-15T18:34:45Z"
+    },
+    {
         "name": "\u4e00\u96e3",
         "artists": "Penthouse",
         "album": "\u4e00\u96e3",
