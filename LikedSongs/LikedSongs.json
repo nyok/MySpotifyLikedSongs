@@ -1,5 +1,13 @@
 [
     {
+        "name": "SHADOW MONSTER",
+        "artists": "Asako Toki",
+        "album": "SAFARI",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27307bde02cbd0b80e15f1272fa",
+        "href": "https://api.spotify.com/v1/tracks/2lSdpx1N7JMJ0eaX2jneKV",
+        "added_at": "2024-08-27T13:05:48Z"
+    },
+    {
         "name": "BLIZZARD",
         "artists": "Mikazuki BIGWAVE",
         "album": "MY YUME DIARY",
@@ -19589,14 +19597,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/0lZB3rHRY5e9pewayYNwg7",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Kaero Kaero",
-        "artists": "Penoreri",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4n3xD1VfJRQS6k2p5qDBTt",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
