@@ -1,5 +1,13 @@
 [
     {
+        "name": "BLIZZARD",
+        "artists": "Mikazuki BIGWAVE",
+        "album": "MY YUME DIARY",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739e4d7c9944cc4eaa6a37e03d",
+        "href": "https://api.spotify.com/v1/tracks/0EQTaTFClNcXCXjuakM8mU",
+        "added_at": "2024-08-27T11:07:14Z"
+    },
+    {
         "name": "What Is Love?",
         "artists": "DooPiano",
         "album": "The Best of TWICE",
