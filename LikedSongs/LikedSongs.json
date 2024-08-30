@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u50d5\u305f\u3061\u306f\u606f\u3092\u3057\u3066",
+        "artists": "chilldspot",
+        "album": "\u50d5\u305f\u3061\u306f\u606f\u3092\u3057\u3066",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733fe0dfd7731127d87e439d47",
+        "href": "https://api.spotify.com/v1/tracks/6KFJndpQASJefbnxiWgPaz",
+        "added_at": "2024-08-30T19:56:49Z"
+    },
+    {
         "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
         "artists": "\u96e2\u5a5a\u4f1d\u8aac",
         "album": "\u96e2\u5a5a\u4f1d\u8aac",
@@ -19589,14 +19597,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/4L9t6Of9x7O5OFeNWi2elG",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "PEACE",
-        "artists": "Kali C.",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
