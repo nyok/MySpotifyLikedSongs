@@ -1,5 +1,405 @@
 [
     {
+        "name": "\u5e7e\u5104\u5149\u5e74",
+        "artists": "Omoinotake",
+        "album": "\u5e7e\u5104\u5149\u5e74",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738b7a8c1322028d45a8355f7a",
+        "href": "https://api.spotify.com/v1/tracks/4dmruTsdHIOjfOIeaFitXK",
+        "added_at": "2024-09-01T20:04:04Z"
+    },
+    {
+        "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
+        "artists": "Kocchi no Kento",
+        "album": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737e35a5422a48438188c23496",
+        "href": "https://api.spotify.com/v1/tracks/41xGcFvQsGYQs0RDFvPfv3",
+        "added_at": "2024-09-01T19:56:19Z"
+    },
+    {
+        "name": "\u606f\u3092\u7de8\u3080",
+        "artists": "\u30cf\u30e0",
+        "album": "\u96e8\u3092\u7db4\u308b -BGM side-",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739fb70eb38e70b1e2ff3f394d",
+        "href": "https://api.spotify.com/v1/tracks/2t47W1wKk90ivf5Wd3EQqq",
+        "added_at": "2024-09-01T14:02:34Z"
+    },
+    {
+        "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
+        "artists": "Kana Nishino",
+        "album": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273638bf292280373db1a7f987f",
+        "href": "https://api.spotify.com/v1/tracks/6CwNlxgkEu4F9cyXW34PFf",
+        "added_at": "2024-09-01T13:24:40Z"
+    },
+    {
+        "name": "\u793e\u4f1a\u306e\u7a93",
+        "artists": "ano",
+        "album": "\u793e\u4f1a\u306e\u7a93",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731e18f03819c1d306f497e43d",
+        "href": "https://api.spotify.com/v1/tracks/6lUBiOrB0ilG4wQ0y86oOf",
+        "added_at": "2024-08-30T20:46:29Z"
+    },
+    {
+        "name": "\u50d5\u305f\u3061\u306f\u606f\u3092\u3057\u3066",
+        "artists": "chilldspot",
+        "album": "\u50d5\u305f\u3061\u306f\u606f\u3092\u3057\u3066",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733fe0dfd7731127d87e439d47",
+        "href": "https://api.spotify.com/v1/tracks/6KFJndpQASJefbnxiWgPaz",
+        "added_at": "2024-08-30T19:56:49Z"
+    },
+    {
+        "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
+        "artists": "\u96e2\u5a5a\u4f1d\u8aac",
+        "album": "\u96e2\u5a5a\u4f1d\u8aac",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a3accf6ef80b741985fb8e4d",
+        "href": "https://api.spotify.com/v1/tracks/5l0SzsTg6IBI3LwfLvq4f2",
+        "added_at": "2024-08-29T15:06:23Z"
+    },
+    {
+        "name": "\u5149\u306e\u3042\u3068",
+        "artists": "Bialystocks",
+        "album": "\u5149\u306e\u3042\u3068",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c5b7b603aa3e3e91167e055d",
+        "href": "https://api.spotify.com/v1/tracks/4gUPoiw17r4TC9x6NutnKS",
+        "added_at": "2024-08-29T15:04:57Z"
+    },
+    {
+        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+        "artists": "Bialystocks",
+        "album": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e7c8893c53a36f1d66ff9124",
+        "href": "https://api.spotify.com/v1/tracks/1OCvIuUDYIwnuv6lQzdoD7",
+        "added_at": "2024-08-29T15:04:56Z"
+    },
+    {
+        "name": "cuz",
+        "artists": "jo0ji",
+        "album": "475",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273aeb3e475412ab3f83ee0b252",
+        "href": "https://api.spotify.com/v1/tracks/4s3kcmPWMIxf7LmWF4F80m",
+        "added_at": "2024-08-29T14:34:55Z"
+    },
+    {
+        "name": "\u30b9\u30ad",
+        "artists": "eill",
+        "album": "\u30b9\u30ad",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bbfac2ecd72bc06207c22cec",
+        "href": "https://api.spotify.com/v1/tracks/0ZhxVhQ3EMRIFxczoTfkn0",
+        "added_at": "2024-08-29T14:07:34Z"
+    },
+    {
+        "name": "tulip",
+        "artists": "Leina",
+        "album": "tulip",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c0176552d2434a09511b3d94",
+        "href": "https://api.spotify.com/v1/tracks/0HA5yOj2TrcSwyaGzKBsf9",
+        "added_at": "2024-08-29T13:54:12Z"
+    },
+    {
+        "name": "Lonely Girl Tokyo ('19 Remastered)",
+        "artists": "Mikazuki BIGWAVE",
+        "album": "Kanojo Wa Lonely Girl",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733107e3962f8ad6d9a0808152",
+        "href": "https://api.spotify.com/v1/tracks/6GJdVjbFTGK8knh2gXo71M",
+        "added_at": "2024-08-28T16:40:38Z"
+    },
+    {
+        "name": "\u30c1\u30af\u30c3",
+        "artists": "NakamuraEmi",
+        "album": "NIPPONNO ONNAWO UTAU BEST2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27313b5ce1ad31f63850f246998",
+        "href": "https://api.spotify.com/v1/tracks/5YwVPQwB73R7lWSiuOO6dZ",
+        "added_at": "2024-08-28T16:15:52Z"
+    },
+    {
+        "name": "\u66d6\u6627\u30c8\u30ea\u30c3\u30d7 (w/ \u6843\u7bb1 & miko)",
+        "artists": "Yunomi",
+        "album": "\u66d6\u6627\u30c8\u30ea\u30c3\u30d7 (w/ \u6843\u7bb1 & miko)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731c708f26973c6d773dc2c207",
+        "href": "https://api.spotify.com/v1/tracks/0OI02XhR4jd1rDQPpXgRtb",
+        "added_at": "2024-08-28T16:12:07Z"
+    },
+    {
+        "name": "\u30df\u30e9\u30af\u30eb\u30b7\u30e5\u30ac\u30fc\u30e9\u30f3\u30c9 (feat. \u6843\u7bb1)",
+        "artists": "Yunomi",
+        "album": "\u30df\u30e9\u30af\u30eb\u30b7\u30e5\u30ac\u30fc\u30e9\u30f3\u30c9 (feat. \u6843\u7bb1)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737ebb98362a16434973a10fe8",
+        "href": "https://api.spotify.com/v1/tracks/2YxSovMbGKi2vTqgmitrny",
+        "added_at": "2024-08-28T15:46:09Z"
+    },
+    {
+        "name": "good night baby",
+        "artists": "\u96fb\u97f3\u90e8",
+        "album": "\u96fb\u97f3\u90e8\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0 -\u30b7\u30fc\u30ba\u30f3.0-",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27317420e59e6f0ff9c074c74c2",
+        "href": "https://api.spotify.com/v1/tracks/3gWV5PrgpiZm0s7ndQ66QY",
+        "added_at": "2024-08-28T15:40:22Z"
+    },
+    {
+        "name": "SHADOW MONSTER",
+        "artists": "Asako Toki",
+        "album": "SAFARI",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27307bde02cbd0b80e15f1272fa",
+        "href": "https://api.spotify.com/v1/tracks/2lSdpx1N7JMJ0eaX2jneKV",
+        "added_at": "2024-08-27T13:05:48Z"
+    },
+    {
+        "name": "BLIZZARD",
+        "artists": "Mikazuki BIGWAVE",
+        "album": "MY YUME DIARY",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739e4d7c9944cc4eaa6a37e03d",
+        "href": "https://api.spotify.com/v1/tracks/0EQTaTFClNcXCXjuakM8mU",
+        "added_at": "2024-08-27T11:07:14Z"
+    },
+    {
+        "name": "What Is Love?",
+        "artists": "DooPiano",
+        "album": "The Best of TWICE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273997280fea4d0412a7bc25a43",
+        "href": "https://api.spotify.com/v1/tracks/4EYygUo8LVI45IDHaF4p9y",
+        "added_at": "2024-08-20T19:13:04Z"
+    },
+    {
+        "name": "Starlight Song Of Midnight",
+        "artists": "Sereno",
+        "album": "The Serenade",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739cfc127cb34341f6b5166139",
+        "href": "https://api.spotify.com/v1/tracks/6nAj1QT1a4S0bZykL5xucI",
+        "added_at": "2024-08-20T19:04:18Z"
+    },
+    {
+        "name": "The Storm",
+        "artists": "Sweet Dove",
+        "album": "Hope Is the Thing With Feathers",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a56c23e60bd970d2c5f97201",
+        "href": "https://api.spotify.com/v1/tracks/4XW2ASQcqAubwU1eDvAguG",
+        "added_at": "2024-08-20T18:32:52Z"
+    },
+    {
+        "name": "\u4f11\u65e5\u306e\u3072\u3068\u308a\u52c9\u5f37\u4f1a",
+        "artists": "Reo",
+        "album": "\u4f11\u65e5\u306e\u3072\u3068\u308a\u52c9\u5f37\u4f1a",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273916eb995376b32a3afcb2f55",
+        "href": "https://api.spotify.com/v1/tracks/1Xh2EL70Nyjkw1QqguCVKS",
+        "added_at": "2024-08-15T21:45:11Z"
+    },
+    {
+        "name": "\u3082\u3046\u9022\u3048\u306a\u3044\u304b\u3082\u3057\u308c\u306a\u3044",
+        "artists": "Momoko Kikuchi",
+        "album": "ADVENTURE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27380ee3afe40fb0997a8f11d36",
+        "href": "https://api.spotify.com/v1/tracks/3VYNHd1JG5Q1xNvfUlPB8K",
+        "added_at": "2024-08-15T21:44:44Z"
+    },
+    {
+        "name": "SWEET MEMORIES (Re-Mix Version)",
+        "artists": "Seiko Matsuda",
+        "album": "\u30da\u30f3\u30ae\u30f3\u30ba\u30fb\u30e1\u30e2\u30ea\u30fc\u300c\u5e78\u798f\u7269\u8a9e\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273633a9c3cdc4f7a370dc62e59",
+        "href": "https://api.spotify.com/v1/tracks/6UDky6rmQprD5seH60B8jY",
+        "added_at": "2024-08-15T20:57:56Z"
+    },
+    {
+        "name": "SWEET MEMORIES",
+        "artists": "Seiko Matsuda",
+        "album": "BIBLE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e17f9ba29e61f30bbf6cf8bd",
+        "href": "https://api.spotify.com/v1/tracks/4bgVk4itt6wPVrJJwh5vyp",
+        "added_at": "2024-08-15T20:57:40Z"
+    },
+    {
+        "name": "\u30b7\u30e3\u30f3\u30b0\u30ea\u30e9",
+        "artists": "Sundae May Club",
+        "album": "\u5c11\u5973\u6f2b\u753b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731ede1dc7aabfa2a9cbadf794",
+        "href": "https://api.spotify.com/v1/tracks/4e21MNtjbyc6TxaZCe2K5i",
+        "added_at": "2024-08-15T20:45:02Z"
+    },
+    {
+        "name": "D.D.D.D.",
+        "artists": "(K)NoW_NAME",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30c9\u30ed\u30d8\u30c9\u30ed\u300dED\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0\u300c\u6df7\u6c8c\u306e\u4e2d\u3067\u8e0a\u308c\u300d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731ad298ef29156bb809be5e9c",
+        "href": "https://api.spotify.com/v1/tracks/3xq5nPHz7xSautx6iJDzVh",
+        "added_at": "2024-08-15T18:35:05Z"
+    },
+    {
+        "name": "D.D.D.D - Dorohedoro",
+        "artists": "Myun",
+        "album": "D.D.D.D (Dorohedoro)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a8b5ad05da0596c1edb8c0f9",
+        "href": "https://api.spotify.com/v1/tracks/2isfQM7GjLIjOgZI8ZbjkZ",
+        "added_at": "2024-08-15T18:34:45Z"
+    },
+    {
+        "name": "\u4e00\u96e3",
+        "artists": "Penthouse",
+        "album": "\u4e00\u96e3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c01239180b33db052903538c",
+        "href": "https://api.spotify.com/v1/tracks/5g1NQMBXXtH0LAw63aXECL",
+        "added_at": "2024-08-15T16:13:16Z"
+    },
+    {
+        "name": "\u7cf8\u3057\u3044\u3072\u3068",
+        "artists": "\u6c50\u308c\u3044\u3089",
+        "album": "\u7cf8\u3057\u3044\u3072\u3068",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27325f71aac39021a35d2cad2ac",
+        "href": "https://api.spotify.com/v1/tracks/5b0p9a5ZfRUeAn1oMYpLwN",
+        "added_at": "2024-08-12T19:02:04Z"
+    },
+    {
+        "name": "\u4f1a\u3044\u305f\u3044\u306a",
+        "artists": "\u624b\u304c\u30af\u30ea\u30fc\u30e0\u30d1\u30f3",
+        "album": "\u4f1a\u3044\u305f\u3044\u306a",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bde54c70e9dfbb632d53bc58",
+        "href": "https://api.spotify.com/v1/tracks/2b5CS01QECfqKE25e0vF0V",
+        "added_at": "2024-08-12T17:05:19Z"
+    },
+    {
+        "name": "\u6771\u4eac\u4f9d\u5b58\u6027",
+        "artists": "\u4e43\u7d2b",
+        "album": "\u6771\u4eac\u4f9d\u5b58\u6027",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737e380b3d07654497804474a2",
+        "href": "https://api.spotify.com/v1/tracks/47b7ukPk8kqn5rqQAfBgiq",
+        "added_at": "2024-08-12T16:44:09Z"
+    },
+    {
+        "name": "BELIEVE IN LOVE",
+        "artists": "LINDBERG",
+        "album": "LINDBERG \u2163",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736ad6c93a4e7182ae96c70164",
+        "href": "https://api.spotify.com/v1/tracks/2srTj3T70gF4EugkYYBQOp",
+        "added_at": "2024-08-12T16:23:55Z"
+    },
+    {
+        "name": "UFO\u3092\u547c\u3076\u30c0\u30f3\u30b9",
+        "artists": "Pop Never Dies",
+        "album": "\u6226\u7565\u7684\u751f\u5b58",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b49b5286b6bba5ffd7e2123c",
+        "href": "https://api.spotify.com/v1/tracks/0Ty3ogHHmgHmoH4JrW5Gtz",
+        "added_at": "2024-08-07T16:14:54Z"
+    },
+    {
+        "name": "\u900f\u660e\u306a\u9ed2\u3068\u9244\u5206\u306e\u3042\u308b\u8d64",
+        "artists": "\u306b\u3057\u306a",
+        "album": "odds and ends",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273af4d02c7dab2d934fea4ed21",
+        "href": "https://api.spotify.com/v1/tracks/5qeNKKzm2GAA4bkTlUdg8T",
+        "added_at": "2024-08-07T16:13:23Z"
+    },
+    {
+        "name": "\u30ab\u30d5\u30ab",
+        "artists": "\u307d\u3093\u307d\u3053",
+        "album": "\u30ab\u30d5\u30ab",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273dc2811483d1212b719a133ae",
+        "href": "https://api.spotify.com/v1/tracks/6m2pCjC76s2bSruJ49z0US",
+        "added_at": "2024-08-07T16:13:02Z"
+    },
+    {
+        "name": "\u604b\u3059\u308b\u5730\u7e1b\u970a",
+        "artists": "KanoeRana",
+        "album": "\u300c\u30ad\u30e7\u30a6\u30ab\u30a4\u30bb\u30f3\u300d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a89e1ce0d2180638a355a36d",
+        "href": "https://api.spotify.com/v1/tracks/0KZ5aC2R14rcouZ22J7M3a",
+        "added_at": "2024-08-07T16:12:29Z"
+    },
+    {
+        "name": "\u3053\u3093\u304c\u3089\u304c\u3063\u305f!",
+        "artists": "\u30cd\u30af\u30e9\u30a4\u30c8\u30fc\u30ad\u30fc",
+        "album": "ONE!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27358d7caf52f0bad2a83468e73",
+        "href": "https://api.spotify.com/v1/tracks/6JJnqVcOBfIaKXDjZqxOUv",
+        "added_at": "2024-08-07T16:11:50Z"
+    },
+    {
+        "name": "\u51db\u3005\u721b\u3005",
+        "artists": "AKAIKO-EN",
+        "album": "\u51db\u3005\u721b\u3005",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27325d6bc6f1ec9d77a297e80bc",
+        "href": "https://api.spotify.com/v1/tracks/3zvAbHDv35ZNEqKZjZYmfI",
+        "added_at": "2024-08-07T16:11:33Z"
+    },
+    {
+        "name": "\u5375\u3068\u3058 - New Yoeko ver.",
+        "artists": "\u30e8\u30a8\u30b3",
+        "album": "\u30cb\u30e5\u30fc\u30e8\u30a8\u30b3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732c27fd2e678ffd142121b272",
+        "href": "https://api.spotify.com/v1/tracks/0448ISUsW1CHkB2TSnAoUx",
+        "added_at": "2024-08-06T23:34:21Z"
+    },
+    {
+        "name": "\u591c\u306a\u591c\u306a\u591c\u306a - New Yoeko ver.",
+        "artists": "\u30e8\u30a8\u30b3",
+        "album": "\u30cb\u30e5\u30fc\u30e8\u30a8\u30b3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732c27fd2e678ffd142121b272",
+        "href": "https://api.spotify.com/v1/tracks/1pFgSoDswhEQf08f0QFpnP",
+        "added_at": "2024-08-06T23:30:59Z"
+    },
+    {
+        "name": "caramel ribbon cursetard (Monogatari Series: Off & Monster Season)",
+        "artists": "ONE PROJECT",
+        "album": "caramel ribbon cursetard (Monogatari Series: Off & Monster Season)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27327d689e2009c2065e9c39b81",
+        "href": "https://api.spotify.com/v1/tracks/6W5pE8JBmMt3JFGkFMUv5R",
+        "added_at": "2024-08-06T23:28:14Z"
+    },
+    {
+        "name": "\u30b1\u30bb\u30e9\u30bb\u30e9",
+        "artists": "ATARASHII GAKKO!",
+        "album": "\u30b1\u30bb\u30e9\u30bb\u30e9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273692869365a0f5a7f4c721e88",
+        "href": "https://api.spotify.com/v1/tracks/0q5HZpfob5FoqLV96BTqKM",
+        "added_at": "2024-08-06T23:22:11Z"
+    },
+    {
+        "name": "37.2",
+        "artists": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+        "album": "\u7d04\u675f\u306b\u5b88\u3089\u308c\u306a\u3044",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e5b105feddf2533372835c4d",
+        "href": "https://api.spotify.com/v1/tracks/6cAVsddPenOM2VWoz39ut7",
+        "added_at": "2024-08-06T23:21:59Z"
+    },
+    {
+        "name": "\u30c8\u30f3\u30c8\u30f3\u30c8\u30f3",
+        "artists": "Ai Iwasaki",
+        "album": "\u30c8\u30f3\u30c8\u30f3\u30c8\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c2c837295037b9f30ab9c454",
+        "href": "https://api.spotify.com/v1/tracks/2GpsfR8TaAaXAn6Azjt3SZ",
+        "added_at": "2024-08-06T23:21:55Z"
+    },
+    {
+        "name": "\u3070\u304b\u3058\u3083\u306a\u3044\u306e\u306b",
+        "artists": "ZUTOMAYO",
+        "album": "\u3070\u304b\u3058\u3083\u306a\u3044\u306e\u306b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d2623174c0dd5a4ca9996499",
+        "href": "https://api.spotify.com/v1/tracks/2UkcZV07LP39NQg9tGBvnh",
+        "added_at": "2024-08-06T21:25:02Z"
+    },
+    {
+        "name": "I <3 Harajuku",
+        "artists": "Alice Longyu Gao",
+        "album": "I <3 Harajuku",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a6394d354a9ef863bba41a3a",
+        "href": "https://api.spotify.com/v1/tracks/2JpMlbYEaradyfx9hraXuZ",
+        "added_at": "2024-08-06T21:21:15Z"
+    },
+    {
+        "name": "\u306f\u304f\u3061\u3085\u30fc\u3080",
+        "artists": "CY8ER",
+        "album": "\u306f\u304f\u3061\u3085\u30fc\u3080",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734790c4098380bebd815b4117",
+        "href": "https://api.spotify.com/v1/tracks/1QIUoEb6nRab9jD2pjirID",
+        "added_at": "2024-08-06T21:00:19Z"
+    },
+    {
+        "name": "\u30d0\u30f3\u30d6\u30fc\u30c7\u30a3\u30b9\u30b3",
+        "artists": "Yunomi",
+        "album": "\u5927\u6c5f\u6238\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f23614ef8dbdfebe3d654514",
+        "href": "https://api.spotify.com/v1/tracks/1LRcpWmki6nmF80PwQUYPV",
+        "added_at": "2024-08-06T20:59:27Z"
+    },
+    {
         "name": "\u30a4\u30f3\u30c9\u30a2\u7cfb\u306a\u3089\u30c8\u30e9\u30c3\u30af\u30e1\u30a4\u30ab\u30fc",
         "artists": "Yunomi",
         "album": "\u3086\u306e\u3082\u304d\u3085",
