@@ -1,5 +1,245 @@
 [
     {
+        "name": "\u304d\u308c\u3047\u3054\u3068",
+        "artists": "TOOBOE",
+        "album": "\u304d\u308c\u3047\u3054\u3068",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c0ffd02493150ddd7ad34884",
+        "href": "https://api.spotify.com/v1/tracks/6CuNd8IN9irUGTih0nPhFa",
+        "added_at": "2024-09-30T17:36:12Z"
+    },
+    {
+        "name": "\u3046\u305f\u304b\u305f\u30b5\u30de\u30fc",
+        "artists": "Lisa Halim",
+        "album": "COLORS",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d28f5b472520e1609d01473b",
+        "href": "https://api.spotify.com/v1/tracks/4ObNNAWLE5B0QEqbPVZYzG",
+        "added_at": "2024-09-30T16:15:14Z"
+    },
+    {
+        "name": "\u96e8\u306b\u30ad\u30c3\u30b9\u306e\u82b1\u675f\u3092",
+        "artists": "Miki Imai",
+        "album": "retour",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735a2c714b2eb875ad7aca0c04",
+        "href": "https://api.spotify.com/v1/tracks/4ydvnLC5X6YVibRcjp40j1",
+        "added_at": "2024-09-30T16:12:34Z"
+    },
+    {
+        "name": "Hot Glamour - Incognito Main",
+        "artists": "Momoe Shimano",
+        "album": "Hot Glamour",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738a06ee998414c87551e57215",
+        "href": "https://api.spotify.com/v1/tracks/6QbkxSxAgO9B87TBrEXYYj",
+        "added_at": "2024-09-30T13:13:47Z"
+    },
+    {
+        "name": "\u63a5\u543b",
+        "artists": "Original Love",
+        "album": "Sunny Side Of Original Love",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a8a7354eb806c7ff02051033",
+        "href": "https://api.spotify.com/v1/tracks/15Z76oKtxXHQvaeFsFudIs",
+        "added_at": "2024-09-30T12:38:26Z"
+    },
+    {
+        "name": "LOVE VISTA",
+        "artists": "Original Love",
+        "album": "LOVE! LOVE! & LOVE!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bbc594f87ac382d9d4c301d6",
+        "href": "https://api.spotify.com/v1/tracks/5K4vjLVpAnBFylduxXUiZK",
+        "added_at": "2024-09-30T12:38:14Z"
+    },
+    {
+        "name": "NEW HORIZONS",
+        "artists": "Tokyo Machine",
+        "album": "NEW HORIZONS",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273192bcacd3679678b87c4c678",
+        "href": "https://api.spotify.com/v1/tracks/2Bm3qC84JBHWZLSSxMMHjH",
+        "added_at": "2024-09-28T15:42:07Z"
+    },
+    {
+        "name": "\u9060\u304f\u9060\u304f",
+        "artists": "Tomiko Van",
+        "album": "VOICE 2 \uff5ecover lovers rock\uff5e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273cbfc744be56fac4d40c91e3f",
+        "href": "https://api.spotify.com/v1/tracks/5NZxHyGWDupDMBN1WgL7x1",
+        "added_at": "2024-09-25T11:45:08Z"
+    },
+    {
+        "name": "Magical Doomer",
+        "artists": "Kyoresu",
+        "album": "Magical Doomer",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f393ac5f87501f01882824b4",
+        "href": "https://api.spotify.com/v1/tracks/5zDbqa8qQ4uJX1Dg46ELas",
+        "added_at": "2024-09-24T17:28:21Z"
+    },
+    {
+        "name": "THE GIFT",
+        "artists": "HIRAIDAI",
+        "album": "THE GIFT",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a01198477fd3b56bfef47a76",
+        "href": "https://api.spotify.com/v1/tracks/5qTwnr6WbWeeUDS9dcl5g6",
+        "added_at": "2024-09-24T15:25:51Z"
+    },
+    {
+        "name": "\u50d5\u306e\u5fc3\u3092\u3064\u304f\u3063\u3066\u3088",
+        "artists": "Ken Hirai",
+        "album": "Ken Hirai Singles Best Collection \u6b4c\u30d0\u30ab 2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f230b1afc7930ee549df82d7",
+        "href": "https://api.spotify.com/v1/tracks/0q1Ka8BtGhQ3GPpqCa5afG",
+        "added_at": "2024-09-24T15:19:27Z"
+    },
+    {
+        "name": "\u672a\u6765\u306e\u30df\u30e5\u30fc\u30b8\u30a2\u30e0",
+        "artists": "Perfume",
+        "album": "\u672a\u6765\u306e\u30df\u30e5\u30fc\u30b8\u30a2\u30e0",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730941cfa94fd14780ab3c27df",
+        "href": "https://api.spotify.com/v1/tracks/3IIWswUsUI4BnTWYZU2UsN",
+        "added_at": "2024-09-22T19:33:00Z"
+    },
+    {
+        "name": "Paradise",
+        "artists": "NiziU",
+        "album": "Paradise",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731d78b608c7b4ebbc97be34d6",
+        "href": "https://api.spotify.com/v1/tracks/4j3ZYby4xNDuqfHb3Crm4k",
+        "added_at": "2024-09-22T19:15:46Z"
+    },
+    {
+        "name": "Reflected",
+        "artists": "Milkoi",
+        "album": "Reflected",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734c25646db513d740f907350a",
+        "href": "https://api.spotify.com/v1/tracks/6Subpt7JjGYKJIsBRiQde1",
+        "added_at": "2024-09-22T19:07:28Z"
+    },
+    {
+        "name": "I Can't Be a Civil Servant",
+        "artists": "Nyarons",
+        "album": "I Can't Be a Civil Servant",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735dcf6d225bca8fc04a5c3563",
+        "href": "https://api.spotify.com/v1/tracks/3RxnoFOElksrSoKnG3xCEo",
+        "added_at": "2024-09-22T19:06:22Z"
+    },
+    {
+        "name": "Palace",
+        "artists": "Skule Toyama",
+        "album": "Stereo",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27341dfda3dc847da5b0dd8064e",
+        "href": "https://api.spotify.com/v1/tracks/7HzaLZALp6870KWWNrtYXe",
+        "added_at": "2024-09-22T19:03:00Z"
+    },
+    {
+        "name": "\u30e9\u30e0\u30cd",
+        "artists": "indigo la End",
+        "album": "\u30e9\u30e0\u30cd",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ac281e2b0ce4a76fe69b6ba0",
+        "href": "https://api.spotify.com/v1/tracks/4fuIGEDNBkYPdsY7scsum8",
+        "added_at": "2024-09-21T18:31:56Z"
+    },
+    {
+        "name": "\u30dd\u30c6\u30b5\u30e9",
+        "artists": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+        "album": "\u3042\u306e\u591c\u306e\u306f\u306a\u3057",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273135d1174a33d391bebcf0fc2",
+        "href": "https://api.spotify.com/v1/tracks/5L8ZRE5UQiPHKkVI5XtHqb",
+        "added_at": "2024-09-21T18:30:57Z"
+    },
+    {
+        "name": "\u3042\u3093\u306a\u3064\u3041",
+        "artists": "ROMANKAKUMEI",
+        "album": "ROMANTIC LOVE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27321b2eb2d3a439c26eb6a89ce",
+        "href": "https://api.spotify.com/v1/tracks/4uHm18zMsbT9e8vukQUlEd",
+        "added_at": "2024-09-20T22:38:37Z"
+    },
+    {
+        "name": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
+        "artists": "ROMANKAKUMEI",
+        "album": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273eeca16af71deac80e5071729",
+        "href": "https://api.spotify.com/v1/tracks/2MBYHLxowxWCAhA6wd73G6",
+        "added_at": "2024-09-20T22:37:40Z"
+    },
+    {
+        "name": "0821_a",
+        "artists": "Natsuko Nisshoku",
+        "album": "\u65e5\u98df\u306a\u3064\u3053 15th Anniversary BEST -Fly-by2024-",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731356c99b84c57de9b8d15e5a",
+        "href": "https://api.spotify.com/v1/tracks/2cN18lm91Xe7V1ijNXumZm",
+        "added_at": "2024-09-20T22:32:23Z"
+    },
+    {
+        "name": "\u541b\u306e\u597d\u304d\u306a\u4eba\u304c\u79c1\u3060\u3063\u305f\u3089\u3044\u3044\u306a - Piano ver.",
+        "artists": "\u624b\u304c\u30af\u30ea\u30fc\u30e0\u30d1\u30f3",
+        "album": "\u541b\u306e\u597d\u304d\u306a\u4eba\u304c\u79c1\u3060\u3063\u305f\u3089\u3044\u3044\u306a (Piano ver.)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27332eeb464c49f3592113d80ea",
+        "href": "https://api.spotify.com/v1/tracks/5Zgmnpq5I68nDyp1sq8iSJ",
+        "added_at": "2024-09-20T22:28:58Z"
+    },
+    {
+        "name": "\u3044\u3063\u305d\u3053\u306e\u5fc3\u81d3\u306e\u97f3\u304c\u541b\u306b\u805e\u3053\u3048\u305f\u3089",
+        "artists": "SHISHAMO",
+        "album": "\u3044\u3063\u305d\u3053\u306e\u5fc3\u81d3\u306e\u97f3\u304c\u541b\u306b\u805e\u3053\u3048\u305f\u3089",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27320781bd014a8504f9be0d25d",
+        "href": "https://api.spotify.com/v1/tracks/4I2ezm4guMBBKYN0Pe0j2P",
+        "added_at": "2024-09-20T22:26:21Z"
+    },
+    {
+        "name": "\u30a4\u30ac\u30af",
+        "artists": "Sasuke Haraguchi",
+        "album": "\u30a4\u30ac\u30af",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27306a87cd3b834b98452eb5ac9",
+        "href": "https://api.spotify.com/v1/tracks/6r5PYnGBu1hkQrk3zPkt1I",
+        "added_at": "2024-09-19T23:02:56Z"
+    },
+    {
+        "name": "SKULL",
+        "artists": "Hitomi Takahashi",
+        "album": "sympathy",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fed1d01c497c13c9efea98e9",
+        "href": "https://api.spotify.com/v1/tracks/3rRTuuWUa2G1BS11tH4nC5",
+        "added_at": "2024-09-19T22:49:24Z"
+    },
+    {
+        "name": "\u50d5\u305f\u3061\u306e\u884c\u65b9",
+        "artists": "Hitomi Takahashi",
+        "album": "\u9752\u7a7a\u306e\u30ca\u30df\u30c0 / \u50d5\u305f\u3061\u306e\u884c\u65b9 BEST\u30bf\u30c3\u30b0",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738374f36cafba2fca9845326c",
+        "href": "https://api.spotify.com/v1/tracks/1Wv3Mnr1MTj0Z4abHQANuq",
+        "added_at": "2024-09-19T22:47:32Z"
+    },
+    {
+        "name": "\u9752\u7a7a\u306e\u30ca\u30df\u30c0",
+        "artists": "Hitomi Takahashi",
+        "album": "sympathy",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fed1d01c497c13c9efea98e9",
+        "href": "https://api.spotify.com/v1/tracks/3YKWIX7Z3u58eq9aavhf2R",
+        "added_at": "2024-09-19T22:47:16Z"
+    },
+    {
+        "name": "\u5473\u564c\u6c41\u3068\u30d0\u30bf\u30fc",
+        "artists": "\u6c50\u308c\u3044\u3089",
+        "album": "\u5473\u564c\u6c41\u3068\u30d0\u30bf\u30fc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738050be5456a7d31130a44544",
+        "href": "https://api.spotify.com/v1/tracks/6QrokLHD7AFvDqFH7pCY7U",
+        "added_at": "2024-09-19T21:03:55Z"
+    },
+    {
+        "name": "\u82b1\u7b4f",
+        "artists": "Tele",
+        "album": "\u82b1\u7b4f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273121db44d510a441eb22fa3bd",
+        "href": "https://api.spotify.com/v1/tracks/4TCcHVs43u6sS0ovS0Cq1q",
+        "added_at": "2024-09-19T21:02:29Z"
+    },
+    {
+        "name": "HAPPY END",
+        "artists": "Chilli Beans.",
+        "album": "Chilli Beans.",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273518c4b725bf4b40fba6cf5f5",
+        "href": "https://api.spotify.com/v1/tracks/08t9QMMcIq5VdnKFsAw7E3",
+        "added_at": "2024-09-19T20:50:01Z"
+    },
+    {
         "name": "\u590f\u5f85\u3061\uff0dTV\u30b5\u30a4\u30ba\uff0d",
         "artists": "ROUND TABLE featuring Nino",
         "album": "\u300cARIA The NATURAL\u300dORIGINAL SOUNDTRACK due",
@@ -147,7 +387,7 @@
         "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
         "artists": "Kocchi no Kento",
         "album": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273f4ccc1418c1a6ab6a886fd1e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738997a5c4f4ce110230236bae",
         "href": "https://api.spotify.com/v1/tracks/41xGcFvQsGYQs0RDFvPfv3",
         "added_at": "2024-09-01T19:56:19Z"
     },
@@ -19757,126 +19997,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "yurufuwa koi gokoro",
-        "artists": "Atawame",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Rinne",
-        "artists": "Deme",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4L9t6Of9x7O5OFeNWi2elG",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "PEACE",
-        "artists": "Kali C.",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Utsusemi Disco",
-        "artists": "killchord",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Carnival",
-        "artists": "Bokunenbito",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "LOVELOVEMIKU",
-        "artists": "katatumuriP",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/5yJrP1frURYhTVgOyQ6FoR",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Habitat",
-        "artists": "Strausz",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/7v6rNgbLVQgrDGbaoGtJti",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "DANCALOID",
-        "artists": "Kii",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Can We Go Back",
-        "artists": "Arthur Shastra",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Splendid Fantazia",
-        "artists": "Rinne Apple P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "JAXA",
-        "artists": "Giganta",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Alma Song",
-        "artists": "PWRFL Power",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/7KFBlb7nKH7dieXzKyrZIu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Sign",
-        "artists": "Fasorashi-Do",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Getting Depressed and Depressed",
-        "artists": "Orange P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0lZB3rHRY5e9pewayYNwg7",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Kaero Kaero",
-        "artists": "Penoreri",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4n3xD1VfJRQS6k2p5qDBTt",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
