@@ -1,4 +1,15 @@
 name	artists	album	cover	href	added_at
+アイモライモ	tuki.	アイモライモ	https://i.scdn.co/image/ab67616d0000b273d66edf444d11e9a7f900be44	https://api.spotify.com/v1/tracks/5d0dz0ekefZ243cWDGiDJ1	2024-11-22T19:47:51Z
+君をのせて	Sumi Shimamoto	sings ジブリ リニューアル ピアノ バージョン	https://i.scdn.co/image/ab67616d0000b2732ca65c341b8810efdc647db8	https://api.spotify.com/v1/tracks/6mYsD3fb7tTzurHHNqKScQ	2024-11-20T19:37:26Z
+何もかも有り余っている こんな時代も	Goose house	Flight (Complete Edition)	https://i.scdn.co/image/ab67616d0000b27308447846726eabaf215c6edf	https://api.spotify.com/v1/tracks/20H02CNvEy9CVCLOqJOSgs	2024-11-20T19:31:00Z
+り・いんかね～しょん	Akari Tsuda	COLOR OF LIGHT	https://i.scdn.co/image/ab67616d0000b27393561a9e2d3b9b4f2e696274	https://api.spotify.com/v1/tracks/2dlrJU1Y4WSW5fIeat9VCu	2024-11-20T18:56:58Z
+心はいつもあなたのそばに	Akari Tsuda	WAVE OF EMOTION	https://i.scdn.co/image/ab67616d0000b273c231d7ff19c319d7a8718695	https://api.spotify.com/v1/tracks/4BrRGSVyQqlcIraWj88UAs	2024-11-20T18:24:35Z
+アセビ	ミステリーキッス	ODDTAXI CHARACTER SONG EP	https://i.scdn.co/image/ab67616d0000b2735ed6c3191cc8b9d397a49df8	https://api.spotify.com/v1/tracks/4bdt1luQyF745Tp7AJX3TL	2024-11-20T17:55:18Z
+白い炎	Yuki Saito	斉藤由貴ベスト	https://i.scdn.co/image/ab67616d0000b2730536161146dd6ae148c22940	https://api.spotify.com/v1/tracks/7IJbCaxP2UcN77NVpII1Jp	2024-11-19T19:41:14Z
+悲しいくらいダイヤモンド	RYUSENKEI	Talio	https://i.scdn.co/image/ab67616d0000b273e1fc4b42a6312f2bd038719a	https://api.spotify.com/v1/tracks/0yeyF3EAp6aEIPUQnMwQsy	2024-11-19T19:34:56Z
+UMI（SUDDENLY LAST SUMMER）	Noriko Miyamoto	SWEET SUGAR	https://i.scdn.co/image/ab67616d0000b273cbe619044318ad038ef3e799	https://api.spotify.com/v1/tracks/2l3Pz4EMUu2dpLvWD8SJ7P	2024-11-19T19:26:02Z
+時の流れに身をまかせ	Teresa Teng	歌道場	https://i.scdn.co/image/ab67616d0000b2738ff6dabb1a35224c452538fa	https://api.spotify.com/v1/tracks/237tJYVU76qhKPdiohaOYz	2024-11-15T21:23:38Z
+Step	Hitsujibungaku	トンネルを抜けたら	https://i.scdn.co/image/ab67616d0000b27326e769f8d2a4d9e71b02fd94	https://api.spotify.com/v1/tracks/2kpudvsh3rN59FocDP21RE	2024-11-14T11:21:02Z
 夜間飛行	APOGEE	夜間飛行	https://i.scdn.co/image/ab67616d0000b273e1e8755c3119528cfc691810	https://api.spotify.com/v1/tracks/22d9GFiGaGq8l4FVHEv6af	2024-11-11T22:26:07Z
 rendez-vous	Laura day romance	farewell your town	https://i.scdn.co/image/ab67616d0000b273468fccd78e1b7fc559c31ac6	https://api.spotify.com/v1/tracks/2Jd3aQYJWGJp5VT6lnr1mG	2024-11-11T22:18:41Z
 Amber blue	Laura day romance	Amber blue	https://i.scdn.co/image/ab67616d0000b273bc17959c68ab8487de354d82	https://api.spotify.com/v1/tracks/6sli2ivzjDhuswcxoqG4zf	2024-11-11T22:17:38Z
@@ -162,7 +173,7 @@ I <3 Harajuku	Alice Longyu Gao	I <3 Harajuku	https://i.scdn.co/image/ab67616d000
 はなれ ばなれ	clammbon	JP<2016デジタル・リマスター>	https://i.scdn.co/image/ab67616d0000b273adb4bf6870549c8431a4136a	https://api.spotify.com/v1/tracks/3rAwGJSxn2a9BgDym0jAeZ	2024-07-30T07:48:10Z
 愛とU	Mega Shinnosuke	愛とU	https://i.scdn.co/image/ab67616d0000b27313619129b8ebad8c03302705	https://api.spotify.com/v1/tracks/5fMsvYISKdM1pSSog4zfFJ	2024-07-27T21:08:01Z
 BLUE SOULS	A_o	BLUE SOULS	https://i.scdn.co/image/ab67616d0000b273f06e5160eab50d0c8127c732	https://api.spotify.com/v1/tracks/4oDAokMtC6RRme0DFQlg79	2024-07-27T19:06:19Z
-Cats on Mars	Gabriela Robin	「COWBOY BEBOP」オリジナルサウンドトラック2 NO DISC	https://i.scdn.co/image/ab67616d0000b273e92477974db130fc02a74bf0	https://api.spotify.com/v1/tracks/1C5ZmAVnZM9HtXs2wQjDFH	2024-07-27T19:03:58Z
+Cats on Mars	Gabriela Robin	「COWBOY BEBOP」オリジナルサウンドトラック2　NO DISC	https://i.scdn.co/image/ab67616d0000b273e92477974db130fc02a74bf0	https://api.spotify.com/v1/tracks/1C5ZmAVnZM9HtXs2wQjDFH	2024-07-27T19:03:58Z
 マル・マル・モリ・モリ!	Happy Heads NANIYORI	ライブキッズのための名曲集	https://i.scdn.co/image/ab67616d0000b273e13e43dfba88495497ae25f4	https://api.spotify.com/v1/tracks/03bgCAKq9qT42Kwk7s6lXb	2024-07-27T18:41:36Z
 idolstep Yumemi ('19 Remastered)	Mikazuki BIGWAVE	Kanojo Wa Lonely Girl	https://i.scdn.co/image/ab67616d0000b2733107e3962f8ad6d9a0808152	https://api.spotify.com/v1/tracks/0k5izt8vD2moBTICc8bYz5	2024-07-27T18:38:38Z
 Bayside Blue	Mikazuki BIGWAVE	海辺のSENTIMENTAL	https://i.scdn.co/image/ab67616d0000b27312855effe53ffdc4549a7204	https://api.spotify.com/v1/tracks/3HHElTTv1vTpjtsqpqUkb8	2024-07-27T18:38:25Z
@@ -264,7 +275,7 @@ Tell me	milet	eyes	https://i.scdn.co/image/ab67616d0000b273c5d339e4346028648c72b
 雪の音	Novelbright	雪の音	https://i.scdn.co/image/ab67616d0000b273bcf2f5adc87047af2dcbcc45	https://api.spotify.com/v1/tracks/2Wahb8YS7s2zPFRVK3l5gT	2024-03-07T15:45:18Z
 愛は薬	wacci	愛は薬	https://i.scdn.co/image/ab67616d0000b2733b07bdf3c1a4495d7bd8ca8e	https://api.spotify.com/v1/tracks/1rf80hAVw6y8rVc1HsOpuv	2024-03-07T15:33:45Z
 何色でもない花	Hikaru Utada	何色でもない花	https://i.scdn.co/image/ab67616d0000b27357b74eb548b17926aa8baa6c	https://api.spotify.com/v1/tracks/50tPNAlIyAbQtixQQ0huP5	2024-03-06T21:42:25Z
-GAL is MIND - REMIX	半熟卵っち	GAL is MIND (feat. Ramengvrl & 大門弥生) [REMIX]	https://i.scdn.co/image/ab67616d0000b2735925a122912b7baa84e4c77d	https://api.spotify.com/v1/tracks/17DQlMOPP6GHsNfGfUGPYD	2024-03-05T14:26:11Z
+GAL is MIND - REMIX	半熟卵っち	GAL is MIND (feat. Ramengvrl & 大門弥生) [REMIX]	https://i.scdn.co/image/ab67616d0000b273a668b564a1cd268248ed30f5	https://api.spotify.com/v1/tracks/17DQlMOPP6GHsNfGfUGPYD	2024-03-05T14:26:11Z
 SHIBUYA!	半熟卵っち	SHIBUYA!	https://i.scdn.co/image/ab67616d0000b273e3afc9dde6c5bf7b54edada0	https://api.spotify.com/v1/tracks/5KXnI0fU5UIjVLMDkx9hQf	2024-03-02T16:21:26Z
 恋のバカンス	The Peanuts	華麗なる“ザ･ピーナッツの世界"50年だよピーナッツ!①	https://i.scdn.co/image/ab67616d0000b2739cdeecf7f494a6a3cf97f7bf	https://api.spotify.com/v1/tracks/5SkmsuNc2qQTJZh92Ihm1j	2024-02-23T10:44:40Z
 パウダースノウ	WHY＠DOLL	NAMARA!!	https://i.scdn.co/image/ab67616d0000b273d69aee1c7fa9f3e7474b6809	https://api.spotify.com/v1/tracks/0seadLm3kAGDaiOGoXyCFU	2024-02-23T07:37:31Z
@@ -409,7 +420,7 @@ Super Ball	TOMOO	TWO MOON	https://i.scdn.co/image/ab67616d0000b2730dc1c7a8950174
 ギミチョコ！！	BABYMETAL	BABYMETAL	https://i.scdn.co/image/ab67616d0000b273a8ac2f73f494d6464343b74b	https://api.spotify.com/v1/tracks/6phW442kV1QOslVbdOQ3aT	2023-11-02T19:27:20Z
 ムスタファ	Charan-Po-Rantan	テアトル・テアトル	https://i.scdn.co/image/ab67616d0000b273a6ada825bc96805c66132bfe	https://api.spotify.com/v1/tracks/5LbV7CVb0FI3INbmUUpdDd	2023-11-02T19:26:23Z
 進め、たまに逃げても	Charan-Po-Rantan	トリトメナシ	https://i.scdn.co/image/ab67616d0000b273dc14979a7c049680c7ae19d7	https://api.spotify.com/v1/tracks/2fURtk7KBC6Vd9iM4s2BhE	2023-11-02T19:25:05Z
-ベースラインやってる?笑	Nanahira	ふぉーす!	https://i.scdn.co/image/ab67616d0000b2739c43de2f442d8f65452edb8d	https://api.spotify.com/v1/tracks/7qvfIrDBDaGd2yJoO4Bu3u	2023-11-02T19:19:35Z
+ベースラインやってる？笑	Nanahira	ふぉーす！	https://i.scdn.co/image/ab67616d0000b2739c43de2f442d8f65452edb8d	https://api.spotify.com/v1/tracks/7qvfIrDBDaGd2yJoO4Bu3u	2023-11-02T19:19:35Z
 空に歌えば	amazarashi	地方都市のメメント・モリ	https://i.scdn.co/image/ab67616d0000b2731381b9cc26329fdad03b556b	https://api.spotify.com/v1/tracks/3XKMO7tvyyUmxRvlJGhYQm	2023-11-02T19:19:02Z
 S'il vous plait	Otoboke Beaver	ITEKOMA HITS	https://i.scdn.co/image/ab67616d0000b2732c96d9855d5d448df661c4c8	https://api.spotify.com/v1/tracks/6NeSiZokIiQwJaqAID41Vy	2023-11-02T19:18:28Z
 聖徳太子	WEDNESDAY CAMPANELLA	聖徳太子	https://i.scdn.co/image/ab67616d0000b273d3e990e17011722aae3b747c	https://api.spotify.com/v1/tracks/3VlUafN0sD9ptDNLWQ38Ih	2023-11-02T19:17:01Z
@@ -498,11 +509,11 @@ SKY5	Megumi Hayashibara	Fifty～Fifty	https://i.scdn.co/image/ab67616d0000b27364
 ユートピア	imase	ユートピア	https://i.scdn.co/image/ab67616d0000b2730bd133197c421d500d38d5eb	https://api.spotify.com/v1/tracks/2ALfxGK9zPIkTvJbCjkSeI	2023-08-25T13:34:11Z
 BASH BASH - feat. JP THE WAVY & Awich	LANA	19	https://i.scdn.co/image/ab67616d0000b27364f6c0324977882427683331	https://api.spotify.com/v1/tracks/3du1NqFvvqJhqzssK5GPAB	2023-08-25T13:33:11Z
 アダルト - feat. アヴちゃん from 女王蜂 & RYUHEI from BE:FIRST	KERENMI	アダルト (feat. アヴちゃん from 女王蜂 & RYUHEI from BE:FIRST)	https://i.scdn.co/image/ab67616d0000b2739fa6f9f78e92e9045d0eaf32	https://api.spotify.com/v1/tracks/0LSSe0Rt4aT3WNPjk3LDMC	2023-08-25T12:55:34Z
-返光(Movie Edition)	yama	返光(Movie Edition)	https://i.scdn.co/image/ab67616d0000b273f28c00c708dcbf85f8a9afc4	https://api.spotify.com/v1/tracks/1lLsIUCAXc8U7QuS3J87Fu	2023-08-23T12:18:59Z
+返光（Movie Edition）	yama	返光（Movie Edition）	https://i.scdn.co/image/ab67616d0000b273f28c00c708dcbf85f8a9afc4	https://api.spotify.com/v1/tracks/1lLsIUCAXc8U7QuS3J87Fu	2023-08-23T12:18:59Z
 花一匁	ZUTOMAYO	花一匁	https://i.scdn.co/image/ab67616d0000b2738549e1a518e6a1537c469f4a	https://api.spotify.com/v1/tracks/6yS6Q8iSiXqvqfjfJ67RRg	2023-08-23T00:22:04Z
 愛とアストロノミア	太田家	愛読書	https://i.scdn.co/image/ab67616d0000b2730bff3d43f6f7ce541133377c	https://api.spotify.com/v1/tracks/3UYaatSQGSPErcw6eNlfur	2023-08-23T00:21:18Z
 大阪LOVER	DREAMS COME TRUE	大阪LOVER	https://i.scdn.co/image/ab67616d0000b27396550f393c95d7e4cf85171c	https://api.spotify.com/v1/tracks/2WpgKrUoWaZHQLTgT6aZBF	2023-08-22T22:19:42Z
-LOVE LOVE LOVE	DREAMS COME TRUE	愛していると言ってくれ オリジナル・サウンドトラック	https://i.scdn.co/image/ab67616d0000b273e3c884fb1864c9dcccd1b1a0	https://api.spotify.com/v1/tracks/0kI1eqATzXs5ztZ0nJtQMa	2023-08-22T22:19:31Z
+LOVE LOVE LOVE	DREAMS COME TRUE	愛していると言ってくれ　オリジナル・サウンドトラック	https://i.scdn.co/image/ab67616d0000b273e3c884fb1864c9dcccd1b1a0	https://api.spotify.com/v1/tracks/0kI1eqATzXs5ztZ0nJtQMa	2023-08-22T22:19:31Z
 決戦は金曜日	DREAMS COME TRUE	決戦は金曜日/太陽が見てる	https://i.scdn.co/image/ab67616d0000b2732e0a3152c32130cf8170c3d4	https://api.spotify.com/v1/tracks/7iunyO2biewHVCt7ofOrtq	2023-08-22T22:17:30Z
 貴方の恋人になりたい	チョーキューメイ	するどいささくれ	https://i.scdn.co/image/ab67616d0000b273e9bfe694c60819d50578e765	https://api.spotify.com/v1/tracks/5O7dUqcxMUVPFL9YAE9e7q	2023-08-22T22:10:43Z
 小さな願い	Saori Minami	潮風のメロディ	https://i.scdn.co/image/ab67616d0000b2730f68a146a8cf32916f24d75a	https://api.spotify.com/v1/tracks/3ygLLq2ApTmzBjemlP5HcK	2023-08-22T21:56:09Z
@@ -549,8 +560,8 @@ CHASER GAME	Maaya Uchida	ラウドヘイラー	https://i.scdn.co/image/ab67616d0
 イージュー★ライダー	新山詩織	ひとりごと	https://i.scdn.co/image/ab67616d0000b273b53cd94ef7d504eff26939fc	https://api.spotify.com/v1/tracks/2rgFIxL48VjN17H1Ph57it	2023-07-06T16:15:04Z
 宝石の日々	AiNA THE END	宝石の日々	https://i.scdn.co/image/ab67616d0000b2737383fcd2d26de92f8f65d293	https://api.spotify.com/v1/tracks/0N4AHb6WKIBr4LWH127Lm0	2023-07-06T09:44:07Z
 0.1s	mol-74	0.1s	https://i.scdn.co/image/ab67616d0000b273deb92b1c154ab065e58df7e2	https://api.spotify.com/v1/tracks/5o7OOyyYhECPsNY26BkUvx	2023-07-06T09:25:20Z
-夜の魔法	新山詩織	何者 ~十年十色~	https://i.scdn.co/image/ab67616d0000b273b7d73673087c847dbf7d0d32	https://api.spotify.com/v1/tracks/6hTLbXYHjVlraso9UNbDZm	2023-07-06T09:19:39Z
-Spotlight	新山詩織	何者 ~十年十色~	https://i.scdn.co/image/ab67616d0000b273b7d73673087c847dbf7d0d32	https://api.spotify.com/v1/tracks/2HS2TpCUuTfJ2gYdpMhEEp	2023-07-06T09:19:24Z
+夜の魔法	新山詩織	何者 ～十年十色～	https://i.scdn.co/image/ab67616d0000b273b7d73673087c847dbf7d0d32	https://api.spotify.com/v1/tracks/6hTLbXYHjVlraso9UNbDZm	2023-07-06T09:19:39Z
+Spotlight	新山詩織	何者 ～十年十色～	https://i.scdn.co/image/ab67616d0000b273b7d73673087c847dbf7d0d32	https://api.spotify.com/v1/tracks/2HS2TpCUuTfJ2gYdpMhEEp	2023-07-06T09:19:24Z
 ファジーネーブル	Conton Candy	ファジーネーブル	https://i.scdn.co/image/ab67616d0000b273a5e25db1a3c47a5e2e93be08	https://api.spotify.com/v1/tracks/7gUuCeZLFynSj28GCjoiGG	2023-07-03T20:42:18Z
 釣った魚にエサやれ	MOSHIMO	TODOME	https://i.scdn.co/image/ab67616d0000b2731bfe756c6f51fc7c7be99a35	https://api.spotify.com/v1/tracks/6uQEYgeYBd5tlHquLIrmvB	2023-07-03T18:59:59Z
 タイムセール逃してくれ	サバシスター	アテンション!!	https://i.scdn.co/image/ab67616d0000b273f851b47611f78259de45b8fb	https://api.spotify.com/v1/tracks/235ySOzROqQNEZf5NVrTh3	2023-06-29T19:33:44Z
@@ -648,7 +659,7 @@ Cutie Cutie	fusq	Lost Station	https://i.scdn.co/image/ab67616d0000b27339f3ace7a4
 New Nostalgic Friend - TV size	鳳 ここな (CV.石見舞菜香)	New Nostalgic Friend (TV size)	https://i.scdn.co/image/ab67616d0000b273d1950d7f779ce25ad41df572	https://api.spotify.com/v1/tracks/1esuDbXrSnmPP9BjgiTZOS	2023-06-04T00:17:11Z
 恋のダイヤル6700	Finger 5	NEW BEST	https://i.scdn.co/image/ab67616d0000b27379060eae79464ec359e7cc84	https://api.spotify.com/v1/tracks/6n3qQi0KpK3XHKqzt9V6aB	2023-06-04T00:13:06Z
 何度でも	DREAMS COME TRUE	THE LOVE ROCKS	https://i.scdn.co/image/ab67616d0000b273a6c2a27e67d006444f09eae0	https://api.spotify.com/v1/tracks/1g4iy2Fgiw0vZJE4qBNlhc	2023-06-04T00:12:01Z
-うれしい!たのしい!大好き!	DREAMS COME TRUE	うれしはずかし朝帰り	https://i.scdn.co/image/ab67616d0000b273ccada37f29851e60ff8d3d15	https://api.spotify.com/v1/tracks/7tqltihMt6Z2DAFAi6eNzH	2023-06-03T23:38:02Z
+うれしい！たのしい！大好き！	DREAMS COME TRUE	うれしはずかし朝帰り	https://i.scdn.co/image/ab67616d0000b273ccada37f29851e60ff8d3d15	https://api.spotify.com/v1/tracks/7tqltihMt6Z2DAFAi6eNzH	2023-06-03T23:38:02Z
 Birthday	Hanako Oku	BIRTHDAY	https://i.scdn.co/image/ab67616d0000b273c2e903c7621464824bf2f0d6	https://api.spotify.com/v1/tracks/3QB6T1iZs0vsMZjvg35w5t	2023-06-03T19:51:40Z
 私色STORY	シオリ (CV: 小清水亜美)	プリンセスコネクト! Re:Dive PRICONNE CHARACTER SONG 33	https://i.scdn.co/image/ab67616d0000b273b90f96c1ce4cf8a95f7ca7ea	https://api.spotify.com/v1/tracks/6rOrlSfqHjVKXwXiwxzmSG	2023-06-02T20:01:52Z
 Tokimeki	Vaundy	Tokimeki	https://i.scdn.co/image/ab67616d0000b2738a91f071cc4b1cb0e65a50e8	https://api.spotify.com/v1/tracks/18gB0d6DaRPvrQBbl7WEuk	2023-06-02T19:43:20Z
@@ -747,10 +758,10 @@ Sincerely	Mariko Takahashi	Verse	https://i.scdn.co/image/ab67616d0000b2737b291eb
 ジャージ	サバシスター	鯖ノ壱	https://i.scdn.co/image/ab67616d0000b2734aa11efe7bb6e99886581aa1	https://api.spotify.com/v1/tracks/5y6ujUDgbrw8fsv2AmZERq	2023-04-03T14:42:43Z
 プール・サイド・スーサイド	I's	DON’t COMMIT SUICIDE	https://i.scdn.co/image/ab67616d0000b273ebc609f408549e1eb781a7b3	https://api.spotify.com/v1/tracks/3sOJ1KdRhD7jYym7AQEWE1	2023-04-01T19:14:15Z
 扉の向こうへ	YeLLOW Generation	扉の向こうへ	https://i.scdn.co/image/ab67616d0000b273783905c575f274e6f312bade	https://api.spotify.com/v1/tracks/1KwEuKMSMyHOLySJbHjBtv	2023-04-01T18:32:54Z
-Love Again ~永遠の世界~	shela	RED	https://i.scdn.co/image/ab67616d0000b273f0f365372ad1d62d48f0ae7d	https://api.spotify.com/v1/tracks/0N6BSWzwcx3frYPYsKvnKX	2023-03-30T22:42:51Z
+Love Again ～永遠の世界～	shela	RED	https://i.scdn.co/image/ab67616d0000b273f0f365372ad1d62d48f0ae7d	https://api.spotify.com/v1/tracks/0N6BSWzwcx3frYPYsKvnKX	2023-03-30T22:42:51Z
 ネオンを消して	chilldspot	the youth night	https://i.scdn.co/image/ab67616d0000b2731b609ea6cddeb69c371bb2d5	https://api.spotify.com/v1/tracks/1KnBBZEqJA2EtHuYKKBB50	2023-03-30T22:17:38Z
 YOU	FUNKY MONKEY BΛBY'S	YOU	https://i.scdn.co/image/ab67616d0000b2737aab8dc1e5f12d2ee915962f	https://api.spotify.com/v1/tracks/45TBA9BuIG8WtKfPI6RUhQ	2023-03-30T22:11:15Z
-ニャロメ!	Hump Back	ニャロメ!	https://i.scdn.co/image/ab67616d0000b2738d35bccfb00fedc3e07c8dc0	https://api.spotify.com/v1/tracks/2BcDomfKRKB7ykMMLTiSlw	2023-03-30T22:05:44Z
+ニャロメ！	Hump Back	ニャロメ！	https://i.scdn.co/image/ab67616d0000b2738d35bccfb00fedc3e07c8dc0	https://api.spotify.com/v1/tracks/2BcDomfKRKB7ykMMLTiSlw	2023-03-30T22:05:44Z
 備忘録 - Self Cover Ver.	TakaseToya	MEMO RANDUM	https://i.scdn.co/image/ab67616d0000b273ad2e5e3a92d45f3b61198c82	https://api.spotify.com/v1/tracks/3AzIcfVZ4axS3IlZrSTxkD	2023-03-30T21:20:24Z
 Answer	Lilas Ikuta	Answer	https://i.scdn.co/image/ab67616d0000b27348c5cfdc37632311b3093be5	https://api.spotify.com/v1/tracks/5hVAQTNarrb3lmWqg9Ens4	2023-03-29T17:59:41Z
 グリンピース	GReeeeN	グリンピース	https://i.scdn.co/image/ab67616d0000b273a20f90fa1c64a0de41da9b96	https://api.spotify.com/v1/tracks/5soa09bsZgHxoG57cN9bwu	2023-03-29T17:48:27Z
@@ -759,7 +770,7 @@ Answer	Lilas Ikuta	Answer	https://i.scdn.co/image/ab67616d0000b27348c5cfdc376323
 ふたりぽっち物語	Hiroko Mita	GOLDEN J-POP/THE BEST　三田寛子	https://i.scdn.co/image/ab67616d0000b2737cd369eb2f1d772e983d32f0	https://api.spotify.com/v1/tracks/1eaf34TFBbtcy0CTZCt724	2023-03-24T20:18:37Z
 家族の風景	Hanare Gumi	音タイム	https://i.scdn.co/image/ab67616d0000b2738568191c9a683bc97b0266b4	https://api.spotify.com/v1/tracks/0WGw7KgRWqX6WrhsQvYdJE	2023-03-24T16:41:40Z
 風も空もきっと…	Alisa Mizuki	風も空もきっと…	https://i.scdn.co/image/ab67616d0000b27317dafd74310ec945ebc59952	https://api.spotify.com/v1/tracks/50tRpoVWeGheugpKFlg7en	2023-03-19T11:03:55Z
-すきっ! - 超ver	Cho Tokimeki Sendenbu	すきすきすきすきすきすきっ!	https://i.scdn.co/image/ab67616d0000b273f7e91b039f9948fc31e42c70	https://api.spotify.com/v1/tracks/0SxNslJ4zylzWBQTX4rBIe	2023-03-18T20:34:06Z
+すきっ！ - 超ver	Cho Tokimeki Sendenbu	すきすきすきすきすきすきっ！	https://i.scdn.co/image/ab67616d0000b273f7e91b039f9948fc31e42c70	https://api.spotify.com/v1/tracks/0SxNslJ4zylzWBQTX4rBIe	2023-03-18T20:34:06Z
 すきっ！	Tokimeki Sendenbu	ときおとめ	https://i.scdn.co/image/ab67616d0000b2730462505142ef8354e8289ee5	https://api.spotify.com/v1/tracks/70IVQO4Pfr0oMszh7KLfjK	2023-03-18T20:32:03Z
 Flashback	Andora	Flashback	https://i.scdn.co/image/ab67616d0000b2736f7be334503038d1a40c873a	https://api.spotify.com/v1/tracks/6d8GquMWVDezJhSvPuRv68	2023-03-18T17:08:13Z
 COUNTDOWN	HYDE	FAITH	https://i.scdn.co/image/ab67616d0000b2738f94fbc7c79953c35a6447f0	https://api.spotify.com/v1/tracks/6Lu8tHud4VFNz6XW7l66QQ	2023-03-10T23:18:23Z
@@ -815,24 +826,24 @@ Main Theme	Binary Haze Interactive	ENDER LILIES: Quietus of the Knights Original
 スパークルダンサー	frederic	スパークルダンサー	https://i.scdn.co/image/ab67616d0000b2734974a191515cce3a2f41f4f9	https://api.spotify.com/v1/tracks/4fMj0cYyIkt4y1rkFYAvdg	2023-02-11T14:41:31Z
 会って話そう	Group Action	充分未来	https://i.scdn.co/image/ab67616d0000b2734cfc69af74c60beb4e79093a	https://api.spotify.com/v1/tracks/7cKPN4yd96AZv053NvxVhn	2023-02-05T21:56:19Z
 名のないペンギン空を飛べ	Mashinomi	ぺっとぼとリテラシー	https://i.scdn.co/image/ab67616d0000b273655a1907b2fe43dd9840e827	https://api.spotify.com/v1/tracks/4Eiv0V6Zu7LfXv35R2e0h6	2023-02-05T21:47:49Z
-踊り子	中村ピアノ	東京ディスコティック!!	https://i.scdn.co/image/ab67616d0000b2730a7aa4f32a269e4f7fb6ea83	https://api.spotify.com/v1/tracks/7lWCrM53jc1AOv8xwO50Ax	2023-02-05T21:18:36Z
+踊り子	中村ピアノ	東京ディスコティック！！	https://i.scdn.co/image/ab67616d0000b2730a7aa4f32a269e4f7fb6ea83	https://api.spotify.com/v1/tracks/7lWCrM53jc1AOv8xwO50Ax	2023-02-05T21:18:36Z
 Are	Sweet Dove	Hi There! I Hope You Are Doing Well	https://i.scdn.co/image/ab67616d0000b2732dde08533bf8ab255165dbf8	https://api.spotify.com/v1/tracks/03PsbrNHPBi6ry4JAOipPa	2023-02-05T16:13:29Z
 nyabo.exe	AAAA	nyabo.exe	https://i.scdn.co/image/ab67616d0000b2738ebe7d493e0153702dc04788	https://api.spotify.com/v1/tracks/1VpVTE2w3nnTZ3F94zwtX3	2023-02-05T15:47:29Z
 BANTAM	Koshi Inaba	BANTAM	https://i.scdn.co/image/ab67616d0000b27390eb4d18f1de1c64949a4585	https://api.spotify.com/v1/tracks/4JeZNqDNEFkSkdaDp9THEl	2023-02-05T14:03:44Z
 Not Unusual	Mao Abe	Not Unusual	https://i.scdn.co/image/ab67616d0000b27308c92c90be91696680cc3ad8	https://api.spotify.com/v1/tracks/3FgUONsyQoWWZWk4BtHVHk	2023-02-05T13:59:37Z
-ナスティ・ハウス	眞名子 新	ナスティ・ハウス	https://i.scdn.co/image/ab67616d0000b2738a8d5d8144f781cf0cfacfbf	https://api.spotify.com/v1/tracks/5GmPGaSokdG5KAfiahOdeF	2023-02-05T13:48:33Z
+ナスティ・ハウス	眞名子新	ナスティ・ハウス	https://i.scdn.co/image/ab67616d0000b2738a8d5d8144f781cf0cfacfbf	https://api.spotify.com/v1/tracks/5GmPGaSokdG5KAfiahOdeF	2023-02-05T13:48:33Z
 さよならサンセット	Shikao Suga	イノセント	https://i.scdn.co/image/ab67616d0000b2735d2a3d16686e8a8549017198	https://api.spotify.com/v1/tracks/6SgQDtIyugPUd2sjasKlsM	2023-02-05T13:29:21Z
 眠りのうた - Single Edit	Misako Odani	宇宙のママ	https://i.scdn.co/image/ab67616d0000b2731007e960dc300cd3fa7780cf	https://api.spotify.com/v1/tracks/7llpo3I1SzOOvEtWI9FT9H	2023-02-04T23:50:08Z
 Anya	Heiakim	Anya	https://i.scdn.co/image/ab67616d0000b2736c1f294d89eacf35891b00c8	https://api.spotify.com/v1/tracks/4pctu5fALRCCV8SUGUWkza	2023-02-04T23:46:05Z
 Aquarium Night	Mikazuki BIGWAVE	秘密のメリーゴーランド	https://i.scdn.co/image/ab67616d0000b273dac51e5a93a4c98041e9356c	https://api.spotify.com/v1/tracks/7GMIh6aeXka4jZaUO5ljh5	2023-02-04T23:37:26Z
 Color Me feat. マヒトゥ・ザ・ピーポー	Kaela Kimura	MAGNETIC	https://i.scdn.co/image/ab67616d0000b2733bbef422df87a26d6991dd63	https://api.spotify.com/v1/tracks/6FTz0YAB7RjHqoi5mfYGL2	2023-02-04T15:04:36Z
 逆転のレジーナ	Little Black Dress	逆転のレジーナ	https://i.scdn.co/image/ab67616d0000b2735d711132ce18648731ee758e	https://api.spotify.com/v1/tracks/4yhKU3ArP1N9TXO1O3kEiu	2023-02-04T14:26:06Z
-回転扉の内側は春?	君島大空	映帶する煙	https://i.scdn.co/image/ab67616d0000b27380452298588732a6fd803f77	https://api.spotify.com/v1/tracks/40BTPvCEUlfwIh9auaK6A3	2023-02-03T23:15:07Z
+回転扉の内側は春？	君島大空	映帶する煙	https://i.scdn.co/image/ab67616d0000b27380452298588732a6fd803f77	https://api.spotify.com/v1/tracks/40BTPvCEUlfwIh9auaK6A3	2023-02-03T23:15:07Z
 ジャンプロープフリークス	ZOOKARADERU	JUMP ROPE FREAKS	https://i.scdn.co/image/ab67616d0000b2730f4608c0403a29cbb83bdaa5	https://api.spotify.com/v1/tracks/5BJLdj3HVSqAnzsIGCPmwS	2023-02-03T23:13:12Z
-富士さん	Tamio Okuda	ドーロムービー”トツゲキ!オートモビレ”	https://i.scdn.co/image/ab67616d0000b273810393ce351449f38d8eb819	https://api.spotify.com/v1/tracks/1vjhbCjknwipYFlxm90yc6	2023-02-03T23:11:31Z
+富士さん	Tamio Okuda	ドーロムービー”トツゲキ！オートモビレ”	https://i.scdn.co/image/ab67616d0000b273810393ce351449f38d8eb819	https://api.spotify.com/v1/tracks/1vjhbCjknwipYFlxm90yc6	2023-02-03T23:11:31Z
 DelighT	TRUE	rebind	https://i.scdn.co/image/ab67616d0000b27337dfe54314bb76c7d9d0c0af	https://api.spotify.com/v1/tracks/1etfPnYRxxH1tkImUoIODe	2023-02-03T23:00:41Z
 こんな日に限って	Kaneko Ayano	タオルケットは穏やかな	https://i.scdn.co/image/ab67616d0000b27300c394ec1736952e4c666b20	https://api.spotify.com/v1/tracks/4661kRGB7zEKxbqj7e15c3	2023-02-03T23:00:03Z
-こんな日が来るなんて	Maaya Sakamoto	WOWOWオリジナルアニメ「火狩りの王」エンディングテーマ / TVアニメ「REVENGER」エンディングテーマ まだ遠くにいる / un_mute	https://i.scdn.co/image/ab67616d0000b2735b09c7c8ec45e8ba15531beb	https://api.spotify.com/v1/tracks/5gQkuTzS56ao7RpXkpPwIb	2023-02-03T22:58:40Z
+こんな日が来るなんて	Maaya Sakamoto	WOWOWオリジナルアニメ「火狩りの王」エンディングテーマ / TVアニメ「REVENGER」エンディングテーマ　まだ遠くにいる / un_mute	https://i.scdn.co/image/ab67616d0000b2735b09c7c8ec45e8ba15531beb	https://api.spotify.com/v1/tracks/5gQkuTzS56ao7RpXkpPwIb	2023-02-03T22:58:40Z
 紡ぐ	Tota	紡ぐ	https://i.scdn.co/image/ab67616d0000b273baf7b84fb83b5990985601ba	https://api.spotify.com/v1/tracks/4nnkvTcw7lpS8w9FKpo7yJ	2023-02-03T22:57:33Z
 Believe in yourself - Remaster	Mao Abe	シングルコレクション 19-24 通常盤	https://i.scdn.co/image/ab67616d0000b273ddf8513ed593011e6ce8a740	https://api.spotify.com/v1/tracks/5qerIHJKf0SXQs2Ij4Xve1	2023-02-03T22:57:16Z
 貴方の恋人になりたいのです	Mao Abe	ポっぷ(通常盤)	https://i.scdn.co/image/ab67616d0000b273ba0d7ba7c1db3302d2068381	https://api.spotify.com/v1/tracks/6sCClcK3Q3RWzBLNSKuD1F	2023-02-03T22:56:40Z
@@ -893,7 +904,7 @@ Cola Splash	Cola Splash	Cola Splash	https://i.scdn.co/image/ab67616d0000b273efaa
 ひみつの扉 (2019 Remaster)	Mari Iijima	Rose (2019 Remaster)	https://i.scdn.co/image/ab67616d0000b273bf400824559bdd4f0b8b85b7	https://api.spotify.com/v1/tracks/3Nt9JiHBXN0LVHyH5Iyc3O	2023-01-09T19:48:46Z
 Love Sick (2019 Remaster)	Mari Iijima	Rose (2019 Remaster)	https://i.scdn.co/image/ab67616d0000b273bf400824559bdd4f0b8b85b7	https://api.spotify.com/v1/tracks/0kbF1ymOw5ZAjTJlJ8xT0E	2023-01-07T13:29:53Z
 ひとつだけ	Akiko Yano	ごはんができたよ	https://i.scdn.co/image/ab67616d0000b27355b3ed314aa06ae9d654f5ce	https://api.spotify.com/v1/tracks/3KyXkORcoKrjWi0ig3jSef	2023-01-05T15:05:51Z
-ここにある地球(ほし)	矢野顕子・野口聡一	ここにある地球(ほし)	https://i.scdn.co/image/ab67616d0000b273ed4e124fbce4e1cfa0398561	https://api.spotify.com/v1/tracks/3QZMFiHaweFFr8xqwIVo4v	2023-01-05T14:48:21Z
+ここにある地球（ほし）	矢野顕子・野口聡一	ここにある地球（ほし）	https://i.scdn.co/image/ab67616d0000b273ed4e124fbce4e1cfa0398561	https://api.spotify.com/v1/tracks/3QZMFiHaweFFr8xqwIVo4v	2023-01-05T14:48:21Z
 PARK Ave. 1981	EPO	GOODIES	https://i.scdn.co/image/ab67616d0000b273ae9e5fe06532c051d516a0f6	https://api.spotify.com/v1/tracks/0RRYgIGIL9pJv0Zg8Es4kG	2023-01-02T15:45:26Z
 My Best Friend (2019 Remaster)	Mari Iijima	Rose (2019 Remaster)	https://i.scdn.co/image/ab67616d0000b273bf400824559bdd4f0b8b85b7	https://api.spotify.com/v1/tracks/0QMcUtsavuiUJV7I2gIr8H	2023-01-02T15:22:51Z
 スウィート・ソウル・レヴュー (duet with Rainych, feat. evening cinema)	Maki Nomiya	New Beautiful	https://i.scdn.co/image/ab67616d0000b2739c92e8ae7579db59293fe676	https://api.spotify.com/v1/tracks/30TN3e5rDfeooU9x5BhtbG	2023-01-02T15:18:48Z
@@ -974,7 +985,7 @@ Good☆Vibration	Nyarons	Good☆Vibration	https://i.scdn.co/image/ab67616d0000b2
 サムデイルーザー	reGretGirl	サムデイルーザー	https://i.scdn.co/image/ab67616d0000b273f7c9bb2f631bde676b96f278	https://api.spotify.com/v1/tracks/2K4TGcqNCfhIBgA6rfuqUK	2022-12-09T17:58:14Z
 いつかこの涙が - Live Tour 2022 Journey Live on 2022.07.24 -	Little Glee Monster	Live Tour 2022 Journey	https://i.scdn.co/image/ab67616d0000b273953536237c17df8714013181	https://api.spotify.com/v1/tracks/0o9Hs9UVGCUSYf4aIQ8l1y	2022-12-09T17:52:56Z
 Like no one's done	Sincere	Like no one's done	https://i.scdn.co/image/ab67616d0000b273e559dfb0dd4319341a9d655c	https://api.spotify.com/v1/tracks/1G8jWpWgCtTEuy4Zz3Ihfe	2022-12-08T19:37:58Z
-LOVE〜winter song〜(album version)	Miho Fukuhara	RAINBOW	https://i.scdn.co/image/ab67616d0000b2739d13bd1a5fdf7fe0c5c2841e	https://api.spotify.com/v1/tracks/4A4sQHvMpSdcuUewSOOB0t	2022-12-05T21:31:05Z
+LOVE〜winter song〜（album version）	Miho Fukuhara	RAINBOW	https://i.scdn.co/image/ab67616d0000b2739d13bd1a5fdf7fe0c5c2841e	https://api.spotify.com/v1/tracks/4A4sQHvMpSdcuUewSOOB0t	2022-12-05T21:31:05Z
 TOKYO通信〜Urbs Communication〜	SOUL'd OUT	Single Collection	https://i.scdn.co/image/ab67616d0000b2735e065d435e57434819c36468	https://api.spotify.com/v1/tracks/3BGAIb1nZvZ4vvBRPsZ1rJ	2022-12-05T17:55:46Z
 忘れ咲き	GARNET CROW	I'm waiting 4 you	https://i.scdn.co/image/ab67616d0000b27346322857912a9609c09490a0	https://api.spotify.com/v1/tracks/71TpBctYuFr8mV9YcOPrnl	2022-12-04T23:31:14Z
 涙のイエスタデー	GARNET CROW	THE BEST History of GARNET CROW at the crest...	https://i.scdn.co/image/ab67616d0000b2739277c0f915e61584c356232e	https://api.spotify.com/v1/tracks/7ehUmLhuvuObMjp4w5rZoM	2022-12-04T23:31:02Z
@@ -1009,7 +1020,7 @@ Try	LAGHEADS	Try	https://i.scdn.co/image/ab67616d0000b273cf03d1c25bda96ad02ecf63
 魔法をかけて	Ibe CALLER	弾けた恋、解けた魔法	https://i.scdn.co/image/ab67616d0000b2733f60f39ea2f75d377bf60958	https://api.spotify.com/v1/tracks/3bKTpvhHxOAthb8IME6phv	2022-12-01T17:12:17Z
 天国にいちばん近い島	Asako Toki	天国にいちばん近い島	https://i.scdn.co/image/ab67616d0000b273be8a35096a39ba8781da4c54	https://api.spotify.com/v1/tracks/67wpz675S04tMcORr36Psb	2022-12-01T16:47:20Z
 Mirrors	Asako Toki	Twilight	https://i.scdn.co/image/ab67616d0000b2733d3e314968f5393e22aa3e29	https://api.spotify.com/v1/tracks/18LOgLjl2ljm2eOKKhYiWi	2022-12-01T15:58:21Z
-夏夜のマジック	Asako Toki	HOME TOWN ~Cover Songs~	https://i.scdn.co/image/ab67616d0000b2730b61e1586aae9a108717afb8	https://api.spotify.com/v1/tracks/4H15DPcx96pHtUdICF8Chc	2022-12-01T15:26:03Z
+夏夜のマジック	Asako Toki	HOME TOWN ～Cover Songs～	https://i.scdn.co/image/ab67616d0000b2730b61e1586aae9a108717afb8	https://api.spotify.com/v1/tracks/4H15DPcx96pHtUdICF8Chc	2022-12-01T15:26:03Z
 どーだって。	Nakimushi	どーだって。	https://i.scdn.co/image/ab67616d0000b273c5adc621249834f3021942b8	https://api.spotify.com/v1/tracks/3p2iw36q2W6FtdWrbOjheu	2022-12-01T15:18:45Z
 Sunny Christmas	Naoto Inti Raymi	虹色∞オクターブ	https://i.scdn.co/image/ab67616d0000b273b094a82c81c469241b62afad	https://api.spotify.com/v1/tracks/2fF508RYaZtOcMUgFASJei	2022-11-30T18:10:08Z
 Addicted	松浦亜弥	Addicted	https://i.scdn.co/image/ab67616d0000b27304e0876941e6e675f615f712	https://api.spotify.com/v1/tracks/32GhaFumsrVQ74xjyljNSB	2022-11-30T16:26:55Z
@@ -1116,7 +1127,7 @@ midorimaru	なみだ藍	midorimaru	https://i.scdn.co/image/ab67616d0000b2732d5da
 僕が一番欲しかったもの	Noriyuki Makihara	EXPLORER	https://i.scdn.co/image/ab67616d0000b27347f8840f6510f923a6706ccd	https://api.spotify.com/v1/tracks/0lgZz4x4QuTo3nEl5uoVJl	2022-11-12T22:56:11Z
 ないものねだり	Chunky Cookie Club	Popcorn	https://i.scdn.co/image/ab67616d0000b27300b247026de3b2a544a125e2	https://api.spotify.com/v1/tracks/5JJOQwB0DEN3U7z1uQKxjp	2022-11-11T20:04:43Z
 ないものねだり	kumoi	ないものねだり	https://i.scdn.co/image/ab67616d0000b273437aac806d9b64b8689706c9	https://api.spotify.com/v1/tracks/5vjnTfKqM0NYdozaByhGIo	2022-11-11T20:04:42Z
-ラリパッパ☆しゅぎ	莉犬	シャッターチャンス!	https://i.scdn.co/image/ab67616d0000b273525ef8060c39f025cfd2e97a	https://api.spotify.com/v1/tracks/2aUQsJ7RRnl1q3h8uFBRQY	2022-11-09T20:32:18Z
+ラリパッパ☆しゅぎ	莉犬	シャッターチャンス！	https://i.scdn.co/image/ab67616d0000b273525ef8060c39f025cfd2e97a	https://api.spotify.com/v1/tracks/2aUQsJ7RRnl1q3h8uFBRQY	2022-11-09T20:32:18Z
 Popipo	Hatsune Miku	Popipo	https://i.scdn.co/image/ab67616d0000b2739d3a80d132ba4bb428c74473	https://api.spotify.com/v1/tracks/04nJixim5a0MAz3PGiVID1	2022-11-09T20:31:33Z
 YY	ロイ-RöE-	YY	https://i.scdn.co/image/ab67616d0000b273192ca62200efa1373ac0885f	https://api.spotify.com/v1/tracks/25GkD4iNf00xQqvAv8hXAg	2022-11-09T19:35:19Z
 そぼふる	ロイ-RöE-	ワルサ	https://i.scdn.co/image/ab67616d0000b273a830aeb94132dd97b97b9aec	https://api.spotify.com/v1/tracks/1aVETDhW4PucwcVb2ARWZ0	2022-11-09T19:32:20Z
@@ -1177,8 +1188,8 @@ FLASH	Perfume	FLASH	https://i.scdn.co/image/ab67616d0000b2739b1405822027ac27171a
 明日晴れるかな	Keisuke Kuwata	明日晴れるかな	https://i.scdn.co/image/ab67616d0000b273971a432c0825d9836925c1f2	https://api.spotify.com/v1/tracks/3hluDFiaL1ntJ58xVTBjxT	2022-11-05T22:26:15Z
 おとせサンダー	ぼっちぼろまる	おとせサンダー	https://i.scdn.co/image/ab67616d0000b273d9a26b7c59a71f9d48e197fc	https://api.spotify.com/v1/tracks/0TBZ2NGb9es28EVrtJGhic	2022-11-05T22:25:19Z
 タンタカタンタンタンタンメン	ぼっちぼろまる	ぼっちのうたC	https://i.scdn.co/image/ab67616d0000b273943f14db564c4949fef77fc2	https://api.spotify.com/v1/tracks/2XZQNLDjWOv1MhPKHaECZT	2022-11-05T22:25:10Z
-マリン出航!!	宝鐘マリン	マリン出航!!	https://i.scdn.co/image/ab67616d0000b273a3781d2cf6de9001f1fa487d	https://api.spotify.com/v1/tracks/1OwyUhOqiMtu4S6MKnHi3h	2022-11-05T22:24:00Z
-I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。	宝鐘マリン	I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。	https://i.scdn.co/image/ab67616d0000b27349a2bd20296e8632e2c1af6d	https://api.spotify.com/v1/tracks/74u8iRIPvoru5klTgQLLwB	2022-11-05T22:23:32Z
+マリン出航！！	宝鐘マリン	マリン出航！！	https://i.scdn.co/image/ab67616d0000b273a3781d2cf6de9001f1fa487d	https://api.spotify.com/v1/tracks/1OwyUhOqiMtu4S6MKnHi3h	2022-11-05T22:24:00Z
+I’m Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。	宝鐘マリン	I’m Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。	https://i.scdn.co/image/ab67616d0000b27349a2bd20296e8632e2c1af6d	https://api.spotify.com/v1/tracks/74u8iRIPvoru5klTgQLLwB	2022-11-05T22:23:32Z
 ALRIGHT	竹内アンナ	MATOUSIC	https://i.scdn.co/image/ab67616d0000b273aa707260372822d185ec7c48	https://api.spotify.com/v1/tracks/1UMaWp4RmhSG9Ctc4nES10	2022-11-05T22:18:24Z
 Tokyo	Leat'eq	Tokyo	https://i.scdn.co/image/ab67616d0000b2734a1abb47033d2cc2c63bb784	https://api.spotify.com/v1/tracks/2Anpk7AihEt38POoMEDqRb	2022-11-05T22:10:57Z
 BLUE feat. kojikoji	LUCKY TAPES	Blend	https://i.scdn.co/image/ab67616d0000b2739499e7adddc51b224a6ec2ea	https://api.spotify.com/v1/tracks/6H6Yp80PZyngRCN7FM885s	2022-11-05T22:10:14Z
@@ -1187,7 +1198,7 @@ miss you	m-flo	m-flo inside -WORKS BEST II-	https://i.scdn.co/image/ab67616d0000
 ちっぽけな勇気	FUNKY MONKEY BABYS	ちっぽけな勇気	https://i.scdn.co/image/ab67616d0000b273a24073cc499ebd2231819fde	https://api.spotify.com/v1/tracks/3jv76FVstsnYe1IgNpLmhb	2022-11-05T22:00:24Z
 Super Shooter	RIP SLYME	GOOD TIMES	https://i.scdn.co/image/ab67616d0000b273f255f929dfd01a7383a51d91	https://api.spotify.com/v1/tracks/6B1Ume5T9fCaZKGfGp2UWA	2022-11-05T21:59:19Z
 熱帯夜	RIP SLYME	FUNFAIR	https://i.scdn.co/image/ab67616d0000b2733cb938e41ca29da2a6fdf566	https://api.spotify.com/v1/tracks/6hQdLMHZXPGJV8oJdr2zsL	2022-11-05T21:59:15Z
-Swallowtail Butterfly~あいのうた~ - Remastered 2015	YEN TOWN BAND	MONTAGE (Remastered 2015)	https://i.scdn.co/image/ab67616d0000b273ab6cedde46adb4c990f9d832	https://api.spotify.com/v1/tracks/7Mt2nP2EmZxlyGTZWaxnDg	2022-11-05T21:58:09Z
+Swallowtail Butterfly～あいのうた～ - Remastered 2015	YEN TOWN BAND	MONTAGE (Remastered 2015)	https://i.scdn.co/image/ab67616d0000b273ab6cedde46adb4c990f9d832	https://api.spotify.com/v1/tracks/7Mt2nP2EmZxlyGTZWaxnDg	2022-11-05T21:58:09Z
 まちがいさがし	SUDA MASAKI	LOVE	https://i.scdn.co/image/ab67616d0000b27364f8b19a1d66280b62aeaf0c	https://api.spotify.com/v1/tracks/55Ww4Pa1iIQMhh0MLMetjo	2022-11-05T21:56:34Z
 虹	SUDA MASAKI	COLLAGE	https://i.scdn.co/image/ab67616d0000b273171231dbbb138cad4af3024c	https://api.spotify.com/v1/tracks/7eqjbcOZTgZbV0lX2ghtfV	2022-11-05T21:56:26Z
 come again	m-flo	EXPO EXPO	https://i.scdn.co/image/ab67616d0000b27340b9da3f4fc33ebdcae34c84	https://api.spotify.com/v1/tracks/477CB93mH986mrIheQD0RR	2022-11-05T21:54:57Z
@@ -1221,7 +1232,7 @@ CAN YOU CELEBRATE?	Namie Amuro	Concentration 20	https://i.scdn.co/image/ab67616d
 BOY	King Gnu	BOY	https://i.scdn.co/image/ab67616d0000b273391b756881355e95b8252efd	https://api.spotify.com/v1/tracks/3oQaOjaIYPsnJbGNzXcIID	2022-11-04T20:15:52Z
 やば。	Fujii Kaze	LOVE ALL SERVE ALL	https://i.scdn.co/image/ab67616d0000b273af62b027ee85ae2e2f7c9702	https://api.spotify.com/v1/tracks/1FDCEz8kY256zhDO2GjWuW	2022-11-04T20:08:43Z
 ばかまじめ	Creepy Nuts	ばかまじめ	https://i.scdn.co/image/ab67616d0000b2735e614a4e43d86302491d00c3	https://api.spotify.com/v1/tracks/55emtNBnUXszixuQj4Fg6I	2022-11-04T20:02:55Z
-ショック!	sakanaction	ショック!	https://i.scdn.co/image/ab67616d0000b273706fac70f071bd6207aa1c60	https://api.spotify.com/v1/tracks/1eW2WQmmYbYe1MqxEh5tsV	2022-11-04T19:47:26Z
+ショック！	sakanaction	ショック！	https://i.scdn.co/image/ab67616d0000b273706fac70f071bd6207aa1c60	https://api.spotify.com/v1/tracks/1eW2WQmmYbYe1MqxEh5tsV	2022-11-04T19:47:26Z
 Overdose	natori	Overdose	https://i.scdn.co/image/ab67616d0000b273d29582617459e5bb81bd90a6	https://api.spotify.com/v1/tracks/2Dzzhb1oV5ckgOjWZLraIB	2022-11-04T19:11:38Z
 月の椀	sakanaction	アダプト	https://i.scdn.co/image/ab67616d0000b2736eb21d2d6ed165ab28a6a141	https://api.spotify.com/v1/tracks/5GVb3tUNjK3xirJfVi8p6v	2022-11-04T18:52:48Z
 本当はね、	yangskinny	本当はね、	https://i.scdn.co/image/ab67616d0000b27366f270985ac7ef0bbac815a5	https://api.spotify.com/v1/tracks/5MqZFxSAGTKqnUbBVLlkM5	2022-11-04T18:42:43Z
@@ -1395,7 +1406,7 @@ Soranji	Mrs. GREEN APPLE	Soranji	https://i.scdn.co/image/ab67616d0000b273096bd9c
 堕天	Creepy Nuts	アンサンブル・プレイ	https://i.scdn.co/image/ab67616d0000b27318285df0b7581a0fcc806afc	https://api.spotify.com/v1/tracks/5HPsZwo40KA3GThqBFZFac	2022-10-17T22:46:25Z
 Vacation	Mellow Youth	Vacation	https://i.scdn.co/image/ab67616d0000b27392b29d0802a9a3812b6e53dd	https://api.spotify.com/v1/tracks/64OH5xzD542ZB3MnatFtxY	2022-10-17T22:38:14Z
 アイウエ	MAISONdes	アイウエ	https://i.scdn.co/image/ab67616d0000b273978ca7c9b6ed74d2f515e409	https://api.spotify.com/v1/tracks/7rqYTYi70xZBqEMAtSVhXc	2022-10-16T19:58:00Z
-Tvアニメ『からかい上手の高木さん3』ノンクレジットed「花」/高木さん(cv 高橋李依)	高橋李依	Tvアニメ『からかい上手の高木さん3』ノンクレジットed「花」/高木さん(cv 高橋李依)	https://i.scdn.co/image/ab67616d0000b2735d46e52bf94e9d5cd5757f24	https://api.spotify.com/v1/tracks/64WZ6Fk4aZXywHMjLoT4a9	2022-10-16T19:57:21Z
+Tvアニメ『からかい上手の高木さん３』ノンクレジットed「花」／高木さん(cv 高橋李依)	高橋李依	Tvアニメ『からかい上手の高木さん３』ノンクレジットed「花」／高木さん(cv 高橋李依)	https://i.scdn.co/image/ab67616d0000b2735d46e52bf94e9d5cd5757f24	https://api.spotify.com/v1/tracks/64WZ6Fk4aZXywHMjLoT4a9	2022-10-16T19:57:21Z
 天使の絵の具	Mari Iijima	palette（パレット）	https://i.scdn.co/image/ab67616d0000b27357ea0e676b9f37985cb277f2	https://api.spotify.com/v1/tracks/3D8gdGUjOHEm7Xg1drhVNh	2022-10-07T21:47:50Z
 シルバームーン・レッドムーン	Mari Iijima	「超時空要塞マクロス」 マクロス	https://i.scdn.co/image/ab67616d0000b273353ce8dcc0c366c415338fd2	https://api.spotify.com/v1/tracks/6voRMzN1649YnZundKqlZX	2022-10-07T21:47:35Z
 私の彼はパイロット　PARTI	Mari Iijima	「超時空要塞マクロス」　マクロス Vol.II	https://i.scdn.co/image/ab67616d0000b273593e7ad05ff049cbf5503912	https://api.spotify.com/v1/tracks/0ZMfsqFoLJs7jPn1NsMpLC	2022-10-07T21:47:18Z
@@ -1443,7 +1454,7 @@ Doors	Yuka Kawamura	home again	https://i.scdn.co/image/ab67616d0000b2738fa628a9c
 Ok Computer	Lemaitre	Ok Computer	https://i.scdn.co/image/ab67616d0000b273fdaa29fdd3e709158ec244ff	https://api.spotify.com/v1/tracks/0QgGXsIAWZYjfgw2g1Vjrs	2022-08-25T13:37:28Z
 See Tình - Speed Up Version	Hoàng Thùy Linh	See Tình (Speed Up Version)	https://i.scdn.co/image/ab67616d0000b273f5cacb11a1dd052308fc3d22	https://api.spotify.com/v1/tracks/5sCATdnR2mWbHgdmIXBFHa	2022-08-23T22:07:46Z
 夜空のメロディー feat. C (DJ TORA + ZK Club Remix)	Sweet Licious	Girlicious	https://i.scdn.co/image/ab67616d0000b273b7da1d1dc8cef25e16a3da4a	https://api.spotify.com/v1/tracks/6D13b6MpeySz0uhzFuUX6L	2022-08-10T21:18:33Z
-Love Again ~永遠の世界~ feat. shela	Sweet Licious	Girlicious	https://i.scdn.co/image/ab67616d0000b273b7da1d1dc8cef25e16a3da4a	https://api.spotify.com/v1/tracks/1afyuTL5thxfia3ern8EUP	2022-08-05T19:03:09Z
+Love Again ～永遠の世界～ feat. shela	Sweet Licious	Girlicious	https://i.scdn.co/image/ab67616d0000b273b7da1d1dc8cef25e16a3da4a	https://api.spotify.com/v1/tracks/1afyuTL5thxfia3ern8EUP	2022-08-05T19:03:09Z
 世界でいちばん熱い夏 (平成レコーディング)　2012mix	PRINCESS PRINCESS	THE REBIRTH BEST〜再会〜	https://i.scdn.co/image/ab67616d0000b2736280e0e867a481555c88d66f	https://api.spotify.com/v1/tracks/6c2naIwYp0iRE9Ava2Xqzh	2022-08-05T15:19:35Z
 OH YEAH !	PRINCESS PRINCESS	The Greatest Princess	https://i.scdn.co/image/ab67616d0000b273efb56fa9c0b1c3aa2b78de9b	https://api.spotify.com/v1/tracks/4GAAXyEODRSDdtLHwe6A5s	2022-08-05T13:00:31Z
 DIAMONDS (ダイアモンド)	PRINCESS PRINCESS	The Greatest Princess	https://i.scdn.co/image/ab67616d0000b273efb56fa9c0b1c3aa2b78de9b	https://api.spotify.com/v1/tracks/1oqoXgWdAtce5vp0mGlJ7C	2022-08-04T21:46:39Z
@@ -1525,7 +1536,7 @@ NAMAIKI	COLTEMONIKHA	COLTEMONIKHA 2	https://i.scdn.co/image/ab67616d0000b2738c5b
 WOW WAR TONIGHT〜時には起こせよムーヴメント〜 - TWO MILLION MIX	H Jungle With t	WOW WAR TONIGHT	https://i.scdn.co/image/ab67616d0000b27324548123ea494996322ae1d6	https://api.spotify.com/v1/tracks/19oxKZQilcf3pGhduW6TPg	2022-06-23T21:24:26Z
 夏祭り	Whiteberry	(初)	https://i.scdn.co/image/ab67616d0000b273bb3285242096e2b95b54d326	https://api.spotify.com/v1/tracks/6rDJe5gVgAunlkaSY1vnAF	2022-06-23T21:09:15Z
 HONEY	L'Arc-en-Ciel	HONEY	https://i.scdn.co/image/ab67616d0000b2736531ad5b8d0db2df050e0c94	https://api.spotify.com/v1/tracks/1NBUVE4t2cMjTOpEKtRnaW	2022-06-23T20:37:04Z
-Over Drive	JUDY AND MARY	MIRACLE DIVING	https://i.scdn.co/image/ab67616d0000b273f1724bc333b788a405731254	https://api.spotify.com/v1/tracks/34GSVqN6ZisP7dBIB20xPm	2022-06-23T20:31:20Z
+Over Drive	JUDY AND MARY	ＭＩＲＡＣＬＥ　ＤＩＶＩＮＧ	https://i.scdn.co/image/ab67616d0000b273f1724bc333b788a405731254	https://api.spotify.com/v1/tracks/34GSVqN6ZisP7dBIB20xPm	2022-06-23T20:31:20Z
 そばかす	JUDY AND MARY	The Great Escape -COMPLETE BEST-	https://i.scdn.co/image/ab67616d0000b2730d755f059be01f146eaf2724	https://api.spotify.com/v1/tracks/5cdFxxGV3b3gcGuXTpPWXt	2022-06-23T20:31:18Z
 HEART	MEG	STEP	https://i.scdn.co/image/ab67616d0000b2734e2d519219dc4e6bd202f52b	https://api.spotify.com/v1/tracks/46eXpr2rlKwnblppYXkzdV	2022-06-23T20:20:56Z
 ハレンチ	CHANMINA	ハレンチ	https://i.scdn.co/image/ab67616d0000b273f306fb3f9fd03555becbb1fe	https://api.spotify.com/v1/tracks/2BfzhBl79bcPOHHXAXJkTY	2022-06-23T20:15:13Z
@@ -1557,7 +1568,7 @@ WITCH HAZEL	Noriyuki Makihara	SELF PORTRAIT	https://i.scdn.co/image/ab67616d0000
 Summer Breeze	PIPER	Summer Breeze	https://i.scdn.co/image/ab67616d0000b27397a120b47dd41ca08bae19c2	https://api.spotify.com/v1/tracks/27ctYkjFe2X9r6qG8j6dcs	2022-06-18T19:21:17Z
 君はいなせなガール	ネクライトーキー	君はいなせなガール	https://i.scdn.co/image/ab67616d0000b2736401e4a782a0186bc242223c	https://api.spotify.com/v1/tracks/3QFzoUHBlSLAA7RMR4umgU	2022-06-16T13:58:27Z
 人間	703goushitsu	人間	https://i.scdn.co/image/ab67616d0000b273826a01a0ca3c3d7ca0d71677	https://api.spotify.com/v1/tracks/6FFOg8oCS4QnEf4eai0KcA	2022-06-16T13:51:49Z
-くたくた(feat. さかな)	eijun	くたくた(feat. さかな)	https://i.scdn.co/image/ab67616d0000b273e38130c82a897c9c5408045b	https://api.spotify.com/v1/tracks/73WnelHeQ9SW904hyPi77n	2022-06-14T17:27:24Z
+くたくた（feat. さかな）	eijun	くたくた（feat. さかな）	https://i.scdn.co/image/ab67616d0000b273e38130c82a897c9c5408045b	https://api.spotify.com/v1/tracks/73WnelHeQ9SW904hyPi77n	2022-06-14T17:27:24Z
 Highway Summer	Nyarons	Highway Summer	https://i.scdn.co/image/ab67616d0000b27324a5684006188ef46d2b9938	https://api.spotify.com/v1/tracks/3Y67thlnvXOmONSDOWfx3q	2022-06-13T17:07:29Z
 新時代 - ウタ from ONE PIECE FILM RED	Ado	新時代 (ウタ from ONE PIECE FILM RED)	https://i.scdn.co/image/ab67616d0000b273f24f7db074ee5a9042ecb9a2	https://api.spotify.com/v1/tracks/2l2yRJWgMiJkfPbRNiuC25	2022-06-13T17:05:03Z
 M-1	Fumitaka Anzai	うる星やつら MUSIC CAPSULE 2	https://i.scdn.co/image/ab67616d0000b2733cec4970eeeb71eb5f141890	https://api.spotify.com/v1/tracks/0N69UraXD11bflW3JPdS9G	2022-06-10T13:52:05Z
@@ -1571,7 +1582,7 @@ Tennessee Waltz	Naomi Akimoto	One Night Stand	https://i.scdn.co/image/ab67616d00
 招き猫	WEDNESDAY CAMPANELLA	ネオン	https://i.scdn.co/image/ab67616d0000b2732ee9ed50bdd9cdf4ad8fd783	https://api.spotify.com/v1/tracks/4t8CI4MgcqPjKinxzXBd4Z	2022-06-01T19:26:08Z
 桃太郎	WEDNESDAY CAMPANELLA	私を鬼ヶ島に連れてって	https://i.scdn.co/image/ab67616d0000b27382ebb36557f106b80855af48	https://api.spotify.com/v1/tracks/7soPlGL03LhezhoSmqMDUG	2022-06-01T19:25:58Z
 エジソン	WEDNESDAY CAMPANELLA	ネオン	https://i.scdn.co/image/ab67616d0000b2732ee9ed50bdd9cdf4ad8fd783	https://api.spotify.com/v1/tracks/2wRKOmpe6I7q6k69bkjuFU	2022-06-01T19:25:53Z
-会いたい(想你)	Rimi Natsukawa	会いたい(想你)	https://i.scdn.co/image/ab67616d0000b273401487787b6a4ae294c6a33a	https://api.spotify.com/v1/tracks/7wwBheREsRpiJIC0P2jhmH	2022-05-30T19:53:24Z
+会いたい（想你）	Rimi Natsukawa	会いたい（想你）	https://i.scdn.co/image/ab67616d0000b273401487787b6a4ae294c6a33a	https://api.spotify.com/v1/tracks/7wwBheREsRpiJIC0P2jhmH	2022-05-30T19:53:24Z
 センチメンタル・キス - Acoustic ver.	汐れいら	センチメンタル・キス (Acoustic ver.)	https://i.scdn.co/image/ab67616d0000b27322c777216397e120a7cdb159	https://api.spotify.com/v1/tracks/534CTO8v2KnPNSMJ0jI3W3	2022-05-30T17:02:52Z
 ラブメッセージ	Yasuyuki Okamura	幸福	https://i.scdn.co/image/ab67616d0000b273231bb67b70b8e6ba4d95fc3c	https://api.spotify.com/v1/tracks/6VjDAsTR914Cz6MDi48b28	2022-05-29T21:25:27Z
 花は咲く	Yoko Kanno	THE BEST ～DEEP BLUE SPIRITS～	https://i.scdn.co/image/ab67616d0000b27355ac7615f74a9f1ed7aebe77	https://api.spotify.com/v1/tracks/1yVxRbZKzvZXnrGKDJaQCu	2022-05-29T14:09:10Z
@@ -1621,11 +1632,11 @@ YAMERO!	Heiakim	YAMERO!	https://i.scdn.co/image/ab67616d0000b273d993265716ed87cc
 Cast List	3000m	Super Mario World (Original Game Soundtrack)	https://i.scdn.co/image/ab67616d0000b273169ac28367359afa08dbd7cc	https://api.spotify.com/v1/tracks/759BLSj7kJRQkGknTl9N0Y	2022-05-07T20:15:32Z
 ワタシ	Haku.	ワタシ	https://i.scdn.co/image/ab67616d0000b273c9a72960173d560d3fc08ec2	https://api.spotify.com/v1/tracks/6ruZeCdbMnn7n5tyeaPiaW	2022-05-06T11:52:55Z
 エイリアンセックスフレンド	FINAL SPANK HAPPY	mint exorcist	https://i.scdn.co/image/ab67616d0000b27326262dc1f4f0be2b1086fa81	https://api.spotify.com/v1/tracks/4cCGSF0tf7WgmxEo34CbVW	2022-05-06T11:43:26Z
-独りうた ~September調子はどうだい~	うじたまい	独りうた ~September調子はどうだい~	https://i.scdn.co/image/ab67616d0000b273a255342d443c43cd270ceefd	https://api.spotify.com/v1/tracks/3kCJXH7uFaaggkCOL5dlQl	2022-05-05T07:37:59Z
+独りうた ～September調子はどうだい～	うじたまい	独りうた ～September調子はどうだい～	https://i.scdn.co/image/ab67616d0000b273a255342d443c43cd270ceefd	https://api.spotify.com/v1/tracks/3kCJXH7uFaaggkCOL5dlQl	2022-05-05T07:37:59Z
 MYSTERION	Momoiro Clover Z	MYSTERION	https://i.scdn.co/image/ab67616d0000b273e32ed8a9b2ed1e5d1138eeac	https://api.spotify.com/v1/tracks/47e3IIqqC5FbSp23Ij685X	2022-04-29T09:48:14Z
 lovesick (feat. ぷにぷに電機)	kamome sano	SPD GAR 002	https://i.scdn.co/image/ab67616d0000b273d532a45edb59a1fa0c7cb6a0	https://api.spotify.com/v1/tracks/79wzjRTeNWKq0VHLZcBHEf	2022-04-28T19:19:22Z
 タイムサーフ	TEMPLIME	タイムサーフ	https://i.scdn.co/image/ab67616d0000b273fc1adb4585cd14ebd9b43a35	https://api.spotify.com/v1/tracks/6hjiaDCTXgxJnWbmuoVUrb	2022-04-28T15:17:12Z
-魅惑の巴里サーカス急行!	Shiho Nanba	Fille! Fille! Fille!	https://i.scdn.co/image/ab67616d0000b2732b3195fe7e34eb7199a19a52	https://api.spotify.com/v1/tracks/11V8S98JLyStaDhnn8zdtr	2022-04-27T21:41:04Z
+魅惑の巴里サーカス急行！	Shiho Nanba	Fille! Fille! Fille!	https://i.scdn.co/image/ab67616d0000b2732b3195fe7e34eb7199a19a52	https://api.spotify.com/v1/tracks/11V8S98JLyStaDhnn8zdtr	2022-04-27T21:41:04Z
 やられちゃった女の子	Mayumi Kojima	さよならセシル(リマスター・バージョン)	https://i.scdn.co/image/ab67616d0000b27322827228a903d071513287ce	https://api.spotify.com/v1/tracks/56aFXWRxD7hG0PJgX9L8VV	2022-04-27T21:37:59Z
 嘆きの雪	Misako Odani	PROFILE－too early to tell－	https://i.scdn.co/image/ab67616d0000b27332671449b71954ff8c490c87	https://api.spotify.com/v1/tracks/63oYAF8MICinB7vmjWTWsd	2022-04-27T21:34:00Z
 in lights	kamome sano	Kirara Anthems vol.4	https://i.scdn.co/image/ab67616d0000b2738988e09808af40936750c855	https://api.spotify.com/v1/tracks/7p875NNb20BgFpMeMkuHGv	2022-04-27T19:26:02Z
@@ -1646,7 +1657,7 @@ Mixed Nuts	OFFICIAL HIGE DANDISM	Mixed Nuts	https://i.scdn.co/image/ab67616d0000
 Fine colorday	Megumi Hayashibara	VINTAGE DENIM	https://i.scdn.co/image/ab67616d0000b273472f2a4a91238e1c5c782a0b	https://api.spotify.com/v1/tracks/4rr4HJGM5DgPKJkFkHnIJB	2022-04-23T21:56:10Z
 エガオノカナタ	Chiho	エガオノカナタ	https://i.scdn.co/image/ab67616d0000b273082de336004c07af3ed13817	https://api.spotify.com/v1/tracks/01orqewNOGIoy2V5Y6oqtr	2022-04-23T21:26:23Z
 ブルーウォーター(21st century ver.)	森川美穂	ブルーウォーター (21st century ver.)	https://i.scdn.co/image/ab67616d0000b273442a7ea99e51a6d84f3ae6da	https://api.spotify.com/v1/tracks/1K7NyPQPgh6tsCwOagvsrH	2022-04-22T14:02:23Z
-まわれ まわれ	Hiyajo Atsuko	ささやかれた夢の話	https://i.scdn.co/image/ab67616d0000b27345cab2f7f48ad399f7138447	https://api.spotify.com/v1/tracks/1lZbxQcKkq7LPyWdzZUhkS	2022-04-22T13:58:21Z
+まわれ　まわれ	Hiyajo Atsuko	ささやかれた夢の話	https://i.scdn.co/image/ab67616d0000b27345cab2f7f48ad399f7138447	https://api.spotify.com/v1/tracks/1lZbxQcKkq7LPyWdzZUhkS	2022-04-22T13:58:21Z
 シンフォニー	Yui Makino	「ARIA The NATURAL」ボーカルソング・コレクション	https://i.scdn.co/image/ab67616d0000b273b6a9e61a8e9ecf14f6b255b7	https://api.spotify.com/v1/tracks/16j8adTqGuOMK3vTpfRdGQ	2022-04-20T10:35:12Z
 ウンディーネ～弾き語り～	Yui Makino	「ARIA The NATURAL」ボーカルソング・コレクション	https://i.scdn.co/image/ab67616d0000b273b6a9e61a8e9ecf14f6b255b7	https://api.spotify.com/v1/tracks/6CUvwgb6h3Uzmw9RPVOGSo	2022-04-19T22:50:17Z
 春夏秋冬	nikiie	* (NOTES)	https://i.scdn.co/image/ab67616d0000b273d4c1f0df4ec1c03e0170d240	https://api.spotify.com/v1/tracks/7zP2T6RUL2fP8NGIVceILY	2022-04-19T20:46:13Z
@@ -1678,7 +1689,7 @@ Starrrrrrr	[Alexandros]	Me No Do Karate	https://i.scdn.co/image/ab67616d0000b273
 Starrrrrrr - Bedroom ver.	[Alexandros]	Bedroom Joule	https://i.scdn.co/image/ab67616d0000b2735f75f55c6a0bcbb4a6b22b7f	https://api.spotify.com/v1/tracks/2V9hx123OViD9jWHmtHePd	2022-04-04T09:54:47Z
 消える惑星	lyrical school	WORLD’S END	https://i.scdn.co/image/ab67616d0000b273db7c76c10363cbaae1eb6dfb	https://api.spotify.com/v1/tracks/4RUJNF0Cjq4i8MhreRHZLL	2022-04-02T17:55:41Z
 2時のパレード	CYNHN	2時のパレード	https://i.scdn.co/image/ab67616d0000b27371cee6846df96f8d91b98a78	https://api.spotify.com/v1/tracks/4Ui5KVWlfYYvY9z2Fi61jZ	2022-04-02T17:45:11Z
-愛は光	Negicco	Negicco 2011~2017-BEST-2	https://i.scdn.co/image/ab67616d0000b273263427b2618f5d452517cc3d	https://api.spotify.com/v1/tracks/1GkdnydBnpaHeIQoY420nl	2022-04-01T20:07:32Z
+愛は光	Negicco	Negicco 2011～2017-BEST-2	https://i.scdn.co/image/ab67616d0000b273263427b2618f5d452517cc3d	https://api.spotify.com/v1/tracks/1GkdnydBnpaHeIQoY420nl	2022-04-01T20:07:32Z
 女の子入門	Phenotas	PS2015	https://i.scdn.co/image/ab67616d0000b2739e22a3c2dcd9ba85ec247a87	https://api.spotify.com/v1/tracks/6eNtVN6v5L3ep0H8ibUn89	2022-04-01T20:02:16Z
 カリプソ娘に花束を	Negicco	MY COLOR	https://i.scdn.co/image/ab67616d0000b273a7bd6239fc7761f5988914be	https://api.spotify.com/v1/tracks/1v7y8B4GYjEvJavgUS00LZ	2022-04-01T19:46:54Z
 Kanashimi no Kodomotachi	Maison book girl	Umi to Uchu no Kodomotachi	https://i.scdn.co/image/ab67616d0000b273f7d4726c2fe6b52063df00aa	https://api.spotify.com/v1/tracks/2MqhGAbTmfCRtmoYJt8zLu	2022-04-01T19:15:59Z
@@ -1961,7 +1972,7 @@ ZION TOWN	the band apart	Memories to Go	https://i.scdn.co/image/ab67616d0000b273
 獅子奮迅フルスイング	MOSHIMO	獅子奮迅フルスイング	https://i.scdn.co/image/ab67616d0000b273078211895adc696bff987711	https://api.spotify.com/v1/tracks/6VW6j5OaLv9IOLvmq52DFh	2021-05-29T03:01:52Z
 気になっていく	ネクライトーキー	FREAK	https://i.scdn.co/image/ab67616d0000b273db5f685b550e47b665eba2aa	https://api.spotify.com/v1/tracks/4VXaljbGmmFNDt7iYKvvva	2021-05-29T02:57:35Z
 ダイバー	POLKADOT STINGRAY	赤裸々	https://i.scdn.co/image/ab67616d0000b2738b6eb275e8e124d8d5d191bb	https://api.spotify.com/v1/tracks/50ZO9kITQZjV7zfCVbIs2I	2021-05-29T02:55:59Z
-Mai Mai Mai (feat. Hatsune Miku)	Mitchie M	Mai Mai Mai(feat. Hatsune Miku)	https://i.scdn.co/image/ab67616d0000b273e5a3505bbfe0eb13971c0f5f	https://api.spotify.com/v1/tracks/72vNbz6kcsk64PIqoih2Jh	2021-05-29T01:59:50Z
+Mai Mai Mai (feat. Hatsune Miku)	Mitchie M	Mai Mai Mai（feat. Hatsune Miku）	https://i.scdn.co/image/ab67616d0000b273e5a3505bbfe0eb13971c0f5f	https://api.spotify.com/v1/tracks/72vNbz6kcsk64PIqoih2Jh	2021-05-29T01:59:50Z
 青い	POLKADOT STINGRAY	青い	https://i.scdn.co/image/ab67616d0000b273184a624735ab57ee5a6ee8d6	https://api.spotify.com/v1/tracks/6zY1qStXzwVqWC4UVxvENW	2021-05-22T15:10:14Z
 No.1	DISH//	No.1 -Special Edition-	https://i.scdn.co/image/ab67616d0000b273d16fb26d39df2dda23ea9546	https://api.spotify.com/v1/tracks/3GIhgMadHu26VHLEeXviGD	2021-05-22T14:42:02Z
 Cry Baby	OFFICIAL HIGE DANDISM	Cry Baby	https://i.scdn.co/image/ab67616d0000b27337c8ac3d4ade98d669867e73	https://api.spotify.com/v1/tracks/7vBX6cVsCPFSx2C58hpZ4f	2021-05-22T14:41:55Z
@@ -1985,7 +1996,7 @@ Invisible Sensation	UNISON SQUARE GARDEN	MODE MOOD MODE	https://i.scdn.co/image/
 Maybe the next waltz	Mikako Komatsu	Maybe the next waltz	https://i.scdn.co/image/ab67616d0000b273ef7872aed8e1e283bd893cfa	https://api.spotify.com/v1/tracks/7bvxK53wNoqv2HBDxqZ3k2	2021-05-12T20:11:08Z
 10% roll, 10% romance	UNISON SQUARE GARDEN	UNISON SQUARE GARDEN The 1st Collection for streaming	https://i.scdn.co/image/ab67616d0000b2730540b17bee2a0759ef59d90e	https://api.spotify.com/v1/tracks/28qFJh4a5a8sh96JkIFY8q	2021-05-12T20:07:59Z
 ドラマチックマーケットライド	北白川たまこ(cv:洲崎 綾)	TVアニメ「たまこまーけっと」&映画「たまこラブストーリー」ベストアルバム「Everybody Loves Somebody ~ うさぎ山から愛をこめて」	https://i.scdn.co/image/ab67616d0000b273dd988038e66a9259710d6b94	https://api.spotify.com/v1/tracks/70U4fc7x0dbMUVx8HblAO4	2021-05-12T19:58:35Z
-secret base ~君がくれたもの~ (10 years after Ver.)	本間芽衣子（CV.茅野愛衣）	secret base ~君がくれたもの~	https://i.scdn.co/image/ab67616d0000b2730267461fc0a66551d454fa22	https://api.spotify.com/v1/tracks/4rPmTBTX1wobDkGYXKvcGR	2021-05-12T19:42:10Z
+secret base ～君がくれたもの～ (10 years after Ver.)	本間芽衣子（CV.茅野愛衣）	secret base ～君がくれたもの～	https://i.scdn.co/image/ab67616d0000b2730267461fc0a66551d454fa22	https://api.spotify.com/v1/tracks/4rPmTBTX1wobDkGYXKvcGR	2021-05-12T19:42:10Z
 Goodbye To A World	Porter Robinson	Worlds	https://i.scdn.co/image/ab67616d0000b2731f675e7b8bae408653346dd9	https://api.spotify.com/v1/tracks/786ymAh5BmHoIpvjyrvjXk	2021-05-12T19:12:11Z
 Shelter	Porter Robinson	Shelter	https://i.scdn.co/image/ab67616d0000b2730b4df34612f851b639959f9a	https://api.spotify.com/v1/tracks/2CgOd0Lj5MuvOqzqdaAXtS	2021-05-12T19:12:03Z
 Unfold	Porter Robinson	Nurture	https://i.scdn.co/image/ab67616d0000b2737d6ac8b4a84ad4b342050d87	https://api.spotify.com/v1/tracks/36kCSJg8ZBwiSCUECFKGUy	2021-05-12T19:12:00Z
@@ -2030,7 +2041,7 @@ lovin'	Mrs. GREEN APPLE	Attitude	https://i.scdn.co/image/ab67616d0000b27381f55cd
 鱗(うろこ)	Motohiro Hata	コントラスト	https://i.scdn.co/image/ab67616d0000b273c993f5f203f9e189ccf62f40	https://api.spotify.com/v1/tracks/4IubwxgmXeZtDtYjTaT9gN	2021-04-20T20:43:44Z
 CHE.R.RY	YUI	ORANGE GARDEN POP	https://i.scdn.co/image/ab67616d0000b273221ed77da599422ffc55fe3e	https://api.spotify.com/v1/tracks/4KlXlgwEnfjbmBcsUrg4js	2021-04-20T20:35:05Z
 茜色リヴァーサイド	Tawoyame Orchestra	茜色リヴァーサイド	https://i.scdn.co/image/ab67616d0000b2730a69c50fb802c13b9a9699f4	https://api.spotify.com/v1/tracks/2zbZ61ac320eVtogVfrvAu	2021-04-20T20:17:53Z
-Secret of my heart	Mai Kuraki	倉木麻衣×名探偵コナン COLLABORATION BEST 21 -真実はいつも歌にある!-	https://i.scdn.co/image/ab67616d0000b273439ca7ef2ce81624e7ee3b7a	https://api.spotify.com/v1/tracks/1KvU7iXcyRMden0n9krc4k	2021-04-17T21:12:20Z
+Secret of my heart	Mai Kuraki	倉木麻衣×名探偵コナン COLLABORATION BEST 21 -真実はいつも歌にある！-	https://i.scdn.co/image/ab67616d0000b273439ca7ef2ce81624e7ee3b7a	https://api.spotify.com/v1/tracks/1KvU7iXcyRMden0n9krc4k	2021-04-17T21:12:20Z
 ギブス	Sheena Ringo	ギブス	https://i.scdn.co/image/ab67616d0000b273c191eb963f52084d465c31b5	https://api.spotify.com/v1/tracks/6OZVgJ6JK6S4qBmug226wT	2021-04-17T21:12:18Z
 Fukashigi no Carte	Selphius	Shinsekai PLUS	https://i.scdn.co/image/ab67616d0000b27320de80678e8ff41c685befdf	https://api.spotify.com/v1/tracks/0UNIPFUn2MnhpKp7VJiYAH	2021-04-17T21:10:05Z
 Los! Los! Los! (Saga of Tanya the Evil)	Selphius	Los! Los! Los! (Saga of Tanya the Evil)	https://i.scdn.co/image/ab67616d0000b2738e98e817d4909ac464784283	https://api.spotify.com/v1/tracks/4dCuBADEBwlBL0SVpkHuNy	2021-04-17T21:09:44Z
@@ -2041,7 +2052,7 @@ Los! Los! Los! (Saga of Tanya the Evil)	Selphius	Los! Los! Los! (Saga of Tanya t
 爽健美茶のラップ	chelmico	Fishing	https://i.scdn.co/image/ab67616d0000b2730f6e89f0b6a232df80c8bf87	https://api.spotify.com/v1/tracks/7ALkpuavOZN3vzaQVsJogk	2021-03-22T08:29:26Z
 瑠璃色の地球	及川なずな(CV.広瀬すず)	映画『打ち上げ花火、下から見るか?横から見るか?』オリジナル・サウンドトラック	https://i.scdn.co/image/ab67616d0000b2731a27dbdf8e4b39723e1590c0	https://api.spotify.com/v1/tracks/5xbhQmqHsqu590dgtWaD76	2021-03-22T08:18:07Z
 世界中の誰よりきっと (Version II)	Noriko Sakai	大好き ～My Moments Best～	https://i.scdn.co/image/ab67616d0000b2736fe4edd02523307cc03bd82a	https://api.spotify.com/v1/tracks/5OhpMYefMNbkbpzkDGhb34	2021-03-22T07:32:07Z
-ウミホタル・オンライン	Kuroneko	天地創造デザイン部 オープニングテーマ「Give It Up?」	https://i.scdn.co/image/ab67616d0000b27349e977ce6793cea1b0af4622	https://api.spotify.com/v1/tracks/1ML3tT3ODTkLILvuM2Ttj2	2021-03-20T19:52:01Z
+ウミホタル・オンライン	Kuroneko	天地創造デザイン部　オープニングテーマ「Give It Up？」	https://i.scdn.co/image/ab67616d0000b27349e977ce6793cea1b0af4622	https://api.spotify.com/v1/tracks/1ML3tT3ODTkLILvuM2Ttj2	2021-03-20T19:52:01Z
 Universe	OFFICIAL HIGE DANDISM	Universe	https://i.scdn.co/image/ab67616d0000b27322be4c0eeaa71b2f383feb0e	https://api.spotify.com/v1/tracks/2wZvuzqGm485UNfwCstU8A	2021-03-20T19:44:04Z
 Hoshiakarino Traumerei	Aoi Teshima	Tadaima	https://i.scdn.co/image/ab67616d0000b2735b7000a43247381c3622b520	https://api.spotify.com/v1/tracks/2fhbZhiBtIsacAVWS0Jh4p	2021-03-20T19:35:45Z
 怪物	YOASOBI	怪物	https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5	https://api.spotify.com/v1/tracks/06XQvnJb53SUYmlWIhUXUi	2021-03-12T17:09:39Z
@@ -2079,10 +2090,10 @@ OPEN YOUR MIND ～小さな羽根ひろげて～	Yoko Ishida	Single Collection	h
 love your life	Aki Toyosaki	Love Your Life, Love My Life	https://i.scdn.co/image/ab67616d0000b273ba6f3dbc6afb79db1ca29676	https://api.spotify.com/v1/tracks/05ZgMJziGn1Oecc3pRJldP	2021-01-17T11:16:22Z
 Butter Sugar Cream (feat. tsvaci)	Tomggg	Butter Sugar Cream	https://i.scdn.co/image/ab67616d0000b27304b393e3206d63e6bb01b0c7	https://api.spotify.com/v1/tracks/7zqsDgTydxCAvBMqkuEbO7	2021-01-17T11:15:45Z
 FAIRY TAIL Main Theme	Yasuharu Takanashi	"Fairy Tail" Original Soundtrack Vol.1	https://i.scdn.co/image/ab67616d0000b27368a3dfc0653c907a58f39d7a	https://api.spotify.com/v1/tracks/7JoZiEMrwjpD18krCV8Czo	2021-01-17T11:14:32Z
-ヒトヒラのハナビラ	Stereopony	ハイド.ランジアが咲いている	https://i.scdn.co/image/ab67616d0000b273af54a0c7a9b52324da8980d6	https://api.spotify.com/v1/tracks/48unUqNPkVVLtYHQLArPN6	2021-01-17T11:13:17Z
+ヒトヒラのハナビラ	Stereopony	ハイド．ランジアが咲いている	https://i.scdn.co/image/ab67616d0000b273af54a0c7a9b52324da8980d6	https://api.spotify.com/v1/tracks/48unUqNPkVVLtYHQLArPN6	2021-01-17T11:13:17Z
 ツキアカリのミチシルベ	Stereopony	OVER THE BORDER	https://i.scdn.co/image/ab67616d0000b27371a1d519da617e05c406a07c	https://api.spotify.com/v1/tracks/6u6MGAF5TQ0PvQf5rkf5zX	2021-01-17T11:13:13Z
 はんぶんこ	Stereopony	OVER THE BORDER	https://i.scdn.co/image/ab67616d0000b27371a1d519da617e05c406a07c	https://api.spotify.com/v1/tracks/5Ram6y06LCEQmvqagcfT2f	2021-01-17T11:13:04Z
-泪のムコウ	Stereopony	ハイド.ランジアが咲いている	https://i.scdn.co/image/ab67616d0000b273af54a0c7a9b52324da8980d6	https://api.spotify.com/v1/tracks/11HNtVNr78MM7hCZzSxL5J	2021-01-17T11:12:45Z
+泪のムコウ	Stereopony	ハイド．ランジアが咲いている	https://i.scdn.co/image/ab67616d0000b273af54a0c7a9b52324da8980d6	https://api.spotify.com/v1/tracks/11HNtVNr78MM7hCZzSxL5J	2021-01-17T11:12:45Z
 恋い雪	SILENT SIREN	Silent Siren Selection	https://i.scdn.co/image/ab67616d0000b273c1442ef7b291b6193aeff64b	https://api.spotify.com/v1/tracks/5bHFXKCgekLxBXzu0s867W	2021-01-17T11:11:59Z
 Soup	Sakura Fujiwara	PLAY	https://i.scdn.co/image/ab67616d0000b273ef36e78916542abb7219b1b6	https://api.spotify.com/v1/tracks/6TMRe5uN622SzHfrLx78S3	2021-01-17T11:08:29Z
 STEP TO THE NEW WORLD	SOULHEAD	Oh My Sister	https://i.scdn.co/image/ab67616d0000b273ac882c88338f525032a61b4d	https://api.spotify.com/v1/tracks/6lQHwebVS3yopzMsisSgSh	2021-01-17T11:07:21Z
@@ -2259,7 +2270,7 @@ Give a reason ~Ballade Version~	Megumi Hayashibara	スレイヤーズMEGUMIXXX	h
 逢いたいボタン	Gentle Forest Jazz Band	逢いたいボタン	https://i.scdn.co/image/ab67616d0000b2732387ae36040d06ce05b087bc	https://api.spotify.com/v1/tracks/1y0Zf3M4F6ocsU6QemvjU3	2020-11-06T23:47:04Z
 ハッピーマイサマーダーリン - こもりうたver.	Charan-Po-Rantan	こもりうた	https://i.scdn.co/image/ab67616d0000b2730f9c5db86f73feaded378346	https://api.spotify.com/v1/tracks/0xVeUjB9C3zywLWAMKzowh	2020-11-06T23:46:43Z
 Donuts Mind If I Do	CHAI	Donuts Mind If I Do	https://i.scdn.co/image/ab67616d0000b273f5babb9435db86f00cd598db	https://api.spotify.com/v1/tracks/61xsOCKo7WUietJY7WCGi1	2020-11-06T23:43:43Z
-青のID	Tokyo Incidents	青のID	https://i.scdn.co/image/ab67616d0000b273c986e17209e066865275c91b	https://api.spotify.com/v1/tracks/1Ay8JPDuBxKRNAaR58pmNc	2020-11-06T23:40:55Z
+青のＩＤ	Tokyo Incidents	青のＩＤ	https://i.scdn.co/image/ab67616d0000b273c986e17209e066865275c91b	https://api.spotify.com/v1/tracks/1Ay8JPDuBxKRNAaR58pmNc	2020-11-06T23:40:55Z
 Woman“Wの悲劇”より - Live	Hiroko Yakushimaru	Best Songs 1981-2017 ～Live in 春日大社～	https://i.scdn.co/image/ab67616d0000b2732dec3c6b9851979e8b738c2c	https://api.spotify.com/v1/tracks/6n6q05p5J9NzAx9HaJ5BXl	2020-11-06T23:35:41Z
 コスメティックコースター	Kyary Pamyu Pamyu	KPP BEST	https://i.scdn.co/image/ab67616d0000b2739c33c8da78eadb217e4cdb94	https://api.spotify.com/v1/tracks/3QMGWRT7f9fXpuM3eJAckJ	2020-11-06T23:34:14Z
 かまいたち	Kyary Pamyu Pamyu	かまいたち	https://i.scdn.co/image/ab67616d0000b273fa41dec076ace05023d1740d	https://api.spotify.com/v1/tracks/23ZHjzbZChZlIJWPVcOOnO	2020-11-06T23:32:55Z
@@ -2322,27 +2333,27 @@ KissHug	aiko	aikoの詩。	https://i.scdn.co/image/ab67616d0000b2730ae9701a3dce3
 Sympathy	Chara	Sympathy	https://i.scdn.co/image/ab67616d0000b2730b48afa63b7f1c2624acf3bb	https://api.spotify.com/v1/tracks/3Th6XZ5M3UCBJXqJXKW8ds	2020-01-16T04:57:33Z
 Stars☆☆☆	Chara	Sympathy	https://i.scdn.co/image/ab67616d0000b2730b48afa63b7f1c2624acf3bb	https://api.spotify.com/v1/tracks/35ooB9eKTahIbbJ9UtyO4h	2020-01-16T04:52:50Z
 SUPER RAINBOW	MISIA	Life is going on and on	https://i.scdn.co/image/ab67616d0000b273f5e1f0d601e233eb97930a13	https://api.spotify.com/v1/tracks/35ukOz1XOtrhIe5C5U22FM	2020-01-07T20:09:46Z
-All I Want	アンジェラ (Vo. Alisa)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/3mmVbpYkU5ohWTScGGpWhI	2020-01-07T19:28:52Z
-Gravity Bounce	GGK(Vo. Madison McFerrin)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/0iU9AHWjVYUoK9cWEuJCNO	2020-01-07T19:26:45Z
-Move Mountains	アンジェラ (Vo. Alisa)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/0jpqrFBVDKNYXogtpUZdPx	2020-01-07T19:26:38Z
-Milky Way	GGK(Vo. Madison McFerrin)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/2FooLzRRBu5TTFdIsYEQKm	2020-01-07T19:22:44Z
-Whispering My Love	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/62In7nf1a7vIuR2mEdatxy	2020-01-07T19:22:42Z
-Dance Tonight	ピョートル(Vo. J R Price)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/3w7MyzseZ9cDfgj6yGJQGh	2020-01-07T19:18:42Z
-After the fire	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/6SM2YaOueNhqVTvii6mff9	2020-01-07T19:17:18Z
-Beautiful Breakdown	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/3dYQqxNlzSKo7TTmMRYcov	2020-01-07T19:17:07Z
-Message in the Wind	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/0hGwdjRG0aADdjzGB8csR6	2020-01-07T19:16:58Z
+All I Want	アンジェラ (Vo. Alisa)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/3mmVbpYkU5ohWTScGGpWhI	2020-01-07T19:28:52Z
+Gravity Bounce	GGK(Vo. Madison McFerrin)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/0iU9AHWjVYUoK9cWEuJCNO	2020-01-07T19:26:45Z
+Move Mountains	アンジェラ (Vo. Alisa)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/0jpqrFBVDKNYXogtpUZdPx	2020-01-07T19:26:38Z
+Milky Way	GGK(Vo. Madison McFerrin)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/2FooLzRRBu5TTFdIsYEQKm	2020-01-07T19:22:44Z
+Whispering My Love	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/62In7nf1a7vIuR2mEdatxy	2020-01-07T19:22:42Z
+Dance Tonight	ピョートル(Vo. J R Price)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/3w7MyzseZ9cDfgj6yGJQGh	2020-01-07T19:18:42Z
+After the fire	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/6SM2YaOueNhqVTvii6mff9	2020-01-07T19:17:18Z
+Beautiful Breakdown	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/3dYQqxNlzSKo7TTmMRYcov	2020-01-07T19:17:07Z
+Message in the Wind	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/0hGwdjRG0aADdjzGB8csR6	2020-01-07T19:16:58Z
 Last Summer Whisper	Anri	Heaven Beach	https://i.scdn.co/image/ab67616d0000b273e5cdab693bda0ed0bcffe334	https://api.spotify.com/v1/tracks/38LUbz74v3nmP8x0efElw2	2020-01-06T13:44:21Z
 イン・ザ・サン・アゲイン	Sunny Day Service	the CITY	https://i.scdn.co/image/ab67616d0000b273e2250698f63072b921b8b409	https://api.spotify.com/v1/tracks/4FFxnXZliLMOSDA2rmdaDz	2020-01-03T21:52:28Z
 名もなき感情	Usotsuki	Diamond	https://i.scdn.co/image/ab67616d0000b273af185c81ec1ba8608c780ca1	https://api.spotify.com/v1/tracks/40KCoeEMyDtMsh4sjHrZER	2020-01-03T21:48:05Z
 POWER UP	Strawhatz	POWER UP	https://i.scdn.co/image/ab67616d0000b2736668bbbdbed7fe9cfe0c44a8	https://api.spotify.com/v1/tracks/5kqXKV5d1nJ9G3NWYwExhQ	2020-01-03T21:47:22Z
 killer tune kills me	KIRINJI	cherish	https://i.scdn.co/image/ab67616d0000b273bb230d6ecf1bcd6296393abc	https://api.spotify.com/v1/tracks/2JCdUwmGDO3SBkhwkfRaLr	2020-01-03T21:41:54Z
 時間がない	KIRINJI	愛をあるだけ、すべて	https://i.scdn.co/image/ab67616d0000b2739259361b006ad3108801a541	https://api.spotify.com/v1/tracks/4X6jKZPHkKLbrcEZu13VXK	2020-01-03T21:41:47Z
-LIGHTS GO OUT	アーティガン	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/3lM7ikTpGtmYUEgLoChW0U	2020-01-03T21:40:32Z
-Mother	VOICES FROM MARS	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/0GlejgfH8mrHTcJjqfcw6s	2020-01-03T21:40:04Z
-Army Of Two	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/2AUGrnJKLyjBPkzVkv1YtM	2020-01-03T21:40:01Z
-Light A Fire	アンジェラ (Vo. Alisa)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/5YMJIlNBViYIDikcLo7vec	2020-01-03T21:31:29Z
-The Loneliest Girl	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/03JAxK9FmaSXnIZ6GxEcej	2020-01-03T21:31:20Z
-Galactic mermaid	マーメイド・シスターズ(Vo.クリヤマユウリ)	TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/1yHXUDFaAtxty9N3eklIHY	2020-01-03T21:28:40Z
+LIGHTS GO OUT	アーティガン	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/3lM7ikTpGtmYUEgLoChW0U	2020-01-03T21:40:32Z
+Mother	VOICES FROM MARS	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/0GlejgfH8mrHTcJjqfcw6s	2020-01-03T21:40:04Z
+Army Of Two	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2	https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3	https://api.spotify.com/v1/tracks/2AUGrnJKLyjBPkzVkv1YtM	2020-01-03T21:40:01Z
+Light A Fire	アンジェラ (Vo. Alisa)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/5YMJIlNBViYIDikcLo7vec	2020-01-03T21:31:29Z
+The Loneliest Girl	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/03JAxK9FmaSXnIZ6GxEcej	2020-01-03T21:31:20Z
+Galactic mermaid	マーメイド・シスターズ(Vo.クリヤマユウリ)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521	https://api.spotify.com/v1/tracks/1yHXUDFaAtxty9N3eklIHY	2020-01-03T21:28:40Z
 引っ越し	Helsinki Lambda Club	Tourist	https://i.scdn.co/image/ab67616d0000b273dd4675649967b42a2ee5f8e6	https://api.spotify.com/v1/tracks/1Z3IofHgyvzFVXnq3nOYk6	2019-11-26T19:08:14Z
 ドラえもん	Gen Hoshino	ドラえもん	https://i.scdn.co/image/ab67616d0000b27374f6b10a4037ca228a7efffa	https://api.spotify.com/v1/tracks/6rEReeuYDZdggaSMF1sybO	2019-11-24T21:55:01Z
 Snow Men	Gen Hoshino	YELLOW DANCER	https://i.scdn.co/image/ab67616d0000b273b70bdd96ad09d1c7cdb4d720	https://api.spotify.com/v1/tracks/4EAFrjOpnbkUel0WrD9TTy	2019-11-24T21:54:50Z
