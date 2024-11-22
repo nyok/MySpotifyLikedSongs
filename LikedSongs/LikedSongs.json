@@ -1,5 +1,93 @@
 [
     {
+        "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
+        "artists": "tuki.",
+        "album": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d66edf444d11e9a7f900be44",
+        "href": "https://api.spotify.com/v1/tracks/5d0dz0ekefZ243cWDGiDJ1",
+        "added_at": "2024-11-22T19:47:51Z"
+    },
+    {
+        "name": "\u541b\u3092\u306e\u305b\u3066",
+        "artists": "Sumi Shimamoto",
+        "album": "sings \u30b8\u30d6\u30ea \u30ea\u30cb\u30e5\u30fc\u30a2\u30eb \u30d4\u30a2\u30ce \u30d0\u30fc\u30b8\u30e7\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732ca65c341b8810efdc647db8",
+        "href": "https://api.spotify.com/v1/tracks/6mYsD3fb7tTzurHHNqKScQ",
+        "added_at": "2024-11-20T19:37:26Z"
+    },
+    {
+        "name": "\u4f55\u3082\u304b\u3082\u6709\u308a\u4f59\u3063\u3066\u3044\u308b \u3053\u3093\u306a\u6642\u4ee3\u3082",
+        "artists": "Goose house",
+        "album": "Flight (Complete Edition)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27308447846726eabaf215c6edf",
+        "href": "https://api.spotify.com/v1/tracks/20H02CNvEy9CVCLOqJOSgs",
+        "added_at": "2024-11-20T19:31:00Z"
+    },
+    {
+        "name": "\u308a\u30fb\u3044\u3093\u304b\u306d\uff5e\u3057\u3087\u3093",
+        "artists": "Akari Tsuda",
+        "album": "COLOR OF LIGHT",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27393561a9e2d3b9b4f2e696274",
+        "href": "https://api.spotify.com/v1/tracks/2dlrJU1Y4WSW5fIeat9VCu",
+        "added_at": "2024-11-20T18:56:58Z"
+    },
+    {
+        "name": "\u5fc3\u306f\u3044\u3064\u3082\u3042\u306a\u305f\u306e\u305d\u3070\u306b",
+        "artists": "Akari Tsuda",
+        "album": "WAVE OF EMOTION",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c231d7ff19c319d7a8718695",
+        "href": "https://api.spotify.com/v1/tracks/4BrRGSVyQqlcIraWj88UAs",
+        "added_at": "2024-11-20T18:24:35Z"
+    },
+    {
+        "name": "\u30a2\u30bb\u30d3",
+        "artists": "\u30df\u30b9\u30c6\u30ea\u30fc\u30ad\u30c3\u30b9",
+        "album": "ODDTAXI CHARACTER SONG EP",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735ed6c3191cc8b9d397a49df8",
+        "href": "https://api.spotify.com/v1/tracks/4bdt1luQyF745Tp7AJX3TL",
+        "added_at": "2024-11-20T17:55:18Z"
+    },
+    {
+        "name": "\u767d\u3044\u708e",
+        "artists": "Yuki Saito",
+        "album": "\u6589\u85e4\u7531\u8cb4\u30d9\u30b9\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730536161146dd6ae148c22940",
+        "href": "https://api.spotify.com/v1/tracks/7IJbCaxP2UcN77NVpII1Jp",
+        "added_at": "2024-11-19T19:41:14Z"
+    },
+    {
+        "name": "\u60b2\u3057\u3044\u304f\u3089\u3044\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9",
+        "artists": "RYUSENKEI",
+        "album": "Talio",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e1fc4b42a6312f2bd038719a",
+        "href": "https://api.spotify.com/v1/tracks/0yeyF3EAp6aEIPUQnMwQsy",
+        "added_at": "2024-11-19T19:34:56Z"
+    },
+    {
+        "name": "UMI\uff08SUDDENLY LAST SUMMER\uff09",
+        "artists": "Noriko Miyamoto",
+        "album": "SWEET SUGAR",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273cbe619044318ad038ef3e799",
+        "href": "https://api.spotify.com/v1/tracks/2l3Pz4EMUu2dpLvWD8SJ7P",
+        "added_at": "2024-11-19T19:26:02Z"
+    },
+    {
+        "name": "\u6642\u306e\u6d41\u308c\u306b\u8eab\u3092\u307e\u304b\u305b",
+        "artists": "Teresa Teng",
+        "album": "\u6b4c\u9053\u5834",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738ff6dabb1a35224c452538fa",
+        "href": "https://api.spotify.com/v1/tracks/237tJYVU76qhKPdiohaOYz",
+        "added_at": "2024-11-15T21:23:38Z"
+    },
+    {
+        "name": "Step",
+        "artists": "Hitsujibungaku",
+        "album": "\u30c8\u30f3\u30cd\u30eb\u3092\u629c\u3051\u305f\u3089",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27326e769f8d2a4d9e71b02fd94",
+        "href": "https://api.spotify.com/v1/tracks/2kpudvsh3rN59FocDP21RE",
+        "added_at": "2024-11-14T11:21:02Z"
+    },
+    {
         "name": "\u591c\u9593\u98db\u884c",
         "artists": "APOGEE",
         "album": "\u591c\u9593\u98db\u884c",
@@ -1306,7 +1394,7 @@
     {
         "name": "Cats on Mars",
         "artists": "Gabriela Robin",
-        "album": "\u300cCOWBOY BEBOP\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2 NO DISC",
+        "album": "\u300cCOWBOY BEBOP\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2\u3000NO DISC",
         "cover": "https://i.scdn.co/image/ab67616d0000b273e92477974db130fc02a74bf0",
         "href": "https://api.spotify.com/v1/tracks/1C5ZmAVnZM9HtXs2wQjDFH",
         "added_at": "2024-07-27T19:03:58Z"
@@ -2123,7 +2211,7 @@
         "name": "GAL is MIND - REMIX",
         "artists": "\u534a\u719f\u5375\u3063\u3061",
         "album": "GAL is MIND (feat. Ramengvrl & \u5927\u9580\u5f25\u751f) [REMIX]",
-        "cover": "https://i.scdn.co/image/ab67616d0000b2735925a122912b7baa84e4c77d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a668b564a1cd268248ed30f5",
         "href": "https://api.spotify.com/v1/tracks/17DQlMOPP6GHsNfGfUGPYD",
         "added_at": "2024-03-05T14:26:11Z"
     },
@@ -3280,9 +3368,9 @@
         "added_at": "2023-11-02T19:25:05Z"
     },
     {
-        "name": "\u30d9\u30fc\u30b9\u30e9\u30a4\u30f3\u3084\u3063\u3066\u308b?\u7b11",
+        "name": "\u30d9\u30fc\u30b9\u30e9\u30a4\u30f3\u3084\u3063\u3066\u308b\uff1f\u7b11",
         "artists": "Nanahira",
-        "album": "\u3075\u3049\u30fc\u3059!",
+        "album": "\u3075\u3049\u30fc\u3059\uff01",
         "cover": "https://i.scdn.co/image/ab67616d0000b2739c43de2f442d8f65452edb8d",
         "href": "https://api.spotify.com/v1/tracks/7qvfIrDBDaGd2yJoO4Bu3u",
         "added_at": "2023-11-02T19:19:35Z"
@@ -3992,9 +4080,9 @@
         "added_at": "2023-08-25T12:55:34Z"
     },
     {
-        "name": "\u8fd4\u5149(Movie Edition)",
+        "name": "\u8fd4\u5149\uff08Movie Edition\uff09",
         "artists": "yama",
-        "album": "\u8fd4\u5149(Movie Edition)",
+        "album": "\u8fd4\u5149\uff08Movie Edition\uff09",
         "cover": "https://i.scdn.co/image/ab67616d0000b273f28c00c708dcbf85f8a9afc4",
         "href": "https://api.spotify.com/v1/tracks/1lLsIUCAXc8U7QuS3J87Fu",
         "added_at": "2023-08-23T12:18:59Z"
@@ -4026,7 +4114,7 @@
     {
         "name": "LOVE LOVE LOVE",
         "artists": "DREAMS COME TRUE",
-        "album": "\u611b\u3057\u3066\u3044\u308b\u3068\u8a00\u3063\u3066\u304f\u308c \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "album": "\u611b\u3057\u3066\u3044\u308b\u3068\u8a00\u3063\u3066\u304f\u308c\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "cover": "https://i.scdn.co/image/ab67616d0000b273e3c884fb1864c9dcccd1b1a0",
         "href": "https://api.spotify.com/v1/tracks/0kI1eqATzXs5ztZ0nJtQMa",
         "added_at": "2023-08-22T22:19:31Z"
@@ -4402,7 +4490,7 @@
     {
         "name": "\u591c\u306e\u9b54\u6cd5",
         "artists": "\u65b0\u5c71\u8a69\u7e54",
-        "album": "\u4f55\u8005 ~\u5341\u5e74\u5341\u8272~",
+        "album": "\u4f55\u8005 \uff5e\u5341\u5e74\u5341\u8272\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b273b7d73673087c847dbf7d0d32",
         "href": "https://api.spotify.com/v1/tracks/6hTLbXYHjVlraso9UNbDZm",
         "added_at": "2023-07-06T09:19:39Z"
@@ -4410,7 +4498,7 @@
     {
         "name": "Spotlight",
         "artists": "\u65b0\u5c71\u8a69\u7e54",
-        "album": "\u4f55\u8005 ~\u5341\u5e74\u5341\u8272~",
+        "album": "\u4f55\u8005 \uff5e\u5341\u5e74\u5341\u8272\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b273b7d73673087c847dbf7d0d32",
         "href": "https://api.spotify.com/v1/tracks/2HS2TpCUuTfJ2gYdpMhEEp",
         "added_at": "2023-07-06T09:19:24Z"
@@ -5192,7 +5280,7 @@
         "added_at": "2023-06-04T00:12:01Z"
     },
     {
-        "name": "\u3046\u308c\u3057\u3044!\u305f\u306e\u3057\u3044!\u5927\u597d\u304d!",
+        "name": "\u3046\u308c\u3057\u3044\uff01\u305f\u306e\u3057\u3044\uff01\u5927\u597d\u304d\uff01",
         "artists": "DREAMS COME TRUE",
         "album": "\u3046\u308c\u3057\u306f\u305a\u304b\u3057\u671d\u5e30\u308a",
         "cover": "https://i.scdn.co/image/ab67616d0000b273ccada37f29851e60ff8d3d15",
@@ -5984,7 +6072,7 @@
         "added_at": "2023-04-01T18:32:54Z"
     },
     {
-        "name": "Love Again ~\u6c38\u9060\u306e\u4e16\u754c~",
+        "name": "Love Again \uff5e\u6c38\u9060\u306e\u4e16\u754c\uff5e",
         "artists": "shela",
         "album": "RED",
         "cover": "https://i.scdn.co/image/ab67616d0000b273f0f365372ad1d62d48f0ae7d",
@@ -6008,9 +6096,9 @@
         "added_at": "2023-03-30T22:11:15Z"
     },
     {
-        "name": "\u30cb\u30e3\u30ed\u30e1!",
+        "name": "\u30cb\u30e3\u30ed\u30e1\uff01",
         "artists": "Hump Back",
-        "album": "\u30cb\u30e3\u30ed\u30e1!",
+        "album": "\u30cb\u30e3\u30ed\u30e1\uff01",
         "cover": "https://i.scdn.co/image/ab67616d0000b2738d35bccfb00fedc3e07c8dc0",
         "href": "https://api.spotify.com/v1/tracks/2BcDomfKRKB7ykMMLTiSlw",
         "added_at": "2023-03-30T22:05:44Z"
@@ -6080,9 +6168,9 @@
         "added_at": "2023-03-19T11:03:55Z"
     },
     {
-        "name": "\u3059\u304d\u3063! - \u8d85ver",
+        "name": "\u3059\u304d\u3063\uff01 - \u8d85ver",
         "artists": "Cho Tokimeki Sendenbu",
-        "album": "\u3059\u304d\u3059\u304d\u3059\u304d\u3059\u304d\u3059\u304d\u3059\u304d\u3063!",
+        "album": "\u3059\u304d\u3059\u304d\u3059\u304d\u3059\u304d\u3059\u304d\u3059\u304d\u3063\uff01",
         "cover": "https://i.scdn.co/image/ab67616d0000b273f7e91b039f9948fc31e42c70",
         "href": "https://api.spotify.com/v1/tracks/0SxNslJ4zylzWBQTX4rBIe",
         "added_at": "2023-03-18T20:34:06Z"
@@ -6530,7 +6618,7 @@
     {
         "name": "\u8e0a\u308a\u5b50",
         "artists": "\u4e2d\u6751\u30d4\u30a2\u30ce",
-        "album": "\u6771\u4eac\u30c7\u30a3\u30b9\u30b3\u30c6\u30a3\u30c3\u30af!!",
+        "album": "\u6771\u4eac\u30c7\u30a3\u30b9\u30b3\u30c6\u30a3\u30c3\u30af\uff01\uff01",
         "cover": "https://i.scdn.co/image/ab67616d0000b2730a7aa4f32a269e4f7fb6ea83",
         "href": "https://api.spotify.com/v1/tracks/7lWCrM53jc1AOv8xwO50Ax",
         "added_at": "2023-02-05T21:18:36Z"
@@ -6569,7 +6657,7 @@
     },
     {
         "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
-        "artists": "\u771e\u540d\u5b50 \u65b0",
+        "artists": "\u771e\u540d\u5b50\u65b0",
         "album": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
         "cover": "https://i.scdn.co/image/ab67616d0000b2738a8d5d8144f781cf0cfacfbf",
         "href": "https://api.spotify.com/v1/tracks/5GmPGaSokdG5KAfiahOdeF",
@@ -6624,7 +6712,7 @@
         "added_at": "2023-02-04T14:26:06Z"
     },
     {
-        "name": "\u56de\u8ee2\u6249\u306e\u5185\u5074\u306f\u6625?",
+        "name": "\u56de\u8ee2\u6249\u306e\u5185\u5074\u306f\u6625\uff1f",
         "artists": "\u541b\u5cf6\u5927\u7a7a",
         "album": "\u6620\u5e36\u3059\u308b\u7159",
         "cover": "https://i.scdn.co/image/ab67616d0000b27380452298588732a6fd803f77",
@@ -6642,7 +6730,7 @@
     {
         "name": "\u5bcc\u58eb\u3055\u3093",
         "artists": "Tamio Okuda",
-        "album": "\u30c9\u30fc\u30ed\u30e0\u30fc\u30d3\u30fc\u201d\u30c8\u30c4\u30b2\u30ad!\u30aa\u30fc\u30c8\u30e2\u30d3\u30ec\u201d",
+        "album": "\u30c9\u30fc\u30ed\u30e0\u30fc\u30d3\u30fc\u201d\u30c8\u30c4\u30b2\u30ad\uff01\u30aa\u30fc\u30c8\u30e2\u30d3\u30ec\u201d",
         "cover": "https://i.scdn.co/image/ab67616d0000b273810393ce351449f38d8eb819",
         "href": "https://api.spotify.com/v1/tracks/1vjhbCjknwipYFlxm90yc6",
         "added_at": "2023-02-03T23:11:31Z"
@@ -6666,7 +6754,7 @@
     {
         "name": "\u3053\u3093\u306a\u65e5\u304c\u6765\u308b\u306a\u3093\u3066",
         "artists": "Maaya Sakamoto",
-        "album": "WOWOW\u30aa\u30ea\u30b8\u30ca\u30eb\u30a2\u30cb\u30e1\u300c\u706b\u72e9\u308a\u306e\u738b\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de / TV\u30a2\u30cb\u30e1\u300cREVENGER\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de \u307e\u3060\u9060\u304f\u306b\u3044\u308b / un_mute",
+        "album": "WOWOW\u30aa\u30ea\u30b8\u30ca\u30eb\u30a2\u30cb\u30e1\u300c\u706b\u72e9\u308a\u306e\u738b\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de / TV\u30a2\u30cb\u30e1\u300cREVENGER\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u307e\u3060\u9060\u304f\u306b\u3044\u308b / un_mute",
         "cover": "https://i.scdn.co/image/ab67616d0000b2735b09c7c8ec45e8ba15531beb",
         "href": "https://api.spotify.com/v1/tracks/5gQkuTzS56ao7RpXkpPwIb",
         "added_at": "2023-02-03T22:58:40Z"
@@ -7152,9 +7240,9 @@
         "added_at": "2023-01-05T15:05:51Z"
     },
     {
-        "name": "\u3053\u3053\u306b\u3042\u308b\u5730\u7403(\u307b\u3057)",
+        "name": "\u3053\u3053\u306b\u3042\u308b\u5730\u7403\uff08\u307b\u3057\uff09",
         "artists": "\u77e2\u91ce\u9855\u5b50\u30fb\u91ce\u53e3\u8061\u4e00",
-        "album": "\u3053\u3053\u306b\u3042\u308b\u5730\u7403(\u307b\u3057)",
+        "album": "\u3053\u3053\u306b\u3042\u308b\u5730\u7403\uff08\u307b\u3057\uff09",
         "cover": "https://i.scdn.co/image/ab67616d0000b273ed4e124fbce4e1cfa0398561",
         "href": "https://api.spotify.com/v1/tracks/3QZMFiHaweFFr8xqwIVo4v",
         "added_at": "2023-01-05T14:48:21Z"
@@ -7800,7 +7888,7 @@
         "added_at": "2022-12-08T19:37:58Z"
     },
     {
-        "name": "LOVE\u301cwinter song\u301c(album version)",
+        "name": "LOVE\u301cwinter song\u301c\uff08album version\uff09",
         "artists": "Miho Fukuhara",
         "album": "RAINBOW",
         "cover": "https://i.scdn.co/image/ab67616d0000b2739d13bd1a5fdf7fe0c5c2841e",
@@ -8082,7 +8170,7 @@
     {
         "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
         "artists": "Asako Toki",
-        "album": "HOME TOWN ~Cover Songs~",
+        "album": "HOME TOWN \uff5eCover Songs\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b2730b61e1586aae9a108717afb8",
         "href": "https://api.spotify.com/v1/tracks/4H15DPcx96pHtUdICF8Chc",
         "added_at": "2022-12-01T15:26:03Z"
@@ -8938,7 +9026,7 @@
     {
         "name": "\u30e9\u30ea\u30d1\u30c3\u30d1\u2606\u3057\u3085\u304e",
         "artists": "\u8389\u72ac",
-        "album": "\u30b7\u30e3\u30c3\u30bf\u30fc\u30c1\u30e3\u30f3\u30b9!",
+        "album": "\u30b7\u30e3\u30c3\u30bf\u30fc\u30c1\u30e3\u30f3\u30b9\uff01",
         "cover": "https://i.scdn.co/image/ab67616d0000b273525ef8060c39f025cfd2e97a",
         "href": "https://api.spotify.com/v1/tracks/2aUQsJ7RRnl1q3h8uFBRQY",
         "added_at": "2022-11-09T20:32:18Z"
@@ -9424,17 +9512,17 @@
         "added_at": "2022-11-05T22:25:10Z"
     },
     {
-        "name": "\u30de\u30ea\u30f3\u51fa\u822a!!",
+        "name": "\u30de\u30ea\u30f3\u51fa\u822a\uff01\uff01",
         "artists": "\u5b9d\u9418\u30de\u30ea\u30f3",
-        "album": "\u30de\u30ea\u30f3\u51fa\u822a!!",
+        "album": "\u30de\u30ea\u30f3\u51fa\u822a\uff01\uff01",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a3781d2cf6de9001f1fa487d",
         "href": "https://api.spotify.com/v1/tracks/1OwyUhOqiMtu4S6MKnHi3h",
         "added_at": "2022-11-05T22:24:00Z"
     },
     {
-        "name": "I\u2019m Your Treasure Box *\u3042\u306a\u305f\u306f \u30de\u30ea\u30f3\u305b\u3093\u3061\u3087\u3046\u3092 \u305f\u304b\u3089\u3070\u3053\u304b\u3089\u307f\u3064\u3051\u305f\u3002",
+        "name": "I\u2019m Your Treasure Box \uff0a\u3042\u306a\u305f\u306f \u30de\u30ea\u30f3\u305b\u3093\u3061\u3087\u3046\u3092 \u305f\u304b\u3089\u3070\u3053\u304b\u3089\u307f\u3064\u3051\u305f\u3002",
         "artists": "\u5b9d\u9418\u30de\u30ea\u30f3",
-        "album": "I\u2019m Your Treasure Box *\u3042\u306a\u305f\u306f \u30de\u30ea\u30f3\u305b\u3093\u3061\u3087\u3046\u3092 \u305f\u304b\u3089\u3070\u3053\u304b\u3089\u307f\u3064\u3051\u305f\u3002",
+        "album": "I\u2019m Your Treasure Box \uff0a\u3042\u306a\u305f\u306f \u30de\u30ea\u30f3\u305b\u3093\u3061\u3087\u3046\u3092 \u305f\u304b\u3089\u3070\u3053\u304b\u3089\u307f\u3064\u3051\u305f\u3002",
         "cover": "https://i.scdn.co/image/ab67616d0000b27349a2bd20296e8632e2c1af6d",
         "href": "https://api.spotify.com/v1/tracks/74u8iRIPvoru5klTgQLLwB",
         "added_at": "2022-11-05T22:23:32Z"
@@ -9504,7 +9592,7 @@
         "added_at": "2022-11-05T21:59:15Z"
     },
     {
-        "name": "Swallowtail Butterfly~\u3042\u3044\u306e\u3046\u305f~ - Remastered 2015",
+        "name": "Swallowtail Butterfly\uff5e\u3042\u3044\u306e\u3046\u305f\uff5e - Remastered 2015",
         "artists": "YEN TOWN BAND",
         "album": "MONTAGE (Remastered 2015)",
         "cover": "https://i.scdn.co/image/ab67616d0000b273ab6cedde46adb4c990f9d832",
@@ -9776,9 +9864,9 @@
         "added_at": "2022-11-04T20:02:55Z"
     },
     {
-        "name": "\u30b7\u30e7\u30c3\u30af!",
+        "name": "\u30b7\u30e7\u30c3\u30af\uff01",
         "artists": "sakanaction",
-        "album": "\u30b7\u30e7\u30c3\u30af!",
+        "album": "\u30b7\u30e7\u30c3\u30af\uff01",
         "cover": "https://i.scdn.co/image/ab67616d0000b273706fac70f071bd6207aa1c60",
         "href": "https://api.spotify.com/v1/tracks/1eW2WQmmYbYe1MqxEh5tsV",
         "added_at": "2022-11-04T19:47:26Z"
@@ -11168,9 +11256,9 @@
         "added_at": "2022-10-16T19:58:00Z"
     },
     {
-        "name": "Tv\u30a2\u30cb\u30e1\u300e\u304b\u3089\u304b\u3044\u4e0a\u624b\u306e\u9ad8\u6728\u3055\u30933\u300f\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8ed\u300c\u82b1\u300d/\u9ad8\u6728\u3055\u3093(cv \u9ad8\u6a4b\u674e\u4f9d)",
+        "name": "Tv\u30a2\u30cb\u30e1\u300e\u304b\u3089\u304b\u3044\u4e0a\u624b\u306e\u9ad8\u6728\u3055\u3093\uff13\u300f\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8ed\u300c\u82b1\u300d\uff0f\u9ad8\u6728\u3055\u3093(cv \u9ad8\u6a4b\u674e\u4f9d)",
         "artists": "\u9ad8\u6a4b\u674e\u4f9d",
-        "album": "Tv\u30a2\u30cb\u30e1\u300e\u304b\u3089\u304b\u3044\u4e0a\u624b\u306e\u9ad8\u6728\u3055\u30933\u300f\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8ed\u300c\u82b1\u300d/\u9ad8\u6728\u3055\u3093(cv \u9ad8\u6a4b\u674e\u4f9d)",
+        "album": "Tv\u30a2\u30cb\u30e1\u300e\u304b\u3089\u304b\u3044\u4e0a\u624b\u306e\u9ad8\u6728\u3055\u3093\uff13\u300f\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8ed\u300c\u82b1\u300d\uff0f\u9ad8\u6728\u3055\u3093(cv \u9ad8\u6a4b\u674e\u4f9d)",
         "cover": "https://i.scdn.co/image/ab67616d0000b2735d46e52bf94e9d5cd5757f24",
         "href": "https://api.spotify.com/v1/tracks/64WZ6Fk4aZXywHMjLoT4a9",
         "added_at": "2022-10-16T19:57:21Z"
@@ -11552,7 +11640,7 @@
         "added_at": "2022-08-10T21:18:33Z"
     },
     {
-        "name": "Love Again ~\u6c38\u9060\u306e\u4e16\u754c~ feat. shela",
+        "name": "Love Again \uff5e\u6c38\u9060\u306e\u4e16\u754c\uff5e feat. shela",
         "artists": "Sweet Licious",
         "album": "Girlicious",
         "cover": "https://i.scdn.co/image/ab67616d0000b273b7da1d1dc8cef25e16a3da4a",
@@ -12210,7 +12298,7 @@
     {
         "name": "Over Drive",
         "artists": "JUDY AND MARY",
-        "album": "MIRACLE DIVING",
+        "album": "\uff2d\uff29\uff32\uff21\uff23\uff2c\uff25\u3000\uff24\uff29\uff36\uff29\uff2e\uff27",
         "cover": "https://i.scdn.co/image/ab67616d0000b273f1724bc333b788a405731254",
         "href": "https://api.spotify.com/v1/tracks/34GSVqN6ZisP7dBIB20xPm",
         "added_at": "2022-06-23T20:31:20Z"
@@ -12464,9 +12552,9 @@
         "added_at": "2022-06-16T13:51:49Z"
     },
     {
-        "name": "\u304f\u305f\u304f\u305f(feat. \u3055\u304b\u306a)",
+        "name": "\u304f\u305f\u304f\u305f\uff08feat. \u3055\u304b\u306a\uff09",
         "artists": "eijun",
-        "album": "\u304f\u305f\u304f\u305f(feat. \u3055\u304b\u306a)",
+        "album": "\u304f\u305f\u304f\u305f\uff08feat. \u3055\u304b\u306a\uff09",
         "cover": "https://i.scdn.co/image/ab67616d0000b273e38130c82a897c9c5408045b",
         "href": "https://api.spotify.com/v1/tracks/73WnelHeQ9SW904hyPi77n",
         "added_at": "2022-06-14T17:27:24Z"
@@ -12576,9 +12664,9 @@
         "added_at": "2022-06-01T19:25:53Z"
     },
     {
-        "name": "\u4f1a\u3044\u305f\u3044(\u60f3\u4f60)",
+        "name": "\u4f1a\u3044\u305f\u3044\uff08\u60f3\u4f60\uff09",
         "artists": "Rimi Natsukawa",
-        "album": "\u4f1a\u3044\u305f\u3044(\u60f3\u4f60)",
+        "album": "\u4f1a\u3044\u305f\u3044\uff08\u60f3\u4f60\uff09",
         "cover": "https://i.scdn.co/image/ab67616d0000b273401487787b6a4ae294c6a33a",
         "href": "https://api.spotify.com/v1/tracks/7wwBheREsRpiJIC0P2jhmH",
         "added_at": "2022-05-30T19:53:24Z"
@@ -12976,9 +13064,9 @@
         "added_at": "2022-05-06T11:43:26Z"
     },
     {
-        "name": "\u72ec\u308a\u3046\u305f ~September\u8abf\u5b50\u306f\u3069\u3046\u3060\u3044~",
+        "name": "\u72ec\u308a\u3046\u305f \uff5eSeptember\u8abf\u5b50\u306f\u3069\u3046\u3060\u3044\uff5e",
         "artists": "\u3046\u3058\u305f\u307e\u3044",
-        "album": "\u72ec\u308a\u3046\u305f ~September\u8abf\u5b50\u306f\u3069\u3046\u3060\u3044~",
+        "album": "\u72ec\u308a\u3046\u305f \uff5eSeptember\u8abf\u5b50\u306f\u3069\u3046\u3060\u3044\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a255342d443c43cd270ceefd",
         "href": "https://api.spotify.com/v1/tracks/3kCJXH7uFaaggkCOL5dlQl",
         "added_at": "2022-05-05T07:37:59Z"
@@ -13008,7 +13096,7 @@
         "added_at": "2022-04-28T15:17:12Z"
     },
     {
-        "name": "\u9b45\u60d1\u306e\u5df4\u91cc\u30b5\u30fc\u30ab\u30b9\u6025\u884c!",
+        "name": "\u9b45\u60d1\u306e\u5df4\u91cc\u30b5\u30fc\u30ab\u30b9\u6025\u884c\uff01",
         "artists": "Shiho Nanba",
         "album": "Fille! Fille! Fille!",
         "cover": "https://i.scdn.co/image/ab67616d0000b2732b3195fe7e34eb7199a19a52",
@@ -13176,7 +13264,7 @@
         "added_at": "2022-04-22T14:02:23Z"
     },
     {
-        "name": "\u307e\u308f\u308c \u307e\u308f\u308c",
+        "name": "\u307e\u308f\u308c\u3000\u307e\u308f\u308c",
         "artists": "Hiyajo Atsuko",
         "album": "\u3055\u3055\u3084\u304b\u308c\u305f\u5922\u306e\u8a71",
         "cover": "https://i.scdn.co/image/ab67616d0000b27345cab2f7f48ad399f7138447",
@@ -13434,7 +13522,7 @@
     {
         "name": "\u611b\u306f\u5149",
         "artists": "Negicco",
-        "album": "Negicco 2011~2017-BEST-2",
+        "album": "Negicco 2011\uff5e2017-BEST-2",
         "cover": "https://i.scdn.co/image/ab67616d0000b273263427b2618f5d452517cc3d",
         "href": "https://api.spotify.com/v1/tracks/1GkdnydBnpaHeIQoY420nl",
         "added_at": "2022-04-01T20:07:32Z"
@@ -15698,7 +15786,7 @@
     {
         "name": "Mai Mai Mai (feat. Hatsune Miku)",
         "artists": "Mitchie M",
-        "album": "Mai Mai Mai(feat. Hatsune Miku)",
+        "album": "Mai Mai Mai\uff08feat. Hatsune Miku\uff09",
         "cover": "https://i.scdn.co/image/ab67616d0000b273e5a3505bbfe0eb13971c0f5f",
         "href": "https://api.spotify.com/v1/tracks/72vNbz6kcsk64PIqoih2Jh",
         "added_at": "2021-05-29T01:59:50Z"
@@ -15888,9 +15976,9 @@
         "added_at": "2021-05-12T19:58:35Z"
     },
     {
-        "name": "secret base ~\u541b\u304b\u3099\u304f\u308c\u305f\u3082\u306e~ (10 years after Ver.)",
+        "name": "secret base \uff5e\u541b\u304c\u304f\u308c\u305f\u3082\u306e\uff5e (10 years after Ver.)",
         "artists": "\u672c\u9593\u82bd\u8863\u5b50\uff08CV.\u8305\u91ce\u611b\u8863\uff09",
-        "album": "secret base ~\u541b\u304b\u3099\u304f\u308c\u305f\u3082\u306e~",
+        "album": "secret base \uff5e\u541b\u304c\u304f\u308c\u305f\u3082\u306e\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b2730267461fc0a66551d454fa22",
         "href": "https://api.spotify.com/v1/tracks/4rPmTBTX1wobDkGYXKvcGR",
         "added_at": "2021-05-12T19:42:10Z"
@@ -16250,7 +16338,7 @@
     {
         "name": "Secret of my heart",
         "artists": "Mai Kuraki",
-        "album": "\u5009\u6728\u9ebb\u8863\u00d7\u540d\u63a2\u5075\u30b3\u30ca\u30f3 COLLABORATION BEST 21 -\u771f\u5b9f\u306f\u3044\u3064\u3082\u6b4c\u306b\u3042\u308b!-",
+        "album": "\u5009\u6728\u9ebb\u8863\u00d7\u540d\u63a2\u5075\u30b3\u30ca\u30f3 COLLABORATION BEST 21 -\u771f\u5b9f\u306f\u3044\u3064\u3082\u6b4c\u306b\u3042\u308b\uff01-",
         "cover": "https://i.scdn.co/image/ab67616d0000b273439ca7ef2ce81624e7ee3b7a",
         "href": "https://api.spotify.com/v1/tracks/1KvU7iXcyRMden0n9krc4k",
         "added_at": "2021-04-17T21:12:20Z"
@@ -16338,7 +16426,7 @@
     {
         "name": "\u30a6\u30df\u30db\u30bf\u30eb\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3",
         "artists": "Kuroneko",
-        "album": "\u5929\u5730\u5275\u9020\u30c7\u30b6\u30a4\u30f3\u90e8 \u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300cGive It Up?\u300d",
+        "album": "\u5929\u5730\u5275\u9020\u30c7\u30b6\u30a4\u30f3\u90e8\u3000\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300cGive It Up\uff1f\u300d",
         "cover": "https://i.scdn.co/image/ab67616d0000b27349e977ce6793cea1b0af4622",
         "href": "https://api.spotify.com/v1/tracks/1ML3tT3ODTkLILvuM2Ttj2",
         "added_at": "2021-03-20T19:52:01Z"
@@ -16642,7 +16730,7 @@
     {
         "name": "\u30d2\u30c8\u30d2\u30e9\u306e\u30cf\u30ca\u30d3\u30e9",
         "artists": "Stereopony",
-        "album": "\u30cf\u30a4\u30c9.\u30e9\u30f3\u30b8\u30a2\u304c\u54b2\u3044\u3066\u3044\u308b",
+        "album": "\u30cf\u30a4\u30c9\uff0e\u30e9\u30f3\u30b8\u30a2\u304c\u54b2\u3044\u3066\u3044\u308b",
         "cover": "https://i.scdn.co/image/ab67616d0000b273af54a0c7a9b52324da8980d6",
         "href": "https://api.spotify.com/v1/tracks/48unUqNPkVVLtYHQLArPN6",
         "added_at": "2021-01-17T11:13:17Z"
@@ -16666,7 +16754,7 @@
     {
         "name": "\u6cea\u306e\u30e0\u30b3\u30a6",
         "artists": "Stereopony",
-        "album": "\u30cf\u30a4\u30c9.\u30e9\u30f3\u30b8\u30a2\u304c\u54b2\u3044\u3066\u3044\u308b",
+        "album": "\u30cf\u30a4\u30c9\uff0e\u30e9\u30f3\u30b8\u30a2\u304c\u54b2\u3044\u3066\u3044\u308b",
         "cover": "https://i.scdn.co/image/ab67616d0000b273af54a0c7a9b52324da8980d6",
         "href": "https://api.spotify.com/v1/tracks/11HNtVNr78MM7hCZzSxL5J",
         "added_at": "2021-01-17T11:12:45Z"
@@ -18080,9 +18168,9 @@
         "added_at": "2020-11-06T23:43:43Z"
     },
     {
-        "name": "\u9752\u306eID",
+        "name": "\u9752\u306e\uff29\uff24",
         "artists": "Tokyo Incidents",
-        "album": "\u9752\u306eID",
+        "album": "\u9752\u306e\uff29\uff24",
         "cover": "https://i.scdn.co/image/ab67616d0000b273c986e17209e066865275c91b",
         "href": "https://api.spotify.com/v1/tracks/1Ay8JPDuBxKRNAaR58pmNc",
         "added_at": "2020-11-06T23:40:55Z"
@@ -18586,7 +18674,7 @@
     {
         "name": "All I Want",
         "artists": "\u30a2\u30f3\u30b8\u30a7\u30e9 (Vo. Alisa)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521",
         "href": "https://api.spotify.com/v1/tracks/3mmVbpYkU5ohWTScGGpWhI",
         "added_at": "2020-01-07T19:28:52Z"
@@ -18594,7 +18682,7 @@
     {
         "name": "Gravity Bounce",
         "artists": "GGK(Vo. Madison McFerrin)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521",
         "href": "https://api.spotify.com/v1/tracks/0iU9AHWjVYUoK9cWEuJCNO",
         "added_at": "2020-01-07T19:26:45Z"
@@ -18602,7 +18690,7 @@
     {
         "name": "Move Mountains",
         "artists": "\u30a2\u30f3\u30b8\u30a7\u30e9 (Vo. Alisa)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521",
         "href": "https://api.spotify.com/v1/tracks/0jpqrFBVDKNYXogtpUZdPx",
         "added_at": "2020-01-07T19:26:38Z"
@@ -18610,7 +18698,7 @@
     {
         "name": "Milky Way",
         "artists": "GGK(Vo. Madison McFerrin)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521",
         "href": "https://api.spotify.com/v1/tracks/2FooLzRRBu5TTFdIsYEQKm",
         "added_at": "2020-01-07T19:22:44Z"
@@ -18618,7 +18706,7 @@
     {
         "name": "Whispering My Love",
         "artists": "\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4(Vo.Nai Br.XX&Celeina Ann)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521",
         "href": "https://api.spotify.com/v1/tracks/62In7nf1a7vIuR2mEdatxy",
         "added_at": "2020-01-07T19:22:42Z"
@@ -18626,7 +18714,7 @@
     {
         "name": "Dance Tonight",
         "artists": "\u30d4\u30e7\u30fc\u30c8\u30eb(Vo. J R Price)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521",
         "href": "https://api.spotify.com/v1/tracks/3w7MyzseZ9cDfgj6yGJQGh",
         "added_at": "2020-01-07T19:18:42Z"
@@ -18634,7 +18722,7 @@
     {
         "name": "After the fire",
         "artists": "\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4(Vo.Nai Br.XX&Celeina Ann)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30b9\u3099\u30c6\u3099\u30a4\u300dVOCAL COLLECTION Vol.2",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.2",
         "cover": "https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3",
         "href": "https://api.spotify.com/v1/tracks/6SM2YaOueNhqVTvii6mff9",
         "added_at": "2020-01-07T19:17:18Z"
@@ -18642,7 +18730,7 @@
     {
         "name": "Beautiful Breakdown",
         "artists": "\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4(Vo.Nai Br.XX&Celeina Ann)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30b9\u3099\u30c6\u3099\u30a4\u300dVOCAL COLLECTION Vol.2",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.2",
         "cover": "https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3",
         "href": "https://api.spotify.com/v1/tracks/3dYQqxNlzSKo7TTmMRYcov",
         "added_at": "2020-01-07T19:17:07Z"
@@ -18650,7 +18738,7 @@
     {
         "name": "Message in the Wind",
         "artists": "\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4(Vo.Nai Br.XX&Celeina Ann)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30b9\u3099\u30c6\u3099\u30a4\u300dVOCAL COLLECTION Vol.2",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.2",
         "cover": "https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3",
         "href": "https://api.spotify.com/v1/tracks/0hGwdjRG0aADdjzGB8csR6",
         "added_at": "2020-01-07T19:16:58Z"
@@ -18706,7 +18794,7 @@
     {
         "name": "LIGHTS GO OUT",
         "artists": "\u30a2\u30fc\u30c6\u30a3\u30ac\u30f3",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30b9\u3099\u30c6\u3099\u30a4\u300dVOCAL COLLECTION Vol.2",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.2",
         "cover": "https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3",
         "href": "https://api.spotify.com/v1/tracks/3lM7ikTpGtmYUEgLoChW0U",
         "added_at": "2020-01-03T21:40:32Z"
@@ -18714,7 +18802,7 @@
     {
         "name": "Mother",
         "artists": "VOICES FROM MARS",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30b9\u3099\u30c6\u3099\u30a4\u300dVOCAL COLLECTION Vol.2",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.2",
         "cover": "https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3",
         "href": "https://api.spotify.com/v1/tracks/0GlejgfH8mrHTcJjqfcw6s",
         "added_at": "2020-01-03T21:40:04Z"
@@ -18722,7 +18810,7 @@
     {
         "name": "Army Of Two",
         "artists": "\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4(Vo.Nai Br.XX&Celeina Ann)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30b9\u3099\u30c6\u3099\u30a4\u300dVOCAL COLLECTION Vol.2",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.2",
         "cover": "https://i.scdn.co/image/ab67616d0000b27314907fe278e76f26c7f5ecc3",
         "href": "https://api.spotify.com/v1/tracks/2AUGrnJKLyjBPkzVkv1YtM",
         "added_at": "2020-01-03T21:40:01Z"
@@ -18730,7 +18818,7 @@
     {
         "name": "Light A Fire",
         "artists": "\u30a2\u30f3\u30b8\u30a7\u30e9 (Vo. Alisa)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521",
         "href": "https://api.spotify.com/v1/tracks/5YMJIlNBViYIDikcLo7vec",
         "added_at": "2020-01-03T21:31:29Z"
@@ -18738,7 +18826,7 @@
     {
         "name": "The Loneliest Girl",
         "artists": "\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4(Vo.Nai Br.XX&Celeina Ann)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521",
         "href": "https://api.spotify.com/v1/tracks/03JAxK9FmaSXnIZ6GxEcej",
         "added_at": "2020-01-03T21:31:20Z"
@@ -18746,7 +18834,7 @@
     {
         "name": "Galactic mermaid",
         "artists": "\u30de\u30fc\u30e1\u30a4\u30c9\u30fb\u30b7\u30b9\u30bf\u30fc\u30ba(Vo.\u30af\u30ea\u30e4\u30de\u30e6\u30a6\u30ea)",
-        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "album": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733c86d4559e7358211d312521",
         "href": "https://api.spotify.com/v1/tracks/1yHXUDFaAtxty9N3eklIHY",
         "added_at": "2020-01-03T21:28:40Z"
