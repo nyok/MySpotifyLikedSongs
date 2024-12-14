@@ -1,5 +1,29 @@
 [
     {
+        "name": "\u6669\u9910\u6b4c",
+        "artists": "tuki.",
+        "album": "\u6669\u9910\u6b4c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27355e029fef14405c5d536453b",
+        "href": "https://api.spotify.com/v1/tracks/2cxcqKwQtfKq7giphxjzOu",
+        "added_at": "2024-12-14T19:05:38Z"
+    },
+    {
+        "name": "Believe Again - 2015 Remaster",
+        "artists": "\u6d45\u9999 \u552f",
+        "album": "Candid Girl (+3; 2015 Remaster)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273780ce9efd84759a464ec042d",
+        "href": "https://api.spotify.com/v1/tracks/68CzxegzVs4E6wlHPnMvcw",
+        "added_at": "2024-12-02T12:14:02Z"
+    },
+    {
+        "name": "Sunrise to Sunset - 2015 Remaster",
+        "artists": "\u6d45\u9999 \u552f",
+        "album": "Candid Girl (+3; 2015 Remaster)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273780ce9efd84759a464ec042d",
+        "href": "https://api.spotify.com/v1/tracks/6Lgj2pcRGWMQHXjGuH5wH7",
+        "added_at": "2024-11-28T15:31:12Z"
+    },
+    {
         "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
         "artists": "tuki.",
         "album": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
@@ -2114,7 +2138,7 @@
     {
         "name": "\u7d50\u5a5a\u3057\u307e\u3057\u305f",
         "artists": "Satoko Shibata",
-        "album": "\u304b\u3099\u3093\u306f\u3099\u308c!\u30e1\u30ed\u30c6\u3099\u30a3\u30fc",
+        "album": "\u304c\u3093\u3070\u308c\uff01\u30e1\u30ed\u30c7\u30a3\u30fc",
         "cover": "https://i.scdn.co/image/ab67616d0000b273396c68b53edd6331a831336d",
         "href": "https://api.spotify.com/v1/tracks/4IUsQ85TJypSPAqENnlTcJ",
         "added_at": "2024-03-14T20:07:07Z"
@@ -2424,7 +2448,7 @@
         "added_at": "2024-01-28T19:32:55Z"
     },
     {
-        "name": "\u75c5\u9662\u307e\u3066\u3099\u306f\u3068\u3066\u3082\u9060\u3044",
+        "name": "\u75c5\u9662\u307e\u3067\u306f\u3068\u3066\u3082\u9060\u3044",
         "artists": "\u5742\u53e3\u559c\u54b2",
         "album": "\u75c5\u9662\u307e\u3067\u306f\u3068\u3066\u3082\u9060\u3044",
         "cover": "https://i.scdn.co/image/ab67616d0000b273597eaa1ce4b5c4eb237bd0a2",
@@ -3656,7 +3680,7 @@
         "added_at": "2023-11-02T17:45:01Z"
     },
     {
-        "name": "\u65ad\u7f6a\u30e4\u30de\u30b5\u3099\u30ca\u30c8\u3099\u30a5!",
+        "name": "\u65ad\u7f6a\u30e4\u30de\u30b6\u30ca\u30c9\u30a5\uff01",
         "artists": "IOSYS",
         "album": "\u6771\u65b9\u30a2\u30b2\u30cf",
         "cover": "https://i.scdn.co/image/ab67616d0000b273e25e53d4f26dc3db2f4edc59",
@@ -4194,7 +4218,7 @@
     {
         "name": "\u512a\u3057\u3044\u60aa\u9b54",
         "artists": "\u690d\u7530\u771f\u68a8\u6075",
-        "album": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u306a\u30ea\u30b9\u3099\u30e0",
+        "album": "\uff7e\uff9d\uff81\uff92\uff9d\uff80\uff99\u306a\uff98\uff7d\uff9e\uff91",
         "cover": "https://i.scdn.co/image/ab67616d0000b2735275685e467362946669372f",
         "href": "https://api.spotify.com/v1/tracks/3NYpTzZ0dk5EtUx71t3ybi",
         "added_at": "2023-08-19T02:01:34Z"
@@ -4562,7 +4586,7 @@
     {
         "name": "\u8594\u8587\u8272\u306e\u4eba\u751f",
         "artists": "Mai Kuraki",
-        "album": "\u304d\u307f\u3068\u604b\u306e\u307e\u307e\u3066\u3099\u7d42\u308f\u308c\u306a\u3044 \u3044\u3064\u3082\u5922\u306e\u307e\u307e\u3057\u3099\u3083\u3044\u3089\u308c\u306a\u3044/\u8594\u8587\u8272\u306e\u4eba\u751f\u3010\u540d\u63a2\u5075\u30b3\u30ca\u30f3\u76e4\u3011",
+        "album": "\u304d\u307f\u3068\u604b\u306e\u307e\u307e\u3067\u7d42\u308f\u308c\u306a\u3044\u3000\u3044\u3064\u3082\u5922\u306e\u307e\u307e\u3058\u3083\u3044\u3089\u308c\u306a\u3044\uff0f\u8594\u8587\u8272\u306e\u4eba\u751f\u3010\u540d\u63a2\u5075\u30b3\u30ca\u30f3\u76e4\u3011",
         "cover": "https://i.scdn.co/image/ab67616d0000b2737f65be89b4dc0b3c12d222f7",
         "href": "https://api.spotify.com/v1/tracks/19Ym1dbM0UNplaknXP0Gmd",
         "added_at": "2023-06-23T13:00:30Z"
@@ -5544,7 +5568,7 @@
         "added_at": "2023-05-17T21:25:28Z"
     },
     {
-        "name": "\u60b2\u3057\u3044\u6c17\u6301\u3061(Just a man in love)",
+        "name": "\u60b2\u3057\u3044\u6c17\u6301\u3061\uff08Just a man in love)",
         "artists": "Keisuke Kuwata",
         "album": "Keisuke Kuwata",
         "cover": "https://i.scdn.co/image/ab67616d0000b27325a586921425ad73d2e1d3ab",
@@ -5683,7 +5707,7 @@
         "name": "The Star,To You 17Years Old",
         "artists": "NASTYONA",
         "album": "Another Secret",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273415f00ea399dd849478fc977",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27349bbfbe158c256025d393c56",
         "href": "https://api.spotify.com/v1/tracks/147RFbUeRUEGuD2DXplkWx",
         "added_at": "2023-05-05T14:38:22Z"
     },
@@ -5770,7 +5794,7 @@
     {
         "name": "\u3046\u305f\u306e\u3051\u306f\u3044",
         "artists": "Ichiko Aoba",
-        "album": "0",
+        "album": "\uff10",
         "cover": "https://i.scdn.co/image/ab67616d0000b273d79390609d8815d0400fec97",
         "href": "https://api.spotify.com/v1/tracks/2TNG5NxXZXBsLmhB8RGN2N",
         "added_at": "2023-05-05T12:21:22Z"
@@ -6410,7 +6434,7 @@
     {
         "name": "\u3082\u3046\u5c11\u3057\u3060\u3051(\u300c\u3081\u3056\u307e\u3057\u30c6\u30ec\u30d3\u300d\u3088\u308a)[\u30ab\u30d0\u30fc]",
         "artists": "\u30d4\u30a2\u30ce\u30b5\u30a6\u30f3\u30c9\u30ef\u30fc\u30af\u30b9",
-        "album": "\u30d2\u309a\u30a2\u30ce\u3066\u3099\u8074\u304f2021\u6700\u65b0SONGS~VOL.4",
+        "album": "\u30d4\u30a2\u30ce\u3067\u8074\u304f2021\u6700\u65b0SONGS\uff5eVOL.4",
         "cover": "https://i.scdn.co/image/ab67616d0000b2734f0644e92e8330e97585b005",
         "href": "https://api.spotify.com/v1/tracks/58JCXjGrPI8fdQiLUGdgD5",
         "added_at": "2023-03-06T13:54:09Z"
@@ -6768,7 +6792,7 @@
         "added_at": "2023-02-03T22:57:33Z"
     },
     {
-        "name": "Believe in yourself - Remaster",
+        "name": "Believe in yourself",
         "artists": "Mao Abe",
         "album": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 19-24 \u901a\u5e38\u76e4",
         "cover": "https://i.scdn.co/image/ab67616d0000b273ddf8513ed593011e6ce8a740",
@@ -8770,7 +8794,7 @@
     {
         "name": "\u30e9\u30a4\u30aa\u30f3",
         "artists": "May'n",
-        "album": "\u300c\u30de\u30af\u30ed\u30b9F\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de \u30e9\u30a4\u30aa\u30f3",
+        "album": "\u300c\u30de\u30af\u30ed\u30b9F\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u30e9\u30a4\u30aa\u30f3",
         "cover": "https://i.scdn.co/image/ab67616d0000b2732adcb5fdd7cd48b096577e83",
         "href": "https://api.spotify.com/v1/tracks/35HhTsMus2B7hA7rfbrp84",
         "added_at": "2022-11-14T21:45:56Z"
@@ -9392,7 +9416,7 @@
         "added_at": "2022-11-05T22:55:50Z"
     },
     {
-        "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u30fb\u30c6\u3099\u30a3\u30b9\u30b3",
+        "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\uff65\u30c7\u30a3\u30b9\u30b3",
         "artists": "Perfume",
         "album": "GAME",
         "cover": "https://i.scdn.co/image/ab67616d0000b27306ca33f0236a9b67e18e2a85",
@@ -9552,7 +9576,7 @@
         "added_at": "2022-11-05T22:10:14Z"
     },
     {
-        "name": "\u30bf\u3099\u30f3\u30b7\u30f3\u30af\u3099\u30fb\u30d2\u30fc\u30ed\u30fc(Eat You Up) - Dear Pop Singer Version",
+        "name": "\u30c0\u30f3\u30b7\u30f3\u30b0\u30fb\u30d2\u30fc\u30ed\u30fc\uff08Eat You Up\uff09 - Dear Pop Singer Version",
         "artists": "Yoko Oginome",
         "album": "\u30c0\u30f3\u30b7\u30f3\u30b0\u30fb\u30d2\u30fc\u30ed\u30fc -ALL EAT YOU UP-",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a138aaf05329a278f6e784f7",
@@ -10530,7 +10554,7 @@
     {
         "name": "\u30b9\u30d4\u30e9\u30fc\u30ec",
         "artists": "Yui Makino",
-        "album": "\u30c6\u30ec\u30d3\u6771\u4eac\u7cfb\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cARIA The ORIGINATION\u300dOP\u30c6\u30fc\u30de \u30b9\u30d4\u30e9\u30fc\u30ec",
+        "album": "\u30c6\u30ec\u30d3\u6771\u4eac\u7cfb\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cARIA The ORIGINATION\u300dOP\u30c6\u30fc\u30de\u3000\u30b9\u30d4\u30e9\u30fc\u30ec",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733670d14f1e7aeed4f0cd8805",
         "href": "https://api.spotify.com/v1/tracks/5v7d2c9NlvYbP3vooHj4RZ",
         "added_at": "2022-10-27T15:11:16Z"
@@ -12240,9 +12264,9 @@
         "added_at": "2022-06-24T15:27:28Z"
     },
     {
-        "name": "\u30bf\u30a4\u30df\u30f3\u30af\u3099~Timing~ \u30d5\u30ec\u30f3\u30b9\u3099cover ver.",
+        "name": "\u30bf\u30a4\u30df\u30f3\u30b0\uff5eTiming\uff5e \u30d5\u30ec\u30f3\u30bacover ver.",
         "artists": "\u30d5\u30ec\u30f3\u30ba",
-        "album": "\u30bf\u30a4\u30df\u30f3\u30af\u3099~Timing~ \u30d5\u30ec\u30f3\u30b9\u3099cover ver.",
+        "album": "\u30bf\u30a4\u30df\u30f3\u30b0\uff5eTiming\uff5e \u30d5\u30ec\u30f3\u30bacover ver.",
         "cover": "https://i.scdn.co/image/ab67616d0000b2732af4c0c6755d5fa67995d722",
         "href": "https://api.spotify.com/v1/tracks/5Oi8XtvciTQo6vmffKI31Z",
         "added_at": "2022-06-24T15:19:49Z"
@@ -12440,7 +12464,7 @@
         "added_at": "2022-06-23T10:00:15Z"
     },
     {
-        "name": "\u30bf\u3099\u30f3\u30b7\u30f3\u30af\u3099\u30fb\u30d2\u30fc\u30ed\u30fc(Eat You Up)",
+        "name": "\u30c0\u30f3\u30b7\u30f3\u30b0\u30fb\u30d2\u30fc\u30ed\u30fc\uff08Eat You Up\uff09",
         "artists": "Yoko Oginome",
         "album": "\u30c0\u30f3\u30b7\u30f3\u30b0\u30fb\u30d2\u30fc\u30ed\u30fc -ALL EAT YOU UP-",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a138aaf05329a278f6e784f7",
@@ -13992,9 +14016,9 @@
         "added_at": "2022-03-05T23:43:32Z"
     },
     {
-        "name": "\u30ea\u30f3\u30b3\u3099\u65e5\u548c~The Wolf Whistling Song",
+        "name": "\u30ea\u30f3\u30b4\u65e5\u548c\uff5eThe Wolf Whistling Song",
         "artists": "ROCKY CHACK",
-        "album": "\u300c\u72fc\u3068\u9999\u8f9b\u6599\u300d\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30c6\u30fc\u30de \u30ea\u30f3\u30b3\u3099\u65e5\u548c~The Wolf Whistling Song",
+        "album": "\u300c\u72fc\u3068\u9999\u8f9b\u6599\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u30ea\u30f3\u30b4\u65e5\u548c\uff5eThe Wolf Whistling Song",
         "cover": "https://i.scdn.co/image/ab67616d0000b2735b8cbb7434e2cdbc79bbedb9",
         "href": "https://api.spotify.com/v1/tracks/1h2X1BMfF0OHEfu1kg94hO",
         "added_at": "2022-03-05T23:40:48Z"
@@ -14136,7 +14160,7 @@
         "added_at": "2022-03-05T22:46:56Z"
     },
     {
-        "name": "Only One ~\u30aa\u30f3\u30ea\u30fc\u30fb\u30ef\u30f3~",
+        "name": "Only One \uff5e\u30aa\u30f3\u30ea\u30fc\u30fb\u30ef\u30f3\uff5e",
         "artists": "Kohmi Hirose",
         "album": "SINGLE COLLECTION",
         "cover": "https://i.scdn.co/image/ab67616d0000b273867ebb4304acef2866a9972b",
@@ -14602,7 +14626,7 @@
     {
         "name": "Umi yorimo Fukaku",
         "artists": "Etsuko Sai",
-        "album": "MOBILE FIGHTER G GUNDAM Original Motion Picture Soundtrack - GUNDAM FIGHT Round 1&2",
+        "album": "MOBILE FIGHTER G GUNDAM Original Motion Picture Soundtrack - GUNDAM FIGHT Round 1\uff062",
         "cover": "https://i.scdn.co/image/ab67616d0000b2736c2480c2cf0c7ac490ac0654",
         "href": "https://api.spotify.com/v1/tracks/7qlYhNeZXUXU4sg45yqL5X",
         "added_at": "2021-11-26T14:04:41Z"
@@ -15115,7 +15139,7 @@
         "name": "\u30c6\u30ec\u30d5\u30a9\u30f3\u30fb\u30ca\u30f3\u30d0\u30fc",
         "artists": "Junko Ohashi",
         "album": "TOKYO - CITY POP -",
-        "cover": "https://i.scdn.co/image/ab67616d0000b2735c4bf3343a364e7881a7d754",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d1da7582931a965e2a590226",
         "href": "https://api.spotify.com/v1/tracks/5SxrdeIHki6FmlsKj2m8mY",
         "added_at": "2021-07-16T21:10:19Z"
     },
@@ -15706,7 +15730,7 @@
     {
         "name": "Kawaranai Mono",
         "artists": "Hanako Oku",
-        "album": "Hanako Oku Best ~ My Letters ~",
+        "album": "Hanako Oku Best \uff5e My Letters \uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b273116ebff9f4c87643fb7b683d",
         "href": "https://api.spotify.com/v1/tracks/0t3g7yO7fPEyuegfJjyukf",
         "added_at": "2021-06-02T19:09:39Z"
@@ -16600,7 +16624,7 @@
         "added_at": "2021-01-17T11:29:22Z"
     },
     {
-        "name": "\u30b1\u3099\u30ec\u30f3\u30c6\u3099\u304b\u3099\u3068\u3051\u308b\u307b\u3068\u3099\u604b\u3057\u305f\u3044(WHAT AN EXCITING MIX!)",
+        "name": "\u30b2\u30ec\u30f3\u30c7\u304c\u3068\u3051\u308b\u307b\u3069\u604b\u3057\u305f\u3044\uff08WHAT AN EXCITING MIX\uff01\uff09",
         "artists": "Kohmi Hirose",
         "album": "LOVE TOGETHER",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a61d2b95012717a7a3206ccb",
@@ -17656,9 +17680,9 @@
         "added_at": "2020-11-20T14:09:47Z"
     },
     {
-        "name": "Departures ~\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c~(TV Edit)",
+        "name": "Departures \uff5e\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\uff5e\uff08TV Edit\uff09",
         "artists": "EGOIST",
-        "album": "Departures ~\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c~",
+        "album": "Departures\u3000\uff5e\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b2734afe1fa4798fc13070d4d1d8",
         "href": "https://api.spotify.com/v1/tracks/0cgIWUA68gHi59bKu0mAoN",
         "added_at": "2020-11-14T23:30:05Z"
@@ -17712,9 +17736,9 @@
         "added_at": "2020-11-14T23:25:10Z"
     },
     {
-        "name": "Departures ~\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c~",
+        "name": "Departures \uff5e\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\uff5e",
         "artists": "EGOIST",
-        "album": "Departures ~\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c~",
+        "album": "Departures\u3000\uff5e\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\uff5e",
         "cover": "https://i.scdn.co/image/ab67616d0000b2734afe1fa4798fc13070d4d1d8",
         "href": "https://api.spotify.com/v1/tracks/6FvouuYgpt4ocvmyYCXcvc",
         "added_at": "2020-11-14T23:24:44Z"
@@ -18280,7 +18304,7 @@
         "added_at": "2020-07-23T23:24:40Z"
     },
     {
-        "name": "\u3042\u306a\u305f\u306eSpecial\u306b\u306a\u308a\u305f\u3044~Just wanna be~",
+        "name": "\u3042\u306a\u305f\u306eSpecial\u306b\u306a\u308a\u305f\u3044\uff5eJust wanna be\uff5e",
         "artists": "AZU",
         "album": "\u6642\u9593\u3088\u6b62\u307e\u308c",
         "cover": "https://i.scdn.co/image/ab67616d0000b273c0cec7966ccda57f6788bf79",
@@ -19098,7 +19122,7 @@
     {
         "name": "Happy Valley",
         "artists": "Orange Pekoe",
-        "album": "10th Anniversary Best Album SUN & MOON (Another Edition)",
+        "album": "10th Anniversary Best Album SUN & MOON \uff08Another Edition\uff09",
         "cover": "https://i.scdn.co/image/ab67616d0000b273714d1dc4ac3dfbc488ac6c59",
         "href": "https://api.spotify.com/v1/tracks/27nCKdJpl4wLRymDolcTOQ",
         "added_at": "2019-11-19T22:32:11Z"
@@ -19442,7 +19466,7 @@
     {
         "name": "\u6d99",
         "artists": "Satoko Shibata",
-        "album": "\u304b\u3099\u3093\u306f\u3099\u308c!\u30e1\u30ed\u30c6\u3099\u30a3\u30fc",
+        "album": "\u304c\u3093\u3070\u308c\uff01\u30e1\u30ed\u30c7\u30a3\u30fc",
         "cover": "https://i.scdn.co/image/ab67616d0000b273396c68b53edd6331a831336d",
         "href": "https://api.spotify.com/v1/tracks/0zoHL2sDgzXQMHZMSMbEHH",
         "added_at": "2019-06-16T00:08:11Z"
@@ -19504,7 +19528,7 @@
         "added_at": "2019-06-16T00:02:51Z"
     },
     {
-        "name": "Hello,Again~\u6614\u304b\u3089\u3042\u308b\u5834\u6240~",
+        "name": "Hello,Again\uff5e\u6614\u304b\u3089\u3042\u308b\u5834\u6240\uff5e",
         "artists": "My Little Lover",
         "album": "evergreen",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a848606699dc0439a2c01e78",
@@ -19746,7 +19770,7 @@
     {
         "name": "\u30ad\u30df\u30ac\u30bf\u30e1 2016",
         "artists": "Suara",
-        "album": "\u3046\u305f\u308f\u308c\u308b\u3082\u306e \u507d\u308a\u306e\u4eee\u9762 & \u4e8c\u4eba\u306e\u767d\u7687 \u6b4c\u96c6",
+        "album": "\u3046\u305f\u308f\u308c\u308b\u3082\u306e \u507d\u308a\u306e\u4eee\u9762 & \u4e8c\u4eba\u306e\u767d\u7687\u3000\u6b4c\u96c6",
         "cover": "https://i.scdn.co/image/ab67616d0000b27338c1193ae7b58747c66ea2ed",
         "href": "https://api.spotify.com/v1/tracks/2Gp7fQLSC6XEAwwV4aRSqc",
         "added_at": "2019-06-01T16:12:28Z"
@@ -20176,7 +20200,7 @@
         "added_at": "2015-07-24T22:29:36Z"
     },
     {
-        "name": "Magic of Love(Album-mix) - Album-Mix",
+        "name": "Magic of Love(Album-mix)",
         "artists": "Perfume",
         "album": "LEVEL3",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a479a10fffbeb7a57457934f",
