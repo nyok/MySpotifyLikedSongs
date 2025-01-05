@@ -1,5 +1,117 @@
 [
     {
+        "name": "Eternal moon",
+        "artists": "Silver Forest",
+        "album": "\u6771\u65b9\u8403\u594f\u697d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a5dba86fcbfa96e674239099",
+        "href": "https://api.spotify.com/v1/tracks/0LmMaiTgJY2xm5WoTqk6Wr",
+        "added_at": "2025-01-04T22:46:45Z"
+    },
+    {
+        "name": "\u30ed\u30fb\u30ed\u30fb\u30ed\u30fb\u30ed\u30b7\u30a2\u30f3\u30fb\u30eb\u30fc\u30ec\u30c3\u30c8 - \u30ec\u30b3\u30fc\u30c9\u30fb\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
+        "artists": "Meiko Nakahara",
+        "album": "2000BEST\uff08\u30df\u30ec\u30cb\u30a2\u30e0\u30d9\u30b9\u30c8\uff09\u4e2d\u539f\u3081\u3044\u3053\u3000\u30d9\u30b9\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c808dc5504b9da2b72608cc7",
+        "href": "https://api.spotify.com/v1/tracks/0Zxy0ruSsqpKy948m4b4Qw",
+        "added_at": "2025-01-04T22:35:38Z"
+    },
+    {
+        "name": "\u3082\u3069\u304b\u3057\u3044\u4e16\u754c\u306e\u4e0a\u3067",
+        "artists": "Yui Makino",
+        "album": "\u5929\u7403\u306e\u97f3\u697d",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733b8143988aca86f1d0fe2ef0",
+        "href": "https://api.spotify.com/v1/tracks/3W3dSGSVk0LnXWpoJuE4Op",
+        "added_at": "2025-01-04T22:29:57Z"
+    },
+    {
+        "name": "Dancing Through Life",
+        "artists": "Stephen Schwartz",
+        "album": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05",
+        "href": "https://api.spotify.com/v1/tracks/49xRJIQN8AZ1cN5pW68lOr",
+        "added_at": "2025-01-04T21:46:54Z"
+    },
+    {
+        "name": "\u30b5\u30f3\u30ad\u30e5\u30fc\u30c9\u30ed\u30c3\u30d7\u30ad\u30c3\u30af\uff01",
+        "artists": "\u90aa\u795e\u3061\u3083\u3093\uff08CV\uff1a\u9234\u6728\u611b\u5948\uff09",
+        "album": "\u30b5\u30f3\u30ad\u30e5\u30fc\u30c9\u30ed\u30c3\u30d7\u30ad\u30c3\u30af\uff01",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733194bc7dc80d7aa5f150013e",
+        "href": "https://api.spotify.com/v1/tracks/620sooR6cxkJvzZVDOr5du",
+        "added_at": "2025-01-04T19:48:46Z"
+    },
+    {
+        "name": "\u30df\u30c1\u30ce\u30c1\u30e2\u30b7\u30fc\u30ad\u30df\u30ce\u30ad\u30e2\u30c1",
+        "artists": "\u30c1\u30e2\u30b7\u30fc(CV.\u68ee\u6c38\u5343\u624d)",
+        "album": "\u3042\u3093\u30cf\u30d4\u266a\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273035515b56bf8340b86b99c3b",
+        "href": "https://api.spotify.com/v1/tracks/5nXOL6jt3wShnbcKJdfFwz",
+        "added_at": "2025-01-04T18:40:23Z"
+    },
+    {
+        "name": "Precious Heart",
+        "artists": "Seiko Matsuda",
+        "album": "BIBLE",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e17f9ba29e61f30bbf6cf8bd",
+        "href": "https://api.spotify.com/v1/tracks/0Z2NnFI5knhS7PKuA9CVu9",
+        "added_at": "2025-01-02T18:46:52Z"
+    },
+    {
+        "name": "BEST FRIEND",
+        "artists": "\u5150\u5cf6\u672a\u6563",
+        "album": "BEST FRIEND",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c0d11147e5446b993d6cb917",
+        "href": "https://api.spotify.com/v1/tracks/3ZsXZwxa5Vygn5Cwt3cmcT",
+        "added_at": "2025-01-02T18:38:45Z"
+    },
+    {
+        "name": "\u591c\u7a7a\u306e\u30a4\u30e4\u30ea\u30f3\u30b0",
+        "artists": "Junko Yagami",
+        "album": "LONELY GIRL",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bada52688d58bfdbd9ffe064",
+        "href": "https://api.spotify.com/v1/tracks/39kInpX93YkrJEWeuuhZ7s",
+        "added_at": "2024-12-31T23:39:46Z"
+    },
+    {
+        "name": "\u5ca1\u5d0e\u4eac\u5b50\u306e\u3042\u306e\u5a18\u306b\u306a\u308a\u305f\u304b\u3063\u305f",
+        "artists": "\u6771\u4eac\u521d\u671f\u885d\u52d5",
+        "album": "\u5ca1\u5d0e\u4eac\u5b50\u306e\u3042\u306e\u5a18\u306b\u306a\u308a\u305f\u304b\u3063\u305f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732a95840edb1a99997962c2c9",
+        "href": "https://api.spotify.com/v1/tracks/0wykwC7fLm3kn6cw5DfAr5",
+        "added_at": "2024-12-29T13:26:20Z"
+    },
+    {
+        "name": "\u68ee\u306e\u5c0f\u3055\u306a\u30ec\u30b9\u30c8\u30e9\u30f3",
+        "artists": "Aoi Teshima",
+        "album": "\u68ee\u306e\u5c0f\u3055\u306a\u30ec\u30b9\u30c8\u30e9\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736ae24708611049548fc22986",
+        "href": "https://api.spotify.com/v1/tracks/37XYyITs3EVTmU5eNrimEd",
+        "added_at": "2024-12-21T23:01:56Z"
+    },
+    {
+        "name": "\u5fc3\u306e\u307e\u307e\u306b",
+        "artists": "Ruiko Kurahashi",
+        "album": "\u7d14\u611b\uff5e\u3053\u306e\u611b\u306b\u751f\u304d\u3066\uff5e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731999b9bc70622ecfac2f03d5",
+        "href": "https://api.spotify.com/v1/tracks/2DzlUuWznTsDFYqF900UK4",
+        "added_at": "2024-12-19T09:08:17Z"
+    },
+    {
+        "name": "\u30ac\u30e9\u30b9\u306eYESTERDAY",
+        "artists": "Ruiko Kurahashi",
+        "album": "\u5009\u6a4b\u30eb\u30a4\u5b50\u3000\u30cb\u30e5\u30fc\u30fb\u30d9\u30b9\u30c8\u30ca\u30a6",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273418085d35f44abc0a9e4fb55",
+        "href": "https://api.spotify.com/v1/tracks/0bgJug3qTJWA4uyQHA7Zuk",
+        "added_at": "2024-12-17T15:33:38Z"
+    },
+    {
+        "name": "\u30e9\u30b9\u30c8\u30b7\u30fc\u30f3\u306b\u611b\u3092\u3053\u3081\u3066",
+        "artists": "Ruiko Kurahashi",
+        "album": "\u5009\u6a4b\u30eb\u30a4\u5b50\u3000\u30cb\u30e5\u30fc\u30fb\u30d9\u30b9\u30c8\u30ca\u30a6",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273418085d35f44abc0a9e4fb55",
+        "href": "https://api.spotify.com/v1/tracks/1ntQt3WyytQmP1Htya70da",
+        "added_at": "2024-12-17T15:33:29Z"
+    },
+    {
         "name": "\u6669\u9910\u6b4c",
         "artists": "tuki.",
         "album": "\u6669\u9910\u6b4c",
@@ -1147,7 +1259,7 @@
         "name": "The Storm",
         "artists": "Sweet Dove",
         "album": "Hope Is the Thing With Feathers",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273a56c23e60bd970d2c5f97201",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27366b2068e323a6e09c5f92e6d",
         "href": "https://api.spotify.com/v1/tracks/4XW2ASQcqAubwU1eDvAguG",
         "added_at": "2024-08-20T18:32:52Z"
     },
@@ -1329,7 +1441,7 @@
     },
     {
         "name": "37.2",
-        "artists": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+        "artists": "ChoQMay",
         "album": "\u7d04\u675f\u306b\u5b88\u3089\u308c\u306a\u3044",
         "cover": "https://i.scdn.co/image/ab67616d0000b273e5b105feddf2533372835c4d",
         "href": "https://api.spotify.com/v1/tracks/6cAVsddPenOM2VWoz39ut7",
@@ -3433,7 +3545,7 @@
     },
     {
         "name": "\u51b7\u3084\u3057\u30cd\u30ae\u854e\u9ea6",
-        "artists": "Cody\u30fbLee(\u674e)",
+        "artists": "CodyLee",
         "album": "\u5fc3\u62cd\u6570\u3068\u30e9\u30f4\u30ec\u30bf\u30fc\u3001\u305d\u308c\u3068\u512a\u3057\u3055",
         "cover": "https://i.scdn.co/image/ab67616d0000b273de75ad82604171dc027fb706",
         "href": "https://api.spotify.com/v1/tracks/6xGo0VrMRvv7GupeWe6uM5",
@@ -4153,7 +4265,7 @@
     },
     {
         "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044",
-        "artists": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+        "artists": "ChoQMay",
         "album": "\u3059\u308b\u3069\u3044\u3055\u3055\u304f\u308c",
         "cover": "https://i.scdn.co/image/ab67616d0000b273e9bfe694c60819d50578e765",
         "href": "https://api.spotify.com/v1/tracks/5O7dUqcxMUVPFL9YAE9e7q",
@@ -6323,7 +6435,7 @@
         "name": "\u5931\u793c\u3057\u307e\u3059\u304c\u3001RIP\u2661",
         "artists": "Mori Calliope",
         "album": "DEAD BEATS",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273e9114a67fa86d825dac50d8c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ee055bf73a04147819179bde",
         "href": "https://api.spotify.com/v1/tracks/4luSvNPtu6emYsaTOHrguR",
         "added_at": "2023-03-07T23:10:23Z"
     },
@@ -14267,7 +14379,7 @@
         "name": "The Thing With Feathers",
         "artists": "Sweet Dove",
         "album": "Hope Is the Thing With Feathers",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273a56c23e60bd970d2c5f97201",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27366b2068e323a6e09c5f92e6d",
         "href": "https://api.spotify.com/v1/tracks/4gcP3UEO2p2ldWp8agxcVV",
         "added_at": "2022-02-11T19:31:49Z"
     },
@@ -16224,9 +16336,9 @@
         "added_at": "2021-05-01T02:24:10Z"
     },
     {
-        "name": "\u30de\u30b8\u30ab\u30eb\u30a8\u30a4\u30c8\u30d3\u30c3\u30c8\u30c4\u30a2\u30fc",
+        "name": "Magical 8bit Tour",
         "artists": "YMCK",
-        "album": "\u30d5\u30a1\u30df\u30ea\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+        "album": "FAMILY MUSIC",
         "cover": "https://i.scdn.co/image/ab67616d0000b273dfef2f4f5febb531e53d63ea",
         "href": "https://api.spotify.com/v1/tracks/5igk5zGw7EigRyhta1ApCg",
         "added_at": "2021-05-01T02:23:56Z"
@@ -20685,38 +20797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Alma Song (feat. Hatsune Miku)",
-        "artists": "PWRFL Power",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/7KFBlb7nKH7dieXzKyrZIu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Sign (feat. Hatsune Miku)",
-        "artists": "Fasorashi-Do",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Getting Depressed and Depressed (feat. Hatsune Miku)",
-        "artists": "Orange P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0lZB3rHRY5e9pewayYNwg7",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Kaero Kaero (feat. Hatsune Miku)",
-        "artists": "Penoreri",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4n3xD1VfJRQS6k2p5qDBTt",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
