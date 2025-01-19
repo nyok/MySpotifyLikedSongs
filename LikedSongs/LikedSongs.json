@@ -1,5 +1,69 @@
 [
     {
+        "name": "\u3042\u306e\u624b\u3053\u306e\u624b\u3067 feat. \u5927\u585a\u7d17\u82f1",
+        "artists": "tonari no Hanako",
+        "album": "\u3042\u306e\u624b\u3053\u306e\u624b\u3067 feat. \u5927\u585a\u7d17\u82f1",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e5f06ad2805b24cf9d0c0591",
+        "href": "https://api.spotify.com/v1/tracks/7IKVXTFP1KZutPcQm1IrCw",
+        "added_at": "2025-01-19T16:16:32Z"
+    },
+    {
+        "name": "\u5348\u524d\uff18\u6642\u306e\u8131\u8d70\u8a08\u753b \uff5eThis is what you want, but This is what you get\uff5e",
+        "artists": "Cymbals",
+        "album": "\u5348\u524d\uff18\u6642\u306e\u8131\u8d70\u8a08\u753b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ab01ec234909c591a7b4e078",
+        "href": "https://api.spotify.com/v1/tracks/40PAeO0SUovPKAypbWA1SZ",
+        "added_at": "2025-01-19T16:10:11Z"
+    },
+    {
+        "name": "\u30e9\u30d6\u30ec\u30bf\u30fc",
+        "artists": "Yoeko Kurahashi",
+        "album": "\u5a66\u4eba\u7528",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27378d69f79abbf8933ccf014b2",
+        "href": "https://api.spotify.com/v1/tracks/4YLEdBoht4Lpguqa2ZUEEW",
+        "added_at": "2025-01-19T16:07:57Z"
+    },
+    {
+        "name": "(\u604b\u306f) \u767e\u5e74\u6226\u4e89",
+        "artists": "Soutaiseiriron",
+        "album": "\u30b7\u30f3\u30af\u30ed\u30cb\u30b7\u30c6\u30a3\u30fc\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d700845e98b043cc5ce7308e",
+        "href": "https://api.spotify.com/v1/tracks/3HZvfm7gD2BgHEqSS1vA1w",
+        "added_at": "2025-01-19T16:02:56Z"
+    },
+    {
+        "name": "\u592a\u967d\u306e\u30b9\u30ad\u30e3\u30c3\u30c8",
+        "artists": "dorlis",
+        "album": "Swingin' Street 3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27392649ea8de08ead18898f3b5",
+        "href": "https://api.spotify.com/v1/tracks/5ZbnqpiXkwR2mgLFnMaroc",
+        "added_at": "2025-01-19T15:52:59Z"
+    },
+    {
+        "name": "\u4eca\u65e5\u3082\u96e8",
+        "artists": "Yoeko Kurahashi",
+        "album": "\u8272\u3005",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c3d9717f37e6e471e08e655a",
+        "href": "https://api.spotify.com/v1/tracks/4k0wQbTKM35nezwlzEQ0dI",
+        "added_at": "2025-01-19T15:43:13Z"
+    },
+    {
+        "name": "music",
+        "artists": "\u30e8\u30a8\u30b3",
+        "album": "\u30cb\u30e5\u30fc\u30e8\u30a8\u30b3 \u2161 \u301c\u30e9\u30d7\u30bd\u30c7\u30a3\u301c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f45490b48031493fef7c2ff4",
+        "href": "https://api.spotify.com/v1/tracks/3dMNowJYWGSvmXlAQA16tT",
+        "added_at": "2025-01-15T15:43:09Z"
+    },
+    {
+        "name": "\u60b2\u3057\u3044\u6b4c",
+        "artists": "\u30d4\u30c1\u30ab\u30fc\u30c8\u30fb\u30d5\u30a1\u30a4\u30f4",
+        "album": "THE BAND OF 20TH CENTURY: Nippon Columbia Years 1991-2001",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734dd516f08fcdf428f7ec1469",
+        "href": "https://api.spotify.com/v1/tracks/4fbS0w3Ec2AxPB5seHrarO",
+        "added_at": "2025-01-06T11:17:57Z"
+    },
+    {
         "name": "Eternal moon",
         "artists": "Silver Forest",
         "album": "\u6771\u65b9\u8403\u594f\u697d",
@@ -1099,7 +1163,7 @@
         "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
         "artists": "Kocchi no Kento",
         "album": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
-        "cover": "https://i.scdn.co/image/ab67616d0000b2738997a5c4f4ce110230236bae",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27363f1c64357b071196538f1f8",
         "href": "https://api.spotify.com/v1/tracks/41xGcFvQsGYQs0RDFvPfv3",
         "added_at": "2024-09-01T19:56:19Z"
     },
@@ -3545,7 +3609,7 @@
     },
     {
         "name": "\u51b7\u3084\u3057\u30cd\u30ae\u854e\u9ea6",
-        "artists": "CodyLee",
+        "artists": "Cody\u30fbLee(\u674e)",
         "album": "\u5fc3\u62cd\u6570\u3068\u30e9\u30f4\u30ec\u30bf\u30fc\u3001\u305d\u308c\u3068\u512a\u3057\u3055",
         "cover": "https://i.scdn.co/image/ab67616d0000b273de75ad82604171dc027fb706",
         "href": "https://api.spotify.com/v1/tracks/6xGo0VrMRvv7GupeWe6uM5",
@@ -12099,7 +12163,7 @@
         "name": "On a Clear Day",
         "artists": "Joe Hisaishi",
         "album": "Kiki's Delivery Service Soundtrack Music Collection",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27333c927e353611ebb8115fc90",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27399e60198d20bd0a2ab2900a7",
         "href": "https://api.spotify.com/v1/tracks/1P47jw1VxOTQ0MM6sGKCkP",
         "added_at": "2022-07-11T10:47:38Z"
     },
@@ -12123,7 +12187,7 @@
         "name": "Departure",
         "artists": "Joe Hisaishi",
         "album": "Kiki's Delivery Service Soundtrack Music Collection",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27333c927e353611ebb8115fc90",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27399e60198d20bd0a2ab2900a7",
         "href": "https://api.spotify.com/v1/tracks/7uNu0IWPFHHmi8KI3akdEg",
         "added_at": "2022-07-11T10:25:45Z"
     },
@@ -20733,70 +20797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Utsusemi Disco (feat. GUMI)",
-        "artists": "killchord",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Carnival (feat. Yuzuki Yukari)",
-        "artists": "Bokunenbito",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "LOVELOVEMIKU (feat. Hatsune Miku)",
-        "artists": "katatumuriP",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/5yJrP1frURYhTVgOyQ6FoR",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Habitat (feat. Hatsune Miku)",
-        "artists": "Strausz",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/7v6rNgbLVQgrDGbaoGtJti",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "DANCALOID (feat. Hatsune Miku)",
-        "artists": "Kii",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Can We Go Back (feat. Hatsune Miku)",
-        "artists": "Arthur Shastra",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Splendid Fantazia (feat. Hatsune Miku)",
-        "artists": "Rinne Apple P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "JAXA (feat. Hatsune Miku)",
-        "artists": "Giganta",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
