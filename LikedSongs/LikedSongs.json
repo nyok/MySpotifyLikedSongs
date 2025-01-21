@@ -1,5 +1,21 @@
 [
     {
+        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
+        "artists": "DECO*27",
+        "album": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27362e7d812d35e39d6c96841a8",
+        "href": "https://api.spotify.com/v1/tracks/1iywVk6Xx1XmJwd0rExYI3",
+        "added_at": "2025-01-19T17:29:26Z"
+    },
+    {
+        "name": "\u304d\u307f\u306f\u30b7\u30e5\u30ce\u30fc\u30b1\u30eb",
+        "artists": "mekakushe",
+        "album": "\u304d\u307f\u306f\u30b7\u30e5\u30ce\u30fc\u30b1\u30eb",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fe16bc660e0be4a459476985",
+        "href": "https://api.spotify.com/v1/tracks/767qdcP2Ns5idlCuNPI857",
+        "added_at": "2025-01-19T17:26:21Z"
+    },
+    {
         "name": "\u3042\u306e\u624b\u3053\u306e\u624b\u3067 feat. \u5927\u585a\u7d17\u82f1",
         "artists": "tonari no Hanako",
         "album": "\u3042\u306e\u624b\u3053\u306e\u624b\u3067 feat. \u5927\u585a\u7d17\u82f1",
@@ -20781,22 +20797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Rinne (feat. Hatsune Miku)",
-        "artists": "Deme",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4L9t6Of9x7O5OFeNWi2elG",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "PEACE (feat. Hatsune Miku)",
-        "artists": "Kali C.",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
