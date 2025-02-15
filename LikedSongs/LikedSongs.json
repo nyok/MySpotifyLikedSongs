@@ -1,5 +1,85 @@
 [
     {
+        "name": "My Boo",
+        "artists": "Brasstracks",
+        "album": "My Boo",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27311fbd4491409095183ccfe7c",
+        "href": "https://api.spotify.com/v1/tracks/5EkRJITdPG60ovDdCE3B3V",
+        "added_at": "2025-02-15T10:45:19Z"
+    },
+    {
+        "name": "Chess (Type Beat)",
+        "artists": "joyful",
+        "album": "Chess",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27368f9cd5710a71a69e1010e81",
+        "href": "https://api.spotify.com/v1/tracks/1FgcRLca2X8uhLh0fshvRW",
+        "added_at": "2025-02-14T19:41:02Z"
+    },
+    {
+        "name": "Michino Timothy Kimino Kimochi",
+        "artists": "Chitose Morinaga",
+        "album": "Michino Timothy Kimino Kimochi",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27303819d7b66ad4f016eabdcbc",
+        "href": "https://api.spotify.com/v1/tracks/6gdXZRLJr6pMZSp7QOo4Wm",
+        "added_at": "2025-02-14T19:40:48Z"
+    },
+    {
+        "name": "Cupid",
+        "artists": "\u85e4\u67d2\u5416",
+        "album": "Cupid",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736f301f0c5c53e7d3737fe94f",
+        "href": "https://api.spotify.com/v1/tracks/4UkYhqxgvVErMVQWO24yc6",
+        "added_at": "2025-02-14T19:40:27Z"
+    },
+    {
+        "name": "\u5375\u3068\u3058",
+        "artists": "Yoeko Kurahashi",
+        "album": "\u305f\u3060\u3044\u307e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a2f6328c6ad17f973a7e8f63",
+        "href": "https://api.spotify.com/v1/tracks/6GhxWdAXcGtlKDpBfoTvKt",
+        "added_at": "2025-02-08T12:53:54Z"
+    },
+    {
+        "name": "\u3042\u306a\u305f\u306b\u6700\u9ad8\u306e\u3057\u3042\u308f\u305b\u3092",
+        "artists": "Yukie Nishimura",
+        "album": "PIANO SWITCH",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ba942491fe3a8e59b94b4f10",
+        "href": "https://api.spotify.com/v1/tracks/1UxYLeGMkh3CZqyQqLMGtl",
+        "added_at": "2025-02-07T21:12:07Z"
+    },
+    {
+        "name": "SHOTGUN KILLER - Extended ver.",
+        "artists": "Love & Pride",
+        "album": "\u30d1\u30e9\u30d1\u30e9\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba pres. SUPER EUROBEAT\u301c2\u6b21\u7cfb\u5b9a\u756a!\u301c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27343db00c70dc5f18940037737",
+        "href": "https://api.spotify.com/v1/tracks/4wLkiY1m1eY6FWBOVRhrlF",
+        "added_at": "2025-01-26T17:45:26Z"
+    },
+    {
+        "name": "MICKEY MOUSE MARCH - EUROBEAT VERSION FULL VERSION",
+        "artists": "DOMINO",
+        "album": "DOMINO",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27384b4796e5eacfedf88d278d0",
+        "href": "https://api.spotify.com/v1/tracks/01bGBEBSfC0NcBnblNdR0o",
+        "added_at": "2025-01-26T00:06:01Z"
+    },
+    {
+        "name": "Night of Fire - Extended mix",
+        "artists": "Niko",
+        "album": "Bratt Sinclaire Eurobeat Style Vol.7",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c26069a52e4895aba07a927b",
+        "href": "https://api.spotify.com/v1/tracks/1c7IRPoWNIMLGrFgit8QXk",
+        "added_at": "2025-01-25T23:56:07Z"
+    },
+    {
+        "name": "\u30d3\u30fc\u30ca\u30b9\u30d0\u30b0",
+        "artists": "Hoshimachi Suisei",
+        "album": "\u65b0\u661f\u76ee\u9332",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738c55e4155ad68e18d3816198",
+        "href": "https://api.spotify.com/v1/tracks/3f8zEj3BQlGAVtJtErWLqF",
+        "added_at": "2025-01-23T18:01:22Z"
+    },
+    {
         "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
         "artists": "DECO*27",
         "album": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
@@ -2291,7 +2371,7 @@
         "name": "INTERNET YAMERO",
         "artists": "NEEDY GIRL OVERDOSE",
         "album": "INTERNET YAMERO",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273f102f122dd3e782952fb7470",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273303b75439516c43beca42581",
         "href": "https://api.spotify.com/v1/tracks/5WsjuvYrFRi9cqKBscT3oq",
         "added_at": "2024-03-25T18:30:14Z"
     },
@@ -6329,7 +6409,7 @@
     },
     {
         "name": "Answer",
-        "artists": "Lilas Ikuta",
+        "artists": "Lilas",
         "album": "Answer",
         "cover": "https://i.scdn.co/image/ab67616d0000b27348c5cfdc37632311b3093be5",
         "href": "https://api.spotify.com/v1/tracks/5hVAQTNarrb3lmWqg9Ens4",
@@ -6713,7 +6793,7 @@
     },
     {
         "name": "\u84b2\u516c\u82f1",
-        "artists": "Lilas Ikuta",
+        "artists": "Lilas",
         "album": "\u84b2\u516c\u82f1",
         "cover": "https://i.scdn.co/image/ab67616d0000b273f2bf2441257bc438766b92ce",
         "href": "https://api.spotify.com/v1/tracks/05qgaAIIEFSkrrvxqb5np2",
@@ -8289,7 +8369,7 @@
     },
     {
         "name": "JUMP",
-        "artists": "Lilas Ikuta",
+        "artists": "Lilas",
         "album": "JUMP",
         "cover": "https://i.scdn.co/image/ab67616d0000b2732f7bd2f1c276a88fb4489eda",
         "href": "https://api.spotify.com/v1/tracks/3FONlTFe8EZ3L8FaVFz1es",
@@ -10937,7 +11017,7 @@
     },
     {
         "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
-        "artists": "Lilas Ikuta",
+        "artists": "Lilas",
         "album": "\u30b9\u30d1\u30fc\u30af\u30eb",
         "cover": "https://i.scdn.co/image/ab67616d0000b273bad1903025f118cb2d6b6335",
         "href": "https://api.spotify.com/v1/tracks/6EuubEs5qOmJdpNhkU47OZ",
@@ -11595,7 +11675,7 @@
         "name": "INTERNET OVERDOSE",
         "artists": "NEEDY GIRL OVERDOSE",
         "album": "INTERNET OVERDOSE",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273bc192514b9c60de32aab6f0f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2737fa676ed153f00310234f7a1",
         "href": "https://api.spotify.com/v1/tracks/0KQt5nhZHJbarR7V4bsDZB",
         "added_at": "2022-09-16T19:01:45Z"
     },
@@ -14235,7 +14315,7 @@
         "name": "INTERNET OVERDOSE",
         "artists": "NEEDY GIRL OVERDOSE",
         "album": "INTERNET OVERDOSE",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273bc1052f3a11e1e4322d52ee7",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730bc11aadbe7d936349963256",
         "href": "https://api.spotify.com/v1/tracks/5oEoZdIrz0izZwqFCy6gDa",
         "added_at": "2022-03-05T23:36:55Z"
     },
@@ -20717,86 +20797,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/2aEGMXIxtZAJWpgsmK4bTy",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "lonely walk (feat. Hatsune Miku)",
-        "artists": "gogop",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4qUbdL9oki3OeUwMZ09iNu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "First love (feat. Kaai Yuki)",
-        "artists": "Fluoxetine",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0DGKE0nb28J8SD8834KRAe",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "seventeen (feat. Yuzuki Yukari)",
-        "artists": "muratamurao",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/28mfPUVhJqnzh9P5QskaLF",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Sky High (feat. Hatsune Miku)",
-        "artists": "Keyta",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/3NAKecKf3fgEUzh3f0mZsb",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Itazura Obake (feat. Hatsune Miku)",
-        "artists": "Style",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/5kRWMkTT3w38L3zpQHmkA5",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "kimi to koi to prade (feat. Hatsune Miku)",
-        "artists": "monoeye",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/04ORAJUgT4VO17zXgol5KQ",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Fictionia (feat. Hatsune Miku)",
-        "artists": "Taroon",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/1IYxHEPLjsL2gDHRSIM6Sm",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Rain (feat. Hatsune Miku)",
-        "artists": "mitejin",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4OkKw51NOVEEemkZPpWquZ",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Luminary (feat. Hatsune Miku)",
-        "artists": "Saiph",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "yurufuwa koi gokoro (feat. Hatsune Miku)",
-        "artists": "Atawame",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
