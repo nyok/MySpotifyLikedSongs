@@ -1,5 +1,29 @@
 [
     {
+        "name": "Follow Me",
+        "artists": "Junko Yagami",
+        "album": "FULL MOON",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738fe9d3cd9ca223eecdf6058e",
+        "href": "https://api.spotify.com/v1/tracks/7pvOyICy2T1tPHXP8mdksz",
+        "added_at": "2025-03-01T20:50:57Z"
+    },
+    {
+        "name": "STARDUST NIGHT",
+        "artists": "JADOES",
+        "album": "Free Drink",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2734275b688be3be2bca48c6bda",
+        "href": "https://api.spotify.com/v1/tracks/60rGtdBNwa0UFcVM8bBNPa",
+        "added_at": "2025-03-01T20:48:37Z"
+    },
+    {
+        "name": "\u30ab\u30b7\u30df\u30e4\u306e\u307b\u307b\u3048\u307f - 2012 Remaster",
+        "artists": "Junko Yagami",
+        "album": "\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3 (+3, 2012 Remaster)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a4cd2d9569da51ddd8a65c1c",
+        "href": "https://api.spotify.com/v1/tracks/7cVqlERpWjQte20rMYN9jz",
+        "added_at": "2025-03-01T16:54:55Z"
+    },
+    {
         "name": "\u5929\u4f7f\u306e\u6c17\u6301\u3061",
         "artists": "Cindy",
         "album": "Angel Touch",
