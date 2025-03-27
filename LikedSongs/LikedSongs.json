@@ -1,5 +1,77 @@
 [
     {
+        "name": "Summer Beach",
+        "artists": "Yukiko Okada",
+        "album": "\u8d08\u308a\u3082\u306eII",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b465886a07bd1ee367f62fc5",
+        "href": "https://api.spotify.com/v1/tracks/0enzxFpnh9t2ZB5hhB0yrW",
+        "added_at": "2025-03-27T12:39:27Z"
+    },
+    {
+        "name": "Actress in the Mirror (Kimagure Orange Road) - \u93e1\u306e\u4e2d\u306e\u30a2\u30af\u30c8\u30ec\u30b9 Re:Make",
+        "artists": "Peter Zimmermann",
+        "album": "Smooth Re:Makes",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735a2b54543eb14d5a1f4bca36",
+        "href": "https://api.spotify.com/v1/tracks/6kHa4viKOGIpH2ugbxvgxa",
+        "added_at": "2025-03-27T12:06:25Z"
+    },
+    {
+        "name": "\u60b2\u3057\u3044\u30cf\u30fc\u30c8\u306f\u71c3\u3048\u3066\u3044\u308b",
+        "artists": "Kanako Wada",
+        "album": "KANA",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738c4999a6de085d2bd04df1d9",
+        "href": "https://api.spotify.com/v1/tracks/6XZaDbkoFqxZzeqrHWp4do",
+        "added_at": "2025-03-22T18:31:29Z"
+    },
+    {
+        "name": "lunar, Pt. 2 - Slowed",
+        "artists": "Zachz Winner",
+        "album": "lunar, Pt. 2 (Slowed)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27359b9319e3325f11fe8c2b8c8",
+        "href": "https://api.spotify.com/v1/tracks/5WDpxZfEatudAwCw8caQVY",
+        "added_at": "2025-03-22T17:55:23Z"
+    },
+    {
+        "name": "\u30d2\u30ab\u30ea\u306e\u65b9\u3078",
+        "artists": "PSYQUI",
+        "album": "NANAIRO",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273527aa1e434467779f646bb74",
+        "href": "https://api.spotify.com/v1/tracks/1YSwCI6F2LfD1iCGA1OTId",
+        "added_at": "2025-03-22T15:02:03Z"
+    },
+    {
+        "name": "Achillea - \u30a2\u30ad\u30ec\u30a2",
+        "artists": "HoneyComeBear",
+        "album": "Achillea - \u30a2\u30ad\u30ec\u30a2",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730bd761f7302d04d3e4639f1b",
+        "href": "https://api.spotify.com/v1/tracks/0IprHWBqxvCFKZy0dgmijP",
+        "added_at": "2025-03-22T14:52:28Z"
+    },
+    {
+        "name": "\u8d85\u6642\u7a7aGROOVE (September Delta)",
+        "artists": "Mikazuki BIGWAVE",
+        "album": "\u8d85\u6642\u7a7aGROOVE (September Delta)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e1c0caf2f27916e20a617692",
+        "href": "https://api.spotify.com/v1/tracks/5c9i83zYlotAoGzHJrGoFk",
+        "added_at": "2025-03-20T22:26:53Z"
+    },
+    {
+        "name": "DA\uff65DA\uff65DA (2019 Remastered)",
+        "artists": "Maki Ohguro",
+        "album": "DA\u3000DA\u3000DA (2019 Remastered)",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27332959f19cfe0be8f9f6a41e0",
+        "href": "https://api.spotify.com/v1/tracks/7GIrY4rdmiVa9RqJqiDPfv",
+        "added_at": "2025-03-18T15:25:04Z"
+    },
+    {
+        "name": "Trust",
+        "artists": "Ayumi Hamasaki",
+        "album": "A BEST",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f",
+        "href": "https://api.spotify.com/v1/tracks/5qJMtXyoFA9Btsq77k12fS",
+        "added_at": "2025-03-18T15:23:12Z"
+    },
+    {
         "name": "Follow Me",
         "artists": "Junko Yagami",
         "album": "FULL MOON",
@@ -1003,7 +1075,7 @@
         "name": "NEW HORIZONS",
         "artists": "Tokyo Machine",
         "album": "NEW HORIZONS",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273192bcacd3679678b87c4c678",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a38c60125d25e7d2e0ea0911",
         "href": "https://api.spotify.com/v1/tracks/2Bm3qC84JBHWZLSSxMMHjH",
         "added_at": "2024-09-28T15:42:07Z"
     },
@@ -3755,7 +3827,7 @@
         "name": "\u7a7a\u306b\u6b4c\u3048\u3070",
         "artists": "amazarashi",
         "album": "\u5730\u65b9\u90fd\u5e02\u306e\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
-        "cover": "https://i.scdn.co/image/ab67616d0000b2731381b9cc26329fdad03b556b",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27382f4b2c53983f8c07a0df7de",
         "href": "https://api.spotify.com/v1/tracks/3XKMO7tvyyUmxRvlJGhYQm",
         "added_at": "2023-11-02T19:19:02Z"
     },
@@ -4073,7 +4145,7 @@
     },
     {
         "name": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u3058\u3083\u611b\u305b\u306a\u3044 (feat. \u3080\u30c8)",
-        "artists": "\u5410\u606f",
+        "artists": "Toiki.",
         "album": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u3058\u3083\u611b\u305b\u306a\u3044 (feat. \u3080\u30c8)",
         "cover": "https://i.scdn.co/image/ab67616d0000b273661c7a814c549707b1f94e9b",
         "href": "https://api.spotify.com/v1/tracks/4DtKkHBaUn0VXmMJn9DX9G",
@@ -6721,7 +6793,7 @@
     },
     {
         "name": "nyanpasu but not really",
-        "artists": "Heiakim",
+        "artists": "ancient heiakim",
         "album": "LOLI, Pt. 2",
         "cover": "https://i.scdn.co/image/ab67616d0000b273fbd2ad7385885adcff911ae0",
         "href": "https://api.spotify.com/v1/tracks/2IEHXCtbnnmuMnmVVHT879",
@@ -9192,7 +9264,7 @@
         "added_at": "2022-11-14T21:10:47Z"
     },
     {
-        "name": "Demons",
+        "name": "Demons (Sped Up Version)",
         "artists": "Fly By Nightcore",
         "album": "Goes Acoustic, Vol. 5",
         "cover": "https://i.scdn.co/image/ab67616d0000b273e6ee4d1e97cdb2c0a10afd9d",
@@ -13345,7 +13417,7 @@
     },
     {
         "name": "\u30ea\u30d9\u30eb\u30bf\u30f3\u30b4",
-        "artists": "Astor Piazzolla",
+        "artists": "Emiri Miyamoto",
         "album": "birth",
         "cover": "https://i.scdn.co/image/ab67616d0000b27386b706c21cb977546bff50b1",
         "href": "https://api.spotify.com/v1/tracks/0wHS4zlqPpE9b48I1JiqeS",
@@ -18010,7 +18082,7 @@
     {
         "name": "Fight!",
         "artists": "\u9ad9\u6a4b\u7531\u7f8e\u5b50",
-        "album": "\u9b54\u795e\u82f1\u96c4\u4f1d\u30ef\u30bf\u30eb2 Music Collection",
+        "album": "\u9b54\u795e\u82f1\u96c4\u4f1d\u30ef\u30bf\u30eb2 Music Collection (\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a0fd851a017213f37b1a42ac",
         "href": "https://api.spotify.com/v1/tracks/6BPMSV4HMjO6qxi0QU9KOV",
         "added_at": "2020-11-22T19:47:23Z"
