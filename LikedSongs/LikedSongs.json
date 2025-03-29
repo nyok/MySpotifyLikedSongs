@@ -1,5 +1,21 @@
 [
     {
+        "name": "\u6e26\u4e2d\u30ed\u30c3\u30af",
+        "artists": "Sundae May Club",
+        "album": "\u98a8\u304c\u306f\u3084\u3044",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2730f905a43160688e17ce9f813",
+        "href": "https://api.spotify.com/v1/tracks/1gc2ol4PmQW6AnV8YJeYLu",
+        "added_at": "2025-03-29T19:47:14Z"
+    },
+    {
+        "name": "\u30ab\u30c3\u30c1\u30f3\u30b3\u30fc\u30eb\u305f\u3044\u308a\u304f / Freeze Continent",
+        "artists": "Soichi Terada",
+        "album": "Ape Escape 3 - Originape Soundtracks / \u30b5\u30eb\u30b2\u30c3\u30c1\u30e53\u30fb\u30aa\u30ea\u30b8\u30b5\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fdedcd8a360ce0fd483c5ea6",
+        "href": "https://api.spotify.com/v1/tracks/0ujIsmyyJMZcq5AhMSZaCm",
+        "added_at": "2025-03-29T19:23:15Z"
+    },
+    {
         "name": "Summer Beach",
         "artists": "Yukiko Okada",
         "album": "\u8d08\u308a\u3082\u306eII",
@@ -2882,8 +2898,8 @@
     {
         "name": "\u52ff\u5fd8\u8349\u306e\u5f85\u3064\u4e18",
         "artists": "Asako Nasu",
-        "album": "forget me not (\u901a\u5e38\u76e4)",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273ed8df7a0abe2a2111d7d42d1",
+        "album": "forget me not\u3010\u901a\u5e38\u76e4\u3011",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f8261cef09114eeece1b6db4",
         "href": "https://api.spotify.com/v1/tracks/2ekC6jMQ4wrhdJQfB1trew",
         "added_at": "2024-01-27T16:27:04Z"
     },
@@ -3035,7 +3051,7 @@
         "name": "\u3059\u307f\u308c\u306b\u306a\u3063\u3066",
         "artists": "Asako Nasu",
         "album": "Neutral",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273ecfe7b38af328253c9b7c136",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27302c112e7615e23419158566f",
         "href": "https://api.spotify.com/v1/tracks/0CmZGevv7cuiEnxRfVbt2O",
         "added_at": "2024-01-19T07:57:46Z"
     },
@@ -7129,7 +7145,7 @@
     },
     {
         "name": "Anya",
-        "artists": "Heiakim",
+        "artists": "ancient heiakim",
         "album": "Anya",
         "cover": "https://i.scdn.co/image/ab67616d0000b2736c1f294d89eacf35891b00c8",
         "href": "https://api.spotify.com/v1/tracks/4pctu5fALRCCV8SUGUWkza",
@@ -13481,7 +13497,7 @@
     },
     {
         "name": "YAMERO!",
-        "artists": "Heiakim",
+        "artists": "ancient heiakim",
         "album": "YAMERO!",
         "cover": "https://i.scdn.co/image/ab67616d0000b273d993265716ed87cc4170561d",
         "href": "https://api.spotify.com/v1/tracks/4V1KMOjTOyK9ApKRQVPlny",
@@ -17817,7 +17833,7 @@
     },
     {
         "name": "\u4e16\u754c\u4e2d\u306e\u8ab0\u3088\u308a\u304d\u3063\u3068",
-        "artists": "\u4e2d\u5c71\u7f8e\u7a42 & WANDS",
+        "artists": "\u4e2d\u5c71\u7f8e\u7a42",
         "album": "\u4e16\u754c\u4e2d\u306e\u8ab0\u3088\u308a\u304d\u3063\u3068",
         "cover": "https://i.scdn.co/image/ab67616d0000b273a546885f7d6b03883dd5cf6f",
         "href": "https://api.spotify.com/v1/tracks/5DEb6u4nukTgZh4fF9JNNx",
