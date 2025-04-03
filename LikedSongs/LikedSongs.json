@@ -1,5 +1,37 @@
 [
     {
+        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b4\u30fc\u30b9\u30c8",
+        "artists": "WEDNESDAY CAMPANELLA",
+        "album": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b4\u30fc\u30b9\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f8b0617954d3de935d18cf24",
+        "href": "https://api.spotify.com/v1/tracks/13RKaJCGLEPNoAcWn4j42R",
+        "added_at": "2025-04-03T20:18:18Z"
+    },
+    {
+        "name": "\u590f\u306e\u9b54\u6cd5",
+        "artists": "HoneyComeBear",
+        "album": "HappyEND",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273d1ed37d8dbd343d2253dc659",
+        "href": "https://api.spotify.com/v1/tracks/4YKVCPelhhLbNd86q3Gv0W",
+        "added_at": "2025-04-03T10:21:16Z"
+    },
+    {
+        "name": "\u30af\u30ed\u30bd\u30a4\u30c9\u66f2\u7dda",
+        "artists": "Natsuko Nisshoku",
+        "album": "\u30df\u30e1\u30fc\u30b7\u30b9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27356cb7c90882ffca53abed56f",
+        "href": "https://api.spotify.com/v1/tracks/6nJioley7AD6Sx0fzK8wwO",
+        "added_at": "2025-03-31T12:29:00Z"
+    },
+    {
+        "name": "\u30c9\u30ea\u30fc",
+        "artists": "\u306a\u304d\u3054\u3068",
+        "album": "NAKIGOTO,",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738b14e3c0adad89982080a6b0",
+        "href": "https://api.spotify.com/v1/tracks/3YQN0go0hdRefbT2Lonk21",
+        "added_at": "2025-03-30T23:30:54Z"
+    },
+    {
         "name": "\u6e26\u4e2d\u30ed\u30c3\u30af",
         "artists": "Sundae May Club",
         "album": "\u98a8\u304c\u306f\u3084\u3044",
@@ -17443,7 +17475,7 @@
         "name": "Doki Doki Literature Club!",
         "artists": "Dan Salvato",
         "album": "Doki Doki Literature Club! (Original Soundtrack)",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273b476857d93b23b8bb259bfb7",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733eacb0b2a76b6473055dbb1c",
         "href": "https://api.spotify.com/v1/tracks/2OSFhiIBYXIBiVOyLnDQ2b",
         "added_at": "2021-01-17T00:04:48Z"
     },
@@ -17451,7 +17483,7 @@
         "name": "Poems Are Forever",
         "artists": "Dan Salvato",
         "album": "Doki Doki Literature Club! (Original Soundtrack)",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273b476857d93b23b8bb259bfb7",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733eacb0b2a76b6473055dbb1c",
         "href": "https://api.spotify.com/v1/tracks/4Tq0qbBsCFGSKmIC3MEO8e",
         "added_at": "2021-01-17T00:04:42Z"
     },
