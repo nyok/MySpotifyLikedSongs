@@ -1,4 +1,9 @@
 name	artists	album	cover	href	added_at
+バルンの不思議な旅	Yoeko Kurahashi	解体ピアノ	https://i.scdn.co/image/ab67616d0000b273101082d6318363adbc051e85	https://api.spotify.com/v1/tracks/1TPeuWgyf97RNaEBuLmwSz	2025-04-06T17:01:18Z
+starlights (feat. TEA)	kamome sano	Goodbye, Friend	https://i.scdn.co/image/ab67616d0000b273ecc3ef78ed39465ae4cc1d48	https://api.spotify.com/v1/tracks/2jUdY0h50VvF58hRnJHEx7	2025-04-06T11:19:10Z
+IN YOUR EYES 「瞳の中で」	k?d	CAGE SCRIPT	https://i.scdn.co/image/ab67616d0000b2733f53264e1a75cd1a2a060a53	https://api.spotify.com/v1/tracks/1VviocEvd6zv4xudscXgcj	2025-04-06T10:57:34Z
+Catch a Fire	電音部	Catch a Fire	https://i.scdn.co/image/ab67616d0000b27305fe3c5c2c3dbf5c7980d477	https://api.spotify.com/v1/tracks/2Pc4HeuvdLSI2pNXDEkojR	2025-04-06T10:52:18Z
+レモネード	Antenna Girl	LEMONADE MOON	https://i.scdn.co/image/ab67616d0000b273ea86a7ee9a2a289602df149e	https://api.spotify.com/v1/tracks/3OxPWy7CV9Tc9lFRPY3Z2d	2025-04-04T18:10:40Z
 サマータイムゴースト	WEDNESDAY CAMPANELLA	サマータイムゴースト	https://i.scdn.co/image/ab67616d0000b273f8b0617954d3de935d18cf24	https://api.spotify.com/v1/tracks/13RKaJCGLEPNoAcWn4j42R	2025-04-03T20:18:18Z
 夏の魔法	HoneyComeBear	HappyEND	https://i.scdn.co/image/ab67616d0000b273d1ed37d8dbd343d2253dc659	https://api.spotify.com/v1/tracks/4YKVCPelhhLbNd86q3Gv0W	2025-04-03T10:21:16Z
 クロソイド曲線	Natsuko Nisshoku	ミメーシス	https://i.scdn.co/image/ab67616d0000b27356cb7c90882ffca53abed56f	https://api.spotify.com/v1/tracks/6nJioley7AD6Sx0fzK8wwO	2025-03-31T12:29:00Z
@@ -32,7 +37,7 @@ Cupid	藤柒吖	Cupid	https://i.scdn.co/image/ab67616d0000b2736f301f0c5c53e7d373
 あなたに最高のしあわせを	Yukie Nishimura	PIANO SWITCH	https://i.scdn.co/image/ab67616d0000b273ba942491fe3a8e59b94b4f10	https://api.spotify.com/v1/tracks/1UxYLeGMkh3CZqyQqLMGtl	2025-02-07T21:12:07Z
 SHOTGUN KILLER - Extended ver.	Love & Pride	パラパラオールスターズ pres. SUPER EUROBEAT〜2次系定番!〜	https://i.scdn.co/image/ab67616d0000b27343db00c70dc5f18940037737	https://api.spotify.com/v1/tracks/4wLkiY1m1eY6FWBOVRhrlF	2025-01-26T17:45:26Z
 MICKEY MOUSE MARCH - EUROBEAT VERSION FULL VERSION	DOMINO	DOMINO	https://i.scdn.co/image/ab67616d0000b27384b4796e5eacfedf88d278d0	https://api.spotify.com/v1/tracks/01bGBEBSfC0NcBnblNdR0o	2025-01-26T00:06:01Z
-Night of Fire - Extended mix	Niko	Bratt Sinclaire Eurobeat Style Vol.7	https://i.scdn.co/image/ab67616d0000b273c26069a52e4895aba07a927b	https://api.spotify.com/v1/tracks/1c7IRPoWNIMLGrFgit8QXk	2025-01-25T23:56:07Z
+Night of Fire - Extended mix	Niko	Bratt Sinclaire Eurobeat Style, Vol.7	https://i.scdn.co/image/ab67616d0000b273c26069a52e4895aba07a927b	https://api.spotify.com/v1/tracks/1c7IRPoWNIMLGrFgit8QXk	2025-01-25T23:56:07Z
 ビーナスバグ	Hoshimachi Suisei	新星目録	https://i.scdn.co/image/ab67616d0000b2738c55e4155ad68e18d3816198	https://api.spotify.com/v1/tracks/3f8zEj3BQlGAVtJtErWLqF	2025-01-23T18:01:22Z
 モニタリング	DECO*27	モニタリング	https://i.scdn.co/image/ab67616d0000b27362e7d812d35e39d6c96841a8	https://api.spotify.com/v1/tracks/1iywVk6Xx1XmJwd0rExYI3	2025-01-19T17:29:26Z
 きみはシュノーケル	mekakushe	きみはシュノーケル	https://i.scdn.co/image/ab67616d0000b273fe16bc660e0be4a459476985	https://api.spotify.com/v1/tracks/767qdcP2Ns5idlCuNPI857	2025-01-19T17:26:21Z
@@ -2644,7 +2649,3 @@ DANCALOID (feat. Hatsune Miku)	Kii	Vocaloid Parade feat. Hatsune Miku	https://i.
 Can We Go Back (feat. Hatsune Miku)	Arthur Shastra	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh	2015-07-12T19:49:13Z
 Splendid Fantazia (feat. Hatsune Miku)	Rinne Apple P	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt	2015-07-12T19:49:13Z
 JAXA (feat. Hatsune Miku)	Giganta	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK	2015-07-12T19:49:13Z
-Alma Song (feat. Hatsune Miku)	PWRFL Power	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/7KFBlb7nKH7dieXzKyrZIu	2015-07-12T19:49:13Z
-Sign (feat. Hatsune Miku)	Fasorashi-Do	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG	2015-07-12T19:49:13Z
-Getting Depressed and Depressed (feat. Hatsune Miku)	Orange P	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/0lZB3rHRY5e9pewayYNwg7	2015-07-12T19:49:13Z
-Kaero Kaero (feat. Hatsune Miku)	Penoreri	Vocaloid Parade feat. Hatsune Miku	https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48	https://api.spotify.com/v1/tracks/4n3xD1VfJRQS6k2p5qDBTt	2015-07-12T19:49:13Z
