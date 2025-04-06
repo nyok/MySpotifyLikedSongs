@@ -1,5 +1,45 @@
 [
     {
+        "name": "\u30d0\u30eb\u30f3\u306e\u4e0d\u601d\u8b70\u306a\u65c5",
+        "artists": "Yoeko Kurahashi",
+        "album": "\u89e3\u4f53\u30d4\u30a2\u30ce",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273101082d6318363adbc051e85",
+        "href": "https://api.spotify.com/v1/tracks/1TPeuWgyf97RNaEBuLmwSz",
+        "added_at": "2025-04-06T17:01:18Z"
+    },
+    {
+        "name": "starlights (feat. TEA)",
+        "artists": "kamome sano",
+        "album": "Goodbye, Friend",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ecc3ef78ed39465ae4cc1d48",
+        "href": "https://api.spotify.com/v1/tracks/2jUdY0h50VvF58hRnJHEx7",
+        "added_at": "2025-04-06T11:19:10Z"
+    },
+    {
+        "name": "IN YOUR EYES \u300c\u77b3\u306e\u4e2d\u3067\u300d",
+        "artists": "k?d",
+        "album": "CAGE SCRIPT",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2733f53264e1a75cd1a2a060a53",
+        "href": "https://api.spotify.com/v1/tracks/1VviocEvd6zv4xudscXgcj",
+        "added_at": "2025-04-06T10:57:34Z"
+    },
+    {
+        "name": "Catch a Fire",
+        "artists": "\u96fb\u97f3\u90e8",
+        "album": "Catch a Fire",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27305fe3c5c2c3dbf5c7980d477",
+        "href": "https://api.spotify.com/v1/tracks/2Pc4HeuvdLSI2pNXDEkojR",
+        "added_at": "2025-04-06T10:52:18Z"
+    },
+    {
+        "name": "\u30ec\u30e2\u30cd\u30fc\u30c9",
+        "artists": "Antenna Girl",
+        "album": "LEMONADE MOON",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ea86a7ee9a2a289602df149e",
+        "href": "https://api.spotify.com/v1/tracks/3OxPWy7CV9Tc9lFRPY3Z2d",
+        "added_at": "2025-04-04T18:10:40Z"
+    },
+    {
         "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b4\u30fc\u30b9\u30c8",
         "artists": "WEDNESDAY CAMPANELLA",
         "album": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b4\u30fc\u30b9\u30c8",
@@ -266,7 +306,7 @@
     {
         "name": "Night of Fire - Extended mix",
         "artists": "Niko",
-        "album": "Bratt Sinclaire Eurobeat Style Vol.7",
+        "album": "Bratt Sinclaire Eurobeat Style, Vol.7",
         "cover": "https://i.scdn.co/image/ab67616d0000b273c26069a52e4895aba07a927b",
         "href": "https://api.spotify.com/v1/tracks/1c7IRPoWNIMLGrFgit8QXk",
         "added_at": "2025-01-25T23:56:07Z"
@@ -21157,38 +21197,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Alma Song (feat. Hatsune Miku)",
-        "artists": "PWRFL Power",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/7KFBlb7nKH7dieXzKyrZIu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Sign (feat. Hatsune Miku)",
-        "artists": "Fasorashi-Do",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/6Ax14PgPwAHoRMTc4BmaRG",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Getting Depressed and Depressed (feat. Hatsune Miku)",
-        "artists": "Orange P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0lZB3rHRY5e9pewayYNwg7",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Kaero Kaero (feat. Hatsune Miku)",
-        "artists": "Penoreri",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4n3xD1VfJRQS6k2p5qDBTt",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
