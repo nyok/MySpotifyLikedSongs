@@ -1,5 +1,53 @@
 [
     {
+        "name": "\u98a8\u3001\u82b1\u3001\u30ce\u30a4\u30ba\u3001\u8857",
+        "artists": "Natsuko Nisshoku",
+        "album": "\u98a8\u3001\u82b1\u3001\u30ce\u30a4\u30ba\u3001\u8857",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739e7a64cf8cd3de10b13e0d4e",
+        "href": "https://api.spotify.com/v1/tracks/1qMV65mG6MOOnE8iyxxdTf",
+        "added_at": "2025-04-16T18:00:31Z"
+    },
+    {
+        "name": "\u30ea\u30d9\u30ea\u30aa\u30f3",
+        "artists": "\u30af\u30ec\u30ca\u30ba\u30e0",
+        "album": "\u30ea\u30d9\u30ea\u30aa\u30f3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273863d961d7a3446c42d30d147",
+        "href": "https://api.spotify.com/v1/tracks/67fZ9ZOO5gLFCJjLwocwgx",
+        "added_at": "2025-04-16T17:55:28Z"
+    },
+    {
+        "name": "\u3042\u306e\u30e2\u30fc\u30cb\u30f3\u30b0\u30bb\u30c3\u30c8",
+        "artists": "\u30af\u30ec\u30ca\u30ba\u30e0",
+        "album": "\u3042\u306e\u30e2\u30fc\u30cb\u30f3\u30b0\u30bb\u30c3\u30c8",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273a662fe492a5ee2322b178895",
+        "href": "https://api.spotify.com/v1/tracks/7gNMt6Bn24dzqZy7z5McBO",
+        "added_at": "2025-04-16T16:12:52Z"
+    },
+    {
+        "name": "SHINY DAYS",
+        "artists": "\u4e9c\u54b2\u82b1",
+        "album": "HEART TOUCH",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735e0efe4aa01b6566b494bc63",
+        "href": "https://api.spotify.com/v1/tracks/3exMduVgbfvLO7FiKgO3tk",
+        "added_at": "2025-04-09T19:36:36Z"
+    },
+    {
+        "name": "\u3053\u3068\u307b\u304e",
+        "artists": "Tele",
+        "album": "\u3053\u3068\u307b\u304e",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2731f278f0a5c6639c3c14ace78",
+        "href": "https://api.spotify.com/v1/tracks/5bNzSOlYpTNdTm5aZMgi8F",
+        "added_at": "2025-04-09T09:39:48Z"
+    },
+    {
+        "name": "HELP!!",
+        "artists": "Kobo Kanaeru",
+        "album": "HELP!!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e0c4007daaad3c26ce9090e9",
+        "href": "https://api.spotify.com/v1/tracks/2sb0MPuym9pDaru5M2DHsU",
+        "added_at": "2025-04-08T08:24:36Z"
+    },
+    {
         "name": "\u30d0\u30eb\u30f3\u306e\u4e0d\u601d\u8b70\u306a\u65c5",
         "artists": "Yoeko Kurahashi",
         "album": "\u89e3\u4f53\u30d4\u30a2\u30ce",
@@ -512,10 +560,10 @@
         "added_at": "2024-12-17T15:33:29Z"
     },
     {
-        "name": "\u6669\u9910\u6b4c",
+        "name": "\u6669\u9910\u6b4c - Bansanka",
         "artists": "tuki.",
-        "album": "\u6669\u9910\u6b4c",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27355e029fef14405c5d536453b",
+        "album": "\u6669\u9910\u6b4c - Bansanka",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27374d5b01f669c87d4e7c895a8",
         "href": "https://api.spotify.com/v1/tracks/2cxcqKwQtfKq7giphxjzOu",
         "added_at": "2024-12-14T19:05:38Z"
     },
@@ -536,10 +584,10 @@
         "added_at": "2024-11-28T15:31:12Z"
     },
     {
-        "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
+        "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
         "artists": "tuki.",
-        "album": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273d66edf444d11e9a7f900be44",
+        "album": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bb4f7c3d1daff70f965aacd3",
         "href": "https://api.spotify.com/v1/tracks/5d0dz0ekefZ243cWDGiDJ1",
         "added_at": "2024-11-22T19:47:51Z"
     },
@@ -1328,7 +1376,7 @@
         "added_at": "2024-09-19T22:47:16Z"
     },
     {
-        "name": "\u5473\u564c\u6c41\u3068\u30d0\u30bf\u30fc",
+        "name": "\u5473\u564c\u6c41\u3068\u30d0\u30bf\u30fc - Miso Soup and Butter",
         "artists": "\u6c50\u308c\u3044\u3089",
         "album": "\u5473\u564c\u6c41\u3068\u30d0\u30bf\u30fc",
         "cover": "https://i.scdn.co/image/ab67616d0000b2738050be5456a7d31130a44544",
@@ -2112,10 +2160,10 @@
         "added_at": "2024-06-21T17:00:22Z"
     },
     {
-        "name": "\u4e00\u8f2a\u82b1",
+        "name": "\u4e00\u8f2a\u82b1 - Ichirinka",
         "artists": "tuki.",
-        "album": "\u4e00\u8f2a\u82b1",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27315a190c76bb06782d4a03d4b",
+        "album": "\u4e00\u8f2a\u82b1 - Ichirinka",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f1fffbc8b106a17f1d44578a",
         "href": "https://api.spotify.com/v1/tracks/456rgV2smcOpAhhSlQVPK8",
         "added_at": "2024-06-21T12:11:43Z"
     },
@@ -2929,7 +2977,7 @@
     },
     {
         "name": "\u55ab\u8336\u5e97\u306e\u7a93\u304b\u3089",
-        "artists": "\u5929\u56fd\u59d1\u5a18",
+        "artists": "Wepeg",
         "album": "\u55ab\u8336\u5e97\u306e\u7a93\u304b\u3089",
         "cover": "https://i.scdn.co/image/ab67616d0000b273995c3c934fb18c89dd2a51eb",
         "href": "https://api.spotify.com/v1/tracks/2rCcDeN2X8NSfHidNVPsZ0",
@@ -21149,54 +21197,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "LOVELOVEMIKU (feat. Hatsune Miku)",
-        "artists": "katatumuriP",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/5yJrP1frURYhTVgOyQ6FoR",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Habitat (feat. Hatsune Miku)",
-        "artists": "Strausz",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/7v6rNgbLVQgrDGbaoGtJti",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "DANCALOID (feat. Hatsune Miku)",
-        "artists": "Kii",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/3LhDqrgt2sRIThVfBSL08f",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Can We Go Back (feat. Hatsune Miku)",
-        "artists": "Arthur Shastra",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/07gSqdo71hbyy3dj9saoOh",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Splendid Fantazia (feat. Hatsune Miku)",
-        "artists": "Rinne Apple P",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/2qMR1BoY9UoN9gy1q7dmzt",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "JAXA (feat. Hatsune Miku)",
-        "artists": "Giganta",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/6tJi9NoGcCYlyTw4MPGSbK",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
