@@ -1,5 +1,45 @@
 [
     {
+        "name": "\u308d\u3093\u308a\u306d\u3059",
+        "artists": "ZUTOMAYO",
+        "album": "\u3050\u3055\u308c",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27345e670c7e25b4d0c1891d283",
+        "href": "https://api.spotify.com/v1/tracks/76zBWDh2YUmGantphDwqUs",
+        "added_at": "2025-04-19T06:48:01Z"
+    },
+    {
+        "name": "\u5618\u6191\u304d\u3068\u30b5\u30eb\u30f4\u30a1\u30c9\u30fc\u30eb",
+        "artists": "Yasuha Kominami",
+        "album": "\u5618\u6191\u30ad\u30ba\u30e0",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739d9c4f299d8e691c3d0e9ae6",
+        "href": "https://api.spotify.com/v1/tracks/3oXhATWlwaBcQOvVnyUtjG",
+        "added_at": "2025-04-19T06:40:19Z"
+    },
+    {
+        "name": "\u7b11",
+        "artists": "Miwa Sasagawa",
+        "album": "\u4e8b\u5b9f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27372b54cdda2877c65386eed79",
+        "href": "https://api.spotify.com/v1/tracks/112CZjUizmQ0ftv2bSDEnd",
+        "added_at": "2025-04-19T06:32:30Z"
+    },
+    {
+        "name": "Country Color - New Yoeko ver.",
+        "artists": "\u30e8\u30a8\u30b3",
+        "album": "Country Color\uff0fDoremi Song",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738a321977e2f89170bc316c5d",
+        "href": "https://api.spotify.com/v1/tracks/7lUWbixGkvcCXdSvaSptmU",
+        "added_at": "2025-04-19T06:30:22Z"
+    },
+    {
+        "name": "\u81f4\u6b7b\u91cf\u306e\u81ea\u7531",
+        "artists": "Natsuko Nisshoku",
+        "album": "\u6c38\u4e45\u51cd\u571f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732444be8de6f420a164f96050",
+        "href": "https://api.spotify.com/v1/tracks/6TJof4GtLNygibndKrGDFr",
+        "added_at": "2025-04-19T06:25:19Z"
+    },
+    {
         "name": "\u98a8\u3001\u82b1\u3001\u30ce\u30a4\u30ba\u3001\u8857",
         "artists": "Natsuko Nisshoku",
         "album": "\u98a8\u3001\u82b1\u3001\u30ce\u30a4\u30ba\u3001\u8857",
@@ -2393,7 +2433,7 @@
     },
     {
         "name": "\u3069\u3046\u306b\u3082\u3068\u307e\u3089\u306a\u30442024",
-        "artists": "Linda Yamamoto",
+        "artists": "\u5c71\u672c\u30ea\u30f3\u30c0",
         "album": "\u3069\u3046\u306b\u3082\u3068\u307e\u3089\u306a\u30442024",
         "cover": "https://i.scdn.co/image/ab67616d0000b2737f38ef4c7032c2618563d6ea",
         "href": "https://api.spotify.com/v1/tracks/35TSBVQy6b6mZqwcrDBwCr",
@@ -10744,7 +10784,7 @@
         "added_at": "2022-10-30T21:46:02Z"
     },
     {
-        "name": "\u541b\u305f\u3061\u30ad\u30a6\u30a4\u30fb\u30d1\u30d1\u30a4\u30a2\u30fb\u30de\u30f3\u30b4\u30fc\u3060\u306d\u3002",
+        "name": "Kimitachi Kiwi, Papaya, Mango dane.",
         "artists": "\u964d\u5e61 \u611b",
         "album": "Memories of Romance in Summer",
         "cover": "https://i.scdn.co/image/ab67616d0000b2736b5328d205b0028b87cdf153",
@@ -21157,46 +21197,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "yurufuwa koi gokoro (feat. Hatsune Miku)",
-        "artists": "Atawame",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0J7xGV2sKhoU90fjzpdzEk",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Rinne (feat. Hatsune Miku)",
-        "artists": "Deme",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4L9t6Of9x7O5OFeNWi2elG",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "PEACE (feat. Hatsune Miku)",
-        "artists": "Kali C.",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0Muk1nRYniBsp4iBBIgY22",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Utsusemi Disco (feat. GUMI)",
-        "artists": "killchord",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4P90ovAw2MZjR59Q0umqvu",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Carnival (feat. Yuzuki Yukari)",
-        "artists": "Bokunenbito",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/4GJimQtdTRbP3f1VXYgXJv",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
