@@ -1,5 +1,13 @@
 [
     {
+        "name": "\u30af\u30b9\u30b7\u30ad",
+        "artists": "Mrs. GREEN APPLE",
+        "album": "\u30af\u30b9\u30b7\u30ad",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f2786222a446af5ef3298f4a",
+        "href": "https://api.spotify.com/v1/tracks/3huSUfmhUr4entz2S0G31O",
+        "added_at": "2025-04-25T19:21:34Z"
+    },
+    {
         "name": "\u308d\u3093\u308a\u306d\u3059",
         "artists": "ZUTOMAYO",
         "album": "\u3050\u3055\u308c",
@@ -4769,7 +4777,7 @@
     },
     {
         "name": "\u5929\u4f7f\u3068\u30b9\u30fc\u30d1\u30fc\u30ab\u30fc",
-        "artists": "Kaneko Ayano",
+        "artists": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
         "album": "\u3072\u304b\u308c\u3042\u3044",
         "cover": "https://i.scdn.co/image/ab67616d0000b27310d52b33d525f64e1487e707",
         "href": "https://api.spotify.com/v1/tracks/2qGD7vdLpM6gTgvudtSZSK",
@@ -6313,7 +6321,7 @@
     },
     {
         "name": "\u304b\u307f\u3064\u304d\u305f\u3044",
-        "artists": "Kaneko Ayano",
+        "artists": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
         "album": "\u71e6\u3005",
         "cover": "https://i.scdn.co/image/ab67616d0000b27358d1de24fa8a2b26a4065303",
         "href": "https://api.spotify.com/v1/tracks/3t9K6UszXCVG1kRgO80iQM",
@@ -7369,7 +7377,7 @@
     },
     {
         "name": "\u3053\u3093\u306a\u65e5\u306b\u9650\u3063\u3066",
-        "artists": "Kaneko Ayano",
+        "artists": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
         "album": "\u30bf\u30aa\u30eb\u30b1\u30c3\u30c8\u306f\u7a4f\u3084\u304b\u306a",
         "cover": "https://i.scdn.co/image/ab67616d0000b27300c394ec1736952e4c666b20",
         "href": "https://api.spotify.com/v1/tracks/4661kRGB7zEKxbqj7e15c3",
@@ -9835,7 +9843,7 @@
         "name": "happiness!!!",
         "artists": "Kaela Kimura",
         "album": "KAELA",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27394da909415605d5bd9ee09e9",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27375b977bfe088e080fa2b575e",
         "href": "https://api.spotify.com/v1/tracks/1EZPif2hk0WaTImTr5prSo",
         "added_at": "2022-11-05T23:42:47Z"
     },
@@ -15401,7 +15409,7 @@
     },
     {
         "name": "\u6625\u306e\u591c\u3078",
-        "artists": "Kaneko Ayano",
+        "artists": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
         "album": "\u3088\u3059\u304c",
         "cover": "https://i.scdn.co/image/ab67616d0000b2730c85371ef58997b9970bbcfc",
         "href": "https://api.spotify.com/v1/tracks/7B198JUpt84xEHo20VPI3M",
@@ -16889,7 +16897,7 @@
     },
     {
         "name": "\u3055\u3088\u30fc\u306a\u3089\u3042\u306a\u305f",
-        "artists": "Kaneko Ayano",
+        "artists": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
         "album": "\u3055\u3088\u30fc\u306a\u3089\u3042\u306a\u305f (Second Edition)",
         "cover": "https://i.scdn.co/image/ab67616d0000b27348f0df26f65ec69c4c6461e0",
         "href": "https://api.spotify.com/v1/tracks/432dD00LiUqtkwxxU1a8GE",
@@ -18185,7 +18193,7 @@
     },
     {
         "name": "\u611b\u306e\u307e\u307e\u3092",
-        "artists": "Kaneko Ayano",
+        "artists": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
         "album": "\u71e6\u3005",
         "cover": "https://i.scdn.co/image/ab67616d0000b27358d1de24fa8a2b26a4065303",
         "href": "https://api.spotify.com/v1/tracks/3g1lkUg0wDCV4OEHMRKO3d",
@@ -18547,7 +18555,7 @@
         "name": "Butterfly",
         "artists": "Kaela Kimura",
         "album": "HOCUS POCUS",
-        "cover": "https://i.scdn.co/image/ab67616d0000b273bf841298e49f88a3436374cc",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273f7ff6bceaf51da89a6966287",
         "href": "https://api.spotify.com/v1/tracks/4BNo7jHTdqU7bl6wocxdsD",
         "added_at": "2020-11-14T01:09:57Z"
     },
@@ -20089,7 +20097,7 @@
     },
     {
         "name": "Home Alone",
-        "artists": "Kaneko Ayano",
+        "artists": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
         "album": "\u795d\u796d",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733664c9f4d2278af25c5a4796",
         "href": "https://api.spotify.com/v1/tracks/5wZ2hKesdWHSkP52c4pKVu",
@@ -20097,7 +20105,7 @@
     },
     {
         "name": "\u795d\u65e5",
-        "artists": "Kaneko Ayano",
+        "artists": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
         "album": "\u795d\u796d",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733664c9f4d2278af25c5a4796",
         "href": "https://api.spotify.com/v1/tracks/12GGxP9lcUseII0JJEQ4YZ",
@@ -20105,7 +20113,7 @@
     },
     {
         "name": "\u604b\u3057\u3044\u65e5\u3005",
-        "artists": "Kaneko Ayano",
+        "artists": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
         "album": "\u795d\u796d",
         "cover": "https://i.scdn.co/image/ab67616d0000b2733664c9f4d2278af25c5a4796",
         "href": "https://api.spotify.com/v1/tracks/592H7XLKNdYxyakla30ejk",
@@ -21189,14 +21197,6 @@
         "album": "Vocaloid Parade feat. Hatsune Miku",
         "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
         "href": "https://api.spotify.com/v1/tracks/4OkKw51NOVEEemkZPpWquZ",
-        "added_at": "2015-07-12T19:49:13Z"
-    },
-    {
-        "name": "Luminary (feat. Hatsune Miku)",
-        "artists": "Saiph",
-        "album": "Vocaloid Parade feat. Hatsune Miku",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27382af5821e60256759b656b48",
-        "href": "https://api.spotify.com/v1/tracks/0i4OgioUMcHQosJmF474vi",
         "added_at": "2015-07-12T19:49:13Z"
     }
 ]
