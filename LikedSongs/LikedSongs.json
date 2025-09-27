@@ -1,5 +1,21 @@
 [
     {
+        "name": "\u4e0e\u3048\u3066\u3070\u304b\u308a\u306e\u50d5\u306b",
+        "artists": "kiss the gambler",
+        "album": "Relax!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e73ec2d60fad9fa61f0df1b9",
+        "href": "https://api.spotify.com/v1/tracks/6vTFOslACY7BvD8oTONFGz",
+        "added_at": "2025-09-25T21:45:52Z"
+    },
+    {
+        "name": "\u51fa\u9022\u3044\u306e\u7d9a\u304d",
+        "artists": "Mayu Watanabe",
+        "album": "Best Regards!",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b5ccd9f71a2b498f672e8919",
+        "href": "https://api.spotify.com/v1/tracks/67BeMHYIZYQEnCxnRk9t5z",
+        "added_at": "2025-09-23T14:35:29Z"
+    },
+    {
         "name": "\u8d0b\u7269\u5929\u56fd",
         "artists": "AMAZONS",
         "album": "\u8d0b\u7269\u5929\u56fd",
@@ -65,7 +81,7 @@
     },
     {
         "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
-        "artists": "\u51a8\u5ca1\u611b",
+        "artists": "\u51a8\u5ca1 \u611b",
         "album": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
         "cover": "https://i.scdn.co/image/ab67616d0000b273e1d4dd48b1e0908681d59c49",
         "href": "https://api.spotify.com/v1/tracks/6CzuquhI7EV1ft0gHmJhRg",
@@ -2729,7 +2745,7 @@
     },
     {
         "name": "\u30b8\u30a7\u30e9\u30b7\u30fc",
-        "artists": "\u51a8\u5ca1\u611b",
+        "artists": "\u51a8\u5ca1 \u611b",
         "album": "\u30b8\u30a7\u30e9\u30b7\u30fc",
         "cover": "https://i.scdn.co/image/ab67616d0000b2739d8dae6d5ae3dd6089727289",
         "href": "https://api.spotify.com/v1/tracks/1D8CQdoa0S86dLwbSXkHq9",
@@ -4097,7 +4113,7 @@
     },
     {
         "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-        "artists": "\u51a8\u5ca1\u611b",
+        "artists": "\u51a8\u5ca1 \u611b",
         "album": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
         "cover": "https://i.scdn.co/image/ab67616d0000b2735d0e82b651247041de56717d",
         "href": "https://api.spotify.com/v1/tracks/6dujTu2FauOpI1bsHD093L",
@@ -4105,7 +4121,7 @@
     },
     {
         "name": "\u611b need your love",
-        "artists": "\u51a8\u5ca1\u611b",
+        "artists": "\u51a8\u5ca1 \u611b",
         "album": "\u611b need your love",
         "cover": "https://i.scdn.co/image/ab67616d0000b273547785d34d9945f6e58212d2",
         "href": "https://api.spotify.com/v1/tracks/7BBaJjWYEfEGFuUyM9zCyB",
@@ -8299,7 +8315,7 @@
         "name": "Choices",
         "artists": "LE SSERAFIM",
         "album": "Choices",
-        "cover": "https://i.scdn.co/image/ab67616d0000b27314aeb8283b47774aea402151",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27337386b35e5b59d47644bd692",
         "href": "https://api.spotify.com/v1/tracks/0THn1agoZT9wJXkITUz6dJ",
         "added_at": "2023-01-20T15:38:16Z"
     },
